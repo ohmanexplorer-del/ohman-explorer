@@ -2,35 +2,34 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 19:20:03 UTC
+Last updated: 2026-06-13 19:21:33 UTC
 
 ## Latest Findings
 
-### 1. spacedock-dev/spacedock
+### 1. Dash-Industry-Forum/livesim2
 
-- Link: https://github.com/spacedock-dev/spacedock
-- Title: spacedock-dev/spacedock
-- Description: Zero-dep agent workflows with structured approval gates and adversarial review.
-- Category: ai-workflow
-- Type: framework
+- Link: https://github.com/Dash-Industry-Forum/livesim2
+- Title: Dash-Industry-Forum/livesim2
+- Description: DASH Live Source Simulator v2 in Go
+- Category: video-streaming
+- Type: tool
 - Language: Go
 - Score: 8.0/10
-- Novelty: 7.0/10
-- Maturity: 6.0/10
-- Small repo potential: 9.0/10
-- Stars: 46
-- Reason: Well-structured codebase with focused functionality
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 58
+- Reason: Specialized DASH live source simulator
 - Strengths:
-  - Zero dependencies
-  - Structured approval gates
-  - Adversarial review
+  - Focused on a specific industry standard
+  - Written in a modern language (Go)
 - Weaknesses:
-  - Limited documentation
-  - Small community
+  - Niche use case
+  - Limited community engagement (58 stars)
 
 ## Categories
 
-- [ai-workflow](categories/ai-workflow.md)
+- [video-streaming](categories/video-streaming.md)
 
 ## Data
 
