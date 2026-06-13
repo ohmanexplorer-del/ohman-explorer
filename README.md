@@ -2,208 +2,210 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 20:00:26 UTC
+Last updated: 2026-06-13 20:43:06 UTC
 
 ## Latest Findings
 
-### 1. mondoohq/mql
+### 1. tarmac-project/tarmac
 
-- Link: https://github.com/mondoohq/mql
-- Title: mondoohq/mql
-- Description: open source, cloud-native, graph-based query language
-- Category: cloud-query-language
+- Link: https://github.com/tarmac-project/tarmac
+- Title: tarmac-project/tarmac
+- Description: Write as Functions, Deploy as a Monolith or Microservice with WebAssembly
+- Category: serverless-framework
 - Type: framework
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
-- Small repo potential: 4.0/10
-- Stars: 402
-- Reason: Well-structured cloud-native graph query language
+- Small repo potential: 8.0/10
+- Stars: 343
+- Reason: Unique approach to deploying functions as monoliths or microservices with WebAssembly
 - Strengths:
-  - Cloud-agnostic support
-  - Graph-based query capabilities
-  - Security-as-code features
+  - Innovative use of WebAssembly
+  - Flexible deployment options
+  - Written in Go for performance
 - Weaknesses:
   - Limited documentation
-  - Relatively small community
+  - Still evolving with potential breaking changes
 
-### 2. Asymptote-Labs/agent-beacon
+### 2. andyrewlee/amux
 
-- Link: https://github.com/Asymptote-Labs/agent-beacon
-- Title: Asymptote-Labs/agent-beacon
-- Description: Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, or in the cloud.
-- Category: ai-security
+- Link: https://github.com/andyrewlee/amux
+- Title: andyrewlee/amux
+- Description: TUI for easily running parallel coding agents
+- Category: dev-tool
 - Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 9.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 225
-- Reason: Unique open-source telemetry solution for AI agents
-- Strengths:
-  - Addresses a specific need in AI agent monitoring
-  - Supports various deployment environments
-- Weaknesses:
-  - Limited community engagement due to relatively low star count
-  - May require additional development for widespread adoption
-
-### 3. MattCheramie/GopherTrunk
-
-- Link: https://github.com/MattCheramie/GopherTrunk
-- Title: MattCheramie/GopherTrunk
-- Description: Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit.
-- Category: radio-communication
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 79
-- Reason: Well-structured RTL-SDR scanner and audio processing toolkit
-- Strengths:
-  - Pure-Go implementation
-  - Cross-platform support
-  - Support for multiple radio protocols
-- Weaknesses:
-  - Limited documentation
-  - Niche use case
-
-### 4. mss-boot-io/mss-boot-admin
-
-- Link: https://github.com/mss-boot-io/mss-boot-admin
-- Title: mss-boot-io/mss-boot-admin
-- Description: Governance-first Go admin backend with RBAC, API registry, configuration, i18n, operations, and AI-assisted OSS maintenance.
-- Category: admin-backend
-- Type: framework
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 71
-- Reason: Comprehensive governance-first backend with RBAC and AI-assisted maintenance
-- Strengths:
-  - Governance-first approach
-  - RBAC and API registry
-  - AI-assisted OSS maintenance
-- Weaknesses:
-  - Limited community engagement
-  - Dependence on specific libraries like Casbin and Ant Design
-
-### 5. suzuki-shunsuke/flute
-
-- Link: https://github.com/suzuki-shunsuke/flute
-- Title: suzuki-shunsuke/flute
-- Description: Golang HTTP client testing framework
-- Category: testing-framework
-- Type: framework
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 9.0/10
-- Stars: 22
-- Reason: Focused Golang HTTP client testing framework
+- Stars: 124
+- Reason: Well-structured Go project for parallel agent coordination
 - Strengths:
-  - Specific use case
-  - Clear description
+  - Clear and focused purpose
+  - Simple and intuitive TUI
+  - Effective use of Git worktrees
 - Weaknesses:
-  - Limited scope
-  - Small community
+  - Limited documentation
+  - Small community engagement
 
-### 6. suzuki-shunsuke/nllint
+### 3. pedropombeiro/qnapexporter
 
-- Link: https://github.com/suzuki-shunsuke/nllint
-- Title: suzuki-shunsuke/nllint
-- Description: Linter and formatter of newlines and trailing spaces in files
-- Category: code-quality
+- Link: https://github.com/pedropombeiro/qnapexporter
+- Title: pedropombeiro/qnapexporter
+- Description: Prometheus metrics exporter, Grafana dashboards, and QNAP notification sink for QNAP NAS devices.
+- Category: monitoring-tools
 - Type: tool
 - Language: Go
 - Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 72
+- Reason: Well-focused exporter for QNAP NAS devices
+- Strengths:
+  - Specific use case
+  - Clear documentation implied by Grafana dashboards
+  - Written in Go for performance
+- Weaknesses:
+  - Limited scope
+  - Dependence on specific NAS devices
+
+### 4. deploymenttheory/terraform-provider-microsoft365
+
+- Link: https://github.com/deploymenttheory/terraform-provider-microsoft365
+- Title: deploymenttheory/terraform-provider-microsoft365
+- Description: A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 & MS Graph beta API's. Built upon the terraform provider framework and MS kiota generated gra...
+- Category: infrastructure-as-code
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 53
+- Reason: Well-structured Terraform provider for Microsoft 365
+- Strengths:
+  - Leverages Terraform provider framework
+  - Supports MS Graph v1.0 and beta APIs
+  - Built with MS Kiota generated Graph SDKs in Go
+- Weaknesses:
+  - Limited community engagement (53 stars)
+  - Dependence on Microsoft APIs and SDKs
+
+### 5. shukiv/jabali-panel
+
+- Link: https://github.com/shukiv/jabali-panel
+- Title: shukiv/jabali-panel
+- Description: Modern web hosting control panel (Go + React) — WordPress + PHP isolation, Stalwart mail, PowerDNS, restic backups, CrowdSec WAF, per-user nspawn SSH. AGPL-3.0.
+- Category: web-hosting
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 48
+- Reason: Well-structured modern web hosting control panel
+- Strengths:
+  - Multi-tenant support
+  - Isolation features for WordPress and PHP
+  - Integration with security tools like CrowdSec
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific technologies like React and Go
+
+### 6. github/gh-aw-mcpg
+
+- Link: https://github.com/github/gh-aw-mcpg
+- Title: github/gh-aw-mcpg
+- Description: Github Agentic Workflows MCP Gateway
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 133
+- Reason: Lack of topics and documentation
+- Strengths:
+  - Written in Go
+  - Specific use case
+- Weaknesses:
+  - Limited information available
+  - Low community engagement
+
+### 7. cagedbird043/fcm-hosts-next
+
+- Link: https://github.com/cagedbird043/fcm-hosts-next
+- Title: cagedbird043/fcm-hosts-next
+- Description: FCM hosts generator and publisher for direct Google push connectivity.
+- Category: push-notifications
+- Type: tool
+- Language: Go
+- Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 10
-- Reason: well-defined purpose
+- Stars: 49
+- Reason: Specific use case with clear functionality
 - Strengths:
-  - clear description
-  - specific use case
+  - Clear purpose
+  - Focused functionality
 - Weaknesses:
-  - limited functionality
-  - small community
+  - Limited scope
+  - Lack of documentation
 
-### 7. alexfalkowski/go-service
+### 8. huantt/weather-forecast
 
-- Link: https://github.com/alexfalkowski/go-service
-- Title: alexfalkowski/go-service
-- Description: A framework to build services in Go.
-- Category: go-framework
-- Type: framework
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 9.0/10
-- Stars: 34
-- Reason: Well-structured Go framework with multiple features
-- Strengths:
-  - Supports various protocols
-  - Includes caching and database integrations
-- Weaknesses:
-  - Limited community engagement
-  - Lack of extensive documentation
-
-### 8. neufeldtech/secretmessage-go
-
-- Link: https://github.com/neufeldtech/secretmessage-go
-- Title: neufeldtech/secretmessage-go
-- Description: Send self-destructing secret messages over Slack
-- Category: security-tool
+- Link: https://github.com/huantt/weather-forecast
+- Title: huantt/weather-forecast
+- Description: This project uses GitLab Actions to collect the weather then update to README.md
+- Category: weather-forecast
 - Type: tool
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 21
-- Reason: Self-destructing message feature is unique and useful
-- Strengths:
-  - Ephemeral messaging functionality
-  - Slack integration
-- Weaknesses:
-  - Limited documentation
-  - Small user base
-
-### 9. rowland/leadtype
-
-- Link: https://github.com/rowland/leadtype
-- Title: rowland/leadtype
-- Description: Go language packages for creating PDF documents.
-- Category: pdf-creation
-- Type: library
 - Language: Go
 - Score: 6.0/10
 - Novelty: 2.0/10
 - Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Focused Go library for PDF creation
+- Stars: 24
+- Reason: Automated weather forecast update
 - Strengths:
-  - Specific use case
-  - Go language support
+  - Automated workflow
+  - Simple concept
 - Weaknesses:
   - Limited functionality
-  - Small community
+  - No clear documentation
 
-### 10. Argh73/VpnConfigCollector
+### 9. metalabel/dfos
 
-- Link: https://github.com/Argh73/VpnConfigCollector
-- Title: Argh73/VpnConfigCollector
-- Description: No description available.
-- Category: network-security
+- Link: https://github.com/metalabel/dfos
+- Title: metalabel/dfos
+- Description: Dark Forest OS identity and content protocol, reference implementations, schemas and tests
+- Category: identity-protocol
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 7.0/10
+- Stars: 23
+- Reason: Strong foundation in identity and content protocol
+- Strengths:
+  - Reference implementations
+  - Schemas and tests
+- Weaknesses:
+  - Limited community engagement
+  - Small number of stars
+
+### 10. XigmaDev/cf2tg
+
+- Link: https://github.com/XigmaDev/cf2tg
+- Title: XigmaDev/cf2tg
+- Description: Auto Update Cloudflare Clean IP To Telegram Channel For Personal Use
+- Category: network-utility
 - Type: tool
 - Language: Go
 - Score: 6.0/10
@@ -211,26 +213,26 @@ Last updated: 2026-06-13 20:00:26 UTC
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 12
-- Reason: Limited scope but functional VPN config collector
+- Reason: Simple and focused on a specific task
 - Strengths:
-  - Specific use case
-  - Go implementation
+  - Clear purpose
+  - Small and maintainable codebase
 - Weaknesses:
-  - Lack of documentation
-  - Limited features
+  - Limited functionality
+  - Dependence on specific services
 
 ## Categories
 
-- [admin-backend](categories/admin-backend.md)
-- [ai-security](categories/ai-security.md)
-- [cloud-query-language](categories/cloud-query-language.md)
-- [code-quality](categories/code-quality.md)
-- [go-framework](categories/go-framework.md)
-- [network-security](categories/network-security.md)
-- [pdf-creation](categories/pdf-creation.md)
-- [radio-communication](categories/radio-communication.md)
-- [security-tool](categories/security-tool.md)
-- [testing-framework](categories/testing-framework.md)
+- [dev-ops](categories/dev-ops.md)
+- [dev-tool](categories/dev-tool.md)
+- [identity-protocol](categories/identity-protocol.md)
+- [infrastructure-as-code](categories/infrastructure-as-code.md)
+- [monitoring-tools](categories/monitoring-tools.md)
+- [network-utility](categories/network-utility.md)
+- [push-notifications](categories/push-notifications.md)
+- [serverless-framework](categories/serverless-framework.md)
+- [weather-forecast](categories/weather-forecast.md)
+- [web-hosting](categories/web-hosting.md)
 
 ## Data
 
