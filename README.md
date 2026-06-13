@@ -2,237 +2,232 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 20:43:06 UTC
+Last updated: 2026-06-13 21:00:27 UTC
 
 ## Latest Findings
 
-### 1. tarmac-project/tarmac
+### 1. kenn-io/kata
 
-- Link: https://github.com/tarmac-project/tarmac
-- Title: tarmac-project/tarmac
-- Description: Write as Functions, Deploy as a Monolith or Microservice with WebAssembly
-- Category: serverless-framework
-- Type: framework
+- Link: https://github.com/kenn-io/kata
+- Title: kenn-io/kata
+- Description: Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
+- Category: issue-tracking
+- Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 343
-- Reason: Unique approach to deploying functions as monoliths or microservices with WebAssembly
+- Stars: 260
+- Reason: Unique local-first approach with AI assistance
 - Strengths:
-  - Innovative use of WebAssembly
-  - Flexible deployment options
-  - Written in Go for performance
+  - Innovative AI-assisted workflow
+  - Dual CLI and TUI interfaces
 - Weaknesses:
-  - Limited documentation
-  - Still evolving with potential breaking changes
+  - Limited community engagement
+  - Unclear topic categorization
 
-### 2. andyrewlee/amux
+### 2. cybercdh/kitphishr
 
-- Link: https://github.com/andyrewlee/amux
-- Title: andyrewlee/amux
-- Description: TUI for easily running parallel coding agents
-- Category: dev-tool
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 124
-- Reason: Well-structured Go project for parallel agent coordination
-- Strengths:
-  - Clear and focused purpose
-  - Simple and intuitive TUI
-  - Effective use of Git worktrees
-- Weaknesses:
-  - Limited documentation
-  - Small community engagement
-
-### 3. pedropombeiro/qnapexporter
-
-- Link: https://github.com/pedropombeiro/qnapexporter
-- Title: pedropombeiro/qnapexporter
-- Description: Prometheus metrics exporter, Grafana dashboards, and QNAP notification sink for QNAP NAS devices.
-- Category: monitoring-tools
+- Link: https://github.com/cybercdh/kitphishr
+- Title: cybercdh/kitphishr
+- Description: A tool designed to hunt for Phishing Kit source code
+- Category: security-tools
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 72
-- Reason: Well-focused exporter for QNAP NAS devices
+- Stars: 231
+- Reason: Focused phishing kit detection
 - Strengths:
   - Specific use case
-  - Clear documentation implied by Grafana dashboards
-  - Written in Go for performance
+  - Go implementation
 - Weaknesses:
   - Limited scope
-  - Dependence on specific NAS devices
+  - Dependence on OSINT
 
-### 4. deploymenttheory/terraform-provider-microsoft365
+### 3. pulumi/pulumi-gcp
 
-- Link: https://github.com/deploymenttheory/terraform-provider-microsoft365
-- Title: deploymenttheory/terraform-provider-microsoft365
-- Description: A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 & MS Graph beta API's. Built upon the terraform provider framework and MS kiota generated gra...
-- Category: infrastructure-as-code
+- Link: https://github.com/pulumi/pulumi-gcp
+- Title: pulumi/pulumi-gcp
+- Description: A Google Cloud Platform (GCP) Pulumi resource package, providing multi-language access to GCP
+- Category: cloud-infrastructure
 - Type: library
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 53
-- Reason: Well-structured Terraform provider for Microsoft 365
+- Maturity: 8.0/10
+- Small repo potential: 4.0/10
+- Stars: 212
+- Reason: Well-maintained GCP resource package
 - Strengths:
-  - Leverages Terraform provider framework
-  - Supports MS Graph v1.0 and beta APIs
-  - Built with MS Kiota generated Graph SDKs in Go
+  - Multi-language support
+  - Official Pulumi package
 - Weaknesses:
-  - Limited community engagement (53 stars)
-  - Dependence on Microsoft APIs and SDKs
+  - Limited to GCP ecosystem
 
-### 5. shukiv/jabali-panel
+### 4. workweave/router
 
-- Link: https://github.com/shukiv/jabali-panel
-- Title: shukiv/jabali-panel
-- Description: Modern web hosting control panel (Go + React) — WordPress + PHP isolation, Stalwart mail, PowerDNS, restic backups, CrowdSec WAF, per-user nspawn SSH. AGPL-3.0.
-- Category: web-hosting
-- Type: app
+- Link: https://github.com/workweave/router
+- Title: workweave/router
+- Description: Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
+- Category: ai-routing
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 35
+- Reason: Efficient model routing with significant cost savings
+- Strengths:
+  - High-performance routing
+  - Cost-effective
+  - OpenAI-compatible
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 5. neo4j-partners/neo4j-kubernetes-operator
+
+- Link: https://github.com/neo4j-partners/neo4j-kubernetes-operator
+- Title: neo4j-partners/neo4j-kubernetes-operator
+- Description: The Neo4j Kuberenetes Operator automates the deployment and management of Neo4j Enterprise Edition.
+- Category: database-management
+- Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 48
-- Reason: Well-structured modern web hosting control panel
+- Stars: 10
+- Reason: Well-structured operator for Neo4j on Kubernetes
 - Strengths:
-  - Multi-tenant support
-  - Isolation features for WordPress and PHP
-  - Integration with security tools like CrowdSec
+  - Specific use case automation
+  - Written in Go for performance
 - Weaknesses:
   - Limited community engagement
-  - Dependence on specific technologies like React and Go
+  - Narrow scope of application
 
-### 6. github/gh-aw-mcpg
+### 6. getpusk/pusk
 
-- Link: https://github.com/github/gh-aw-mcpg
-- Title: github/gh-aw-mcpg
-- Description: Github Agentic Workflows MCP Gateway
-- Category: dev-ops
+- Link: https://github.com/getpusk/pusk
+- Title: getpusk/pusk
+- Description: Self-hosted alert platform for ops teams. Telegram Bot API compatible. ACK, push, team chat.
+- Category: monitoring-tool
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 62
+- Reason: Well-structured Go project with a clear purpose
+- Strengths:
+  - Telegram Bot API compatibility
+  - Self-hosted alert platform
+  - Simple and focused functionality
+- Weaknesses:
+  - Limited community engagement
+  - Relatively low star count
+
+### 7. vito/dang
+
+- Link: https://github.com/vito/dang
+- Title: vito/dang
+- Description: Experimental GraphQL scripting language
+- Category: programming-languages
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 9.0/10
+- Maturity: 3.0/10
+- Small repo potential: 9.0/10
+- Stars: 23
+- Reason: An ambitious experimental scripting language that applies Hindley-Milner type inference to GraphQL, designed with Dagger workflows in mind.
+- Strengths:
+  - Innovative integration of Hindley-Milner type inference with GraphQL
+  - Authored by a highly experienced systems developer
+  - Addresses complex orchestration scripting needs in Dagger
+- Weaknesses:
+  - Highly experimental and subject to breaking changes
+  - Minimal documentation and limited ecosystem adoption
+
+### 8. opentofu/registry
+
+- Link: https://github.com/opentofu/registry
+- Title: opentofu/registry
+- Description: Metadata and tooling for the OpenTofu registry
+- Category: metadata-management
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 133
-- Reason: Lack of topics and documentation
+- Stars: 406
+- Reason: Lack of topics and limited visibility
 - Strengths:
-  - Written in Go
-  - Specific use case
-- Weaknesses:
-  - Limited information available
-  - Low community engagement
-
-### 7. cagedbird043/fcm-hosts-next
-
-- Link: https://github.com/cagedbird043/fcm-hosts-next
-- Title: cagedbird043/fcm-hosts-next
-- Description: FCM hosts generator and publisher for direct Google push connectivity.
-- Category: push-notifications
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 49
-- Reason: Specific use case with clear functionality
-- Strengths:
-  - Clear purpose
-  - Focused functionality
-- Weaknesses:
-  - Limited scope
-  - Lack of documentation
-
-### 8. huantt/weather-forecast
-
-- Link: https://github.com/huantt/weather-forecast
-- Title: huantt/weather-forecast
-- Description: This project uses GitLab Actions to collect the weather then update to README.md
-- Category: weather-forecast
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 2.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 24
-- Reason: Automated weather forecast update
-- Strengths:
-  - Automated workflow
-  - Simple concept
-- Weaknesses:
-  - Limited functionality
-  - No clear documentation
-
-### 9. metalabel/dfos
-
-- Link: https://github.com/metalabel/dfos
-- Title: metalabel/dfos
-- Description: Dark Forest OS identity and content protocol, reference implementations, schemas and tests
-- Category: identity-protocol
-- Type: framework
-- Language: Go
-- Score: 6.0/10
-- Novelty: 8.0/10
-- Maturity: 4.0/10
-- Small repo potential: 7.0/10
-- Stars: 23
-- Reason: Strong foundation in identity and content protocol
-- Strengths:
-  - Reference implementations
-  - Schemas and tests
+  - Go implementation
+  - focused purpose
 - Weaknesses:
   - Limited community engagement
-  - Small number of stars
+  - unclear documentation
 
-### 10. XigmaDev/cf2tg
+### 9. gedigi/noisecat
 
-- Link: https://github.com/XigmaDev/cf2tg
-- Title: XigmaDev/cf2tg
-- Description: Auto Update Cloudflare Clean IP To Telegram Channel For Personal Use
-- Category: network-utility
+- Link: https://github.com/gedigi/noisecat
+- Title: gedigi/noisecat
+- Description: The noise swiss army knife
+- Category: audio-utility
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 12
-- Reason: Simple and focused on a specific task
+- Stars: 46
+- Reason: Well-structured Go project
 - Strengths:
-  - Clear purpose
-  - Small and maintainable codebase
+  - Swiss army knife approach to noise generation
 - Weaknesses:
-  - Limited functionality
-  - Dependence on specific services
+  - Limited documentation and community
+
+### 10. Icehunter/dune-admin
+
+- Link: https://github.com/Icehunter/dune-admin
+- Title: Icehunter/dune-admin
+- Description: No description available.
+- Category: dev-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 28
+- Reason: Lack of documentation and topics
+- Strengths:
+  - Written in Go
+  - Specific purpose
+- Weaknesses:
+  - Low visibility
+  - Unclear functionality
 
 ## Categories
 
-- [dev-ops](categories/dev-ops.md)
-- [dev-tool](categories/dev-tool.md)
-- [identity-protocol](categories/identity-protocol.md)
-- [infrastructure-as-code](categories/infrastructure-as-code.md)
-- [monitoring-tools](categories/monitoring-tools.md)
-- [network-utility](categories/network-utility.md)
-- [push-notifications](categories/push-notifications.md)
-- [serverless-framework](categories/serverless-framework.md)
-- [weather-forecast](categories/weather-forecast.md)
-- [web-hosting](categories/web-hosting.md)
+- [ai-routing](categories/ai-routing.md)
+- [audio-utility](categories/audio-utility.md)
+- [cloud-infrastructure](categories/cloud-infrastructure.md)
+- [database-management](categories/database-management.md)
+- [dev-tools](categories/dev-tools.md)
+- [issue-tracking](categories/issue-tracking.md)
+- [metadata-management](categories/metadata-management.md)
+- [monitoring-tool](categories/monitoring-tool.md)
+- [programming-languages](categories/programming-languages.md)
+- [security-tools](categories/security-tools.md)
 
 ## Data
 
