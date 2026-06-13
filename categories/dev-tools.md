@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. Icehunter/dune-admin
+### 1. int128/ghcp
 
-- Link: https://github.com/Icehunter/dune-admin
-- Title: Icehunter/dune-admin
-- Description: No description available.
+- Link: https://github.com/int128/ghcp
+- Title: int128/ghcp
+- Description: Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API
 - Category: dev-tools
 - Type: tool
 - Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 28
-- Reason: Lack of documentation and topics
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 44
+- Reason: Well-focused GitHub API automation
 - Strengths:
-  - Written in Go
-  - Specific purpose
+  - Simple and clear purpose
+  - Utilizes GitHub API effectively
 - Weaknesses:
-  - Low visibility
-  - Unclear functionality
+  - Limited scope
+  - Dependence on GitHub API
 
