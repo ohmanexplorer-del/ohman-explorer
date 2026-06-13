@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. int128/ghcp
+### 1. slackapi/slack-cli
 
-- Link: https://github.com/int128/ghcp
-- Title: int128/ghcp
-- Description: Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API
+- Link: https://github.com/slackapi/slack-cli
+- Title: slackapi/slack-cli
+- Description: Create, develop, and deploy Slack apps from the command-line ✨
 - Category: dev-tools
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 44
-- Reason: Well-focused GitHub API automation
+- Small repo potential: 8.0/10
+- Stars: 246
+- Reason: Useful command-line tool for Slack app development
 - Strengths:
-  - Simple and clear purpose
-  - Utilizes GitHub API effectively
+  - Streamlines Slack app development
+  - Written in Go for efficiency
 - Weaknesses:
-  - Limited scope
-  - Dependence on GitHub API
+  - Limited to Slack app development
+  - Relatively small community
 
