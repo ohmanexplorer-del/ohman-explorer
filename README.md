@@ -2,234 +2,236 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 22:20:29 UTC
+Last updated: 2026-06-13 22:40:23 UTC
 
 ## Latest Findings
 
-### 1. argoproj-labs/gitops-promoter
+### 1. kdlbs/kandev
 
-- Link: https://github.com/argoproj-labs/gitops-promoter
-- Title: argoproj-labs/gitops-promoter
-- Description: GitOps Environment Promotion tool that lets you focus on the "what," not the "how"
-- Category: devops-tooling
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 467
-- Reason: Focused on environment promotion in GitOps
-- Strengths:
-  - Solves a specific problem in GitOps
-  - Built with Go for performance
-- Weaknesses:
-  - Limited to Kubernetes environments
-  - Dependent on Argo CD
-
-### 2. slackapi/slack-cli
-
-- Link: https://github.com/slackapi/slack-cli
-- Title: slackapi/slack-cli
-- Description: Create, develop, and deploy Slack apps from the command-line ✨
+- Link: https://github.com/kdlbs/kandev
+- Title: kdlbs/kandev
+- Description: AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
 - Category: dev-tools
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 246
-- Reason: Useful command-line tool for Slack app development
-- Strengths:
-  - Streamlines Slack app development
-  - Written in Go for efficiency
-- Weaknesses:
-  - Limited to Slack app development
-  - Relatively small community
-
-### 3. Team254/cheesy-arena
-
-- Link: https://github.com/Team254/cheesy-arena
-- Title: Team254/cheesy-arena
-- Description: An alternative field management system for the FIRST Robotics Competition.
-- Category: robotics-competition
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 7.0/10
-- Stars: 201
-- Reason: Well-structured alternative field management system
-- Strengths:
-  - Go implementation
-  - Focused purpose
-- Weaknesses:
-  - Limited topics and documentation
-
-### 4. Au1rxx/free-vpn-subscriptions
-
-- Link: https://github.com/Au1rxx/free-vpn-subscriptions
-- Title: Au1rxx/free-vpn-subscriptions
-- Description: Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
-- Category: vpn-tools
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 101
-- Reason: Well-organized VPN subscription feed with live node status
-- Strengths:
-  - Live node status
-  - Setup guides
-  - Multi-protocol support
-- Weaknesses:
-  - Limited to specific VPN protocols
-  - Dependence on external services
-
-### 5. kernelstub/Ferrum
-
-- Link: https://github.com/kernelstub/Ferrum
-- Title: kernelstub/Ferrum
-- Description: Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.
-- Category: windows-security
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 60
-- Reason: Focused scope and clear documentation
-- Strengths:
-  - Specific use cases
-  - Clear topic tags
-- Weaknesses:
-  - Limited language support
-  - Small community
-
-### 6. boringSQL/dryrun
-
-- Link: https://github.com/boringSQL/dryrun
-- Title: boringSQL/dryrun
-- Description: PostgreSQL schema intelligence MCP server with offline linting, migration safety, query validation for AI coding assistants.
-- Category: database-tooling
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 27
-- Reason: Effective PostgreSQL schema management
+- Stars: 327
+- Reason: Unique AI-powered Kanban and development environment
 - Strengths:
-  - Offline linting and migration safety features
-  - Query validation for AI coding assistants
-  - Written in Go for performance
+  - Multi-provider support
+  - Self-hostable
+  - No telemetry
 - Weaknesses:
-  - Limited community engagement due to low star count
-  - May require additional development for widespread adoption
+  - Limited documentation
+  - Small community
 
-### 7. procore-oss/kube-binpacking-exporter
+### 2. lm705/vair
 
-- Link: https://github.com/procore-oss/kube-binpacking-exporter
-- Title: procore-oss/kube-binpacking-exporter
-- Description: Exports Pre-computed Kubernetes Cluster Binpacking Metrics
-- Category: kubernetes-tooling
+- Link: https://github.com/lm705/vair
+- Title: lm705/vair
+- Description: GUI клиент для VPN-конфигураций протоколов VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC. Репозиторий и клиент содержит бесплатные VLESS-конфи�...
+- Category: vpn-client
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 26
+- Reason: Well-structured GUI client for multiple VPN protocols
+- Strengths:
+  - Supports multiple VPN protocols
+  - Includes free VLESS configs
+  - Written in Go for cross-platform compatibility
+- Weaknesses:
+  - Limited documentation
+  - Small user base
+
+### 3. agent-receipts/obsigna
+
+- Link: https://github.com/agent-receipts/obsigna
+- Title: agent-receipts/obsigna
+- Description: Agent Receipts — cryptographically signed audit trails for AI agent actions. Protocol spec, SDKs (Go, TypeScript, Python), and MCP proxy.
+- Category: ai-security
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 18
+- Reason: Strong foundation in cryptography and AI agent audit trails
+- Strengths:
+  - Cryptographically signed audit trails
+  - Support for multiple programming languages
+  - Clear protocol specification
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific cryptographic algorithms
+
+### 4. aystro-com/apod
+
+- Link: https://github.com/aystro-com/apod
+- Title: aystro-com/apod
+- Description: A single binary that turns any VPS into a hosting platform. Deploy sites, manage domains, handle SSL — all through Docker containers without the overhead of traditional panels. Why apod? Hosting panels are bloated. Paa...
+- Category: dev-ops
 - Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Simplifies hosting platform setup
+- Strengths:
+  - Single binary deployment
+  - Zero dependencies
+  - Docker container management
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 5. Mindburn-Labs/helm-ai-kernel
+
+- Link: https://github.com/Mindburn-Labs/helm-ai-kernel
+- Title: Mindburn-Labs/helm-ai-kernel
+- Description: Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Innovative AI agent security solution
+- Strengths:
+  - Unique fail-closed execution firewall approach
+  - Support for OpenAI-compatible requests
+  - Offline verification of EvidencePacks
+- Weaknesses:
+  - Limited community engagement
+  - Relatively new repository
+
+### 6. feitasIoT/CRose
+
+- Link: https://github.com/feitasIoT/CRose
+- Title: feitasIoT/CRose
+- Description: 一站式轻量化数据引擎：连接设备，交付价值；CRose是一个专为制造业与现代农业打造的集成化数据底座。它封装了从底层的协议采集（Modbus/MQTT）到上层的统计分析、...
+- Category: industrial-iot
+- Type: framework
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 19
-- Reason: Focused and useful binpacking metrics exporter
+- Stars: 11
+- Reason: Comprehensive data engine for manufacturing and agriculture
 - Strengths:
-  - Specific use case
-  - Clear documentation
+  - Encapsulates full stack capabilities
+  - Supports multiple protocols (Modbus/MQTT)
+  - Designed for edge computing and IIoT
 - Weaknesses:
-  - Niche functionality
-  - Limited community engagement
+  - Limited community engagement (11 stars)
+  - May require additional development for widespread adoption
 
-### 8. 0xjeffro/astroclaw
+### 7. RapidAI/MaClaw
 
-- Link: https://github.com/0xjeffro/astroclaw
-- Title: 0xjeffro/astroclaw
-- Description: Cloud-native agent-as-a-service framework with one-click IaC deployment.
-- Category: cloud-infrastructure
+- Link: https://github.com/RapidAI/MaClaw
+- Title: RapidAI/MaClaw
+- Description: 下一代自主进化智能体平台（GUI/TUI/Service/SDK)
+- Category: ai-platform
 - Type: framework
 - Language: Go
 - Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 5.0/10
-- Small repo potential: 8.0/10
-- Stars: 174
-- Reason: Well-structured Go codebase
-- Strengths:
-  - Cloud-native design
-  - One-click IaC deployment
-- Weaknesses:
-  - Limited documentation
-  - Unclear use cases
-
-### 9. ranjbar-dev/tron-wallet
-
-- Link: https://github.com/ranjbar-dev/tron-wallet
-- Title: ranjbar-dev/tron-wallet
-- Description: Tron wallet package for generating Tron wallet, transferring TRX and Tron Tokens, fetching wallet balance live and crawling blockchain blocks to extract wallet transactions
-- Category: crypto-wallet
-- Type: library
-- Language: Go
-- Score: 7.0/10
-- Novelty: 4.0/10
+- Novelty: 8.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 64
-- Reason: Well-structured Tron wallet library in Go
+- Stars: 117
+- Reason: Strong foundation with diverse interfaces
 - Strengths:
-  - Clear description
-  - Specific use case
-  - Organized topics
+  - Multi-interface support
+  - Autonomous evolution concept
 - Weaknesses:
   - Limited community engagement
-  - Niche functionality
+  - Unclear documentation
 
-### 10. mokiat/lacking
+### 8. aarondpn/redmine-cli
 
-- Link: https://github.com/mokiat/lacking
-- Title: mokiat/lacking
-- Description: A 3D game engine/framework written in Go
-- Category: game-engine
-- Type: framework
+- Link: https://github.com/aarondpn/redmine-cli
+- Title: aarondpn/redmine-cli
+- Description: A powerful command-line interface for Redmine, enhanced with first-class AI agent capabilities via Skills and MCP integration.
+- Category: project-management
+- Type: tool
 - Language: Go
-- Score: 6.0/10
+- Score: 7.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 31
-- Reason: Early-stage game engine with potential
+- Stars: 20
+- Reason: Unique AI-powered Redmine CLI
 - Strengths:
-  - Written in Go
-  - 3D game engine capabilities
+  - Go implementation
+  - MCP integration
+  - Redmine API coverage
 - Weaknesses:
-  - Limited documentation
-  - Small community
+  - Limited community engagement
+  - Documentation could be improved
+
+### 9. ZaparooProject/zaparoo-core
+
+- Link: https://github.com/ZaparooProject/zaparoo-core
+- Title: ZaparooProject/zaparoo-core
+- Description: Core Zaparoo service software
+- Category: core-service
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 168
+- Reason: Lack of topics and low star count despite mature codebase
+- Strengths:
+  - mature Go codebase
+- Weaknesses:
+  - limited community engagement
+
+### 10. BagToad/BestPal
+
+- Link: https://github.com/BagToad/BestPal
+- Title: BagToad/BestPal
+- Description: Discord bot for r/GamerPals
+- Category: discord-bot
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Well-defined purpose for r/GamerPals
+- Strengths:
+  - Specific use case
+  - Clear language choice
+- Weaknesses:
+  - Lack of documentation
+  - Limited community engagement
 
 ## Categories
 
-- [cloud-infrastructure](categories/cloud-infrastructure.md)
-- [crypto-wallet](categories/crypto-wallet.md)
-- [database-tooling](categories/database-tooling.md)
+- [ai-platform](categories/ai-platform.md)
+- [ai-security](categories/ai-security.md)
+- [core-service](categories/core-service.md)
+- [dev-ops](categories/dev-ops.md)
 - [dev-tools](categories/dev-tools.md)
-- [devops-tooling](categories/devops-tooling.md)
-- [game-engine](categories/game-engine.md)
-- [kubernetes-tooling](categories/kubernetes-tooling.md)
-- [robotics-competition](categories/robotics-competition.md)
-- [vpn-tools](categories/vpn-tools.md)
-- [windows-security](categories/windows-security.md)
+- [discord-bot](categories/discord-bot.md)
+- [industrial-iot](categories/industrial-iot.md)
+- [project-management](categories/project-management.md)
+- [vpn-client](categories/vpn-client.md)
 
 ## Data
 
