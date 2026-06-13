@@ -1,42 +1,42 @@
 [
   {
-    "github_id": 387018254,
-    "full_name": "gotd/botapi",
-    "owner": "gotd",
-    "description": "WIP Telegram Bot API",
-    "stars": 26,
-    "forks": 0,
+    "github_id": 1192889023,
+    "full_name": "spacedock-dev/spacedock",
+    "owner": "spacedock-dev",
+    "description": "Zero-dep agent workflows with structured approval gates and adversarial review.",
+    "stars": 46,
+    "forks": 4,
     "language": "Go",
     "topics": [
-      "bot-api",
-      "go",
-      "golang",
-      "gotd",
-      "mtproto",
-      "telegram"
+      "agent-orchestration",
+      "agent-workflow",
+      "ai-agents",
+      "claude-code",
+      "markdown"
     ],
-    "license": "MIT License",
+    "license": "Apache License 2.0",
     "default_branch": "main",
     "homepage": "",
     "visited_at": "0001-01-01T00:00:00Z",
-    "created_at": "2021-07-17T19:03:33Z",
-    "updated_at": "2026-06-13T19:19:23Z",
-    "pushed_at": "2026-06-13T19:19:19Z",
-    "ai_score": 6,
-    "ai_notes": "Well-structured Go library for Telegram Bot API",
+    "created_at": "2026-03-26T16:57:55Z",
+    "updated_at": "2026-06-13T19:19:17Z",
+    "pushed_at": "2026-06-13T19:19:35Z",
+    "ai_score": 8,
+    "ai_notes": "Well-structured codebase with focused functionality",
     "readme_summary": "",
-    "category": "telegram-bot",
-    "project_type": "library",
-    "novelty": 2,
-    "maturity": 4,
-    "small_repo_fit": 8,
+    "category": "ai-workflow",
+    "project_type": "framework",
+    "novelty": 7,
+    "maturity": 6,
+    "small_repo_fit": 9,
     "strengths": [
-      "Clean codebase",
-      "Focused on Telegram Bot API"
+      "Zero dependencies",
+      "Structured approval gates",
+      "Adversarial review"
     ],
     "weaknesses": [
       "Limited documentation",
-      "Work-in-progress"
+      "Small community"
     ],
     "publish": true
   }
