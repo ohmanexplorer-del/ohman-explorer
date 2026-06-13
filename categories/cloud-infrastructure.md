@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. openshift-kni/oran-o2ims
+### 1. 0xjeffro/astroclaw
 
-- Link: https://github.com/openshift-kni/oran-o2ims
-- Title: openshift-kni/oran-o2ims
-- Description: No description available.
+- Link: https://github.com/0xjeffro/astroclaw
+- Title: 0xjeffro/astroclaw
+- Description: Cloud-native agent-as-a-service framework with one-click IaC deployment.
 - Category: cloud-infrastructure
-- Type: tool
+- Type: framework
 - Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
 - Small repo potential: 8.0/10
-- Stars: 14
-- Reason: Strong foundation despite small size
+- Stars: 174
+- Reason: Well-structured Go codebase
 - Strengths:
-  - Written in Go
-  - Focused on OpenShift and ORAN integration
+  - Cloud-native design
+  - One-click IaC deployment
 - Weaknesses:
-  - Limited community engagement
-  - Lack of documentation
+  - Limited documentation
+  - Unclear use cases
 
