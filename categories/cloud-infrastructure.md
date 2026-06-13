@@ -2,23 +2,24 @@
 
 Curated projects in this category.
 
-### 1. pulumi/pulumi-gcp
+### 1. openshift-kni/oran-o2ims
 
-- Link: https://github.com/pulumi/pulumi-gcp
-- Title: pulumi/pulumi-gcp
-- Description: A Google Cloud Platform (GCP) Pulumi resource package, providing multi-language access to GCP
+- Link: https://github.com/openshift-kni/oran-o2ims
+- Title: openshift-kni/oran-o2ims
+- Description: No description available.
 - Category: cloud-infrastructure
-- Type: library
+- Type: tool
 - Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 4.0/10
-- Stars: 212
-- Reason: Well-maintained GCP resource package
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Strong foundation despite small size
 - Strengths:
-  - Multi-language support
-  - Official Pulumi package
+  - Written in Go
+  - Focused on OpenShift and ORAN integration
 - Weaknesses:
-  - Limited to GCP ecosystem
+  - Limited community engagement
+  - Lack of documentation
 
