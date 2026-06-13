@@ -2,232 +2,234 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 21:00:27 UTC
+Last updated: 2026-06-13 21:20:26 UTC
 
 ## Latest Findings
 
-### 1. kenn-io/kata
+### 1. TomasZmek/cpm
 
-- Link: https://github.com/kenn-io/kata
-- Title: kenn-io/kata
-- Description: Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
-- Category: issue-tracking
+- Link: https://github.com/TomasZmek/cpm
+- Title: TomasZmek/cpm
+- Description: Caddy Proxy Manager - Lightweight web UI for managing Caddy reverse proxy
+- Category: reverse-proxy
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 68
+- Reason: Well-structured Go project for managing Caddy reverse proxy
+- Strengths:
+  - Lightweight web UI
+  - Specific use case
+- Weaknesses:
+  - Limited topics and community engagement
+
+### 2. paxlabs-inc/matrix-core
+
+- Link: https://github.com/paxlabs-inc/matrix-core
+- Title: paxlabs-inc/matrix-core
+- Description: Matrix is the cognition and UX layer on top of Paxeer Network. It turns natural-language requests from non-developers into a typed, inspectable, correctable Intent IR
+- Category: nlp-framework
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 7.0/10
+- Stars: 62
+- Reason: Strong foundation in natural language processing
+- Strengths:
+  - Cognition and UX layer
+  - Typed Intent IR
+- Weaknesses:
+  - Limited community engagement
+  - Unclear documentation
+
+### 3. IodeSystems/homelab-horizon
+
+- Link: https://github.com/IodeSystems/homelab-horizon
+- Title: IodeSystems/homelab-horizon
+- Description: Manage your homelab with one tool: WireGuard VPN, split-horizon DNS, HAProxy reverse proxy with automatic wildcard SSL, and service monitoring on Ubuntu/Debian.
+- Category: homelab-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 39
+- Reason: Comprehensive homelab management with multiple features
+- Strengths:
+  - Integrates multiple tools for seamless homelab management
+  - Automates wildcard SSL with Let's Encrypt
+  - Supports split-horizon DNS and WireGuard VPN
+- Weaknesses:
+  - Limited to Ubuntu/Debian
+  - Relatively low number of stars and community engagement
+
+### 4. skzv/ccmux
+
+- Link: https://github.com/skzv/ccmux
+- Title: skzv/ccmux
+- Description: One TUI for every AI coding agent session — Claude Code, Codex, Cursor, and more — in sync across every device.
+- Category: developer-tools
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 260
-- Reason: Unique local-first approach with AI assistance
+- Small repo potential: 9.0/10
+- Stars: 15
+- Reason: Unified TUI for multiple AI coding agents
 - Strengths:
-  - Innovative AI-assisted workflow
-  - Dual CLI and TUI interfaces
-- Weaknesses:
-  - Limited community engagement
-  - Unclear topic categorization
-
-### 2. cybercdh/kitphishr
-
-- Link: https://github.com/cybercdh/kitphishr
-- Title: cybercdh/kitphishr
-- Description: A tool designed to hunt for Phishing Kit source code
-- Category: security-tools
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 231
-- Reason: Focused phishing kit detection
-- Strengths:
-  - Specific use case
-  - Go implementation
-- Weaknesses:
-  - Limited scope
-  - Dependence on OSINT
-
-### 3. pulumi/pulumi-gcp
-
-- Link: https://github.com/pulumi/pulumi-gcp
-- Title: pulumi/pulumi-gcp
-- Description: A Google Cloud Platform (GCP) Pulumi resource package, providing multi-language access to GCP
-- Category: cloud-infrastructure
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 4.0/10
-- Stars: 212
-- Reason: Well-maintained GCP resource package
-- Strengths:
-  - Multi-language support
-  - Official Pulumi package
-- Weaknesses:
-  - Limited to GCP ecosystem
-
-### 4. workweave/router
-
-- Link: https://github.com/workweave/router
-- Title: workweave/router
-- Description: Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
-- Category: ai-routing
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 35
-- Reason: Efficient model routing with significant cost savings
-- Strengths:
-  - High-performance routing
-  - Cost-effective
-  - OpenAI-compatible
-- Weaknesses:
-  - Limited documentation
-  - Niche use case
-
-### 5. neo4j-partners/neo4j-kubernetes-operator
-
-- Link: https://github.com/neo4j-partners/neo4j-kubernetes-operator
-- Title: neo4j-partners/neo4j-kubernetes-operator
-- Description: The Neo4j Kuberenetes Operator automates the deployment and management of Neo4j Enterprise Edition.
-- Category: database-management
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: Well-structured operator for Neo4j on Kubernetes
-- Strengths:
-  - Specific use case automation
+  - Syncs across devices
+  - Supports multiple AI coding agents
   - Written in Go for performance
 - Weaknesses:
-  - Limited community engagement
-  - Narrow scope of application
+  - Limited user base indicated by low star count
+  - May require additional setup for TUI and AI agents
 
-### 6. getpusk/pusk
+### 5. 23skdu/longbow
 
-- Link: https://github.com/getpusk/pusk
-- Title: getpusk/pusk
-- Description: Self-hosted alert platform for ops teams. Telegram Bot API compatible. ACK, push, team chat.
-- Category: monitoring-tool
+- Link: https://github.com/23skdu/longbow
+- Title: 23skdu/longbow
+- Description: Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing
+- Category: ai-engine
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 13
+- Reason: Efficient memory sharing for AI agents
+- Strengths:
+  - Leverages Apache Arrow Flight for high throughput
+  - Focused on clustered vector engine for AI applications
+- Weaknesses:
+  - Limited documentation and community engagement
+  - Dependence on specific technologies like Go and Apache Arrow
+
+### 6. tomasz-tomczyk/crit
+
+- Link: https://github.com/tomasz-tomczyk/crit
+- Title: tomasz-tomczyk/crit
+- Description: Your feedback loop with the agent
+- Category: ai-tools
 - Type: tool
 - Language: Go
 - Score: 7.0/10
 - Novelty: 6.0/10
-- Maturity: 4.0/10
+- Maturity: 5.0/10
 - Small repo potential: 8.0/10
-- Stars: 62
-- Reason: Well-structured Go project with a clear purpose
+- Stars: 490
+- Reason: Well-structured codebase with clear documentation
 - Strengths:
-  - Telegram Bot API compatibility
-  - Self-hosted alert platform
-  - Simple and focused functionality
+  - Clean Go code
+  - Clear Markdown documentation
+  - CLI interface for user interaction
 - Weaknesses:
   - Limited community engagement
-  - Relatively low star count
+  - Unclear long-term development plans
 
-### 7. vito/dang
+### 7. alphaa1111/proxyscraper
 
-- Link: https://github.com/vito/dang
-- Title: vito/dang
-- Description: Experimental GraphQL scripting language
-- Category: programming-languages
-- Type: tool
-- Language: Go
-- Score: 7.0/10
-- Novelty: 9.0/10
-- Maturity: 3.0/10
-- Small repo potential: 9.0/10
-- Stars: 23
-- Reason: An ambitious experimental scripting language that applies Hindley-Milner type inference to GraphQL, designed with Dagger workflows in mind.
-- Strengths:
-  - Innovative integration of Hindley-Milner type inference with GraphQL
-  - Authored by a highly experienced systems developer
-  - Addresses complex orchestration scripting needs in Dagger
-- Weaknesses:
-  - Highly experimental and subject to breaking changes
-  - Minimal documentation and limited ecosystem adoption
-
-### 8. opentofu/registry
-
-- Link: https://github.com/opentofu/registry
-- Title: opentofu/registry
-- Description: Metadata and tooling for the OpenTofu registry
-- Category: metadata-management
+- Link: https://github.com/alphaa1111/proxyscraper
+- Title: alphaa1111/proxyscraper
+- Description: Proxy Scraper (HTTP & SOCKS)
+- Category: networking-tool
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
-- Maturity: 7.0/10
+- Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 406
-- Reason: Lack of topics and limited visibility
+- Stars: 75
+- Reason: Focused proxy scraping functionality
+- Strengths:
+  - Specific use case
+  - Simple Go implementation
+- Weaknesses:
+  - Limited scope
+  - No clear documentation
+
+### 8. retab-dev/retab
+
+- Link: https://github.com/retab-dev/retab
+- Title: retab-dev/retab
+- Description: The developper starter pack for document processing
+- Category: document-processing
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 45
+- Reason: Focused on document analysis with LLM integration
 - Strengths:
   - Go implementation
-  - focused purpose
+  - OpenAI integration
+  - structured generation
 - Weaknesses:
   - Limited community engagement
-  - unclear documentation
+  - Niche use case
 
-### 9. gedigi/noisecat
+### 9. damusix/atomic-claude
 
-- Link: https://github.com/gedigi/noisecat
-- Title: gedigi/noisecat
-- Description: The noise swiss army knife
-- Category: audio-utility
+- Link: https://github.com/damusix/atomic-claude
+- Title: damusix/atomic-claude
+- Description: Operational Tooling. Better token consumption. Faster decision making.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 37
+- Reason: Focused on improving token consumption and decision making
+- Strengths:
+  - Operational tooling
+  - Specific use case
+- Weaknesses:
+  - Limited documentation
+  - Niche application
+
+### 10. btelolabs/btelo-coding-release
+
+- Link: https://github.com/btelolabs/btelo-coding-release
+- Title: btelolabs/btelo-coding-release
+- Description: Btele Coding Release
+- Category: coding-tool
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 46
-- Reason: Well-structured Go project
+- Stars: 12
+- Reason: Lack of detailed documentation
 - Strengths:
-  - Swiss army knife approach to noise generation
+  - Go implementation
+  - open-source
 - Weaknesses:
-  - Limited documentation and community
-
-### 10. Icehunter/dune-admin
-
-- Link: https://github.com/Icehunter/dune-admin
-- Title: Icehunter/dune-admin
-- Description: No description available.
-- Category: dev-tools
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 28
-- Reason: Lack of documentation and topics
-- Strengths:
-  - Written in Go
-  - Specific purpose
-- Weaknesses:
-  - Low visibility
-  - Unclear functionality
+  - Limited community engagement
+  - unclear purpose
 
 ## Categories
 
-- [ai-routing](categories/ai-routing.md)
-- [audio-utility](categories/audio-utility.md)
-- [cloud-infrastructure](categories/cloud-infrastructure.md)
-- [database-management](categories/database-management.md)
-- [dev-tools](categories/dev-tools.md)
-- [issue-tracking](categories/issue-tracking.md)
-- [metadata-management](categories/metadata-management.md)
-- [monitoring-tool](categories/monitoring-tool.md)
-- [programming-languages](categories/programming-languages.md)
-- [security-tools](categories/security-tools.md)
+- [ai-engine](categories/ai-engine.md)
+- [ai-tools](categories/ai-tools.md)
+- [coding-tool](categories/coding-tool.md)
+- [developer-tools](categories/developer-tools.md)
+- [document-processing](categories/document-processing.md)
+- [homelab-management](categories/homelab-management.md)
+- [networking-tool](categories/networking-tool.md)
+- [nlp-framework](categories/nlp-framework.md)
+- [reverse-proxy](categories/reverse-proxy.md)
 
 ## Data
 
