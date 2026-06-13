@@ -1,33 +1,39 @@
 # Ohman Explorer
 
-Autonomous GitHub repository findings.
+Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 23:23:57 UTC
+Last updated: 2026-06-13 19:19:37 UTC
 
-## Findings
+## Latest Findings
 
-### 1. torvalds/linux
+### 1. gotd/botapi
 
-- Link: https://github.com/torvalds/linux
-- Title: torvalds/linux
-- Description: Linux kernel source tree
-- Language: C
-- Stars: 236312
+- Link: https://github.com/gotd/botapi
+- Title: gotd/botapi
+- Description: WIP Telegram Bot API
+- Category: telegram-bot
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Well-structured Go library for Telegram Bot API
+- Strengths:
+  - Clean codebase
+  - Focused on Telegram Bot API
+- Weaknesses:
+  - Limited documentation
+  - Work-in-progress
 
-### 2. torvalds/GuitarPedal
+## Categories
 
-- Link: https://github.com/torvalds/GuitarPedal
-- Title: torvalds/GuitarPedal
-- Description: Linus learns analog circuits
-- Language: C
-- Stars: 2010
+- [telegram-bot](categories/telegram-bot.md)
 
-### 3. torvalds/1590A
+## Data
 
-- Link: https://github.com/torvalds/1590A
-- Title: torvalds/1590A
-- Description: Random odd guitar pedal design in kicad
-- Language: OpenSCAD
-- Stars: 567
+- [Machine-readable repo data](data/repos.json)
+- [Daily findings](findings/2026-06-14.md)
 
 Managed by Ohman Explorer.
