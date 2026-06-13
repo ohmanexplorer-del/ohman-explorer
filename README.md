@@ -2,237 +2,235 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 19:40:27 UTC
+Last updated: 2026-06-13 20:00:26 UTC
 
 ## Latest Findings
 
-### 1. centrifugal/centrifuge-go
+### 1. mondoohq/mql
 
-- Link: https://github.com/centrifugal/centrifuge-go
-- Title: centrifugal/centrifuge-go
-- Description: Go client SDK for bidirectional communication with Centrifugo and Centrifuge-based server over WebSocket
-- Category: realtime-comm
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 7.0/10
-- Stars: 262
-- Reason: Well-structured Go client SDK
-- Strengths:
-  - Bidirectional WebSocket communication
-  - Support for Centrifugo and Centrifuge-based servers
-  - Uses Protobuf
-- Weaknesses:
-  - Limited to Go language
-  - Dependent on Centrifugo/Centrifuge ecosystem
-
-### 2. aalpar/wile
-
-- Link: https://github.com/aalpar/wile
-- Title: aalpar/wile
-- Description: Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
-- Category: programming-language
-- Type: library
+- Link: https://github.com/mondoohq/mql
+- Title: mondoohq/mql
+- Description: open source, cloud-native, graph-based query language
+- Category: cloud-query-language
+- Type: framework
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 55
-- Reason: Unique implementation of R7RS Scheme in Go
+- Small repo potential: 4.0/10
+- Stars: 402
+- Reason: Well-structured cloud-native graph query language
 - Strengths:
-  - Pure Go implementation
-  - Hygienic macros and first-class continuations
-  - Sandboxing support
+  - Cloud-agnostic support
+  - Graph-based query capabilities
+  - Security-as-code features
 - Weaknesses:
   - Limited documentation
+  - Relatively small community
+
+### 2. Asymptote-Labs/agent-beacon
+
+- Link: https://github.com/Asymptote-Labs/agent-beacon
+- Title: Asymptote-Labs/agent-beacon
+- Description: Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, or in the cloud.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 225
+- Reason: Unique open-source telemetry solution for AI agents
+- Strengths:
+  - Addresses a specific need in AI agent monitoring
+  - Supports various deployment environments
+- Weaknesses:
+  - Limited community engagement due to relatively low star count
+  - May require additional development for widespread adoption
+
+### 3. MattCheramie/GopherTrunk
+
+- Link: https://github.com/MattCheramie/GopherTrunk
+- Title: MattCheramie/GopherTrunk
+- Description: Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit.
+- Category: radio-communication
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 79
+- Reason: Well-structured RTL-SDR scanner and audio processing toolkit
+- Strengths:
+  - Pure-Go implementation
+  - Cross-platform support
+  - Support for multiple radio protocols
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 4. mss-boot-io/mss-boot-admin
+
+- Link: https://github.com/mss-boot-io/mss-boot-admin
+- Title: mss-boot-io/mss-boot-admin
+- Description: Governance-first Go admin backend with RBAC, API registry, configuration, i18n, operations, and AI-assisted OSS maintenance.
+- Category: admin-backend
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 71
+- Reason: Comprehensive governance-first backend with RBAC and AI-assisted maintenance
+- Strengths:
+  - Governance-first approach
+  - RBAC and API registry
+  - AI-assisted OSS maintenance
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific libraries like Casbin and Ant Design
+
+### 5. suzuki-shunsuke/flute
+
+- Link: https://github.com/suzuki-shunsuke/flute
+- Title: suzuki-shunsuke/flute
+- Description: Golang HTTP client testing framework
+- Category: testing-framework
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 22
+- Reason: Focused Golang HTTP client testing framework
+- Strengths:
+  - Specific use case
+  - Clear description
+- Weaknesses:
+  - Limited scope
   - Small community
 
-### 3. fyvri/fresh-proxy-list
+### 6. suzuki-shunsuke/nllint
 
-- Link: https://github.com/fyvri/fresh-proxy-list
-- Title: fyvri/fresh-proxy-list
-- Description: An automatically updated list of free HTTP, HTTPS, SOCKS4, and SOCKS5 proxies, available in multiple formats including JSON, TXT, CSV, XML, and YAML.
-- Category: proxy-management
+- Link: https://github.com/suzuki-shunsuke/nllint
+- Title: suzuki-shunsuke/nllint
+- Description: Linter and formatter of newlines and trailing spaces in files
+- Category: code-quality
 - Type: tool
 - Language: Go
 - Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 55
-- Reason: Automated proxy list updates
-- Strengths:
-  - Automated updates
-  - Multiple proxy formats
-  - Written in Go
-- Weaknesses:
-  - Limited documentation
-  - Dependence on external proxy sources
-
-### 4. in4it/vpn-server
-
-- Link: https://github.com/in4it/vpn-server
-- Title: in4it/vpn-server
-- Description: WireGuard® based VPN Server for AWS, Azure, DigitalOcean or on-prem
-- Category: vpn-server
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 26
-- Reason: Well-focused WireGuard-based VPN server
-- Strengths:
-  - Clear purpose
-  - Support for multiple cloud providers
-  - Written in Go for performance
-- Weaknesses:
-  - Limited community engagement
-  - Lack of detailed documentation
-
-### 5. amaanx86/oci-prometheus-sd-proxy
-
-- Link: https://github.com/amaanx86/oci-prometheus-sd-proxy
-- Title: amaanx86/oci-prometheus-sd-proxy
-- Description: A lightweight Go service that bridges Oracle Cloud Infrastructure and Prometheus by dynamically discovering tagged compute instances across multiple tenancies via HTTP service discovery.
-- Category: cloud-monitoring
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 12
-- Reason: Effective Prometheus integration
-- Strengths:
-  - Lightweight
-  - Multi-tenancy support
-  - Go implementation
-- Weaknesses:
-  - Niche use case
-  - Limited documentation
-
-### 6. paperclipinc/hermes-operator
-
-- Link: https://github.com/paperclipinc/hermes-operator
-- Title: paperclipinc/hermes-operator
-- Description: Production-grade Kubernetes operator for nousresearch/hermes-agent: declarative spec, security defaults, S3 backups, OCI auto-update with rollback, SSA-based GitOps coexistence, OpenClaw migration.
-- Category: kubernetes-operator
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
 - Stars: 10
-- Reason: Well-structured Kubernetes operator with strong security defaults
+- Reason: well-defined purpose
 - Strengths:
-  - Declarative spec
-  - Security defaults
-  - OCI auto-update with rollback
+  - clear description
+  - specific use case
 - Weaknesses:
-  - Limited community engagement
-  - Dependence on nousresearch/hermes-agent
+  - limited functionality
+  - small community
 
-### 7. home-operations/flate
+### 7. alexfalkowski/go-service
 
-- Link: https://github.com/home-operations/flate
-- Title: home-operations/flate
-- Description: A Flux resource inflator ⇄
-- Category: devops-tooling
-- Type: tool
+- Link: https://github.com/alexfalkowski/go-service
+- Title: alexfalkowski/go-service
+- Description: A framework to build services in Go.
+- Category: go-framework
+- Type: framework
 - Language: Go
 - Score: 7.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
 - Small repo potential: 9.0/10
-- Stars: 45
-- Reason: Focused Flux resource inflator with clear purpose
+- Stars: 34
+- Reason: Well-structured Go framework with multiple features
 - Strengths:
-  - Specific use case
-  - Clear description
-  - Small and maintainable codebase
+  - Supports various protocols
+  - Includes caching and database integrations
 - Weaknesses:
-  - Limited scope
-  - Dependence on Flux ecosystem
+  - Limited community engagement
+  - Lack of extensive documentation
 
-### 8. danp/nspoweroutages
+### 8. neufeldtech/secretmessage-go
 
-- Link: https://github.com/danp/nspoweroutages
-- Title: danp/nspoweroutages
-- Description: Git scraping of the Nova Scotia Power Outage Map
-- Category: data-scraping
+- Link: https://github.com/neufeldtech/secretmessage-go
+- Title: neufeldtech/secretmessage-go
+- Description: Send self-destructing secret messages over Slack
+- Category: security-tool
 - Type: tool
 - Language: Go
 - Score: 7.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Focused on a specific task
+- Stars: 21
+- Reason: Self-destructing message feature is unique and useful
 - Strengths:
-  - Specific use case
-  - Git scraping implementation
+  - Ephemeral messaging functionality
+  - Slack integration
 - Weaknesses:
-  - Limited scope
-  - Dependence on external data source
+  - Limited documentation
+  - Small user base
 
-### 9. thlib/go-timezone-local
+### 9. rowland/leadtype
 
-- Link: https://github.com/thlib/go-timezone-local
-- Title: thlib/go-timezone-local
-- Description: Get the full name of the local timezone
-- Category: date-time-utils
+- Link: https://github.com/rowland/leadtype
+- Title: rowland/leadtype
+- Description: Go language packages for creating PDF documents.
+- Category: pdf-creation
 - Type: library
 - Language: Go
 - Score: 6.0/10
 - Novelty: 2.0/10
 - Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 23
-- Reason: Focused on a specific problem
+- Stars: 13
+- Reason: Focused Go library for PDF creation
 - Strengths:
-  - Simple and clear purpose
-  - Small and maintainable codebase
+  - Specific use case
+  - Go language support
 - Weaknesses:
   - Limited functionality
-  - Lack of documentation and tests
+  - Small community
 
-### 10. caic-xyz/caic
+### 10. Argh73/VpnConfigCollector
 
-- Link: https://github.com/caic-xyz/caic
-- Title: caic-xyz/caic
-- Description: Coding Agents in Containers
-- Category: dev-ops
+- Link: https://github.com/Argh73/VpnConfigCollector
+- Title: Argh73/VpnConfigCollector
+- Description: No description available.
+- Category: network-security
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
-- Maturity: 3.0/10
+- Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 12
-- Reason: Clear concept, but lacks documentation and community engagement
+- Reason: Limited scope but functional VPN config collector
 - Strengths:
-  - Unique approach to coding agents
+  - Specific use case
+  - Go implementation
 - Weaknesses:
-  - Limited topics and low star count
+  - Lack of documentation
+  - Limited features
 
 ## Categories
 
-- [cloud-monitoring](categories/cloud-monitoring.md)
-- [data-scraping](categories/data-scraping.md)
-- [date-time-utils](categories/date-time-utils.md)
-- [dev-ops](categories/dev-ops.md)
-- [devops-tooling](categories/devops-tooling.md)
-- [kubernetes-operator](categories/kubernetes-operator.md)
-- [programming-language](categories/programming-language.md)
-- [proxy-management](categories/proxy-management.md)
-- [realtime-comm](categories/realtime-comm.md)
-- [vpn-server](categories/vpn-server.md)
+- [admin-backend](categories/admin-backend.md)
+- [ai-security](categories/ai-security.md)
+- [cloud-query-language](categories/cloud-query-language.md)
+- [code-quality](categories/code-quality.md)
+- [go-framework](categories/go-framework.md)
+- [network-security](categories/network-security.md)
+- [pdf-creation](categories/pdf-creation.md)
+- [radio-communication](categories/radio-communication.md)
+- [security-tool](categories/security-tool.md)
+- [testing-framework](categories/testing-framework.md)
 
 ## Data
 
