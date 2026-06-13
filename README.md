@@ -2,34 +2,237 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 19:21:33 UTC
+Last updated: 2026-06-13 19:40:27 UTC
 
 ## Latest Findings
 
-### 1. Dash-Industry-Forum/livesim2
+### 1. centrifugal/centrifuge-go
 
-- Link: https://github.com/Dash-Industry-Forum/livesim2
-- Title: Dash-Industry-Forum/livesim2
-- Description: DASH Live Source Simulator v2 in Go
-- Category: video-streaming
-- Type: tool
+- Link: https://github.com/centrifugal/centrifuge-go
+- Title: centrifugal/centrifuge-go
+- Description: Go client SDK for bidirectional communication with Centrifugo and Centrifuge-based server over WebSocket
+- Category: realtime-comm
+- Type: library
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
 - Small repo potential: 7.0/10
-- Stars: 58
-- Reason: Specialized DASH live source simulator
+- Stars: 262
+- Reason: Well-structured Go client SDK
 - Strengths:
-  - Focused on a specific industry standard
-  - Written in a modern language (Go)
+  - Bidirectional WebSocket communication
+  - Support for Centrifugo and Centrifuge-based servers
+  - Uses Protobuf
+- Weaknesses:
+  - Limited to Go language
+  - Dependent on Centrifugo/Centrifuge ecosystem
+
+### 2. aalpar/wile
+
+- Link: https://github.com/aalpar/wile
+- Title: aalpar/wile
+- Description: Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
+- Category: programming-language
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 55
+- Reason: Unique implementation of R7RS Scheme in Go
+- Strengths:
+  - Pure Go implementation
+  - Hygienic macros and first-class continuations
+  - Sandboxing support
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 3. fyvri/fresh-proxy-list
+
+- Link: https://github.com/fyvri/fresh-proxy-list
+- Title: fyvri/fresh-proxy-list
+- Description: An automatically updated list of free HTTP, HTTPS, SOCKS4, and SOCKS5 proxies, available in multiple formats including JSON, TXT, CSV, XML, and YAML.
+- Category: proxy-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 55
+- Reason: Automated proxy list updates
+- Strengths:
+  - Automated updates
+  - Multiple proxy formats
+  - Written in Go
+- Weaknesses:
+  - Limited documentation
+  - Dependence on external proxy sources
+
+### 4. in4it/vpn-server
+
+- Link: https://github.com/in4it/vpn-server
+- Title: in4it/vpn-server
+- Description: WireGuard® based VPN Server for AWS, Azure, DigitalOcean or on-prem
+- Category: vpn-server
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 26
+- Reason: Well-focused WireGuard-based VPN server
+- Strengths:
+  - Clear purpose
+  - Support for multiple cloud providers
+  - Written in Go for performance
+- Weaknesses:
+  - Limited community engagement
+  - Lack of detailed documentation
+
+### 5. amaanx86/oci-prometheus-sd-proxy
+
+- Link: https://github.com/amaanx86/oci-prometheus-sd-proxy
+- Title: amaanx86/oci-prometheus-sd-proxy
+- Description: A lightweight Go service that bridges Oracle Cloud Infrastructure and Prometheus by dynamically discovering tagged compute instances across multiple tenancies via HTTP service discovery.
+- Category: cloud-monitoring
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 12
+- Reason: Effective Prometheus integration
+- Strengths:
+  - Lightweight
+  - Multi-tenancy support
+  - Go implementation
 - Weaknesses:
   - Niche use case
-  - Limited community engagement (58 stars)
+  - Limited documentation
+
+### 6. paperclipinc/hermes-operator
+
+- Link: https://github.com/paperclipinc/hermes-operator
+- Title: paperclipinc/hermes-operator
+- Description: Production-grade Kubernetes operator for nousresearch/hermes-agent: declarative spec, security defaults, S3 backups, OCI auto-update with rollback, SSA-based GitOps coexistence, OpenClaw migration.
+- Category: kubernetes-operator
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 10
+- Reason: Well-structured Kubernetes operator with strong security defaults
+- Strengths:
+  - Declarative spec
+  - Security defaults
+  - OCI auto-update with rollback
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on nousresearch/hermes-agent
+
+### 7. home-operations/flate
+
+- Link: https://github.com/home-operations/flate
+- Title: home-operations/flate
+- Description: A Flux resource inflator ⇄
+- Category: devops-tooling
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 45
+- Reason: Focused Flux resource inflator with clear purpose
+- Strengths:
+  - Specific use case
+  - Clear description
+  - Small and maintainable codebase
+- Weaknesses:
+  - Limited scope
+  - Dependence on Flux ecosystem
+
+### 8. danp/nspoweroutages
+
+- Link: https://github.com/danp/nspoweroutages
+- Title: danp/nspoweroutages
+- Description: Git scraping of the Nova Scotia Power Outage Map
+- Category: data-scraping
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Focused on a specific task
+- Strengths:
+  - Specific use case
+  - Git scraping implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on external data source
+
+### 9. thlib/go-timezone-local
+
+- Link: https://github.com/thlib/go-timezone-local
+- Title: thlib/go-timezone-local
+- Description: Get the full name of the local timezone
+- Category: date-time-utils
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 23
+- Reason: Focused on a specific problem
+- Strengths:
+  - Simple and clear purpose
+  - Small and maintainable codebase
+- Weaknesses:
+  - Limited functionality
+  - Lack of documentation and tests
+
+### 10. caic-xyz/caic
+
+- Link: https://github.com/caic-xyz/caic
+- Title: caic-xyz/caic
+- Description: Coding Agents in Containers
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Clear concept, but lacks documentation and community engagement
+- Strengths:
+  - Unique approach to coding agents
+- Weaknesses:
+  - Limited topics and low star count
 
 ## Categories
 
-- [video-streaming](categories/video-streaming.md)
+- [cloud-monitoring](categories/cloud-monitoring.md)
+- [data-scraping](categories/data-scraping.md)
+- [date-time-utils](categories/date-time-utils.md)
+- [dev-ops](categories/dev-ops.md)
+- [devops-tooling](categories/devops-tooling.md)
+- [kubernetes-operator](categories/kubernetes-operator.md)
+- [programming-language](categories/programming-language.md)
+- [proxy-management](categories/proxy-management.md)
+- [realtime-comm](categories/realtime-comm.md)
+- [vpn-server](categories/vpn-server.md)
 
 ## Data
 
