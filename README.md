@@ -2,121 +2,142 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-13 22:00:26 UTC
+Last updated: 2026-06-13 22:20:29 UTC
 
 ## Latest Findings
 
-### 1. bombsimon/wsl
+### 1. argoproj-labs/gitops-promoter
 
-- Link: https://github.com/bombsimon/wsl
-- Title: bombsimon/wsl
-- Description: ␊ whitespace linter - Forces you to use empty lines!
-- Category: code-quality
+- Link: https://github.com/argoproj-labs/gitops-promoter
+- Title: argoproj-labs/gitops-promoter
+- Description: GitOps Environment Promotion tool that lets you focus on the "what," not the "how"
+- Category: devops-tooling
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 374
-- Reason: Focused whitespace linter with clear purpose
-- Strengths:
-  - Simple and specific functionality
-  - Low barrier to contribution
-- Weaknesses:
-  - Limited scope
-  - Dependence on Go ecosystem
-
-### 2. scrapli/scrapligo
-
-- Link: https://github.com/scrapli/scrapligo
-- Title: scrapli/scrapligo
-- Description: scrapli, but in go!
-- Category: network-automation
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 300
-- Reason: Well-structured Go library for network automation
+- Stars: 467
+- Reason: Focused on environment promotion in GitOps
 - Strengths:
-  - Simple and efficient codebase
-  - Clear documentation
+  - Solves a specific problem in GitOps
+  - Built with Go for performance
 - Weaknesses:
-  - Limited topics and community engagement
+  - Limited to Kubernetes environments
+  - Dependent on Argo CD
 
-### 3. zigflow/zigflow
+### 2. slackapi/slack-cli
 
-- Link: https://github.com/zigflow/zigflow
-- Title: zigflow/zigflow
-- Description: Define durable workflows in YAML, powered by Temporal
-- Category: workflow-orchestration
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 163
-- Reason: Well-structured YAML-based workflow definition
-- Strengths:
-  - Temporal integration
-  - Declarative workflow definition
-  - Go implementation
-- Weaknesses:
-  - Limited documentation
-  - Small community
-
-### 4. int128/ghcp
-
-- Link: https://github.com/int128/ghcp
-- Title: int128/ghcp
-- Description: Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API
+- Link: https://github.com/slackapi/slack-cli
+- Title: slackapi/slack-cli
+- Description: Create, develop, and deploy Slack apps from the command-line ✨
 - Category: dev-tools
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 44
-- Reason: Well-focused GitHub API automation
+- Small repo potential: 8.0/10
+- Stars: 246
+- Reason: Useful command-line tool for Slack app development
 - Strengths:
-  - Simple and clear purpose
-  - Utilizes GitHub API effectively
+  - Streamlines Slack app development
+  - Written in Go for efficiency
 - Weaknesses:
-  - Limited scope
-  - Dependence on GitHub API
+  - Limited to Slack app development
+  - Relatively small community
 
-### 5. cobaltdb/cobaltdb
+### 3. Team254/cheesy-arena
 
-- Link: https://github.com/cobaltdb/cobaltdb
-- Title: cobaltdb/cobaltdb
-- Description: The Modern Embedded Database for Go
-- Category: database-library
-- Type: library
+- Link: https://github.com/Team254/cheesy-arena
+- Title: Team254/cheesy-arena
+- Description: An alternative field management system for the FIRST Robotics Competition.
+- Category: robotics-competition
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 201
+- Reason: Well-structured alternative field management system
+- Strengths:
+  - Go implementation
+  - Focused purpose
+- Weaknesses:
+  - Limited topics and documentation
+
+### 4. Au1rxx/free-vpn-subscriptions
+
+- Link: https://github.com/Au1rxx/free-vpn-subscriptions
+- Title: Au1rxx/free-vpn-subscriptions
+- Description: Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
+- Category: vpn-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 101
+- Reason: Well-organized VPN subscription feed with live node status
+- Strengths:
+  - Live node status
+  - Setup guides
+  - Multi-protocol support
+- Weaknesses:
+  - Limited to specific VPN protocols
+  - Dependence on external services
+
+### 5. kernelstub/Ferrum
+
+- Link: https://github.com/kernelstub/Ferrum
+- Title: kernelstub/Ferrum
+- Description: Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.
+- Category: windows-security
+- Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 34
-- Reason: Well-structured Go database library
+- Stars: 60
+- Reason: Focused scope and clear documentation
 - Strengths:
-  - Modern design
-  - Embedded database
-  - SQL support
+  - Specific use cases
+  - Clear topic tags
 - Weaknesses:
-  - Limited community engagement
-  - Fewer stars than established alternatives
+  - Limited language support
+  - Small community
 
-### 6. int128/ktunnels
+### 6. boringSQL/dryrun
 
-- Link: https://github.com/int128/ktunnels
-- Title: int128/ktunnels
-- Description: Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy
+- Link: https://github.com/boringSQL/dryrun
+- Title: boringSQL/dryrun
+- Description: PostgreSQL schema intelligence MCP server with offline linting, migration safety, query validation for AI coding assistants.
+- Category: database-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 27
+- Reason: Effective PostgreSQL schema management
+- Strengths:
+  - Offline linting and migration safety features
+  - Query validation for AI coding assistants
+  - Written in Go for performance
+- Weaknesses:
+  - Limited community engagement due to low star count
+  - May require additional development for widespread adoption
+
+### 7. procore-oss/kube-binpacking-exporter
+
+- Link: https://github.com/procore-oss/kube-binpacking-exporter
+- Title: procore-oss/kube-binpacking-exporter
+- Description: Exports Pre-computed Kubernetes Cluster Binpacking Metrics
 - Category: kubernetes-tooling
 - Type: tool
 - Language: Go
@@ -124,112 +145,91 @@ Last updated: 2026-06-13 22:00:26 UTC
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 31
-- Reason: Provides a unique solution for port-forwarding in Kubernetes
+- Stars: 19
+- Reason: Focused and useful binpacking metrics exporter
 - Strengths:
-  - Leverages Envoy TCP proxy for efficient port-forwarding
-  - Built using Kubebuilder for seamless Kubernetes integration
+  - Specific use case
+  - Clear documentation
 - Weaknesses:
-  - Limited documentation and community engagement
+  - Niche functionality
+  - Limited community engagement
 
-### 7. markhuangai/dense-mem
+### 8. 0xjeffro/astroclaw
 
-- Link: https://github.com/markhuangai/dense-mem
-- Title: markhuangai/dense-mem
-- Description: Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, PostgreSQL, and Neo4j.
-- Category: ai-memory-server
-- Type: tool
+- Link: https://github.com/0xjeffro/astroclaw
+- Title: 0xjeffro/astroclaw
+- Description: Cloud-native agent-as-a-service framework with one-click IaC deployment.
+- Category: cloud-infrastructure
+- Type: framework
 - Language: Go
-- Score: 8.0/10
-- Novelty: 7.0/10
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 174
+- Reason: Well-structured Go codebase
+- Strengths:
+  - Cloud-native design
+  - One-click IaC deployment
+- Weaknesses:
+  - Limited documentation
+  - Unclear use cases
+
+### 9. ranjbar-dev/tron-wallet
+
+- Link: https://github.com/ranjbar-dev/tron-wallet
+- Title: ranjbar-dev/tron-wallet
+- Description: Tron wallet package for generating Tron wallet, transferring TRX and Tron Tokens, fetching wallet balance live and crawling blockchain blocks to extract wallet transactions
+- Category: crypto-wallet
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 17
-- Reason: Well-structured AI memory server with multiple features
+- Stars: 64
+- Reason: Well-structured Tron wallet library in Go
 - Strengths:
-  - Self-hosted solution
-  - Supports multiple databases
-  - Includes conflict detection and embeddings
+  - Clear description
+  - Specific use case
+  - Organized topics
+- Weaknesses:
+  - Limited community engagement
+  - Niche functionality
+
+### 10. mokiat/lacking
+
+- Link: https://github.com/mokiat/lacking
+- Title: mokiat/lacking
+- Description: A 3D game engine/framework written in Go
+- Category: game-engine
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 31
+- Reason: Early-stage game engine with potential
+- Strengths:
+  - Written in Go
+  - 3D game engine capabilities
 - Weaknesses:
   - Limited documentation
   - Small community
 
-### 8. hitesh22rana/chronoverse
-
-- Link: https://github.com/hitesh22rana/chronoverse
-- Title: hitesh22rana/chronoverse
-- Description: Distributed job scheduler & Orchestrator on your infrastructure
-- Category: distributed-systems
-- Type: tool
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 12
-- Reason: Well-structured Go project with clear purpose
-- Strengths:
-  - Clear documentation
-  - Modular design
-  - Support for multiple databases and messaging systems
-- Weaknesses:
-  - Limited community engagement
-  - Still in early stages of development
-
-### 9. jaqx0r/blts
-
-- Link: https://github.com/jaqx0r/blts
-- Title: jaqx0r/blts
-- Description: Better Living Through Statistics: Monitoring Doesn't Have To Suck
-- Category: monitoring-observability
-- Type: tool
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 9.0/10
-- Stars: 161
-- Reason: practical approach to monitoring and observability
-- Strengths:
-  - uses OpenTelemetry and Prometheus
-  - demonstrates SLO and SRE principles
-- Weaknesses:
-  - limited documentation
-  - small community
-
-### 10. openshift-kni/oran-o2ims
-
-- Link: https://github.com/openshift-kni/oran-o2ims
-- Title: openshift-kni/oran-o2ims
-- Description: No description available.
-- Category: cloud-infrastructure
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 14
-- Reason: Strong foundation despite small size
-- Strengths:
-  - Written in Go
-  - Focused on OpenShift and ORAN integration
-- Weaknesses:
-  - Limited community engagement
-  - Lack of documentation
-
 ## Categories
 
-- [ai-memory-server](categories/ai-memory-server.md)
 - [cloud-infrastructure](categories/cloud-infrastructure.md)
-- [code-quality](categories/code-quality.md)
-- [database-library](categories/database-library.md)
+- [crypto-wallet](categories/crypto-wallet.md)
+- [database-tooling](categories/database-tooling.md)
 - [dev-tools](categories/dev-tools.md)
-- [distributed-systems](categories/distributed-systems.md)
+- [devops-tooling](categories/devops-tooling.md)
+- [game-engine](categories/game-engine.md)
 - [kubernetes-tooling](categories/kubernetes-tooling.md)
-- [monitoring-observability](categories/monitoring-observability.md)
-- [network-automation](categories/network-automation.md)
-- [workflow-orchestration](categories/workflow-orchestration.md)
+- [robotics-competition](categories/robotics-competition.md)
+- [vpn-tools](categories/vpn-tools.md)
+- [windows-security](categories/windows-security.md)
 
 ## Data
 
