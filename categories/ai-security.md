@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. Asymptote-Labs/agent-beacon
+### 1. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 
-- Link: https://github.com/Asymptote-Labs/agent-beacon
-- Title: Asymptote-Labs/agent-beacon
-- Description: Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, or in the cloud.
+- Link: https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+- Title: Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+- Description: A tool that detects unauthorized access vulnerabilities through passive proxies, leveraging mainstream AI systems such as Kimi, DeepSeek, GPT, and others.
 - Category: ai-security
 - Type: tool
 - Language: Go
 - Score: 8.0/10
-- Novelty: 9.0/10
+- Novelty: 7.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 225
-- Reason: Unique open-source telemetry solution for AI agents
+- Stars: 12
+- Reason: Leverages mainstream AI systems for access vulnerability detection
 - Strengths:
-  - Addresses a specific need in AI agent monitoring
-  - Supports various deployment environments
+  - Innovative use of AI for security testing
+  - Passive proxy approach for vulnerability detection
 - Weaknesses:
-  - Limited community engagement due to relatively low star count
-  - May require additional development for widespread adoption
+  - Limited stars and community engagement
+  - Dependence on third-party AI systems
 
