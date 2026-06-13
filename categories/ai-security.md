@@ -2,24 +2,47 @@
 
 Curated projects in this category.
 
-### 1. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+### 1. agent-receipts/obsigna
 
-- Link: https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities
-- Title: Vortalitys/PrivHunterAI-detects-access-vulnerabilities
-- Description: A tool that detects unauthorized access vulnerabilities through passive proxies, leveraging mainstream AI systems such as Kimi, DeepSeek, GPT, and others.
+- Link: https://github.com/agent-receipts/obsigna
+- Title: agent-receipts/obsigna
+- Description: Agent Receipts — cryptographically signed audit trails for AI agent actions. Protocol spec, SDKs (Go, TypeScript, Python), and MCP proxy.
 - Category: ai-security
-- Type: tool
+- Type: library
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 12
-- Reason: Leverages mainstream AI systems for access vulnerability detection
+- Small repo potential: 9.0/10
+- Stars: 18
+- Reason: Strong foundation in cryptography and AI agent audit trails
 - Strengths:
-  - Innovative use of AI for security testing
-  - Passive proxy approach for vulnerability detection
+  - Cryptographically signed audit trails
+  - Support for multiple programming languages
+  - Clear protocol specification
 - Weaknesses:
-  - Limited stars and community engagement
-  - Dependence on third-party AI systems
+  - Limited community engagement
+  - Dependence on specific cryptographic algorithms
+
+### 2. Mindburn-Labs/helm-ai-kernel
+
+- Link: https://github.com/Mindburn-Labs/helm-ai-kernel
+- Title: Mindburn-Labs/helm-ai-kernel
+- Description: Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Innovative AI agent security solution
+- Strengths:
+  - Unique fail-closed execution firewall approach
+  - Support for OpenAI-compatible requests
+  - Offline verification of EvidencePacks
+- Weaknesses:
+  - Limited community engagement
+  - Relatively new repository
 
