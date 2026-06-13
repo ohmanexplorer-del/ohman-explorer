@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. int128/ktunnels
+### 1. procore-oss/kube-binpacking-exporter
 
-- Link: https://github.com/int128/ktunnels
-- Title: int128/ktunnels
-- Description: Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy
+- Link: https://github.com/procore-oss/kube-binpacking-exporter
+- Title: procore-oss/kube-binpacking-exporter
+- Description: Exports Pre-computed Kubernetes Cluster Binpacking Metrics
 - Category: kubernetes-tooling
 - Type: tool
 - Language: Go
@@ -14,11 +14,12 @@ Curated projects in this category.
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 31
-- Reason: Provides a unique solution for port-forwarding in Kubernetes
+- Stars: 19
+- Reason: Focused and useful binpacking metrics exporter
 - Strengths:
-  - Leverages Envoy TCP proxy for efficient port-forwarding
-  - Built using Kubebuilder for seamless Kubernetes integration
+  - Specific use case
+  - Clear documentation
 - Weaknesses:
-  - Limited documentation and community engagement
+  - Niche functionality
+  - Limited community engagement
 
