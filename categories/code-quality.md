@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. suzuki-shunsuke/nllint
+### 1. bombsimon/wsl
 
-- Link: https://github.com/suzuki-shunsuke/nllint
-- Title: suzuki-shunsuke/nllint
-- Description: Linter and formatter of newlines and trailing spaces in files
+- Link: https://github.com/bombsimon/wsl
+- Title: bombsimon/wsl
+- Description: ␊ whitespace linter - Forces you to use empty lines!
 - Category: code-quality
 - Type: tool
 - Language: Go
 - Score: 8.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: well-defined purpose
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 374
+- Reason: Focused whitespace linter with clear purpose
 - Strengths:
-  - clear description
-  - specific use case
+  - Simple and specific functionality
+  - Low barrier to contribution
 - Weaknesses:
-  - limited functionality
-  - small community
+  - Limited scope
+  - Dependence on Go ecosystem
 
