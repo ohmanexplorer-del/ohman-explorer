@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. awalsh128/cache-apt-pkgs-action
+### 1. mvm-sh/mvm
 
-- Link: https://github.com/awalsh128/cache-apt-pkgs-action
-- Title: awalsh128/cache-apt-pkgs-action
-- Description: Cache APT packages in GitHub Actions
+- Link: https://github.com/mvm-sh/mvm
+- Title: mvm-sh/mvm
+- Description: Mvm is a fast interpreter and virtual machine for Go and beyond.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 348
+- Stars: 312
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. apache/skywalking-banyandb
+### 2. defilantech/LLMKube
 
-- Link: https://github.com/apache/skywalking-banyandb
-- Title: apache/skywalking-banyandb
-- Description: An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data.
+- Link: https://github.com/defilantech/LLMKube
+- Title: defilantech/LLMKube
+- Description: Kubernetes operator for local LLM inference with llama.cpp, vLLM, TGI, and mlx-server — multi-GPU NVIDIA + Apple Silicon Metal, autoscaling, air-gapped, production-ready
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 341
+- Stars: 127
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. gfpcom/free-proxy-list
+### 3. sheawinkler/ContextLattice
 
-- Link: https://github.com/gfpcom/free-proxy-list
-- Title: gfpcom/free-proxy-list
-- Description: 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers - 🔄 Updated Every 30 Minutes⏰
+- Link: https://github.com/sheawinkler/ContextLattice
+- Title: sheawinkler/ContextLattice
+- Description: ContextLattice is the local-first control plane for long-horizon agent memory and coordination.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,37 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 337
+- Stars: 113
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. blacktop/go-macho
+### 4. SamSaffron/term-llm
 
-- Link: https://github.com/blacktop/go-macho
-- Title: blacktop/go-macho
-- Description: Package macho implements access to and creation of Mach-O object files.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 253
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 5. goern/forgejo-mcp
-
-- Link: https://github.com/goern/forgejo-mcp
-- Title: goern/forgejo-mcp
-- Description: MIRROR ONLY!! This Model Context Protocol (MCP) server provides tools and resources for interacting with the Forgejo (specifically Codeberg.org) REST API.
+- Link: https://github.com/SamSaffron/term-llm
+- Title: SamSaffron/term-llm
+- Description: LLM Swiss Army Knife for your Terminal
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 79
+- Stars: 93
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. kdeps/kdeps
+### 5. seaweedfs/seaweed-up
 
-- Link: https://github.com/kdeps/kdeps
-- Title: kdeps/kdeps
-- Description: Build and deploy AI agents in YAML — Workflow pipelines and autonomous agents in YAML. Export as Docker, Kubernetes, ISO, or a single binary. Local llamafile models out of the box - or Ollama, OpenAI, Anthropic, and an...
+- Link: https://github.com/seaweedfs/seaweed-up
+- Title: seaweedfs/seaweed-up
+- Description: bootstrap SeaweedFS over SSH
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,18 +90,56 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 33
+- Stars: 30
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. wippyai/runtime
+### 6. martianoff/gala
 
-- Link: https://github.com/wippyai/runtime
-- Title: wippyai/runtime
-- Description: Application and Orchestration Runtime for agentic systems
+- Link: https://github.com/martianoff/gala
+- Title: martianoff/gala
+- Description: Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. Sarakimz/go-secrets-scanner
+
+- Link: https://github.com/Sarakimz/go-secrets-scanner
+- Title: Sarakimz/go-secrets-scanner
+- Description: 🔍 Scan files for secrets, hashes, and high-entropy strings with go-secrets-scanner. Detect potential leaks and enhance security in your projects.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 8. candelahq/candela
+
+- Link: https://github.com/candelahq/candela
+- Title: candelahq/candela
+- Description: 🕯️ OTel-native LLM observability platform. Trace, cost, and evaluate your LLM calls.
 - Category: go
 - Type: unknown
 - Language: Go
