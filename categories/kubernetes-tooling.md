@@ -2,24 +2,23 @@
 
 Curated projects in this category.
 
-### 1. timebertt/kubectl-revisions
+### 1. int128/ktunnels
 
-- Link: https://github.com/timebertt/kubectl-revisions
-- Title: timebertt/kubectl-revisions
-- Description: 🚀 Time-travel through your workload's revision history 🕰️
+- Link: https://github.com/int128/ktunnels
+- Title: int128/ktunnels
+- Description: Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy
 - Category: kubernetes-tooling
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
-- Maturity: 4.0/10
+- Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 24
-- Reason: useful kubectl plugin
+- Stars: 31
+- Reason: Provides a unique solution for port-forwarding in Kubernetes
 - Strengths:
-  - solves specific problem
-  - simple concept
+  - Leverages Envoy TCP proxy for efficient port-forwarding
+  - Built using Kubebuilder for seamless Kubernetes integration
 - Weaknesses:
-  - limited functionality
-  - small community
+  - Limited documentation and community engagement
 
