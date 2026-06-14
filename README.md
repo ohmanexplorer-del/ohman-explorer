@@ -2,58 +2,57 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 01:40:54 UTC
+Last updated: 2026-06-14 02:01:04 UTC
 
 ## Latest Findings
 
-### 1. FootprintAI/Containarium
+### 1. crossplane/crossplane-runtime
 
-- Link: https://github.com/FootprintAI/Containarium
-- Title: FootprintAI/Containarium
-- Description: The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
-- Category: ai-sandbox
-- Type: tool
+- Link: https://github.com/crossplane/crossplane-runtime
+- Title: crossplane/crossplane-runtime
+- Description: A set of libraries for writing Crossplane controllers.
+- Category: kubernetes-tools
+- Type: library
 - Language: Go
 - Score: 8.0/10
-- Novelty: 9.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 212
-- Reason: Innovative agent-native sandbox approach
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 191
+- Reason: Well-structured library for Crossplane controllers
 - Strengths:
-  - Self-hostable
-  - Multi-tenant support
-  - LXC containerization
+  - Focused on a specific use case
+  - Written in a popular language (Go)
 - Weaknesses:
-  - Limited documentation
-  - Dependence on specific agents
+  - Limited scope
+  - Dependent on Crossplane ecosystem
 
-### 2. jmylchreest/aide
+### 2. ubiquiti-community/unifi-api
 
-- Link: https://github.com/jmylchreest/aide
-- Title: jmylchreest/aide
-- Description: Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
-- Category: ai-dev-tools
-- Type: framework
+- Link: https://github.com/ubiquiti-community/unifi-api
+- Title: ubiquiti-community/unifi-api
+- Description: OpenAPI Definition for Unifi Controller API
+- Category: network-api
+- Type: library
 - Language: Go
 - Score: 8.0/10
-- Novelty: 9.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: Innovative multi-agent approach to AI coding assistants
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 12
+- Reason: Well-defined OpenAPI specification for Unifi Controller API
 - Strengths:
-  - Unique architecture
-  - Support for multiple AI models
+  - Clear API definition
+  - Useful for automation and integration
 - Weaknesses:
   - Limited community engagement
-  - Dependence on specific AI models
+  - Dependent on Unifi Controller API
 
-### 3. ozgurcd/gograph
+### 3. runxiyu/furgit
 
-- Link: https://github.com/ozgurcd/gograph
-- Title: ozgurcd/gograph
-- Description: Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more.
+- Link: https://github.com/runxiyu/furgit
+- Title: runxiyu/furgit
+- Description: Low-level Git plumbing library in pure Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -61,18 +60,56 @@ Last updated: 2026-06-14 01:40:54 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 175
+- Stars: 254
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. cozystack/blockstor
+### 4. t-mart/mousehole
 
-- Link: https://github.com/cozystack/blockstor
-- Title: cozystack/blockstor
-- Description: Free Software-Defined Storage System based on Kubernetes
+- Link: https://github.com/t-mart/mousehole
+- Title: t-mart/mousehole
+- Description: A background service to update a seedbox IP for MAM
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 230
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. secmon-lab/warren
+
+- Link: https://github.com/secmon-lab/warren
+- Title: secmon-lab/warren
+- Description: AI-powered security alert management that reduces noise and accelerates response time
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 127
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. home-operations/gatus-sidecar
+
+- Link: https://github.com/home-operations/gatus-sidecar
+- Title: home-operations/gatus-sidecar
+- Description: Generate Gatus endpoint configs from Kubernetes HTTPRoute, Ingress, and Service resources
 - Category: go
 - Type: unknown
 - Language: Go
@@ -80,18 +117,18 @@ Last updated: 2026-06-14 01:40:54 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 41
+- Stars: 74
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. procinger/turing-pi-v2-cluster
+### 7. paketo-buildpacks/dotnet-core
 
-- Link: https://github.com/procinger/turing-pi-v2-cluster
-- Title: procinger/turing-pi-v2-cluster
-- Description: Turing Pi V2 K3S Cluster bootstrapping with Ansible and Argo CD. Dependency monitoring and updating with Renovate Bot. Running CI tests with the K8S E2E Framework.
+- Link: https://github.com/paketo-buildpacks/dotnet-core
+- Title: paketo-buildpacks/dotnet-core
+- Description: A Cloud Native Buildpack for .NET Core
 - Category: go
 - Type: unknown
 - Language: Go
@@ -99,18 +136,18 @@ Last updated: 2026-06-14 01:40:54 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 26
+- Stars: 49
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. BK-1107/GoNexus
+### 8. jr200-labs/nats-iam-broker
 
-- Link: https://github.com/BK-1107/GoNexus
-- Title: BK-1107/GoNexus
-- Description: No description available.
+- Link: https://github.com/jr200-labs/nats-iam-broker
+- Title: jr200-labs/nats-iam-broker
+- Description: A NATS decentralised auth-callout service to swap thirdparty IdP JWTs for RBAC'd NATS User JWTs
 - Category: go
 - Type: unknown
 - Language: Go
@@ -118,18 +155,18 @@ Last updated: 2026-06-14 01:40:54 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 21
+- Stars: 29
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. jordigilh/kubernaut
+### 9. zoharbabin/web-researcher-mcp
 
-- Link: https://github.com/jordigilh/kubernaut
-- Title: jordigilh/kubernaut
-- Description: Open-source AIOps platform that closes the loop from Kubernetes alert to automated remediation. An AI Agent investigates live via native client-go bindings, logs, and Prometheus, selects a fix from a workflow catalog, an...
+- Link: https://github.com/zoharbabin/web-researcher-mcp
+- Title: zoharbabin/web-researcher-mcp
+- Description: Verifies citations, flags retractions, audits bibliographies — and searches the web. Your AI research assistant that cites real sources and stays honest. Works with Claude, Cursor, any MCP client.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -137,18 +174,18 @@ Last updated: 2026-06-14 01:40:54 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 20
+- Stars: 16
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. baekenough/second-brain
+### 10. winebarrel/pistachio
 
-- Link: https://github.com/baekenough/second-brain
-- Title: baekenough/second-brain
-- Description: LLM 큐레이션 프라이빗 검색 엔진. Slack/GitHub/GDrive/파일시스템 하이브리드 검색 + AI 큐레이션 API.
+- Link: https://github.com/winebarrel/pistachio
+- Title: winebarrel/pistachio
+- Description: pistachio is a declarative schema management tool for PostgreSQL.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -156,59 +193,19 @@ Last updated: 2026-06-14 01:40:54 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 12
+- Stars: 14
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
-
-### 9. kagenti/kagenti-extensions
-
-- Link: https://github.com/kagenti/kagenti-extensions
-- Title: kagenti/kagenti-extensions
-- Description: Repository for kagenti extensions projects
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 10. teofanis/ybdownloader
-
-- Link: https://github.com/teofanis/ybdownloader
-- Title: teofanis/ybdownloader
-- Description: YouTube downloader/FFMPEG Converter playground - now in Go/Wails instead of Electron
-- Category: media-tools
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: useful YouTube downloader with a modern tech stack
-- Strengths:
-  - Go and Wails tech stack
-  - FFMPEG integration
-- Weaknesses:
-  - limited community engagement
-  - basic functionality
 
 ## Categories
 
-- [ai-dev-tools](categories/ai-dev-tools.md)
-- [ai-sandbox](categories/ai-sandbox.md)
 - [go](categories/go.md)
-- [media-tools](categories/media-tools.md)
+- [kubernetes-tools](categories/kubernetes-tools.md)
+- [network-api](categories/network-api.md)
+- [typescript](categories/typescript.md)
 
 ## Data
 
