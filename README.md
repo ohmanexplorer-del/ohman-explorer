@@ -2,9 +2,13 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 17:21:04 UTC
+Last updated: 2026-06-14 17:31:48 UTC
 
 Total indexed projects: 487
+
+## Disclaimer
+
+This library is AI-assisted curation, not a final endorsement. Scores are signals for discovery and comparison. Repo age, activity, maintenance history, and direct inspection should be considered before adoption, especially for young projects.
 
 ## Categories
 
@@ -14,8 +18,7 @@ Total indexed projects: 487
 | [ad-blocking](categories/ad-blocking.md) | 1 |
 | [adblock-filterlists](categories/adblock-filterlists.md) | 1 |
 | [admin-backend](categories/admin-backend.md) | 1 |
-| [ai-agent](categories/ai-agent.md) | 1 |
-| [ai-agents](categories/ai-agents.md) | 2 |
+| [ai-agents](categories/ai-agents.md) | 3 |
 | [ai-automation](categories/ai-automation.md) | 1 |
 | [ai-coding-agents](categories/ai-coding-agents.md) | 1 |
 | [ai-dev-tools](categories/ai-dev-tools.md) | 1 |
@@ -31,11 +34,8 @@ Total indexed projects: 487
 | [ai-sandbox](categories/ai-sandbox.md) | 1 |
 | [ai-security](categories/ai-security.md) | 7 |
 | [ai-simulation](categories/ai-simulation.md) | 1 |
-| [ai-tooling](categories/ai-tooling.md) | 1 |
-| [ai-toolkit](categories/ai-toolkit.md) | 1 |
-| [ai-tools](categories/ai-tools.md) | 1 |
-| [ai-workflow](categories/ai-workflow.md) | 1 |
-| [ai-workflows](categories/ai-workflows.md) | 1 |
+| [ai-tools](categories/ai-tools.md) | 3 |
+| [ai-workflows](categories/ai-workflows.md) | 2 |
 | [application-security](categories/application-security.md) | 1 |
 | [aprs-stack](categories/aprs-stack.md) | 1 |
 | [artificial-intelligence](categories/artificial-intelligence.md) | 1 |
@@ -72,23 +72,18 @@ Total indexed projects: 487
 | [data-repository](categories/data-repository.md) | 1 |
 | [data-scraping](categories/data-scraping.md) | 2 |
 | [data-storage](categories/data-storage.md) | 1 |
+| [database](categories/database.md) | 2 |
 | [database-drivers](categories/database-drivers.md) | 1 |
-| [database-library](categories/database-library.md) | 1 |
 | [database-management](categories/database-management.md) | 1 |
 | [database-orm](categories/database-orm.md) | 1 |
 | [database-security](categories/database-security.md) | 1 |
-| [database-system](categories/database-system.md) | 1 |
-| [database-tooling](categories/database-tooling.md) | 2 |
-| [database-tools](categories/database-tools.md) | 1 |
+| [database-tools](categories/database-tools.md) | 3 |
 | [date-time-utils](categories/date-time-utils.md) | 1 |
 | [deep-learning](categories/deep-learning.md) | 1 |
 | [desktop-service](categories/desktop-service.md) | 1 |
-| [dev-ops](categories/dev-ops.md) | 6 |
-| [dev-tool](categories/dev-tool.md) | 2 |
-| [dev-tools](categories/dev-tools.md) | 4 |
-| [developer-tools](categories/developer-tools.md) | 6 |
+| [dev-tools](categories/dev-tools.md) | 12 |
 | [development-tool](categories/development-tool.md) | 1 |
-| [devops-tooling](categories/devops-tooling.md) | 2 |
+| [devops](categories/devops.md) | 8 |
 | [devops-tools](categories/devops-tools.md) | 1 |
 | [discord-bot](categories/discord-bot.md) | 1 |
 | [discussion-platforms](categories/discussion-platforms.md) | 1 |
@@ -126,10 +121,9 @@ Total indexed projects: 487
 | [iptv-streaming](categories/iptv-streaming.md) | 1 |
 | [issue-tracking](categories/issue-tracking.md) | 1 |
 | [k8s-security](categories/k8s-security.md) | 1 |
+| [kubernetes](categories/kubernetes.md) | 6 |
 | [kubernetes-observability](categories/kubernetes-observability.md) | 1 |
 | [kubernetes-operator](categories/kubernetes-operator.md) | 1 |
-| [kubernetes-tooling](categories/kubernetes-tooling.md) | 4 |
-| [kubernetes-tools](categories/kubernetes-tools.md) | 2 |
 | [linux-config](categories/linux-config.md) | 1 |
 | [linux-security](categories/linux-security.md) | 1 |
 | [llm-security](categories/llm-security.md) | 1 |
@@ -141,9 +135,8 @@ Total indexed projects: 487
 | [messaging-bridge](categories/messaging-bridge.md) | 1 |
 | [metadata-management](categories/metadata-management.md) | 1 |
 | [minecraft-plugin](categories/minecraft-plugin.md) | 1 |
+| [monitoring](categories/monitoring.md) | 3 |
 | [monitoring-observability](categories/monitoring-observability.md) | 1 |
-| [monitoring-tool](categories/monitoring-tool.md) | 2 |
-| [monitoring-tools](categories/monitoring-tools.md) | 1 |
 | [music-server](categories/music-server.md) | 1 |
 | [network-api](categories/network-api.md) | 1 |
 | [network-automation](categories/network-automation.md) | 2 |
@@ -152,9 +145,8 @@ Total indexed projects: 487
 | [network-protocol](categories/network-protocol.md) | 1 |
 | [network-security](categories/network-security.md) | 5 |
 | [network-server](categories/network-server.md) | 1 |
-| [network-utility](categories/network-utility.md) | 3 |
+| [networking](categories/networking.md) | 6 |
 | [networking-config](categories/networking-config.md) | 1 |
-| [networking-tool](categories/networking-tool.md) | 3 |
 | [networking-tools](categories/networking-tools.md) | 1 |
 | [nextjs-boilerplate](categories/nextjs-boilerplate.md) | 1 |
 | [nlp-framework](categories/nlp-framework.md) | 1 |
@@ -166,8 +158,7 @@ Total indexed projects: 487
 | [privacy-tools](categories/privacy-tools.md) | 1 |
 | [productivity-app](categories/productivity-app.md) | 1 |
 | [productivity-tool](categories/productivity-tool.md) | 2 |
-| [programming-language](categories/programming-language.md) | 1 |
-| [programming-languages](categories/programming-languages.md) | 1 |
+| [programming-language](categories/programming-language.md) | 2 |
 | [project-management](categories/project-management.md) | 2 |
 | [proxy-configs](categories/proxy-configs.md) | 2 |
 | [proxy-management](categories/proxy-management.md) | 3 |
@@ -180,9 +171,8 @@ Total indexed projects: 487
 | [routeros-script](categories/routeros-script.md) | 1 |
 | [rust](categories/rust.md) | 1 |
 | [scientific-simulation](categories/scientific-simulation.md) | 1 |
+| [security](categories/security.md) | 6 |
 | [security-monitoring](categories/security-monitoring.md) | 1 |
-| [security-tool](categories/security-tool.md) | 2 |
-| [security-tools](categories/security-tools.md) | 4 |
 | [serverless-framework](categories/serverless-framework.md) | 1 |
 | [social-media-bot](categories/social-media-bot.md) | 1 |
 | [sql-parser](categories/sql-parser.md) | 1 |
@@ -206,7 +196,7 @@ Total indexed projects: 487
 | [weather-forecast](categories/weather-forecast.md) | 1 |
 | [web-crawling](categories/web-crawling.md) | 1 |
 | [web-development](categories/web-development.md) | 1 |
-| [web-frameworks](categories/web-frameworks.md) | 1 |
+| [web-framework](categories/web-framework.md) | 1 |
 | [web-hosting](categories/web-hosting.md) | 1 |
 | [web-scraping](categories/web-scraping.md) | 1 |
 | [web-servers](categories/web-servers.md) | 1 |
