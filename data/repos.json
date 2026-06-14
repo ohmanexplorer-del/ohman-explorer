@@ -16,15 +16,15 @@
     "updated_at": "2026-06-13T23:16:23+07:00",
     "pushed_at": "2026-06-13T22:28:00+07:00",
     "ai_score": 10,
-    "ai_notes": "SCORE: 10 NOTES: The official Linux kernel repository, maintained by Linus Torvalds, with an extremely high star count and widespread influence in the open-source community, indicating its significance and quality.",
+    "ai_notes": "SCORE: 10\nNOTES: The official Linux kernel repository, maintained by Linus Torvalds, with an extremely high star count and widespread influence in the open-source community, indicating its significance and quality.",
     "readme_summary": "",
     "category": "",
     "project_type": "",
     "novelty": 0,
     "maturity": 0,
     "small_repo_fit": 0,
-    "strengths": [],
-    "weaknesses": [],
+    "strengths": null,
+    "weaknesses": null,
     "publish": true
   },
   {
@@ -582,6 +582,57 @@
     "weaknesses": [
       "Requires constant maintenance to keep up with API schema changes from NetBox and various third-party vendors",
       "Smaller community size makes long-term support reliant on a few core contributors"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1158815639,
+    "full_name": "changkun/wallfacer",
+    "owner": "changkun",
+    "description": "Chat, specs, tasks, and code. An autonomous engineering platform. Full autonomy when you trust it. Full control when you don't.",
+    "stars": 71,
+    "forks": 9,
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "autonomous-coding",
+      "autonomous-engineering",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "golang",
+      "kanban",
+      "llm",
+      "orchestration",
+      "sandbox",
+      "spec-driven-development",
+      "task-board",
+      "task-orchestration"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://wf.latere.ai/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-02-16T07:15:02+07:00",
+    "updated_at": "2026-06-14T22:37:08+07:00",
+    "pushed_at": "2026-06-14T22:37:05+07:00",
+    "ai_score": 8,
+    "ai_notes": "A rare and well-architected autonomous engineering platform built in Go, offering structured task orchestration and sandboxed execution.",
+    "readme_summary": "",
+    "category": "ai-coding-agents",
+    "project_type": "app",
+    "novelty": 8,
+    "maturity": 4,
+    "small_repo_fit": 9,
+    "strengths": [
+      "Written in Go, providing excellent performance, concurrency, and simple binary deployment.",
+      "Combines spec-driven development with a visual Kanban task board for structured agent-human collaboration.",
+      "Strong emphasis on safety with human-in-the-loop controls and sandboxing."
+    ],
+    "weaknesses": [
+      "Early-stage project with low community adoption and documentation.",
+      "Go has a smaller ecosystem of ready-to-use LLM tooling compared to Python or TypeScript."
     ],
     "publish": true
   },
@@ -2043,7 +2094,7 @@
     "github_id": 1062346086,
     "full_name": "oneclickvirt/oneclickvirt",
     "owner": "oneclickvirt",
-    "description": "Universal Virtualization Management Platform 可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt",
+    "description": "Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt",
     "stars": 344,
     "forks": 57,
     "language": "Go",
@@ -3902,7 +3953,7 @@
     "github_id": 1216159845,
     "full_name": "aystro-com/apod",
     "owner": "aystro-com",
-    "description": "A single binary that turns any VPS into a hosting platform. Deploy sites, manage domains, handle SSL — all through Docker containers without the overhead of traditional panels. Why apod? Hosting panels are bloated. PaaS platforms are expensive. Kubernetes is overkill for most workloads. apod sits in the sweet spot: one binary, zero dependencies.",
+    "description": "A single binary that turns any VPS into a hosting platform. Deploy sites, manage domains, handle SSL — all through Docker containers without the overhead of traditional panels.  Why apod? Hosting panels are bloated. PaaS platforms are expensive. Kubernetes is overkill for most workloads. apod sits in the sweet spot: one binary, zero dependencies.",
     "stars": 14,
     "forks": 1,
     "language": "Go",
@@ -4947,6 +4998,41 @@
     "publish": true
   },
   {
+    "github_id": 42715907,
+    "full_name": "KDE/akonadi",
+    "owner": "KDE",
+    "description": "Cross-desktop storage service for PIM data providing concurrent access",
+    "stars": 34,
+    "forks": 8,
+    "language": "C++",
+    "topics": [],
+    "license": "",
+    "default_branch": "master",
+    "homepage": "https://invent.kde.org/pim/akonadi",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2015-09-18T17:46:04+07:00",
+    "updated_at": "2026-06-14T22:37:12+07:00",
+    "pushed_at": "2026-06-14T22:37:08+07:00",
+    "ai_score": 8,
+    "ai_notes": "Established PIM data storage solution",
+    "readme_summary": "",
+    "category": "desktop-service",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 9,
+    "small_repo_fit": 4,
+    "strengths": [
+      "Cross-desktop compatibility",
+      "Concurrent access support",
+      "Mature codebase"
+    ],
+    "weaknesses": [
+      "Limited community engagement",
+      "Narrow focus on PIM data"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 173785925,
     "full_name": "pulumi/pulumi-cloudflare",
     "owner": "pulumi",
@@ -5044,15 +5130,15 @@
     "updated_at": "2026-06-13T22:36:01+07:00",
     "pushed_at": "2026-06-13T04:14:12+07:00",
     "ai_score": 8,
-    "ai_notes": "SCORE: 8 NOTES: The repository has a high star count, suggesting it's well-liked, and being owned by Linus Torvalds, the creator of Linux, adds credibility. However, the lack of topics and limited information about the project makes it difficult to fully assess its quality or purpose.",
+    "ai_notes": "SCORE: 8\nNOTES: The repository has a high star count, suggesting it's well-liked, and being owned by Linus Torvalds, the creator of Linux, adds credibility. However, the lack of topics and limited information about the project makes it difficult to fully assess its quality or purpose.",
     "readme_summary": "",
     "category": "",
     "project_type": "",
     "novelty": 0,
     "maturity": 0,
     "small_repo_fit": 0,
-    "strengths": [],
-    "weaknesses": [],
+    "strengths": null,
+    "weaknesses": null,
     "publish": true
   },
   {
@@ -6937,6 +7023,40 @@
     "publish": true
   },
   {
+    "github_id": 892938900,
+    "full_name": "SoliSpirit/proxy-list",
+    "owner": "SoliSpirit",
+    "description": "An automated proxy list that updates every 3 hours with HTTP, HTTPS, SOCKS4, and SOCKS5 proxies from multiple countries.",
+    "stars": 80,
+    "forks": 9,
+    "language": "",
+    "topics": [],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-11-23T12:12:19+07:00",
+    "updated_at": "2026-06-14T22:37:12+07:00",
+    "pushed_at": "2026-06-14T22:37:12+07:00",
+    "ai_score": 6,
+    "ai_notes": "Automated proxy list with multiple protocols",
+    "readme_summary": "",
+    "category": "networking-tools",
+    "project_type": "tool",
+    "novelty": 4,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Regular updates",
+      "Multi-protocol support"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Unclear proxy source"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 962885305,
     "full_name": "goern/forgejo-mcp",
     "owner": "goern",
@@ -7002,6 +7122,45 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 421615562,
+    "full_name": "beyond-all-reason/bar-lobby",
+    "owner": "beyond-all-reason",
+    "description": "BAR Lobby Client",
+    "stars": 77,
+    "forks": 86,
+    "language": "Vue",
+    "topics": [
+      "electron",
+      "gaming",
+      "typescript",
+      "vue"
+    ],
+    "license": "Other",
+    "default_branch": "master",
+    "homepage": "https://beyond-all-reason.github.io/bar-lobby/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2021-10-27T06:37:02+07:00",
+    "updated_at": "2026-06-14T22:37:10+07:00",
+    "pushed_at": "2026-06-14T22:37:06+07:00",
+    "ai_score": 6,
+    "ai_notes": "Well-structured Vue application",
+    "readme_summary": "",
+    "category": "gaming-client",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Electron integration",
+      "TypeScript usage"
+    ],
+    "weaknesses": [
+      "Limited community engagement",
+      "Niche use case"
     ],
     "publish": true
   },
@@ -7659,7 +7818,7 @@
     "updated_at": "2026-06-14T07:55:43+07:00",
     "pushed_at": "2026-06-14T07:55:40+07:00",
     "ai_score": 6,
-    "ai_notes": "{ \"category\": \"logging\", \"project_type\": \"example\", \"score\": 6, \"novelty\": 4, \"m",
+    "ai_notes": "{\n  \"category\": \"logging\",\n  \"project_type\": \"example\",\n  \"score\": 6,\n  \"novelty\": 4,\n  \"m",
     "readme_summary": "",
     "category": "go",
     "project_type": "unknown",
@@ -8307,7 +8466,7 @@
     "github_id": 1215020386,
     "full_name": "hugalafutro/model-hotel",
     "owner": "hugalafutro",
-    "description": "Multi-Provider AI Gateway - Model Autodiscovery, Failover Groups and more. No personal logs by design. \"Because we have LiteLLM at home\"",
+    "description": "Multi-Provider AI Gateway - Model Autodiscovery, Failover Groups and more. No personal logs by design.  \"Because we have LiteLLM at home\"",
     "stars": 46,
     "forks": 2,
     "language": "Go",
@@ -9726,6 +9885,40 @@
     "publish": true
   },
   {
+    "github_id": 1186524004,
+    "full_name": "juspay/kolu",
+    "owner": "juspay",
+    "description": "A terminal app built for scale and optimized for coding agents",
+    "stars": 30,
+    "forks": 8,
+    "language": "TypeScript",
+    "topics": [],
+    "license": "GNU Affero General Public License v3.0",
+    "default_branch": "master",
+    "homepage": "https://kolu.dev",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-03-20T01:03:25+07:00",
+    "updated_at": "2026-06-14T22:37:09+07:00",
+    "pushed_at": "2026-06-14T22:37:06+07:00",
+    "ai_score": 6,
+    "ai_notes": "Optimized for coding agents",
+    "readme_summary": "",
+    "category": "terminal-app",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "TypeScript implementation",
+      "Optimized for coding agents"
+    ],
+    "weaknesses": [
+      "Limited topics and documentation",
+      "Low star count"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 556588178,
     "full_name": "seaweedfs/seaweed-up",
     "owner": "seaweedfs",
@@ -9826,7 +10019,7 @@
     "updated_at": "2026-06-14T07:57:54+07:00",
     "pushed_at": "2026-06-14T07:58:37+07:00",
     "ai_score": 6,
-    "ai_notes": "{ \"category\": \"shell-linters\", \"project_type\": \"tool\", \"score\": 7.2, \"novelty\":",
+    "ai_notes": "{\n  \"category\": \"shell-linters\",\n  \"project_type\": \"tool\",\n  \"score\": 7.2,\n  \"novelty\": ",
     "readme_summary": "",
     "category": "go",
     "project_type": "unknown",
@@ -10982,6 +11175,40 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 864966664,
+    "full_name": "yuanxiawan/cfipv4db",
+    "owner": "yuanxiawan",
+    "description": "获取最优的移动，电信，联通的ip线路，韩国优选ip每15分钟更新一次！夜晚高峰14万速度！",
+    "stars": 21,
+    "forks": 13,
+    "language": "Python",
+    "topics": [],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-09-29T23:35:59+07:00",
+    "updated_at": "2026-06-14T22:37:09+07:00",
+    "pushed_at": "2026-06-14T22:37:06+07:00",
+    "ai_score": 6,
+    "ai_notes": "Frequent updates and specific use case",
+    "readme_summary": "",
+    "category": "network-optimization",
+    "project_type": "tool",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Regular updates",
+      "Specific optimization goal"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Unclear implementation details"
     ],
     "publish": true
   },
@@ -12480,6 +12707,40 @@
     "publish": true
   },
   {
+    "github_id": 668295420,
+    "full_name": "bugbounted/auto-commit",
+    "owner": "bugbounted",
+    "description": "🌳 Making green your Github stats, powered by Github Actions",
+    "stars": 13,
+    "forks": 2,
+    "language": "",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2023-07-19T20:23:18+07:00",
+    "updated_at": "2026-06-14T22:37:08+07:00",
+    "pushed_at": "2026-06-14T22:37:04+07:00",
+    "ai_score": 6,
+    "ai_notes": "Simple automated GitHub stats improvement",
+    "readme_summary": "",
+    "category": "github-tools",
+    "project_type": "tool",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Automated process",
+      "Uses GitHub Actions"
+    ],
+    "weaknesses": [
+      "Limited functionality",
+      "Not widely adopted"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 352273607,
     "full_name": "gosagawa/atcoder",
     "owner": "gosagawa",
@@ -13083,7 +13344,7 @@
     "updated_at": "2026-06-14T07:11:59+07:00",
     "pushed_at": "2026-06-14T07:11:55+07:00",
     "ai_score": 6,
-    "ai_notes": "{ \"category\": \"aws-infrastructure\", \"project_type\": \"tool\", \"score\": 5, \"novelty\": 5, \"maturity\": 2, \"small_repo_fit\": 6, \"reason\": \"A Go-based LocalStack alternative is potentially useful, but the project appears early-stage and likely has limited service coverage.\", \"strengths\": [ \"Targets a clear AWS-local-development need\", \"Go implementation may be lighter and easier to deploy than heavier alternatives\", \"Niche could be valuable for",
+    "ai_notes": "{\n  \"category\": \"aws-infrastructure\",\n  \"project_type\": \"tool\",\n  \"score\": 5,\n  \"novelty\": 5,\n  \"maturity\": 2,\n  \"small_repo_fit\": 6,\n  \"reason\": \"A Go-based LocalStack alternative is potentially useful, but the project appears early-stage and likely has limited service coverage.\",\n  \"strengths\": [\n    \"Targets a clear AWS-local-development need\",\n    \"Go implementation may be lighter and easier to deploy than heavier alternatives\",\n    \"Niche could be valuable for",
     "readme_summary": "",
     "category": "go",
     "project_type": "unknown",
@@ -13835,7 +14096,7 @@
     "updated_at": "2026-06-14T06:55:10+07:00",
     "pushed_at": "2026-06-14T06:55:07+07:00",
     "ai_score": 6,
-    "ai_notes": "{ \"category\": \"macos-automation\", \"project_type\": \"tool\", \"score\": 7, \"novelty\": 6, \"maturity\": 5, \"small_repo_fit\": 7, \"reason\": \"A small, focused Go agent for triggering macOS",
+    "ai_notes": "{\n  \"category\": \"macos-automation\",\n  \"project_type\": \"tool\",\n  \"score\": 7,\n  \"novelty\": 6,\n  \"maturity\": 5,\n  \"small_repo_fit\": 7,\n  \"reason\": \"A small, focused Go agent for triggering macOS",
     "readme_summary": "",
     "category": "go",
     "project_type": "unknown",
@@ -14105,6 +14366,43 @@
     "publish": true
   },
   {
+    "github_id": 382448273,
+    "full_name": "files-community/Website",
+    "owner": "files-community",
+    "description": "",
+    "stars": 463,
+    "forks": 226,
+    "language": "SCSS",
+    "topics": [
+      "documentation",
+      "files"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://files.community",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2021-07-03T02:49:41+07:00",
+    "updated_at": "2026-06-14T22:37:09+07:00",
+    "pushed_at": "2026-06-14T22:37:05+07:00",
+    "ai_score": 6,
+    "ai_notes": "Clear documentation focus",
+    "readme_summary": "",
+    "category": "documentation-website",
+    "project_type": "app",
+    "novelty": 2,
+    "maturity": 8,
+    "small_repo_fit": 6,
+    "strengths": [
+      "Focused on documentation",
+      "Well-organized topics"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Not a widely-used technology"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 6082996,
     "full_name": "couchbase/sync_gateway",
     "owner": "couchbase",
@@ -14328,7 +14626,7 @@
     "updated_at": "2026-06-14T08:18:29+07:00",
     "pushed_at": "2026-06-14T08:18:26+07:00",
     "ai_score": 6,
-    "ai_notes": "{ \"category\": \"recipe-management\", \"project_type\": \"app\", \"score\": 7, \"novelty\": 5",
+    "ai_notes": "{\n  \"category\": \"recipe-management\",\n  \"project_type\": \"app\",\n  \"score\": 7,\n  \"novelty\": 5",
     "readme_summary": "",
     "category": "go",
     "project_type": "unknown",
@@ -14366,7 +14664,7 @@
     "updated_at": "2026-06-14T07:34:04+07:00",
     "pushed_at": "2026-06-14T07:34:00+07:00",
     "ai_score": 6,
-    "ai_notes": "{ \"category\": \"security-recon\", \"project_type\": \"unknown\", \"score\": 7.4, \"novelty\": 6.5, \"maturity\": 7.0, \"small",
+    "ai_notes": "{\n  \"category\": \"security-recon\",\n  \"project_type\": \"unknown\",\n  \"score\": 7.4,\n  \"novelty\": 6.5,\n  \"maturity\": 7.0,\n  \"small",
     "readme_summary": "",
     "category": "go",
     "project_type": "unknown",
@@ -14486,7 +14784,7 @@
     "github_id": 247489084,
     "full_name": "yumenaka/comigo",
     "owner": "yumenaka",
-    "description": "Comic \u0026 Manga Reader in Linux，Windows，MacOS（and Terminal）。跨平台漫画阅读器。 ただの漫画リーダー。",
+    "description": "Comic \u0026 Manga Reader in Linux，Windows，MacOS（and Terminal）。跨平台漫画阅读器。  ただの漫画リーダー。",
     "stars": 343,
     "forks": 14,
     "language": "Go",
@@ -14633,7 +14931,7 @@
     "github_id": 926001957,
     "full_name": "gfpcom/free-proxy-list",
     "owner": "gfpcom",
-    "description": "🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers - 🔄 Updated Every 30 Minutes⏰",
+    "description": "🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers  - 🔄 Updated Every 30 Minutes⏰",
     "stars": 337,
     "forks": 46,
     "language": "Go",
@@ -14753,6 +15051,47 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 717601103,
+    "full_name": "ALIILAPRO/v2rayNG-Config",
+    "owner": "ALIILAPRO",
+    "description": "Get new and fast config for bypassing net.",
+    "stars": 331,
+    "forks": 48,
+    "language": "HTML",
+    "topics": [
+      "aliilapro",
+      "config",
+      "v2ray",
+      "v2rayng",
+      "vless",
+      "vpn"
+    ],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "main",
+    "homepage": "http://aliilapro.ir/v2rayNG-Config/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2023-11-12T07:48:10+07:00",
+    "updated_at": "2026-06-14T22:37:10+07:00",
+    "pushed_at": "2026-06-14T22:37:09+07:00",
+    "ai_score": 6,
+    "ai_notes": "Limited scope but well-maintained config repository",
+    "readme_summary": "",
+    "category": "network-security",
+    "project_type": "config",
+    "novelty": 2,
+    "maturity": 8,
+    "small_repo_fit": 6,
+    "strengths": [
+      "Well-organized config files",
+      "Regular updates"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Narrow focus on v2rayNG"
     ],
     "publish": true
   },
@@ -16762,6 +17101,61 @@
     "publish": true
   },
   {
+    "github_id": 945547338,
+    "full_name": "V2RAYCONFIGSPOOL/V2RAY_SUB",
+    "owner": "V2RAYCONFIGSPOOL",
+    "description": "UPLOADING V2RAY CONFIGURATIONS NONSTOP, 24/7.",
+    "stars": 212,
+    "forks": 19,
+    "language": "",
+    "topics": [
+      "config",
+      "free-v2ray",
+      "freeserver",
+      "freevpn",
+      "grpc",
+      "hysteria2",
+      "iran",
+      "reality",
+      "shadowsocks",
+      "telegram",
+      "v2ray",
+      "v2ray-config",
+      "v2ray-list",
+      "v2ray-subscriber",
+      "v2rayn",
+      "v2rayng",
+      "vless",
+      "vmess",
+      "vpn",
+      "vpnserver"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "https://t.me/v2ray_configs_pool",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-03-10T00:21:05+07:00",
+    "updated_at": "2026-06-14T22:37:09+07:00",
+    "pushed_at": "2026-06-14T22:37:05+07:00",
+    "ai_score": 6,
+    "ai_notes": "Lack of original code, mostly configuration files",
+    "readme_summary": "",
+    "category": "networking-config",
+    "project_type": "config",
+    "novelty": 2,
+    "maturity": 8,
+    "small_repo_fit": 4,
+    "strengths": [
+      "Active maintenance",
+      "Comprehensive v2ray configurations"
+    ],
+    "weaknesses": [
+      "Limited original code",
+      "Dependence on v2ray"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1011906738,
     "full_name": "hyperledger/fabric-x-common",
     "owner": "hyperledger",
@@ -16846,15 +17240,15 @@
     "updated_at": "2026-06-13T21:07:03+07:00",
     "pushed_at": "2025-09-19T09:54:14+07:00",
     "ai_score": 6,
-    "ai_notes": "SCORE: 6 NOTES: The repository has a moderate number of stars, but lacks topics and a detailed description, making it difficult to understand the project's purpose and scope. The use of OpenSCAD for a guitar pedal design is also unusual, as KiCad is typically used for PCB design, suggesting a potential mismatch between the tools and the project's goals.",
+    "ai_notes": "SCORE: 6\nNOTES: The repository has a moderate number of stars, but lacks topics and a detailed description, making it difficult to understand the project's purpose and scope. The use of OpenSCAD for a guitar pedal design is also unusual, as KiCad is typically used for PCB design, suggesting a potential mismatch between the tools and the project's goals.",
     "readme_summary": "",
     "category": "",
     "project_type": "",
     "novelty": 0,
     "maturity": 0,
     "small_repo_fit": 0,
-    "strengths": [],
-    "weaknesses": [],
+    "strengths": null,
+    "weaknesses": null,
     "publish": true
   },
   {
