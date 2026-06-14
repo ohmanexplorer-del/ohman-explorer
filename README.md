@@ -2,238 +2,238 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 07:01:02 UTC
+Last updated: 2026-06-14 07:20:58 UTC
 
 ## Latest Findings
 
-### 1. pulumi/pulumi-command
+### 1. mondoohq/cnspec
 
-- Link: https://github.com/pulumi/pulumi-command
-- Title: pulumi/pulumi-command
-- Description: No description available.
-- Category: infrastructure-as-code
+- Link: https://github.com/mondoohq/cnspec
+- Title: mondoohq/cnspec
+- Description: An open source, cloud-native security to protect everything from build to runtime
+- Category: cloud-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 429
+- Reason: An exceptionally versatile security and compliance scanner that unifies infrastructure, Kubernetes, and cloud-native scanning under a single, declarative policy engine.
+- Strengths:
+  - Supports a wide array of targets including local OS, containers, Kubernetes, and cloud providers
+  - Uses a powerful, declarative query language (MQL) for custom policy definition
+  - Highly efficient Go implementation with minimal runtime overhead
+- Weaknesses:
+  - Mondoo Query Language (MQL) adds a learning curve compared to established standards like Rego/OPA
+  - Some ecosystem integrations heavily nudge users towards their commercial SaaS platform
+
+### 2. pulumi/pulumi-github
+
+- Link: https://github.com/pulumi/pulumi-github
+- Title: pulumi/pulumi-github
+- Description: A Pulumi package to facilitate interacting with GitHub
+- Category: dev-ops
 - Type: library
 - Language: Go
 - Score: 8.0/10
-- Novelty: 6.0/10
+- Novelty: 4.0/10
 - Maturity: 8.0/10
-- Small repo potential: 9.0/10
-- Stars: 79
-- Reason: An official Pulumi provider that acts as a reliable escape hatch, enabling local and remote command execution as lifecycle-managed IaC resources.
+- Small repo potential: 6.0/10
+- Stars: 70
+- Reason: Focused GitHub integration for Pulumi
 - Strengths:
-  - Official Pulumi provider with robust support
-  - Manages commands as proper resources with create/update/delete lifecycles
-  - Supports secure remote execution via SSH
+  - Specific use case
+  - Established owner
 - Weaknesses:
-  - Running raw commands can introduce side effects and non-deterministic behavior into deployments
-  - Requires careful handling of environment dependencies
+  - Limited scope
+  - Dependent on Pulumi
 
-### 2. bl4ko/netbox-ssot
+### 3. breml/terraform-provider-uptimekuma
 
-- Link: https://github.com/bl4ko/netbox-ssot
-- Title: bl4ko/netbox-ssot
-- Description: Microservice that syncs objects from multiple sources into NetBox as automatic SSOT
-- Category: network-automation
+- Link: https://github.com/breml/terraform-provider-uptimekuma
+- Title: breml/terraform-provider-uptimekuma
+- Description: Terraform provider for uptime kuma
+- Category: infrastructure-as-code
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
 - Small repo potential: 9.0/10
-- Stars: 73
-- Reason: An incredibly practical Go-based microservice that automates the ingestion of infrastructure data from major hypervisors and firewalls into NetBox, solving a major maintenance pain point.
-- Strengths:
-  - Supports a wide array of sources including vCenter, Proxmox, Fortigate, Palo Alto, and Cisco DNAC
-  - Written in Go, offering a single lightweight binary deployment compared to heavy Python alternatives
-  - Helps enforce NetBox as a true Single Source of Truth (SSOT) through automated synchronization
-- Weaknesses:
-  - Requires constant maintenance to keep up with API schema changes from NetBox and various third-party vendors
-  - Smaller community size makes long-term support reliant on a few core contributors
-
-### 3. juan294/summon
-
-- Link: https://github.com/juan294/summon
-- Title: juan294/summon
-- Description: CLI tool that launches configurable multi-pane Ghostty workspaces with one command using native splits — no tmux needed. Features an interactive setup wizard, project registration, and layout presets. Published on npm ...
-- Category: productivity-tool
-- Type: tool
-- Language: TypeScript
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
 - Stars: 57
-- Reason: Solves a specific problem efficiently
+- Reason: An incredibly useful GitOps tool that bridges the gap between Terraform and Uptime Kuma, allowing declarative management of self-hosted monitoring.
 - Strengths:
-  - Configurable multi-pane workspaces
-  - Interactive setup wizard
+  - Enables Infrastructure as Code (IaC) for Uptime Kuma monitors
+  - Written in Go, conforming to standard Terraform provider structures
+  - Fills a highly requested integration gap for self-hosted homelab and SMB setups
 - Weaknesses:
-  - Limited topics and community engagement
+  - Relies on Uptime Kuma's non-standard API/WebSocket connection, which can be prone to breaking changes
+  - Limited documentation compared to official HashiCorp providers
 
-### 4. IntuitionAmiga/IntuitionEngine
+### 4. tazhate/chainplane
 
-- Link: https://github.com/IntuitionAmiga/IntuitionEngine
-- Title: IntuitionAmiga/IntuitionEngine
-- Description: A modern 64-bit RISC re-imagining of Commodore/Atari/Sinclair/BBC/Amstrad/MSX/IBM 8/16/32-bit home computers with 6 heterogeneous CPU cores (6502/Z80/68020/x86/IE32/IE64) & 3DFX Voodoo/VGA/VideoChip/SID/PSG(AY/YM/SN)/POK...
-- Category: emulation-engine
-- Type: framework
-- Language: Go
-- Score: 8.0/10
-- Novelty: 9.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 34
-- Reason: Ambitious re-imagining of classic home computers
-- Strengths:
-  - Unique multi-CPU core approach
-  - Comprehensive chip emulation
-- Weaknesses:
-  - Limited documentation
-  - Unclear user interface
-
-### 5. KeibiSoft/KeibiDrop
-
-- Link: https://github.com/KeibiSoft/KeibiDrop
-- Title: KeibiSoft/KeibiDrop
-- Description: Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.
-- Category: file-sharing
+- Link: https://github.com/tazhate/chainplane
+- Title: tazhate/chainplane
+- Description: Kubernetes operator for 102 blockchain networks. Declarative node lifecycle, auto-upgrades, health monitoring, and snapshot bootstrap via a single CRD.
+- Category: blockchain-infrastructure
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 8.0/10
-- Maturity: 4.0/10
+- Maturity: 3.0/10
 - Small repo potential: 9.0/10
-- Stars: 26
-- Reason: An innovative file-sharing tool that mounts shared files as a virtual FUSE directory, enabling instant on-demand streaming and downloading with a strong security model.
+- Stars: 13
+- Reason: An ambitious Kubernetes operator that dramatically simplifies the complex task of running and maintaining nodes across over a hundred diverse blockchain networks using a single unified CRD.
 - Strengths:
-  - On-demand file streaming via virtual filesystem (FUSE) integration
-  - Modern, lightweight UI built with Slint and Rust
-  - Strong privacy focus with post-quantum security concepts
+  - Supports declarative lifecycle management, auto-upgrades, and snapshot bootstrapping
+  - Covers an impressive matrix of 100+ blockchain networks under a unified operator
+  - Written in Go, leveraging native Kubernetes Operator patterns
 - Weaknesses:
-  - FUSE filesystem drivers can be difficult to set up and maintain across different operating systems
-  - Very early stage with low community adoption and testing
+  - Low community adoption and star count
+  - Maintaining configurations and upgrade paths for 102 rapidly evolving protocols poses a massive long-term upkeep challenge
 
-### 6. pulumi/pulumi-azuread
+### 5. albertodonato/h2static
 
-- Link: https://github.com/pulumi/pulumi-azuread
-- Title: pulumi/pulumi-azuread
-- Description: A Microsoft Azure Active Directory (Azure AD) Pulumi resource package, providing multi-language access to Azure AD
-- Category: infrastructure-as-code
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 5.0/10
-- Maturity: 9.0/10
-- Small repo potential: 3.0/10
-- Stars: 21
-- Reason: An essential, officially maintained Pulumi provider for managing Azure Active Directory (Entra ID) resources programmatically across multiple languages.
-- Strengths:
-  - Official, production-grade Pulumi provider
-  - Supports TypeScript, Python, Go, and C#
-  - Maintained and kept up-to-date with upstream changes
-- Weaknesses:
-  - Largely auto-generated code based on upstream Terraform providers
-  - Low direct repository engagement as users consume it packaged via package managers
-
-### 7. bjarneo/kli
-
-- Link: https://github.com/bjarneo/kli
-- Title: bjarneo/kli
-- Description: A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
-- Category: kubernetes-tools
+- Link: https://github.com/albertodonato/h2static
+- Title: albertodonato/h2static
+- Description: Tiny static web server with TLS and HTTP/2 support
+- Category: web-servers
 - Type: tool
 - Language: Go
 - Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
 - Small repo potential: 9.0/10
-- Stars: 79
-- Reason: An elegant and lightweight Kubernetes TUI built on the Charm Bubble Tea framework, serving as a snappy, modern alternative to k9s.
+- Stars: 19
+- Reason: A lightweight, zero-dependency static file server built in Go with built-in TLS and HTTP/2 support, perfect for quick local testing or minimal deployments.
 - Strengths:
-  - Built using the highly responsive and customizable Charm Bubble Tea TUI ecosystem
-  - Supports crucial day-to-day operations like log streaming, YAML editing, and pod exec
-  - Clean, minimal, and fast user interface
+  - Native HTTP/2 and TLS support out of the box
+  - Single binary with no external dependencies
+  - Simple configuration via JSON or command-line flags
 - Weaknesses:
-  - Faces extremely tough competition from the industry-standard k9s
-  - Lacks advanced cluster-wide metrics visualizations and extensive CRD deep-dives found in more mature tools
+  - High competition from established tools like Caddy or miniserve
+  - Limited feature set compared to full-featured reverse proxies
 
-### 8. itsubaki/autograd
+### 6. contenox/runtime
 
-- Link: https://github.com/itsubaki/autograd
-- Title: itsubaki/autograd
-- Description: Automatic differentiation library in Go
-- Category: deep-learning
-- Type: library
+- Link: https://github.com/contenox/runtime
+- Title: contenox/runtime
+- Description: Local-first AI workflows for engineers.
+- Category: ai-workflows
+- Type: framework
 - Language: Go
 - Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 5.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 24
-- Reason: A clean, pure Go implementation of reverse-mode automatic differentiation, highly suitable for educational purposes and lightweight deep learning tasks without external Cgo dependencies.
+- Stars: 10
+- Reason: Local-first AI workflows with a clear focus
 - Strengths:
-  - Pure Go implementation with no external bindings
-  - Clean API design reminiscent of modern autograd libraries
-  - Great educational resource for understanding automatic differentiation internals
+  - Clear description
+  - Focused topics
 - Weaknesses:
-  - Lacks GPU acceleration and high-performance tensor operations
-  - Limited ecosystem and pre-built neural network layers compared to mainstream frameworks
+  - Low star count
+  - Limited community
 
-### 9. MUKE-coder/grit
+### 7. agentserver/agentserver
 
-- Link: https://github.com/MUKE-coder/grit
-- Title: MUKE-coder/grit
-- Description: Go and NextJS Batteries Included Framework
-- Category: fullstack-boilerplate
+- Link: https://github.com/agentserver/agentserver
+- Title: agentserver/agentserver
+- Description: Your Personal Compute Network — command devices anywhere, from your WeChat chat window.
+- Category: chatops-agents
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 7.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 36
+- Reason: An intriguing self-hosted ChatOps application that bridges WeChat and personal infrastructure via AI agents, though it is in its early stages of community adoption.
+- Strengths:
+  - Integrates popular LLMs with personal infrastructure control
+  - Supports multiple deployment options including Docker, Helm, and Kubernetes
+  - Leverages WeChat as a highly accessible client interface
+- Weaknesses:
+  - Very early stage with limited community validation and stars
+  - Highly niche focus primarily targeting WeChat users
+
+### 8. velocitykode/velocity
+
+- Link: https://github.com/velocitykode/velocity
+- Title: velocitykode/velocity
+- Description: A modern Go web framework for rapid app development - routing, ORM, authentication, broadcasting, queues, scheduler, validation, gRPC, mail, storage, events, and more
+- Category: web-frameworks
 - Type: framework
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 3.0/10
 - Small repo potential: 8.0/10
-- Stars: 39
-- Reason: Provides an opinionated, ready-to-go monorepo structure combining a Go (Gin/GORM) backend with a NextJS frontend, simplifying full-stack development.
+- Stars: 31
+- Reason: An ambitious, batteries-included Go framework bringing Laravel-like rapid development features (ORM, auth, queues, scheduler) to Go, though it fights against the Go community's preference for lightweight libraries.
 - Strengths:
-  - Pre-configured monorepo bridging Go and Next.js
-  - Uses popular, proven technologies (Gin, GORM, Next.js)
-  - Reduces initial scaffolding and configuration time
+  - Comprehensive feature set out of the box including queues, mail, and gRPC
+  - Promotes rapid application development with predefined structures
+  - Modern design incorporating modern Go standards
 - Weaknesses:
-  - Low community adoption and potential maintenance bottlenecks
-  - Limited documentation and guides for advanced deployment scenarios
+  - Low community adoption and early maturity stage
+  - Go developers historically prefer composable micro-libraries over monolith frameworks
 
-### 10. profullstack/pairux.com
+### 9. pulumi/pulumi-datadog
 
-- Link: https://github.com/profullstack/pairux.com
-- Title: profullstack/pairux.com
-- Description: Collaborative screen sharing with simultaneous remote control — like Screenhero, but open source.
-- Category: developer-tools
+- Link: https://github.com/pulumi/pulumi-datadog
+- Title: pulumi/pulumi-datadog
+- Description: An Datadog Pulumi resource package, providing multi-language access to Datadog
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. SIPC/H2O
+
+- Link: https://github.com/SIPC/H2O
+- Title: SIPC/H2O
+- Description: Hysteria2 Ops — One-stop management for your Hy2 nodes
+- Category: proxy-management
 - Type: app
 - Language: TypeScript
 - Score: 6.0/10
-- Novelty: 8.0/10
+- Novelty: 6.0/10
 - Maturity: 3.0/10
-- Small repo potential: 9.0/10
-- Stars: 12
-- Reason: An ambitious open-source attempt to replicate Screenhero/Tuple-style collaborative screen sharing with multi-cursor remote control, a highly sought-after developer tool niche.
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: A niche but highly practical management panel tailored specifically for administering Hysteria2 proxy nodes.
 - Strengths:
-  - Addresses a major gap in open-source developer collaboration tools
-  - Aims for simultaneous multi-user remote control, not just view-only sharing
-  - Built with TypeScript and WebRTC foundations
+  - Simplifies Hysteria2 multi-node deployment and monitoring
+  - Written in TypeScript, offering a modern stack for web-based operations
+  - Fills a specific tooling gap for the growing Hysteria2 community
 - Weaknesses:
-  - Very early stage with extremely low community adoption and traction
-  - Cross-platform OS-level input injection is technically complex and difficult to maintain
+  - Very early stage with low community engagement and stars
+  - Lacks extensive documentation and localization
+  - Centralized management of proxy nodes introduces security and credential handling risks
 
 ## Categories
 
-- [deep-learning](categories/deep-learning.md)
-- [developer-tools](categories/developer-tools.md)
-- [emulation-engine](categories/emulation-engine.md)
-- [file-sharing](categories/file-sharing.md)
-- [fullstack-boilerplate](categories/fullstack-boilerplate.md)
+- [ai-workflows](categories/ai-workflows.md)
+- [blockchain-infrastructure](categories/blockchain-infrastructure.md)
+- [chatops-agents](categories/chatops-agents.md)
+- [cloud-security](categories/cloud-security.md)
+- [dev-ops](categories/dev-ops.md)
+- [go](categories/go.md)
 - [infrastructure-as-code](categories/infrastructure-as-code.md)
-- [kubernetes-tools](categories/kubernetes-tools.md)
-- [network-automation](categories/network-automation.md)
-- [productivity-tool](categories/productivity-tool.md)
+- [proxy-management](categories/proxy-management.md)
+- [web-frameworks](categories/web-frameworks.md)
+- [web-servers](categories/web-servers.md)
 
 ## Data
 
