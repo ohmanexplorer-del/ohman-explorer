@@ -2,56 +2,79 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 00:22:13 UTC
+Last updated: 2026-06-14 00:42:15 UTC
 
 ## Latest Findings
 
-### 1. client9/gospell
+### 1. NeptuneHub/AudioMuse-AI-MusicServer
 
-- Link: https://github.com/client9/gospell
-- Title: client9/gospell
-- Description: pure golang spelling based on hunspell dictionaries
-- Category: text-processing
-- Type: library
+- Link: https://github.com/NeptuneHub/AudioMuse-AI-MusicServer
+- Title: NeptuneHub/AudioMuse-AI-MusicServer
+- Description: Music server built on the Open Subsonic API, designed to showcase AudioMuse-AI’s advanced sonic analysis capabilities.
+- Category: music-server
+- Type: app
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 41
-- Reason: Well-defined purpose with a clear implementation
+- Small repo potential: 8.0/10
+- Stars: 44
+- Reason: Well-structured music server with AI-powered sonic analysis
 - Strengths:
-  - Pure Go implementation
-  - Hunspell dictionary support
+  - Leverages Open Subsonic API
+  - Docker and Kubernetes support
+  - Showcases AudioMuse-AI capabilities
 - Weaknesses:
-  - Limited topics and documentation
+  - Limited community engagement
+  - Dependence on AudioMuse-AI
 
-### 2. caseymrm/menuet
+### 2. kubevirt/project-infra
 
-- Link: https://github.com/caseymrm/menuet
-- Title: caseymrm/menuet
-- Description: Go library to create menubar apps- programs that live only in OSX's NSStatusBar
-- Category: osx-development
+- Link: https://github.com/kubevirt/project-infra
+- Title: kubevirt/project-infra
+- Description: Project infrastructure administrative tools
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 41
+- Reason: Focused infrastructure tools
+- Strengths:
+  - Infrastructure-as-code approach
+  - Ansible integration
+- Weaknesses:
+  - Niche use case
+  - Limited community engagement
+
+### 3. kazhuravlev/database-gateway
+
+- Link: https://github.com/kazhuravlev/database-gateway
+- Title: kazhuravlev/database-gateway
+- Description: Safe access to production databases
+- Category: database-security
 - Type: library
 - Language: Go
 - Score: 7.0/10
 - Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 9.0/10
-- Stars: 303
-- Reason: Focused and useful library for creating menubar apps
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 37
+- Reason: Focused on secure database access
 - Strengths:
+  - Clear purpose
   - Specific use case
-  - Simple and concise code
 - Weaknesses:
-  - Limited platform support
-  - Lack of documentation
+  - Limited community engagement
+  - Small user base
 
-### 3. perber/leafwiki
+### 4. projectdiscovery/awesome-search-queries
 
-- Link: https://github.com/perber/leafwiki
-- Title: perber/leafwiki
-- Description: LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+- Link: https://github.com/projectdiscovery/awesome-search-queries
+- Title: projectdiscovery/awesome-search-queries
+- Description: Community curated list of search queries for various products across multiple search engines.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -59,56 +82,18 @@ Last updated: 2026-06-14 00:22:13 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 406
-- Reason: Selected from repository metadata.
+- Stars: 389
+- Reason: {   "category": "security-recon",   "project_type": "unknown",   "score": 7.4,   "novelty": 6.5,   "maturity": 7.0,   "small
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. Katenary/katenary
+### 5. genai-io/san
 
-- Link: https://github.com/Katenary/katenary
-- Title: Katenary/katenary
-- Description: Convert docker and podamn compose to a configurable helm chart
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 214
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 5. akiver/cs-demo-analyzer
-
-- Link: https://github.com/akiver/cs-demo-analyzer
-- Title: akiver/cs-demo-analyzer
-- Description: Analyze and extract data from Counter-Strike demos.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 115
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. HoangP8/tokless
-
-- Link: https://github.com/HoangP8/tokless
-- Title: HoangP8/tokless
-- Description: A unified CLI to install and update token-saving plugins — RTK, Caveman, CodeGraph, and Context-Mode — for Claude Code, OpenCode, Codex, and Antigravity.
+- Link: https://github.com/genai-io/san
+- Title: genai-io/san
+- Description: Open-source AI agent. Lives in your terminal.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -116,18 +101,18 @@ Last updated: 2026-06-14 00:22:13 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 27
+- Stars: 60
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. evg4b/uncors
+### 6. windsorcli/cli
 
-- Link: https://github.com/evg4b/uncors
-- Title: evg4b/uncors
-- Description: A simple dev HTTP/HTTPS reverse proxy for replacing CORS headers.
+- Link: https://github.com/windsorcli/cli
+- Title: windsorcli/cli
+- Description: The Windsor CLI assists your cloud native development workflow
 - Category: go
 - Type: unknown
 - Language: Go
@@ -135,37 +120,18 @@ Last updated: 2026-06-14 00:22:13 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 23
+- Stars: 17
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. reh3376/mdemg
+### 7. abai569/flox
 
-- Link: https://github.com/reh3376/mdemg
-- Title: reh3376/mdemg
-- Description: multi-dimensional emergent memory graph
-- Category: ai-research
-- Type: library
-- Language: Go
-- Score: 6.0/10
-- Novelty: 8.0/10
-- Maturity: 4.0/10
-- Small repo potential: 7.0/10
-- Stars: 12
-- Reason: Lack of documentation and community engagement
-- Strengths:
-  - Unique concept of multi-dimensional emergent memory graph
-- Weaknesses:
-  - Limited codebase and no clear use cases
-
-### 9. BlackbirdWorks/gopherstack
-
-- Link: https://github.com/BlackbirdWorks/gopherstack
-- Title: BlackbirdWorks/gopherstack
-- Description: Localstack alternative written in Go.
+- Link: https://github.com/abai569/flox
+- Title: abai569/flox
+- Description: Flvx转发面板
 - Category: go
 - Type: unknown
 - Language: Go
@@ -173,18 +139,18 @@ Last updated: 2026-06-14 00:22:13 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
-- Reason: {   "category": "aws-infrastructure",   "project_type": "tool",   "score": 5,   "novelty": 5,   "maturity": 2,   "small_repo_fit": 6,   "reason": "A Go-based LocalStack alternative is potentially useful, but the project appears early-stage and likely has limited service coverage.",   "strengths": [     "Targets a clear AWS-local-development need",     "Go implementation may be lighter and easier to deploy than heavier alternatives",     "Niche could be valuable for
+- Stars: 14
+- Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 10. Viridian-Inc/cloudmock
+### 8. nite-coder/bifrost
 
-- Link: https://github.com/Viridian-Inc/cloudmock
-- Title: Viridian-Inc/cloudmock
-- Description: Local AWS emulation. 100 services, one binary. 249x faster than LocalStack.
+- Link: https://github.com/nite-coder/bifrost
+- Title: nite-coder/bifrost
+- Description: A low-latency and high-throughput API gateway library in Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -192,7 +158,45 @@ Last updated: 2026-06-14 00:22:13 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 9. dwisiswant0/nuclei-confuser
+
+- Link: https://github.com/dwisiswant0/nuclei-confuser
+- Title: dwisiswant0/nuclei-confuser
+- Description: This repository gathers matchers from Nuclei templates designed to fool the Nuclei scanner.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. clm-cloud-solutions/kubebolt
+
+- Link: https://github.com/clm-cloud-solutions/kubebolt
+- Title: clm-cloud-solutions/kubebolt
+- Description: Instant Kubernetes monitoring platform — full cluster visibility in under 2 minutes. Go backend + React frontend. Multi-cluster, Gateway API, insights engine, topology map.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
@@ -201,10 +205,10 @@ Last updated: 2026-06-14 00:22:13 UTC
 
 ## Categories
 
-- [ai-research](categories/ai-research.md)
+- [database-security](categories/database-security.md)
+- [dev-ops](categories/dev-ops.md)
 - [go](categories/go.md)
-- [osx-development](categories/osx-development.md)
-- [text-processing](categories/text-processing.md)
+- [music-server](categories/music-server.md)
 
 ## Data
 
