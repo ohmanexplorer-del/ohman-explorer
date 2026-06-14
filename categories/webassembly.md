@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. cookiengineer/gooey
 
 - Link: https://github.com/cookiengineer/gooey
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: webassembly
 - Type: framework
 - Language: Go
+- Created: 2024-07-31
+- Age: 1 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 7.0/10
 - Maturity: 3.0/10
