@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. juan294/summon
 
 - Link: https://github.com/juan294/summon
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: productivity-tool
 - Type: tool
 - Language: TypeScript
+- Created: 2026-03-11
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
@@ -30,6 +36,10 @@ Curated projects in this category.
 - Category: productivity-tool
 - Type: app
 - Language: Rust
+- Created: 2026-03-09
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
