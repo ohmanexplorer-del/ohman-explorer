@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. tarmac-project/tarmac
 
 - Link: https://github.com/tarmac-project/tarmac
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: serverless-framework
 - Type: framework
 - Language: Go
+- Created: 2021-05-25
+- Age: 5 years
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
