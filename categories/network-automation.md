@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. bl4ko/netbox-ssot
 
 - Link: https://github.com/bl4ko/netbox-ssot
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: network-automation
 - Type: tool
 - Language: Go
+- Created: 2023-12-08
+- Age: 2 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
@@ -32,6 +38,10 @@ Curated projects in this category.
 - Category: network-automation
 - Type: library
 - Language: Go
+- Created: 2021-05-18
+- Age: 5 years
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
