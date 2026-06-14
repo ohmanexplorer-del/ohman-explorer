@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. mondoohq/cnspec
 
 - Link: https://github.com/mondoohq/cnspec
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: cloud-security
 - Type: tool
 - Language: Go
+- Created: 2022-09-21
+- Age: 3 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 7.0/10
