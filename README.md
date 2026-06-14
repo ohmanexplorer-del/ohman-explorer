@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 17:44:23 UTC
+Last updated: 2026-06-14 18:40:49 UTC
 
-Total indexed projects: 487
+Total indexed projects: 497
 
 ## Disclaimer
 
@@ -15,16 +15,16 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Category | Projects |
 |---|---:|
 | [artificial-intelligence](categories/artificial-intelligence.md) | 36 |
-| [automation](categories/automation.md) | 2 |
-| [blockchain](categories/blockchain.md) | 4 |
-| [bots](categories/bots.md) | 6 |
+| [automation](categories/automation.md) | 3 |
+| [blockchain](categories/blockchain.md) | 5 |
+| [bots](categories/bots.md) | 7 |
 | [communications](categories/communications.md) | 5 |
 | [data-engineering](categories/data-engineering.md) | 6 |
 | [database](categories/database.md) | 12 |
-| [developer-tools](categories/developer-tools.md) | 260 |
+| [developer-tools](categories/developer-tools.md) | 263 |
 | [gaming](categories/gaming.md) | 8 |
 | [infrastructure](categories/infrastructure.md) | 32 |
-| [iot](categories/iot.md) | 4 |
+| [iot](categories/iot.md) | 5 |
 | [kubernetes](categories/kubernetes.md) | 9 |
 | [media](categories/media.md) | 11 |
 | [networking](categories/networking.md) | 23 |
@@ -35,7 +35,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [security](categories/security.md) | 16 |
 | [systems](categories/systems.md) | 5 |
 | [ui-components](categories/ui-components.md) | 1 |
-| [uncategorized](categories/uncategorized.md) | 3 |
+| [uncategorized](categories/uncategorized.md) | 6 |
 | [web-development](categories/web-development.md) | 12 |
 
 ## Languages
@@ -43,17 +43,18 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Language | Projects |
 |---|---:|
 | Go | 404 |
-| TypeScript | 28 |
+| TypeScript | 29 |
 | Unknown | 14 |
-| Python | 10 |
+| Python | 13 |
 | Rust | 5 |
-| C++ | 3 |
-| HTML | 3 |
-| C | 2 |
+| C++ | 4 |
+| HTML | 4 |
+| C | 3 |
+| Java | 2 |
 | JavaScript | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
-| Java | 1 |
+| CSS | 1 |
 | Jsonnet | 1 |
 | Julia | 1 |
 | Kotlin | 1 |
@@ -65,6 +66,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | RouterOS Script | 1 |
 | Ruby | 1 |
 | SCSS | 1 |
+| Scala | 1 |
 | Vue | 1 |
 | YAML | 1 |
 
