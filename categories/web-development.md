@@ -184,7 +184,33 @@ Note: young repositories can show strong potential but still carry higher stabil
   - High competition from established tools like Caddy or miniserve
   - Limited feature set compared to full-featured reverse proxies
 
-### 8. cookiengineer/gooey
+### 8. mydnic/volet
+
+- Link: https://github.com/mydnic/volet
+- Title: mydnic/volet
+- Description: Extensible customer feedback widget for Laravel
+- Category: web-development
+- Type: library
+- Language: PHP
+- Created: 2018-11-07
+- Age: 7 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.5/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 413
+- Reason: A well-scoped Laravel package that provides a self-hosted, customizable customer feedback widget as an alternative to expensive third-party SaaS solutions.
+- Strengths:
+  - Tightly integrated with the Laravel ecosystem
+  - Extensible and easy to customize for developers already using Laravel and Vue.js
+  - Eliminates the need for external third-party tracking scripts for basic feedback
+- Weaknesses:
+  - Highly coupled to the Laravel and Vue.js stacks
+  - Limited active updates recently
+
+### 9. cookiengineer/gooey
 
 - Link: https://github.com/cookiengineer/gooey
 - Title: cookiengineer/gooey
@@ -211,7 +237,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Inherent Go WASM limitation of large binary sizes
   - Limited documentation and production-use cases
 
-### 9. cx20/webgl-physics-examples
+### 10. cx20/webgl-physics-examples
 
 - Link: https://github.com/cx20/webgl-physics-examples
 - Title: cx20/webgl-physics-examples
@@ -235,7 +261,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Lack of documentation
 
-### 10. MUKE-coder/grit
+### 11. MUKE-coder/grit
 
 - Link: https://github.com/MUKE-coder/grit
 - Title: MUKE-coder/grit
@@ -261,7 +287,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Low community adoption and potential maintenance bottlenecks
   - Limited documentation and guides for advanced deployment scenarios
 
-### 11. velocitykode/velocity
+### 12. velocitykode/velocity
 
 - Link: https://github.com/velocitykode/velocity
 - Title: velocitykode/velocity
@@ -287,7 +313,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Low community adoption and early maturity stage
   - Go developers historically prefer composable micro-libraries over monolith frameworks
 
-### 12. files-community/Website
+### 13. files-community/Website
 
 - Link: https://github.com/files-community/Website
 - Title: files-community/Website
