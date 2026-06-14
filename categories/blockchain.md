@@ -56,7 +56,33 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Niche functionality
 
-### 3. pseudoyu/top-blockchain-projects
+### 3. hevnsnt/collider
+
+- Link: https://github.com/hevnsnt/collider
+- Title: hevnsnt/collider
+- Description: GPU-accelerated Bitcoin Puzzle solver using Pollard's Kangaroo algorithm. K=1.15 efficiency. CUDA + Metal.
+- Category: blockchain
+- Type: tool
+- Language: C++
+- Created: 2026-02-04
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.8/10
+- Novelty: 7.5/10
+- Maturity: 5.5/10
+- Small repo potential: 9.0/10
+- Stars: 16
+- Reason: An optimized, high-performance C++ implementation of Pollard's Kangaroo algorithm supporting both CUDA and Metal, presenting high technical merit for specialized GPU cryptography.
+- Strengths:
+  - Dual GPU-acceleration support via CUDA and Apple Metal
+  - Highly optimized mathematical implementation (K=1.15 efficiency) for ECDLP
+  - Clear, focused scope as a high-performance systems tool
+- Weaknesses:
+  - Extremely niche target audience (Bitcoin puzzle solvers and cryptanalysts)
+  - Low community engagement and star count
+
+### 4. pseudoyu/top-blockchain-projects
 
 - Link: https://github.com/pseudoyu/top-blockchain-projects
 - Title: pseudoyu/top-blockchain-projects
@@ -81,7 +107,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited to GitHub stars
   - No additional project analysis
 
-### 4. hyperledger/fabric-x-common
+### 5. hyperledger/fabric-x-common
 
 - Link: https://github.com/hyperledger/fabric-x-common
 - Title: hyperledger/fabric-x-common
