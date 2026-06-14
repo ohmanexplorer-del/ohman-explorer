@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. claudlos/hermes-katana
 
 - Link: https://github.com/claudlos/hermes-katana
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-security
 - Type: tool
 - Language: Python
+- Created: 2026-04-05
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
@@ -31,6 +37,10 @@ Curated projects in this category.
 - Category: ai-security
 - Type: library
 - Language: Go
+- Created: 2026-04-02
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
@@ -53,6 +63,10 @@ Curated projects in this category.
 - Category: ai-security
 - Type: tool
 - Language: Go
+- Created: 2026-05-12
+- Age: 1 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 9.0/10
 - Maturity: 6.0/10
@@ -73,6 +87,10 @@ Curated projects in this category.
 - Description: A curated list of 150+ papers and resources on Agentic Security. Based on the survey covering the transition from passive LLMs to autonomous agents, structured around three pillars: Applications (Red/Blue Teaming), Threa...
 - Category: ai-security
 - Type: example
+- Created: 2025-11-26
+- Age: 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
@@ -94,6 +112,10 @@ Curated projects in this category.
 - Category: ai-security
 - Type: tool
 - Language: Go
+- Created: 2025-12-15
+- Age: 6 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
@@ -115,6 +137,10 @@ Curated projects in this category.
 - Category: ai-security
 - Type: tool
 - Language: Go
+- Created: 2026-02-15
+- Age: 3 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 9.0/10
 - Maturity: 6.0/10
@@ -137,6 +163,10 @@ Curated projects in this category.
 - Category: ai-security
 - Type: tool
 - Language: Go
+- Created: 2026-02-24
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 7.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
