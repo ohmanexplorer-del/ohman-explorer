@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. agentserver/agentserver
 
 - Link: https://github.com/agentserver/agentserver
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: chatops-agents
 - Type: app
 - Language: Go
+- Created: 2026-02-26
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 7.0/10
 - Maturity: 3.0/10
