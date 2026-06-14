@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. mokiat/lacking
 
 - Link: https://github.com/mokiat/lacking
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: game-engine
 - Type: framework
 - Language: Go
+- Created: 2019-03-05
+- Age: 7 years 3 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
