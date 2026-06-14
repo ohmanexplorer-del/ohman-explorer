@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. couchbase/sync_gateway
+### 1. gofiber/storage
 
-- Link: https://github.com/couchbase/sync_gateway
-- Title: couchbase/sync_gateway
-- Description: Manages access and synchronization between Couchbase Lite and Couchbase Server
+- Link: https://github.com/gofiber/storage
+- Title: gofiber/storage
+- Description: 📦 Premade storage drivers for 🚀 Fiber
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 452
+- Stars: 332
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. ethanhq/cc-fleet
+### 2. gofiber/template
 
-- Link: https://github.com/ethanhq/cc-fleet
-- Title: ethanhq/cc-fleet
-- Description: 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any third-party model — DeepSeek · GLM · Kimi · Qwen … or your Codex subscription. No Anthropic subscription needed. ｜ 🚢 �...
+- Link: https://github.com/gofiber/template
+- Title: gofiber/template
+- Description: 🧬 Template engine middleware for Fiber
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 146
+- Stars: 313
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. 89luca89/clampdown
+### 3. goptics/vizb
 
-- Link: https://github.com/89luca89/clampdown
-- Title: 89luca89/clampdown
-- Description: Run AI coding agents in hardened container sandboxes.
+- Link: https://github.com/goptics/vizb
+- Title: goptics/vizb
+- Description: A 4D visualizer for go, rust & javascript benchmarks from your local to CI/CD pipeline
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 75
+- Stars: 70
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. runZeroInc/mac-tracker
+### 4. jamesroutley/news.routley.io
 
-- Link: https://github.com/runZeroInc/mac-tracker
-- Title: runZeroInc/mac-tracker
-- Description: Historical Tracking of MAC Address Assignments
+- Link: https://github.com/jamesroutley/news.routley.io
+- Title: jamesroutley/news.routley.io
+- Description: 🗞 My personal RSS feed
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 47
+- Stars: 42
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. ufukty/gonfique
+### 5. blackwell-systems/mcp-assert
 
-- Link: https://github.com/ufukty/gonfique
-- Title: ufukty/gonfique
-- Description: Mapping for configs
+- Link: https://github.com/blackwell-systems/mcp-assert
+- Title: blackwell-systems/mcp-assert
+- Description: The testing standard for MCP servers. Lint (14 rules), test, and fuzz over real stdio/SSE/HTTP transport. 18 assertion types in YAML. Found 4,794 schema issues across 55 servers. Any language, no mocks, single binary.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,56 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 39
+- Stars: 18
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. JamesWoolfenden/ghat
+### 6. suzuki-shunsuke/ci-info
 
-- Link: https://github.com/JamesWoolfenden/ghat
-- Title: JamesWoolfenden/ghat
-- Description: Ghat is a tool for updating your GitHub actions and Terraform with the latest version of it dependencies and using immutable hashes instead of mutable tags.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 26
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. yaleh/meta-cc
-
-- Link: https://github.com/yaleh/meta-cc
-- Title: yaleh/meta-cc
-- Description: Meta-Cognition tool for Claude Code - analyze session history for workflow optimization.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 16
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 8. lucasnevespereira/nevinho
-
-- Link: https://github.com/lucasnevespereira/nevinho
-- Title: lucasnevespereira/nevinho
-- Description: Personal agent harness
+- Link: https://github.com/suzuki-shunsuke/ci-info
+- Title: suzuki-shunsuke/ci-info
+- Description: CLI tool to get CI related information
 - Category: go
 - Type: unknown
 - Language: Go
@@ -148,6 +110,25 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. eja/wikilite
+
+- Link: https://github.com/eja/wikilite
+- Title: eja/wikilite
+- Description: Offline Lexical and Semantic Wikipedia Search
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
