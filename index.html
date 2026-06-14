@@ -53,7 +53,16 @@
   .tag.cat { color: #a371f7; }
   .stars { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 4px; margin-left: auto; }
   .empty { text-align: center; padding: 80px 24px; color: var(--muted); }
-  footer { text-align: center; padding: 24px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--border); margin-top: 1px; }
+  .contributors { border-top: 1px solid var(--border); padding: 28px 24px; }
+  .contributors h2 { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 16px; }
+  .contributors-list { display: flex; flex-wrap: wrap; gap: 14px; }
+  .contributor { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; text-decoration: none; color: var(--text); transition: border-color .15s; }
+  .contributor:hover { border-color: var(--accent); }
+  .contributor img { width: 36px; height: 36px; border-radius: 50%; }
+  .contributor-info { display: flex; flex-direction: column; gap: 2px; }
+  .contributor-name { font-size: 13px; font-weight: 600; }
+  .contributor-meta { font-size: 11px; color: var(--muted); }
+  footer { text-align: center; padding: 20px 24px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--border); }
 </style>
 </head>
 <body>
@@ -80,6 +89,10 @@
 <div class="stats" id="stats">Loading…</div>
 <div class="grid" id="grid"></div>
 <div class="empty" id="empty" style="display:none">No repositories match your filters.</div>
+<section class="contributors">
+  <h2>Contributors</h2>
+  <div class="contributors-list" id="contributors-list"></div>
+</section>
 <footer>
   Curated by <a href="https://github.com/robby031" style="color:var(--accent);text-decoration:none">@robby031</a>
   · Bot <a href="https://github.com/ohmanexplorer-del" style="color:var(--accent);text-decoration:none">@ohmanexplorer-del</a>
@@ -175,6 +188,25 @@ document.getElementById('sort').addEventListener('change', render);
 load().catch(e => {
   document.getElementById('stats').textContent = 'Failed to load data.';
   console.error(e);
+});
+
+async function loadContributors() {
+  const res = await fetch('https://api.github.com/repos/ohmanexplorer-del/ohman/contributors');
+  const list = await res.json();
+  const el = document.getElementById('contributors-list');
+  el.innerHTML = list.map(c => `
+    <a class="contributor" href="${c.html_url}" target="_blank" rel="noopener">
+      <img src="${c.avatar_url}" alt="${c.login}">
+      <div class="contributor-info">
+        <span class="contributor-name">@${c.login}</span>
+        <span class="contributor-meta">${c.contributions} commit${c.contributions !== 1 ? 's' : ''}</span>
+      </div>
+    </a>`).join('');
+}
+
+loadContributors().catch(() => {
+  document.getElementById('contributors-list').innerHTML =
+    '<span style="color:var(--muted);font-size:12px">Could not load contributors.</span>';
 });
 </script>
 </body>
