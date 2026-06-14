@@ -4,7 +4,33 @@ Curated projects in this category.
 
 Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
 
-### 1. changkun/wallfacer
+### 1. spences10/mcpick
+
+- Link: https://github.com/spences10/mcpick
+- Title: spences10/mcpick
+- Description: Claude Code extension manager — MCP servers, plugins (skills, hooks, agents), and marketplaces
+- Category: artificial-intelligence
+- Type: tool
+- Language: TypeScript
+- Created: 2025-09-28
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 8.0/10
+- Novelty: 8.5/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 85
+- Reason: An incredibly timely CLI tool that simplifies MCP server and plugin management for the rapidly growing Claude Code ecosystem.
+- Strengths:
+  - Directly addresses a fresh and highly relevant need in the AI developer ecosystem
+  - Tightly-scoped, functional CLI utility built with TypeScript
+  - Provides a centralized way to discover and manage MCP marketplaces and plugins
+- Weaknesses:
+  - Early stage of maturity, highly dependent on the evolving API of Claude Code
+  - Limited community feedback and production validation due to its recency
+
+### 2. changkun/wallfacer
 
 - Link: https://github.com/changkun/wallfacer
 - Title: changkun/wallfacer
@@ -30,7 +56,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Early-stage project with low community adoption and documentation.
   - Go has a smaller ecosystem of ready-to-use LLM tooling compared to Python or TypeScript.
 
-### 2. spacedock-dev/spacedock
+### 3. spacedock-dev/spacedock
 
 - Link: https://github.com/spacedock-dev/spacedock
 - Title: spacedock-dev/spacedock
@@ -56,7 +82,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 3. claudlos/hermes-katana
+### 4. claudlos/hermes-katana
 
 - Link: https://github.com/claudlos/hermes-katana
 - Title: claudlos/hermes-katana
@@ -81,7 +107,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement due to relatively low star count
   - May require additional documentation for ease of use
 
-### 4. agent-receipts/obsigna
+### 5. agent-receipts/obsigna
 
 - Link: https://github.com/agent-receipts/obsigna
 - Title: agent-receipts/obsigna
@@ -107,7 +133,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Dependence on specific cryptographic algorithms
 
-### 5. sozercan/vekil
+### 6. sozercan/vekil
 
 - Link: https://github.com/sozercan/vekil
 - Title: sozercan/vekil
@@ -132,7 +158,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 6. 23skdu/longbow
+### 7. 23skdu/longbow
 
 - Link: https://github.com/23skdu/longbow
 - Title: 23skdu/longbow
@@ -157,7 +183,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation and community engagement
   - Dependence on specific technologies like Go and Apache Arrow
 
-### 7. boshu2/agentops
+### 8. boshu2/agentops
 
 - Link: https://github.com/boshu2/agentops
 - Title: boshu2/agentops
@@ -182,7 +208,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Niche use case
 
-### 8. thushan/olla
+### 9. thushan/olla
 
 - Link: https://github.com/thushan/olla
 - Title: thushan/olla
@@ -208,7 +234,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Dependence on specific inference backends
 
-### 9. Asymptote-Labs/agent-beacon
+### 10. Asymptote-Labs/agent-beacon
 
 - Link: https://github.com/Asymptote-Labs/agent-beacon
 - Title: Asymptote-Labs/agent-beacon
@@ -233,7 +259,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement due to relatively low star count
   - May require additional development for widespread adoption
 
-### 10. FootprintAI/Containarium
+### 11. FootprintAI/Containarium
 
 - Link: https://github.com/FootprintAI/Containarium
 - Title: FootprintAI/Containarium
@@ -259,7 +285,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Dependence on specific agents
 
-### 11. llm-d/llm-d-inference-sim
+### 12. llm-d/llm-d-inference-sim
 
 - Link: https://github.com/llm-d/llm-d-inference-sim
 - Title: llm-d/llm-d-inference-sim
@@ -285,7 +311,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited topics and applications
   - Dependence on Go language
 
-### 12. kagnlp/Awesome-Agentic-Security
+### 13. kagnlp/Awesome-Agentic-Security
 
 - Link: https://github.com/kagnlp/Awesome-Agentic-Security
 - Title: kagnlp/Awesome-Agentic-Security
@@ -309,7 +335,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited interactivity
   - Dependent on external resources
 
-### 13. workweave/router
+### 14. workweave/router
 
 - Link: https://github.com/workweave/router
 - Title: workweave/router
@@ -335,7 +361,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Niche use case
 
-### 14. JoakimCarlsson/ai
+### 15. JoakimCarlsson/ai
 
 - Link: https://github.com/JoakimCarlsson/ai
 - Title: JoakimCarlsson/ai
@@ -360,7 +386,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 15. agenticenv/agent-sdk-go
+### 16. agenticenv/agent-sdk-go
 
 - Link: https://github.com/agenticenv/agent-sdk-go
 - Title: agenticenv/agent-sdk-go
@@ -386,7 +412,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Still a relatively new repository
 
-### 16. markhuangai/dense-mem
+### 17. markhuangai/dense-mem
 
 - Link: https://github.com/markhuangai/dense-mem
 - Title: markhuangai/dense-mem
@@ -412,7 +438,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 17. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+### 18. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 
 - Link: https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 - Title: Vortalitys/PrivHunterAI-detects-access-vulnerabilities
@@ -437,7 +463,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited stars and community engagement
   - Dependence on third-party AI systems
 
-### 18. Mindburn-Labs/helm-ai-kernel
+### 19. Mindburn-Labs/helm-ai-kernel
 
 - Link: https://github.com/Mindburn-Labs/helm-ai-kernel
 - Title: Mindburn-Labs/helm-ai-kernel
@@ -463,7 +489,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Relatively new repository
 
-### 19. jmylchreest/aide
+### 20. jmylchreest/aide
 
 - Link: https://github.com/jmylchreest/aide
 - Title: jmylchreest/aide
@@ -488,7 +514,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Dependence on specific AI models
 
-### 20. kelos-dev/kelos
+### 21. kelos-dev/kelos
 
 - Link: https://github.com/kelos-dev/kelos
 - Title: kelos-dev/kelos
@@ -513,7 +539,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Relatively small community
 
-### 21. paxlabs-inc/matrix-core
+### 22. paxlabs-inc/matrix-core
 
 - Link: https://github.com/paxlabs-inc/matrix-core
 - Title: paxlabs-inc/matrix-core
@@ -538,7 +564,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Unclear documentation
 
-### 22. NVIDIA/aicr
+### 23. NVIDIA/aicr
 
 - Link: https://github.com/NVIDIA/aicr
 - Title: NVIDIA/aicr
@@ -564,7 +590,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited language support
   - Dependence on NVIDIA hardware
 
-### 23. mydisha/keirouter
+### 24. mydisha/keirouter
 
 - Link: https://github.com/mydisha/keirouter
 - Title: mydisha/keirouter
@@ -590,7 +616,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Early stage of development with low community adoption
   - Stiff competition from established alternatives like LiteLLM and Portkey
 
-### 24. vikrantwaghmode/agentarmor-oss
+### 25. vikrantwaghmode/agentarmor-oss
 
 - Link: https://github.com/vikrantwaghmode/agentarmor-oss
 - Title: vikrantwaghmode/agentarmor-oss
@@ -615,7 +641,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Low maturity with limited community adoption and ecosystem integrations
   - Documentation is sparse compared to established Python security frameworks
 
-### 25. tomasz-tomczyk/crit
+### 26. tomasz-tomczyk/crit
 
 - Link: https://github.com/tomasz-tomczyk/crit
 - Title: tomasz-tomczyk/crit
@@ -641,7 +667,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Unclear long-term development plans
 
-### 26. RapidAI/MaClaw
+### 27. RapidAI/MaClaw
 
 - Link: https://github.com/RapidAI/MaClaw
 - Title: RapidAI/MaClaw
@@ -666,7 +692,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Unclear documentation
 
-### 27. kstenerud/yoloai
+### 28. kstenerud/yoloai
 
 - Link: https://github.com/kstenerud/yoloai
 - Title: kstenerud/yoloai
@@ -691,7 +717,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Unclear deployment instructions
 
-### 28. itsubaki/autograd
+### 29. itsubaki/autograd
 
 - Link: https://github.com/itsubaki/autograd
 - Title: itsubaki/autograd
@@ -717,7 +743,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Lacks GPU acceleration and high-performance tensor operations
   - Limited ecosystem and pre-built neural network layers compared to mainstream frameworks
 
-### 29. pbaer/neural-chess
+### 30. pbaer/neural-chess
 
 - Link: https://github.com/pbaer/neural-chess
 - Title: pbaer/neural-chess
@@ -742,7 +768,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 30. contenox/runtime
+### 31. contenox/runtime
 
 - Link: https://github.com/contenox/runtime
 - Title: contenox/runtime
@@ -767,7 +793,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Low star count
   - Limited community
 
-### 31. hazel-js/hazeljs
+### 32. hazel-js/hazeljs
 
 - Link: https://github.com/hazel-js/hazeljs
 - Title: hazel-js/hazeljs
@@ -790,7 +816,32 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Low star count and relatively low maturity
 
-### 32. merill/msgraph
+### 33. dirge-code/dirge
+
+- Link: https://github.com/dirge-code/dirge
+- Title: dirge-code/dirge
+- Description: Dynamic Intent Resolution Grounding Engine
+- Category: artificial-intelligence
+- Type: framework
+- Language: Rust
+- Created: 2026-05-18
+- Age: 27 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
+- Score: 6.8/10
+- Novelty: 8.0/10
+- Maturity: 4.5/10
+- Small repo potential: 8.5/10
+- Stars: 25
+- Reason: An intriguing, niche project combining Rust and the Janet programming language to build a fast, scriptable engine for LLM intent resolution.
+- Strengths:
+  - Highly unique stack combining Rust performance with Janet Lisp extensibility
+  - Addresses a modern, complex problem in agentic workflows (dynamic intent grounding)
+- Weaknesses:
+  - Very early stage with extremely low community adoption
+  - Niche technology stack (Janet + Rust) may limit contributor pool
+
+### 34. merill/msgraph
 
 - Link: https://github.com/merill/msgraph
 - Title: merill/msgraph
@@ -815,7 +866,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependence on Microsoft Graph
 
-### 33. railzen/nezha-zero
+### 35. railzen/nezha-zero
 
 - Link: https://github.com/railzen/nezha-zero
 - Title: railzen/nezha-zero
@@ -839,7 +890,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - No clear use cases
 
-### 34. egv/yolo-runner
+### 36. egv/yolo-runner
 
 - Link: https://github.com/egv/yolo-runner
 - Title: egv/yolo-runner
@@ -862,7 +913,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited functionality and unclear purpose
 
-### 35. cxykevin/alkaid0
+### 37. cxykevin/alkaid0
 
 - Link: https://github.com/cxykevin/alkaid0
 - Title: cxykevin/alkaid0
@@ -885,7 +936,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited documentation and community
 
-### 36. tobinjo96/CPFcluster
+### 38. tobinjo96/CPFcluster
 
 - Link: https://github.com/tobinjo96/CPFcluster
 - Title: tobinjo96/CPFcluster
@@ -910,7 +961,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Lack of documentation
   - Limited community engagement
 
-### 37. reh3376/mdemg
+### 39. reh3376/mdemg
 
 - Link: https://github.com/reh3376/mdemg
 - Title: reh3376/mdemg
