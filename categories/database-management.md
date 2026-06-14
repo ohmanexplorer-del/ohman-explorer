@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. neo4j-partners/neo4j-kubernetes-operator
 
 - Link: https://github.com/neo4j-partners/neo4j-kubernetes-operator
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: database-management
 - Type: tool
 - Language: Go
+- Created: 2025-06-23
+- Age: 11 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
