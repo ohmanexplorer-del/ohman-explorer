@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. albertodonato/h2static
 
 - Link: https://github.com/albertodonato/h2static
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: web-servers
 - Type: tool
 - Language: Go
+- Created: 2018-07-03
+- Age: 7 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 7.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
