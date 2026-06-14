@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. fyvri/fresh-proxy-list
 
 - Link: https://github.com/fyvri/fresh-proxy-list
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: proxy-management
 - Type: tool
 - Language: Go
+- Created: 2024-12-06
+- Age: 1 years 6 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
@@ -31,6 +37,10 @@ Curated projects in this category.
 - Description: ICE Proxy list produces new proxies by collectively scanning the entire open source list in the world. Proxies are updated every 2 - 3 minutes. New Proxy sources will be added day by day. The list is always open source.
 - Category: proxy-management
 - Type: tool
+- Created: 2023-12-05
+- Age: 2 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
@@ -52,6 +62,10 @@ Curated projects in this category.
 - Category: proxy-management
 - Type: app
 - Language: TypeScript
+- Created: 2026-04-26
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 6.0/10
 - Maturity: 3.0/10
