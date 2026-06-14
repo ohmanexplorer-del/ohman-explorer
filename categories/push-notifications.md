@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. cagedbird043/fcm-hosts-next
 
 - Link: https://github.com/cagedbird043/fcm-hosts-next
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: push-notifications
 - Type: tool
 - Language: Go
+- Created: 2025-12-31
+- Age: 5 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
