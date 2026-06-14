@@ -2,7 +2,27 @@
 
 Curated projects in this category.
 
-### 1. gotd/botapi
+### 1. indmdev/Telegram-Store-MiniApp
+
+- Link: https://github.com/indmdev/Telegram-Store-MiniApp
+- Title: indmdev/Telegram-Store-MiniApp
+- Description: Beautiful Telegram Store MiniApp. A Telegram Store Mini App by InDMDev Teams. The best Telegram Shop MiniApp and the latest Telegram Shop Mini App, the Auto Buy Bot every seller should have. This telegram mini app is des...
+- Category: telegram-bot
+- Type: app
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 30
+- Reason: Well-structured Telegram mini app with a clear purpose
+- Strengths:
+  - Simple and scalable design
+  - Auto Buy Bot feature
+- Weaknesses:
+  - Limited documentation
+  - Unclear customization options
+
+### 2. gotd/botapi
 
 - Link: https://github.com/gotd/botapi
 - Title: gotd/botapi
