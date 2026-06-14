@@ -56,7 +56,31 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Niche functionality
 
-### 3. hevnsnt/collider
+### 3. bit-nexusxtitmtdsuy/Polymarket_Bot
+
+- Link: https://github.com/bit-nexusxtitmtdsuy/Polymarket_Bot
+- Title: bit-nexusxtitmtdsuy/Polymarket_Bot
+- Description: Polymarket Bot is a tool for interacting with Polymarket, a decentralized prediction market platform where users trade shares representing the probability of real-world events using cryptocurrency (primarily USDC).
+- Category: blockchain
+- Type: tool
+- Created: 2026-03-23
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 32
+- Reason: The project is a real, working tool with clear purpose and English documentation, but its niche focus and relatively low star count limit its broader appeal.
+- Strengths:
+  - Clear purpose
+  - English documentation
+- Weaknesses:
+  - Niche focus
+  - Low star count
+
+### 4. hevnsnt/collider
 
 - Link: https://github.com/hevnsnt/collider
 - Title: hevnsnt/collider
@@ -82,7 +106,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Extremely niche target audience (Bitcoin puzzle solvers and cryptanalysts)
   - Low community engagement and star count
 
-### 4. pseudoyu/top-blockchain-projects
+### 5. pseudoyu/top-blockchain-projects
 
 - Link: https://github.com/pseudoyu/top-blockchain-projects
 - Title: pseudoyu/top-blockchain-projects
@@ -107,7 +131,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited to GitHub stars
   - No additional project analysis
 
-### 5. hyperledger/fabric-x-common
+### 6. hyperledger/fabric-x-common
 
 - Link: https://github.com/hyperledger/fabric-x-common
 - Title: hyperledger/fabric-x-common
