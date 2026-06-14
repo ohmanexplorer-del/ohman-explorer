@@ -433,7 +433,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 59
-- Reason: {   "category": "logging",   "project_type": "example",   "score": 6,   "novelty": 4,   "m
+- Reason: { "category": "logging", "project_type": "example", "score": 6, "novelty": 4, "m
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
@@ -1117,7 +1117,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 29
-- Reason: {   "category": "shell-linters",   "project_type": "tool",   "score": 7.2,   "novelty": 
+- Reason: { "category": "shell-linters", "project_type": "tool", "score": 7.2, "novelty":
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
@@ -2276,7 +2276,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 11
-- Reason: {   "category": "aws-infrastructure",   "project_type": "tool",   "score": 5,   "novelty": 5,   "maturity": 2,   "small_repo_fit": 6,   "reason": "A Go-based LocalStack alternative is potentially useful, but the project appears early-stage and likely has limited service coverage.",   "strengths": [     "Targets a clear AWS-local-development need",     "Go implementation may be lighter and easier to deploy than heavier alternatives",     "Niche could be valuable for
+- Reason: { "category": "aws-infrastructure", "project_type": "tool", "score": 5, "novelty": 5, "maturity": 2, "small_repo_fit": 6, "reason": "A Go-based LocalStack alternative is potentially useful, but the project appears early-stage and likely has limited service coverage.", "strengths": [ "Targets a clear AWS-local-development need", "Go implementation may be lighter and easier to deploy than heavier alternatives", "Niche could be valuable for
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
@@ -2618,7 +2618,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 10
-- Reason: {   "category": "macos-automation",   "project_type": "tool",   "score": 7,   "novelty": 6,   "maturity": 5,   "small_repo_fit": 7,   "reason": "A small, focused Go agent for triggering macOS
+- Reason: { "category": "macos-automation", "project_type": "tool", "score": 7, "novelty": 6, "maturity": 5, "small_repo_fit": 7, "reason": "A small, focused Go agent for triggering macOS
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
@@ -2808,7 +2808,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
 - Stars: 400
-- Reason: {   "category": "recipe-management",   "project_type": "app",   "score": 7,   "novelty": 5
+- Reason: { "category": "recipe-management", "project_type": "app", "score": 7, "novelty": 5
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
@@ -2827,7 +2827,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
 - Stars: 389
-- Reason: {   "category": "security-recon",   "project_type": "unknown",   "score": 7.4,   "novelty": 6.5,   "maturity": 7.0,   "small
+- Reason: { "category": "security-recon", "project_type": "unknown", "score": 7.4, "novelty": 6.5, "maturity": 7.0, "small
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
