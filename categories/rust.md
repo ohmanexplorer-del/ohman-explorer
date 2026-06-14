@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. sochdb/sochdb
 
 - Link: https://github.com/sochdb/sochdb
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: rust
 - Type: unknown
 - Language: Rust
+- Created: 2026-01-01
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
