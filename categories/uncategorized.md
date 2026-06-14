@@ -178,7 +178,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 9. yuanw/nix-home
+### 9. SysAdminDoc/win11-nvme-driver-patcher
+
+- Link: https://github.com/SysAdminDoc/win11-nvme-driver-patcher
+- Title: SysAdminDoc/win11-nvme-driver-patcher
+- Description: GUI tool to enable the experimental Windows Server 2025 NVMe storage driver on Windows 11.
+- Category: uncategorized
+- Type: unknown
+- Language: C#
+- Created: 2025-12-29
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 46
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. yuanw/nix-home
 
 - Link: https://github.com/yuanw/nix-home
 - Title: yuanw/nix-home
@@ -201,7 +224,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 10. CollieAi/llm-firewall
+### 11. CollieAi/llm-firewall
 
 - Link: https://github.com/CollieAi/llm-firewall
 - Title: CollieAi/llm-firewall
@@ -223,7 +246,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 11. SankaVollereii/Sankanime-Web-Stream-Anime
+### 12. SankaVollereii/Sankanime-Web-Stream-Anime
 
 - Link: https://github.com/SankaVollereii/Sankanime-Web-Stream-Anime
 - Title: SankaVollereii/Sankanime-Web-Stream-Anime
@@ -245,7 +268,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 12. Rodrig02005/EmuHub-APP
+### 13. Rodrig02005/EmuHub-APP
 
 - Link: https://github.com/Rodrig02005/EmuHub-APP
 - Title: Rodrig02005/EmuHub-APP
@@ -268,7 +291,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 13. pog7x/vpn-configs
+### 14. pog7x/vpn-configs
 
 - Link: https://github.com/pog7x/vpn-configs
 - Title: pog7x/vpn-configs
@@ -291,7 +314,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 14. forfudan/MojoMiji
+### 15. forfudan/MojoMiji
 
 - Link: https://github.com/forfudan/MojoMiji
 - Title: forfudan/MojoMiji
@@ -314,7 +337,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 15. add-my-pet/DEBtool_M
+### 16. add-my-pet/DEBtool_M
 
 - Link: https://github.com/add-my-pet/DEBtool_M
 - Title: add-my-pet/DEBtool_M
@@ -337,7 +360,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 16. atlanhq/application-sdk
+### 17. atlanhq/application-sdk
 
 - Link: https://github.com/atlanhq/application-sdk
 - Title: atlanhq/application-sdk
@@ -360,7 +383,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 17. Dev-FelixOfc/Kazuma-Mr-Bot
+### 18. Dev-FelixOfc/Kazuma-Mr-Bot
 
 - Link: https://github.com/Dev-FelixOfc/Kazuma-Mr-Bot
 - Title: Dev-FelixOfc/Kazuma-Mr-Bot
@@ -383,7 +406,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 18. rdmurphy/actblue-ticker-tracker
+### 19. rdmurphy/actblue-ticker-tracker
 
 - Link: https://github.com/rdmurphy/actblue-ticker-tracker
 - Title: rdmurphy/actblue-ticker-tracker
@@ -406,7 +429,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 19. raintree-technology/docpull
+### 20. raintree-technology/docpull
 
 - Link: https://github.com/raintree-technology/docpull
 - Title: raintree-technology/docpull
@@ -429,7 +452,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 20. VPSLabCloud/VPSLab-Free-Proxy-List
+### 21. VPSLabCloud/VPSLab-Free-Proxy-List
 
 - Link: https://github.com/VPSLabCloud/VPSLab-Free-Proxy-List
 - Title: VPSLabCloud/VPSLab-Free-Proxy-List
@@ -451,7 +474,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 21. mflRevan/unity-control-protocol
+### 22. dnc1994/blog
+
+- Link: https://github.com/dnc1994/blog
+- Title: dnc1994/blog
+- Description: Personal blog built with Next.js and MDX
+- Category: uncategorized
+- Type: unknown
+- Language: MDX
+- Created: 2019-05-09
+- Age: 7 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 23. mflRevan/unity-control-protocol
 
 - Link: https://github.com/mflRevan/unity-control-protocol
 - Title: mflRevan/unity-control-protocol
@@ -474,7 +520,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 22. sergeii/swat4stats
+### 24. nilanshucodes/algoradar-extension
+
+- Link: https://github.com/nilanshucodes/algoradar-extension
+- Title: nilanshucodes/algoradar-extension
+- Description: Chrome extension to track upcoming coding contests
+- Category: uncategorized
+- Type: unknown
+- Language: JavaScript
+- Created: 2025-12-10
+- Age: 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 25. sergeii/swat4stats
 
 - Link: https://github.com/sergeii/swat4stats
 - Title: sergeii/swat4stats
@@ -497,7 +566,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 23. jobright-ai/2026-Engineering-New-Grad
+### 26. jobright-ai/2026-Engineering-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Engineering-New-Grad
 - Title: jobright-ai/2026-Engineering-New-Grad
@@ -519,7 +588,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 24. jobright-ai/2026-Business-Analyst-New-Grad
+### 27. davralin/cluster-ops
+
+- Link: https://github.com/davralin/cluster-ops
+- Title: davralin/cluster-ops
+- Description: Repo for managing kubernetes-clusters
+- Category: uncategorized
+- Type: unknown
+- Language: Jinja
+- Created: 2022-04-03
+- Age: 4 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 28. jobright-ai/2026-Business-Analyst-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Business-Analyst-New-Grad
 - Title: jobright-ai/2026-Business-Analyst-New-Grad
@@ -541,7 +633,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 25. orjangj/neotest-ctest
+### 29. orjangj/neotest-ctest
 
 - Link: https://github.com/orjangj/neotest-ctest
 - Title: orjangj/neotest-ctest
@@ -564,7 +656,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 26. tabhub/rss-feeds
+### 30. tabhub/rss-feeds
 
 - Link: https://github.com/tabhub/rss-feeds
 - Title: tabhub/rss-feeds
@@ -587,7 +679,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 27. Simon-He95/Simon-He95
+### 31. Simon-He95/Simon-He95
 
 - Link: https://github.com/Simon-He95/Simon-He95
 - Title: Simon-He95/Simon-He95
@@ -610,7 +702,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 28. watadarkstar/react-native-nsfw-detector
+### 32. watadarkstar/react-native-nsfw-detector
 
 - Link: https://github.com/watadarkstar/react-native-nsfw-detector
 - Title: watadarkstar/react-native-nsfw-detector
@@ -633,7 +725,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 29. aminalaee/vllm-doctor
+### 33. aminalaee/vllm-doctor
 
 - Link: https://github.com/aminalaee/vllm-doctor
 - Title: aminalaee/vllm-doctor
@@ -656,7 +748,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 30. eniklas/gamatrix
+### 34. eniklas/gamatrix
 
 - Link: https://github.com/eniklas/gamatrix
 - Title: eniklas/gamatrix
@@ -679,7 +771,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 31. zcanann/SFA-Decomp
+### 35. zcanann/SFA-Decomp
 
 - Link: https://github.com/zcanann/SFA-Decomp
 - Title: zcanann/SFA-Decomp
@@ -702,7 +794,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 32. latedeployment/oci2bin
+### 36. latedeployment/oci2bin
 
 - Link: https://github.com/latedeployment/oci2bin
 - Title: latedeployment/oci2bin
@@ -725,7 +817,29 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 33. bdezonia/zorbage
+### 37. Bd-Mutant7/Bd-Mutant7
+
+- Link: https://github.com/Bd-Mutant7/Bd-Mutant7
+- Title: Bd-Mutant7/Bd-Mutant7
+- Description: Config files for my GitHub profile.
+- Category: uncategorized
+- Type: unknown
+- Created: 2024-09-19
+- Age: 1 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 38. bdezonia/zorbage
 
 - Link: https://github.com/bdezonia/zorbage
 - Title: bdezonia/zorbage
@@ -748,7 +862,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 34. jobright-ai/2026-Account-New-Grad
+### 39. jobright-ai/2026-Account-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Account-New-Grad
 - Title: jobright-ai/2026-Account-New-Grad
@@ -770,7 +884,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 35. jwwelbor/AgentMap
+### 40. joschi/asdf-vm-bot
+
+- Link: https://github.com/joschi/asdf-vm-bot
+- Title: joschi/asdf-vm-bot
+- Description: Post availability of new plugins and new candidate versions for the asdf version manager to Mastodon and Twitter.
+- Category: uncategorized
+- Type: unknown
+- Language: Shell
+- Created: 2020-11-22
+- Age: 5 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 41. jwwelbor/AgentMap
 
 - Link: https://github.com/jwwelbor/AgentMap
 - Title: jwwelbor/AgentMap
@@ -793,7 +930,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 36. andreiraduta11/bet-etf
+### 42. andreiraduta11/bet-etf
 
 - Link: https://github.com/andreiraduta11/bet-etf
 - Title: andreiraduta11/bet-etf
@@ -816,7 +953,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 37. cogni-work/insight-wave
+### 43. cogni-work/insight-wave
 
 - Link: https://github.com/cogni-work/insight-wave
 - Title: cogni-work/insight-wave
@@ -839,7 +976,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 38. thwbecker/interact
+### 44. thwbecker/interact
 
 - Link: https://github.com/thwbecker/interact
 - Title: thwbecker/interact
@@ -862,7 +999,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 39. jobright-ai/2026-Software-Engineer-New-Grad
+### 45. jobright-ai/2026-Software-Engineer-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Software-Engineer-New-Grad
 - Title: jobright-ai/2026-Software-Engineer-New-Grad
@@ -884,7 +1021,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 40. dibdot/DoH-IP-blocklists
+### 46. dibdot/DoH-IP-blocklists
 
 - Link: https://github.com/dibdot/DoH-IP-blocklists
 - Title: dibdot/DoH-IP-blocklists
@@ -907,7 +1044,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 41. doldecomp/sms
+### 47. smithersai/smithers
+
+- Link: https://github.com/smithersai/smithers
+- Title: smithersai/smithers
+- Description: AI Orchestration Framework
+- Category: uncategorized
+- Type: unknown
+- Language: JavaScript
+- Created: 2026-01-05
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 264
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 48. doldecomp/sms
 
 - Link: https://github.com/doldecomp/sms
 - Title: doldecomp/sms
@@ -930,7 +1090,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 42. nickprotop/ConsoleEx
+### 49. nickprotop/ConsoleEx
 
 - Link: https://github.com/nickprotop/ConsoleEx
 - Title: nickprotop/ConsoleEx
@@ -953,7 +1113,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 43. nyeinkokoaung404/V2ray-Configs
+### 50. nyeinkokoaung404/V2ray-Configs
 
 - Link: https://github.com/nyeinkokoaung404/V2ray-Configs
 - Title: nyeinkokoaung404/V2ray-Configs
@@ -976,7 +1136,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 44. nextcloud/collectives
+### 51. nextcloud/collectives
 
 - Link: https://github.com/nextcloud/collectives
 - Title: nextcloud/collectives
@@ -999,7 +1159,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 45. drshahizan/HPDP
+### 52. drshahizan/HPDP
 
 - Link: https://github.com/drshahizan/HPDP
 - Title: drshahizan/HPDP
@@ -1022,7 +1182,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 46. torvalds/1590A
+### 53. torvalds/1590A
 
 - Link: https://github.com/torvalds/1590A
 - Title: torvalds/1590A
