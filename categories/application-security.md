@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. go-appsec/toolbox
 
 - Link: https://github.com/go-appsec/toolbox
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: application-security
 - Type: tool
 - Language: Go
+- Created: 2025-12-22
+- Age: 5 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
