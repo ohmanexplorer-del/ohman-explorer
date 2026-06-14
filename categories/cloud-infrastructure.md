@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. 0xjeffro/astroclaw
+### 1. pulumi/pulumi-oci
 
-- Link: https://github.com/0xjeffro/astroclaw
-- Title: 0xjeffro/astroclaw
-- Description: Cloud-native agent-as-a-service framework with one-click IaC deployment.
+- Link: https://github.com/pulumi/pulumi-oci
+- Title: pulumi/pulumi-oci
+- Description: An Oracle Cloud (OCI) Pulumi resource package, providing multi-language access to OCI
 - Category: cloud-infrastructure
-- Type: framework
+- Type: library
 - Language: Go
-- Score: 7.0/10
+- Score: 8.0/10
 - Novelty: 6.0/10
-- Maturity: 5.0/10
-- Small repo potential: 8.0/10
-- Stars: 174
-- Reason: Well-structured Go codebase
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 39
+- Reason: Provides multi-language access to OCI
 - Strengths:
-  - Cloud-native design
-  - One-click IaC deployment
+  - Multi-language support
+  - Official Pulumi resource package
 - Weaknesses:
-  - Limited documentation
-  - Unclear use cases
+  - Limited community engagement
+  - Niche use case
 
