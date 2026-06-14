@@ -2,15 +2,16 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 17:01:04 UTC
+Last updated: 2026-06-14 17:21:04 UTC
 
-Total indexed projects: 477
+Total indexed projects: 487
 
 ## Categories
 
 | Category | Projects |
 |---|---:|
 | [accessibility-tool](categories/accessibility-tool.md) | 2 |
+| [ad-blocking](categories/ad-blocking.md) | 1 |
 | [adblock-filterlists](categories/adblock-filterlists.md) | 1 |
 | [admin-backend](categories/admin-backend.md) | 1 |
 | [ai-agent](categories/ai-agent.md) | 1 |
@@ -37,6 +38,7 @@ Total indexed projects: 477
 | [ai-workflows](categories/ai-workflows.md) | 1 |
 | [application-security](categories/application-security.md) | 1 |
 | [aprs-stack](categories/aprs-stack.md) | 1 |
+| [artificial-intelligence](categories/artificial-intelligence.md) | 1 |
 | [audio-engine](categories/audio-engine.md) | 1 |
 | [audio-utility](categories/audio-utility.md) | 1 |
 | [auth-library](categories/auth-library.md) | 1 |
@@ -63,6 +65,7 @@ Total indexed projects: 477
 | [container-management](categories/container-management.md) | 1 |
 | [core-service](categories/core-service.md) | 1 |
 | [crypto-wallet](categories/crypto-wallet.md) | 1 |
+| [cyber-security](categories/cyber-security.md) | 1 |
 | [cybersecurity](categories/cybersecurity.md) | 1 |
 | [data-collection](categories/data-collection.md) | 1 |
 | [data-engineering](categories/data-engineering.md) | 1 |
@@ -109,6 +112,7 @@ Total indexed projects: 477
 | [go-framework](categories/go-framework.md) | 1 |
 | [gpu-framework](categories/gpu-framework.md) | 1 |
 | [hardware-hacking](categories/hardware-hacking.md) | 1 |
+| [home-automation](categories/home-automation.md) | 1 |
 | [homelab-management](categories/homelab-management.md) | 1 |
 | [hpc-libraries](categories/hpc-libraries.md) | 1 |
 | [iam-integration](categories/iam-integration.md) | 1 |
@@ -126,6 +130,7 @@ Total indexed projects: 477
 | [kubernetes-operator](categories/kubernetes-operator.md) | 1 |
 | [kubernetes-tooling](categories/kubernetes-tooling.md) | 4 |
 | [kubernetes-tools](categories/kubernetes-tools.md) | 2 |
+| [linux-config](categories/linux-config.md) | 1 |
 | [linux-security](categories/linux-security.md) | 1 |
 | [llm-security](categories/llm-security.md) | 1 |
 | [machine-learning](categories/machine-learning.md) | 1 |
@@ -157,6 +162,7 @@ Total indexed projects: 477
 | [osx-development](categories/osx-development.md) | 1 |
 | [parser-generator](categories/parser-generator.md) | 1 |
 | [pdf-creation](categories/pdf-creation.md) | 1 |
+| [perl-cpan](categories/perl-cpan.md) | 1 |
 | [privacy-tools](categories/privacy-tools.md) | 1 |
 | [productivity-app](categories/productivity-app.md) | 1 |
 | [productivity-tool](categories/productivity-tool.md) | 2 |
@@ -171,6 +177,8 @@ Total indexed projects: 477
 | [realtime-comm](categories/realtime-comm.md) | 1 |
 | [reverse-proxy](categories/reverse-proxy.md) | 1 |
 | [robotics-competition](categories/robotics-competition.md) | 1 |
+| [routeros-script](categories/routeros-script.md) | 1 |
+| [rust](categories/rust.md) | 1 |
 | [scientific-simulation](categories/scientific-simulation.md) | 1 |
 | [security-monitoring](categories/security-monitoring.md) | 1 |
 | [security-tool](categories/security-tool.md) | 2 |
@@ -187,13 +195,14 @@ Total indexed projects: 477
 | [testing-tool](categories/testing-tool.md) | 1 |
 | [text-processing](categories/text-processing.md) | 1 |
 | [typescript](categories/typescript.md) | 19 |
+| [ui-components](categories/ui-components.md) | 1 |
 | [uncategorized](categories/uncategorized.md) | 3 |
 | [video-streaming](categories/video-streaming.md) | 1 |
 | [virtualization-management](categories/virtualization-management.md) | 1 |
 | [visual-novel-patch](categories/visual-novel-patch.md) | 1 |
 | [vpn-client](categories/vpn-client.md) | 1 |
 | [vpn-server](categories/vpn-server.md) | 1 |
-| [vpn-tools](categories/vpn-tools.md) | 1 |
+| [vpn-tools](categories/vpn-tools.md) | 2 |
 | [weather-forecast](categories/weather-forecast.md) | 1 |
 | [web-crawling](categories/web-crawling.md) | 1 |
 | [web-development](categories/web-development.md) | 1 |
@@ -212,22 +221,25 @@ Total indexed projects: 477
 |---|---:|
 | Go | 404 |
 | TypeScript | 28 |
-| Unknown | 12 |
-| Python | 8 |
-| Rust | 4 |
+| Unknown | 14 |
+| Python | 10 |
+| Rust | 5 |
 | C++ | 3 |
+| HTML | 3 |
 | C | 2 |
-| HTML | 2 |
+| JavaScript | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
 | Java | 1 |
-| JavaScript | 1 |
+| Jsonnet | 1 |
 | Julia | 1 |
 | Kotlin | 1 |
 | Lean | 1 |
 | OpenSCAD | 1 |
 | PHP | 1 |
+| Perl | 1 |
 | PowerShell | 1 |
+| RouterOS Script | 1 |
 | Ruby | 1 |
 | SCSS | 1 |
 | Vue | 1 |
