@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. gogpu/gogpu
 
 - Link: https://github.com/gogpu/gogpu
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: gpu-framework
 - Type: framework
 - Language: Go
+- Created: 2025-12-05
+- Age: 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
