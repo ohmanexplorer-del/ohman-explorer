@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. garybowers/bootimus
 
 - Link: https://github.com/garybowers/bootimus
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: infrastructure-automation
 - Type: tool
 - Language: Go
+- Created: 2025-12-27
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 7.0/10
 - Novelty: 6.0/10
 - Maturity: 5.0/10
