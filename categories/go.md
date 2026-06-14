@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. leancodebox/GooseForum
 
 - Link: https://github.com/leancodebox/GooseForum
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-03-31
+- Age: 1 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -29,6 +35,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-08
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -48,6 +58,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-12-31
+- Age: 5 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -67,6 +81,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-09-25
+- Age: 2 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -86,6 +104,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-10-30
+- Age: 1 years 7 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -105,6 +127,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-08-12
+- Age: 1 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -124,6 +150,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-01
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -143,6 +173,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-03-10
+- Age: 6 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -162,6 +196,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-04-05
+- Age: 2 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -181,6 +219,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-04-08
+- Age: 1 years 2 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -200,6 +242,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-06-21
+- Age: 3 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -219,6 +265,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-11-16
+- Age: 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -238,6 +288,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-03
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -257,6 +311,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2015-06-25
+- Age: 10 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -276,6 +334,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-09-30
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -295,6 +357,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-06-17
+- Age: 12 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -314,6 +380,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-04-11
+- Age: 2 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -333,6 +403,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-30
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -352,6 +426,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-12-19
+- Age: 4 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -371,6 +449,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-01-31
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -390,6 +472,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-07-21
+- Age: 4 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -409,6 +495,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-09-05
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -428,6 +518,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-09-11
+- Age: 2 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -447,6 +541,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-09
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -466,6 +564,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-25
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -485,6 +587,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-03-29
+- Age: 1 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -504,6 +610,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-04-21
+- Age: 6 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -523,6 +633,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-12-20
+- Age: 3 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -542,6 +656,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-10-10
+- Age: 4 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -561,6 +679,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-09-02
+- Age: 4 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -580,6 +702,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-04-13
+- Age: 6 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -599,6 +725,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2018-10-02
+- Age: 7 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -618,6 +748,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-19
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -637,6 +771,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2012-04-12
+- Age: 14 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -656,6 +794,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2019-11-09
+- Age: 6 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -675,6 +817,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-05-21
+- Age: 6 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -694,6 +840,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-01-20
+- Age: 2 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -713,6 +863,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-07
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -732,6 +886,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-20
+- Age: 25 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -751,6 +909,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-04
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -770,6 +932,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-05
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -789,6 +955,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-12-14
+- Age: 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -808,6 +978,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-01-30
+- Age: 2 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -827,6 +1001,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-08-25
+- Age: 1 years 9 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -846,6 +1024,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-05
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -865,6 +1047,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-07-06
+- Age: 3 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -884,6 +1070,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-11-13
+- Age: 5 years 7 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -903,6 +1093,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-03-26
+- Age: 6 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -922,6 +1116,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-08-14
+- Age: 10 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -941,6 +1139,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-05-27
+- Age: 1 years
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -960,6 +1162,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-08-01
+- Age: 1 years 10 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -979,6 +1185,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-16
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -998,6 +1208,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-09-16
+- Age: 3 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1017,6 +1231,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-27
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1036,6 +1254,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-09-26
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1055,6 +1277,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-11
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1074,6 +1300,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-10-24
+- Age: 3 years 7 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1093,6 +1323,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-01
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1112,6 +1346,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-11-12
+- Age: 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1131,6 +1369,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-08-03
+- Age: 1 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1150,6 +1392,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-26
+- Age: 19 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1169,6 +1415,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2019-10-01
+- Age: 6 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1188,6 +1438,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-30
+- Age: 15 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1207,6 +1461,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-15
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1226,6 +1484,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-06-13
+- Age: 3 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1245,6 +1507,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-12-18
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1264,6 +1530,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-02-25
+- Age: 2 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1283,6 +1553,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2017-11-05
+- Age: 8 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1302,6 +1576,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-06
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1321,6 +1599,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-28
+- Age: 17 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1340,6 +1622,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-04
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1359,6 +1645,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-01-06
+- Age: 2 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1378,6 +1668,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-01-15
+- Age: 4 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1397,6 +1691,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-28
+- Age: 17 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1416,6 +1714,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-03-03
+- Age: 3 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1435,6 +1737,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2018-11-09
+- Age: 7 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1454,6 +1760,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-05
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1473,6 +1783,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-29
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1492,6 +1806,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-09-25
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1511,6 +1829,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-22
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1530,6 +1852,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-01-30
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1549,6 +1875,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-09
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1568,6 +1898,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-20
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1587,6 +1921,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-23
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1606,6 +1944,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-02-03
+- Age: 1 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1625,6 +1967,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-03
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1644,6 +1990,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-16
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1663,6 +2013,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-08-08
+- Age: 5 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1682,6 +2036,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-27
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1701,6 +2059,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-09-03
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1720,6 +2082,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-05-11
+- Age: 4 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1739,6 +2105,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-10-26
+- Age: 5 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1758,6 +2128,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-10-08
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1777,6 +2151,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-18
+- Age: 27 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1796,6 +2174,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-25
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1815,6 +2197,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-04-05
+- Age: 5 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1834,6 +2220,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-21
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1853,6 +2243,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-01-03
+- Age: 5 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1872,6 +2266,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-10-25
+- Age: 5 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1891,6 +2289,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-29
+- Age: 16 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1910,6 +2312,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-05-27
+- Age: 2 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1929,6 +2335,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-07-20
+- Age: 10 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1948,6 +2358,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-21
+- Age: 24 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1967,6 +2381,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-09-06
+- Age: 2 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -1986,6 +2404,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-19
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2005,6 +2427,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-05-13
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2024,6 +2450,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-09-10
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2043,6 +2473,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-09
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2062,6 +2496,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-21
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2081,6 +2519,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2018-08-07
+- Age: 7 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2100,6 +2542,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-03-28
+- Age: 5 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2119,6 +2565,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-01-06
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2138,6 +2588,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-03
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2157,6 +2611,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-31
+- Age: 14 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2176,6 +2634,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-02-01
+- Age: 4 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2195,6 +2657,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-14
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2214,6 +2680,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2016-03-02
+- Age: 10 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2233,6 +2703,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-04-16
+- Age: 5 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2252,6 +2726,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-15
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2271,6 +2749,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-14
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2290,6 +2772,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-31
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2309,6 +2795,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-01-08
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2328,6 +2818,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-08-17
+- Age: 2 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2347,6 +2841,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-12-09
+- Age: 1 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2366,6 +2864,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-10-11
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2385,6 +2887,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2015-02-07
+- Age: 11 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2404,6 +2910,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-11-09
+- Age: 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2423,6 +2933,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-12-31
+- Age: 5 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2442,6 +2956,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-07
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2461,6 +2979,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-06-11
+- Age: 3 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2480,6 +3002,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-30
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2499,6 +3025,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-21
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2518,6 +3048,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-03-14
+- Age: 4 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2537,6 +3071,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-06
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2556,6 +3094,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-06-02
+- Age: 2 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2575,6 +3117,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-09-10
+- Age: 4 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2594,6 +3140,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-03-23
+- Age: 2 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2613,6 +3163,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-01-29
+- Age: 4 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2632,6 +3186,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-12-28
+- Age: 1 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2651,6 +3209,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-10-08
+- Age: 1 years 8 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2670,6 +3232,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-02-19
+- Age: 5 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2689,6 +3255,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-03-27
+- Age: 4 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2708,6 +3278,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2012-10-04
+- Age: 13 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2727,6 +3301,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-12-14
+- Age: 1 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2746,6 +3324,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-03-08
+- Age: 6 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2765,6 +3347,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-08-18
+- Age: 5 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2784,6 +3370,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-03-25
+- Age: 1 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2803,6 +3393,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-05-18
+- Age: 5 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2822,6 +3416,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-06-26
+- Age: 2 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2841,6 +3439,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-19
+- Age: 26 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2860,6 +3462,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-09-19
+- Age: 4 years 8 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2879,6 +3485,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-06-29
+- Age: 5 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2898,6 +3508,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-03-15
+- Age: 6 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2917,6 +3531,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-03-26
+- Age: 5 years 2 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2936,6 +3554,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-05-05
+- Age: 4 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2955,6 +3577,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-02-02
+- Age: 1 years 4 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2974,6 +3600,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-04-26
+- Age: 5 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -2993,6 +3623,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-10-28
+- Age: 5 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3012,6 +3646,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-09-08
+- Age: 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3031,6 +3669,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-02-14
+- Age: 6 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3050,6 +3692,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-26
+- Age: 1 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3069,6 +3715,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-01-05
+- Age: 6 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3088,6 +3738,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-12-24
+- Age: 5 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3107,6 +3761,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2024-05-01
+- Age: 2 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3126,6 +3784,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-04-23
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3145,6 +3807,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-01-01
+- Age: 5 years 5 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3164,6 +3830,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-11-13
+- Age: 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3183,6 +3853,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-03-16
+- Age: 6 years 3 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3202,6 +3876,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2018-04-29
+- Age: 8 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3221,6 +3899,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-06
+- Age: 4 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3240,6 +3922,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-01
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3259,6 +3945,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-05-05
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3278,6 +3968,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-02-17
+- Age: 4 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3297,6 +3991,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-08-29
+- Age: 4 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3316,6 +4014,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-10-04
+- Age: 3 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3335,6 +4037,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-10-24
+- Age: 2 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3354,6 +4060,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2016-02-08
+- Age: 10 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3373,6 +4083,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-03-12
+- Age: 3 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3392,6 +4106,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-18
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3411,6 +4129,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2019-03-01
+- Age: 7 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3430,6 +4152,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-02-14
+- Age: 1 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3449,6 +4175,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-14
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3468,6 +4198,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-08
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3487,6 +4221,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2017-04-24
+- Age: 9 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3506,6 +4244,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-08
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3525,6 +4267,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-06-26
+- Age: 11 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3544,6 +4290,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2020-07-21
+- Age: 5 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3563,6 +4313,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2021-08-03
+- Age: 4 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3582,6 +4336,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-06-05
+- Age: 9 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3601,6 +4359,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-05-30
+- Age: 15 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3620,6 +4382,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2019-06-08
+- Age: 7 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3639,6 +4405,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-11-12
+- Age: 7 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3658,6 +4428,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-07-07
+- Age: 11 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3677,6 +4451,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2022-01-27
+- Age: 4 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3696,6 +4474,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-07-31
+- Age: 10 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3715,6 +4497,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-11-17
+- Age: 2 years 7 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3734,6 +4520,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2025-12-29
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3753,6 +4543,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2017-06-26
+- Age: 8 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3772,6 +4566,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-12-02
+- Age: 2 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3791,6 +4589,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-02-19
+- Age: 3 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3810,6 +4612,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-05-30
+- Age: 3 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3829,6 +4635,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2026-03-20
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -3848,6 +4658,10 @@ Curated projects in this category.
 - Category: go
 - Type: unknown
 - Language: Go
+- Created: 2023-10-31
+- Age: 2 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
