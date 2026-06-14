@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. aarondpn/redmine-cli
 
 - Link: https://github.com/aarondpn/redmine-cli
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: project-management
 - Type: tool
 - Language: Go
+- Created: 2026-03-14
+- Age: 3 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 7.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
@@ -32,6 +38,10 @@ Curated projects in this category.
 - Category: project-management
 - Type: app
 - Language: Go
+- Created: 2025-12-15
+- Age: 6 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 5.0/10
