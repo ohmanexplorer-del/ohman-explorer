@@ -2,24 +2,25 @@
 
 Curated projects in this category.
 
-### 1. procore-oss/kube-binpacking-exporter
+### 1. nikhilsbhat/helm-drift
 
-- Link: https://github.com/procore-oss/kube-binpacking-exporter
-- Title: procore-oss/kube-binpacking-exporter
-- Description: Exports Pre-computed Kubernetes Cluster Binpacking Metrics
+- Link: https://github.com/nikhilsbhat/helm-drift
+- Title: nikhilsbhat/helm-drift
+- Description: Helm plugin that identifies the configuration that has drifted from the Helm chart
 - Category: kubernetes-tooling
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 19
-- Reason: Focused and useful binpacking metrics exporter
+- Small repo potential: 9.0/10
+- Stars: 83
+- Reason: Fills a specific niche in Helm chart management
 - Strengths:
-  - Specific use case
-  - Clear documentation
+  - Addresses a common pain point in Kubernetes management
+  - Clear and focused purpose
+  - Written in a suitable language for the task
 - Weaknesses:
-  - Niche functionality
-  - Limited community engagement
+  - Limited scope may restrict broader applicability
+  - Relatively low star count may indicate limited community engagement
 
