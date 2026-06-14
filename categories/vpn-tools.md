@@ -24,3 +24,23 @@ Curated projects in this category.
   - Limited to specific VPN protocols
   - Dependence on external services
 
+### 2. Maskkost93/kizyak-vpn-4.0
+
+- Link: https://github.com/Maskkost93/kizyak-vpn-4.0
+- Title: Maskkost93/kizyak-vpn-4.0
+- Description: Надоело смотреть на "соединение..." в телеграме? Бесит баннер "Адрес не найден"? Мы просто убираем все БС и ЧС в сторонку, чт...
+- Category: vpn-tools
+- Type: tool
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 29
+- Reason: Specific solution for Russian VPN needs
+- Strengths:
+  - Russian-specific VPN configurations
+  - Simple solution to a common problem
+- Weaknesses:
+  - Limited scope
+  - Dependence on external configs
+
