@@ -4,7 +4,31 @@ Curated projects in this category.
 
 Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
 
-### 1. Adya84/ha-world-cup-2026
+### 1. Power-Agent/PowerMCP
+
+- Link: https://github.com/Power-Agent/PowerMCP
+- Title: Power-Agent/PowerMCP
+- Description: PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to directly interact with power system applications, facilitating intelligent coor...
+- Category: automation
+- Type: tool
+- Language: Python
+- Created: 2025-04-15
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 8.5/10
+- Novelty: 8.0/10
+- Maturity: 7.0/10
+- Small repo potential: 6.0/10
+- Stars: 155
+- Reason: The project is a real, working tool with a clear purpose and English documentation.
+- Strengths:
+  - Enables LLMs to interact with power system applications
+  - Open-source collection of MCP servers
+- Weaknesses:
+  - Limited topics and documentation available
+
+### 2. Adya84/ha-world-cup-2026
 
 - Link: https://github.com/Adya84/ha-world-cup-2026
 - Title: Adya84/ha-world-cup-2026
@@ -29,7 +53,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependence on specific event (World Cup 2026)
 
-### 2. agentserver/agentserver
+### 3. agentserver/agentserver
 
 - Link: https://github.com/agentserver/agentserver
 - Title: agentserver/agentserver
