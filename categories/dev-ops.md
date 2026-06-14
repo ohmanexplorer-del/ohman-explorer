@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. kubevirt/project-infra
+### 1. pulumi/pulumi-github
 
-- Link: https://github.com/kubevirt/project-infra
-- Title: kubevirt/project-infra
-- Description: Project infrastructure administrative tools
+- Link: https://github.com/pulumi/pulumi-github
+- Title: pulumi/pulumi-github
+- Description: A Pulumi package to facilitate interacting with GitHub
 - Category: dev-ops
-- Type: tool
+- Type: library
 - Language: Go
 - Score: 8.0/10
 - Novelty: 4.0/10
-- Maturity: 7.0/10
-- Small repo potential: 8.0/10
-- Stars: 41
-- Reason: Focused infrastructure tools
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 70
+- Reason: Focused GitHub integration for Pulumi
 - Strengths:
-  - Infrastructure-as-code approach
-  - Ansible integration
+  - Specific use case
+  - Established owner
 - Weaknesses:
-  - Niche use case
-  - Limited community engagement
+  - Limited scope
+  - Dependent on Pulumi
 
