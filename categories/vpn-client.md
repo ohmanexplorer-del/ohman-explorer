@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. lm705/vair
 
 - Link: https://github.com/lm705/vair
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: vpn-client
 - Type: app
 - Language: Go
+- Created: 2026-04-15
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
