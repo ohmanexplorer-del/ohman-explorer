@@ -87,7 +87,28 @@ Curated projects in this category.
   - Limited information available
   - Low community engagement
 
-### 5. caic-xyz/caic
+### 5. rwlove/home-ops
+
+- Link: https://github.com/rwlove/home-ops
+- Title: rwlove/home-ops
+- Description: Lovenet Cluster Configuration
+- Category: dev-ops
+- Type: example
+- Language: YAML
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Well-structured Kubernetes configuration
+- Strengths:
+  - Clear YAML configuration
+  - Specific use case
+- Weaknesses:
+  - Limited scope
+  - Dependence on specific tools
+
+### 6. caic-xyz/caic
 
 - Link: https://github.com/caic-xyz/caic
 - Title: caic-xyz/caic
