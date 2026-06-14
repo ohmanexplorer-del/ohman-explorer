@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. 5-whys/adh-rules
+### 1. missdeer/blocklist
 
-- Link: https://github.com/5-whys/adh-rules
-- Title: 5-whys/adh-rules
-- Description: Adblock home rules for China regions (Mainland China, Hong Kong, Taiwan, Macau Users)
+- Link: https://github.com/missdeer/blocklist
+- Title: missdeer/blocklist
+- Description: A big domain block list - 200000+ lines
 - Category: network-security
 - Type: tool
 - Language: Go
@@ -14,12 +14,12 @@ Curated projects in this category.
 - Novelty: 2.0/10
 - Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 30
-- Reason: Focused on a specific region's adblock rules
+- Stars: 59
+- Reason: Large domain block list with simple Go implementation
 - Strengths:
-  - Specific use case
-  - Clear documentation
+  - Comprehensive block list
+  - Simple implementation
 - Weaknesses:
-  - Limited scope
-  - Dependence on AdGuard Home
+  - Limited functionality
+  - No clear update mechanism
 
