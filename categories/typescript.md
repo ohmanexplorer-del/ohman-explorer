@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. cropflre/nowen-reader
 
 - Link: https://github.com/cropflre/nowen-reader
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-03-04
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -29,6 +35,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-06-03
+- Age: 10 days
+- Last pushed: 2026-06-13
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -48,6 +58,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2019-08-17
+- Age: 6 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -67,6 +81,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2024-05-09
+- Age: 2 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -86,6 +104,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-06-11
+- Age: 3 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -105,6 +127,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2022-03-08
+- Age: 4 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -124,6 +150,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2025-11-29
+- Age: 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -143,6 +173,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-02-11
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -162,6 +196,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2022-06-14
+- Age: 4 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -181,6 +219,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2024-02-08
+- Age: 2 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -200,6 +242,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2025-07-25
+- Age: 10 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -219,6 +265,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-03-08
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -238,6 +288,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-03-26
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -257,6 +311,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2025-06-12
+- Age: 1 years
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -276,6 +334,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-04-24
+- Age: 1 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -295,6 +357,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2022-12-20
+- Age: 3 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -314,6 +380,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-05-15
+- Age: 29 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -333,6 +403,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2026-01-15
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -352,6 +426,10 @@ Curated projects in this category.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
+- Created: 2025-10-16
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
