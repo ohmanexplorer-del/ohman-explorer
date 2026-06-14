@@ -2,19 +2,19 @@
 
 Curated projects in this category.
 
-### 1. Sammons/agentic-collab
+### 1. vegidio/open-photo-ai
 
-- Link: https://github.com/Sammons/agentic-collab
-- Title: Sammons/agentic-collab
-- Description: Zero-dependency orchestrator for managing AI coding agents (Claude, Codex, OpenCode) via tmux sessions. Node 24, no build step, no npm install.
+- Link: https://github.com/vegidio/open-photo-ai
+- Title: vegidio/open-photo-ai
+- Description: An open source alternative to the popular photo AI editor.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 15
+- Small repo potential: 6.0/10
+- Stars: 123
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
