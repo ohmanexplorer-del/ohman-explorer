@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. NVIDIA/aicr
 
 - Link: https://github.com/NVIDIA/aicr
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-runtime
 - Type: tool
 - Language: Go
+- Created: 2026-01-30
+- Age: 4 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
