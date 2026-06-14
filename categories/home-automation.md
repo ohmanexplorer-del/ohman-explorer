@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. Adya84/ha-world-cup-2026
 
 - Link: https://github.com/Adya84/ha-world-cup-2026
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: home-automation
 - Type: integration
 - Language: Python
+- Created: 2026-06-02
+- Age: 11 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
