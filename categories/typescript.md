@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. sandydasari/openacme
+### 1. stormsia/proxy-list
 
-- Link: https://github.com/sandydasari/openacme
-- Title: sandydasari/openacme
-- Description: An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in charge.
+- Link: https://github.com/stormsia/proxy-list
+- Title: stormsia/proxy-list
+- Description: 🚀 A curated collection of working proxies, automatically updated every 30 minutes. Features real-time validation, anonymity levels, and detailed statistics.
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
@@ -14,7 +14,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 65
+- Stars: 29
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
