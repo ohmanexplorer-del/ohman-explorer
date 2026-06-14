@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. sakullla/nginx-reverse-emby
+### 1. divVerent/aaaaxy
 
-- Link: https://github.com/sakullla/nginx-reverse-emby
-- Title: sakullla/nginx-reverse-emby
-- Description: nginx emby反代
+- Link: https://github.com/divVerent/aaaaxy
+- Title: divVerent/aaaaxy
+- Description: A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,56 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 179
+- Stars: 284
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. xarantolus/fdroid
+### 2. Delta-Kronecker/V2ray-Config
 
-- Link: https://github.com/xarantolus/fdroid
-- Title: xarantolus/fdroid
-- Description: Auto-updating F-Droid repo using GitHub Actions
+- Link: https://github.com/Delta-Kronecker/V2ray-Config
+- Title: Delta-Kronecker/V2ray-Config
+- Description: 🔥 با کیفیت ترین کانفیگ ها برای شرایط فعلی اینترنت ایران، به همراه کانفیگ های مخصوص اسپوف و ساب های کلش 🔥
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 184
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 3. tanaikech/ggsrun
+
+- Link: https://github.com/tanaikech/ggsrun
+- Title: tanaikech/ggsrun
+- Description: High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Apps Script (GAS) dynamically, automate conflict policies, recursive transfer, and manage Drive infrastructure...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 165
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 4. databricks/databricks-sdk-go
+
+- Link: https://github.com/databricks/databricks-sdk-go
+- Title: databricks/databricks-sdk-go
+- Description: Databricks SDK for Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,102 +71,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 53
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 3. cloudboss/keights
-
-- Link: https://github.com/cloudboss/keights
-- Title: cloudboss/keights
-- Description: A Kubernetes installer for AWS
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 25
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. nabeken/go-github-apps
-
-- Link: https://github.com/nabeken/go-github-apps
-- Title: nabeken/go-github-apps
-- Description: A tiny command-line utility to retrieve Github Apps Installation Token
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 17
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 5. OpenCSGs/csgclaw
-
-- Link: https://github.com/OpenCSGs/csgclaw
-- Title: OpenCSGs/csgclaw
-- Description: Your own personal AI team.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 15
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. sergeknystautas/schmux
-
-- Link: https://github.com/sergeknystautas/schmux
-- Title: sergeknystautas/schmux
-- Description: Smart Cognitive Hub on tmux - orchestrate multiple AI coding agents
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. nabeken/go-smtp-source
-
-- Link: https://github.com/nabeken/go-smtp-source
-- Title: nabeken/go-smtp-source
-- Description: A simple drop-in replacement for smtp-source in Postfix distribution written in Go
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 11
+- Stars: 78
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
