@@ -183,7 +183,32 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited general applicability
   - Dependence on specific services
 
-### 8. zwrt/IPTV
+### 8. picccassso/Ariami
+
+- Link: https://github.com/picccassso/Ariami
+- Title: picccassso/Ariami
+- Description: Cross-Platform Self-Hosted Music App built using Flutter.
+- Category: media
+- Type: app
+- Language: Dart
+- Created: 2025-11-09
+- Age: 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.5/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: The project is a real, working music app with a clear purpose, but lacks documentation and releases.
+- Strengths:
+  - Cross-platform support
+  - Self-hosted
+- Weaknesses:
+  - Low star count
+  - Lack of documentation
+
+### 9. zwrt/IPTV
 
 - Link: https://github.com/zwrt/IPTV
 - Title: zwrt/IPTV
@@ -205,7 +230,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Unclear purpose and documentation
 
-### 9. gedigi/noisecat
+### 10. gedigi/noisecat
 
 - Link: https://github.com/gedigi/noisecat
 - Title: gedigi/noisecat
@@ -228,7 +253,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited documentation and community
 
-### 10. retab-dev/retab
+### 11. retab-dev/retab
 
 - Link: https://github.com/retab-dev/retab
 - Title: retab-dev/retab
@@ -254,7 +279,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Niche use case
 
-### 11. teofanis/ybdownloader
+### 12. teofanis/ybdownloader
 
 - Link: https://github.com/teofanis/ybdownloader
 - Title: teofanis/ybdownloader
