@@ -2,208 +2,119 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 07:41:01 UTC
+Last updated: 2026-06-14 08:01:08 UTC
 
 ## Latest Findings
 
-### 1. pulumi/pulumi-cloudflare
+### 1. pulumi/pulumi-oci
 
-- Link: https://github.com/pulumi/pulumi-cloudflare
-- Title: pulumi/pulumi-cloudflare
-- Description: Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare
-- Category: infrastructure-as-code
+- Link: https://github.com/pulumi/pulumi-oci
+- Title: pulumi/pulumi-oci
+- Description: An Oracle Cloud (OCI) Pulumi resource package, providing multi-language access to OCI
+- Category: cloud-infrastructure
 - Type: library
 - Language: Go
 - Score: 8.0/10
-- Novelty: 5.0/10
-- Maturity: 9.0/10
-- Small repo potential: 3.0/10
-- Stars: 150
-- Reason: Official Pulumi provider for Cloudflare, offering robust, multi-language infrastructure-as-code capabilities bridged from the Terraform provider.
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 39
+- Reason: Provides multi-language access to OCI
 - Strengths:
-  - Official Pulumi support and active maintenance
-  - Supports multiple languages including TypeScript, Python, Go, and .NET
-  - Kept up-to-date with Cloudflare's API via the upstream Terraform bridge
+  - Multi-language support
+  - Official Pulumi resource package
 - Weaknesses:
-  - Inherits upstream bridge limitations and potential translation issues
-  - Primarily a generated wrapper rather than a native implementation
+  - Limited community engagement
+  - Niche use case
 
-### 2. karlderkaefer/cdk-notifier
+### 2. mdb/gh-dispatch
 
-- Link: https://github.com/karlderkaefer/cdk-notifier
-- Title: karlderkaefer/cdk-notifier
-- Description: CLI tool to post AWS CDK diff as comment to Github pull request
-- Category: ci-cd
+- Link: https://github.com/mdb/gh-dispatch
+- Title: mdb/gh-dispatch
+- Description: A gh CLI extension for sending GitHub dispatch events and watching the triggered GitHub Actions runs directly from your terminal.
+- Category: dev-tool
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 9.0/10
-- Stars: 130
-- Reason: A highly practical Go-based CLI tool that bridges the developer feedback loop by posting AWS CDK diffs directly to GitHub Pull Requests, significantly improving CI/CD visibility.
+- Stars: 12
+- Reason: Fills a specific niche for GitHub CLI users
 - Strengths:
-  - Significantly improves code review developer experience for AWS CDK users
-  - Lightweight Go binary makes it fast and easy to integrate into CI/CD pipelines
-  - Supports collapsing large diff outputs to keep PR comments readable
+  - Solves a practical problem
+  - Well-defined scope
+  - Written in a suitable language (Go)
 - Weaknesses:
-  - Coupled tightly to GitHub, lacks native support for alternative providers like GitLab or BitBucket
+  - Limited user base due to GitHub CLI requirement
+  - Relatively low number of stars
 
-### 3. pulumi/pulumi-pulumiservice
+### 3. wroge/wgs84
 
-- Link: https://github.com/pulumi/pulumi-pulumiservice
-- Title: pulumi/pulumi-pulumiservice
-- Description: No description available.
-- Category: infrastructure-as-code
-- Type: library
+- Link: https://github.com/wroge/wgs84
+- Title: wroge/wgs84
+- Description: A zero-dependency Go package for coordinate transformations.
+- Category: go
+- Type: unknown
 - Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 9.0/10
-- Stars: 16
-- Reason: An official, high-utility Pulumi provider that allows teams to programmatically manage their Pulumi Service resources (like teams, stacks, and webhooks) using Infrastructure as Code.
-- Strengths:
-  - Official provider maintained by Pulumi
-  - Enables GitOps and self-hosting configurations for Pulumi Service itself
-  - Robust and well-structured Go codebase
-- Weaknesses:
-  - Highly specific to users of the managed Pulumi Service (Pulumi Cloud)
-
-### 4. pulumi/pulumi-okta
-
-- Link: https://github.com/pulumi/pulumi-okta
-- Title: pulumi/pulumi-okta
-- Description: An Okta Pulumi resource package, providing multi-language access to Okta
-- Category: iam-integration
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 4.0/10
+- Score: 6.0/10
+- Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Provides multi-language access to Okta
+- Small repo potential: 6.0/10
+- Stars: 141
+- Reason: Selected from repository metadata.
 - Strengths:
-  - Multi-language support
-  - Focused on Okta integration
+  - Interesting repository metadata
 - Weaknesses:
-  - Limited community engagement
-  - Few topics and stars
+  - Needs deeper review
 
-### 5. Southclaws/storyden
+### 4. pulumi/pulumi-terraform
 
-- Link: https://github.com/Southclaws/storyden
-- Title: Southclaws/storyden
-- Description: With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
-- Category: discussion-platforms
-- Type: app
+- Link: https://github.com/pulumi/pulumi-terraform
+- Title: pulumi/pulumi-terraform
+- Description: A resource package that allows Pulumi programs to use Terraform state
+- Category: go
+- Type: unknown
 - Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 5.0/10
-- Small repo potential: 8.0/10
-- Stars: 312
-- Reason: A modern, performant alternative to resource-heavy forum platforms, leveraging Go for a lightweight and secure backend.
-- Strengths:
-  - Written in Go, offering excellent performance and low resource consumption
-  - Modern, clean UI and extensible architecture
-  - Focuses on security and ease of self-hosting
-- Weaknesses:
-  - Smaller community and plugin ecosystem compared to giants like Discourse or Flarum
-  - Active development phase means potential for breaking changes
-
-### 6. garybowers/bootimus
-
-- Link: https://github.com/garybowers/bootimus
-- Title: garybowers/bootimus
-- Description: A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- Category: infrastructure-automation
-- Type: tool
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 5.0/10
-- Small repo potential: 9.0/10
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
 - Stars: 118
-- Reason: An elegant, containerizable Go-based PXE server that simplifies network booting from ISOs, addressing a common pain point for homelabs and bare-metal provisioning.
+- Reason: Selected from repository metadata.
 - Strengths:
-  - All-in-one DHCP, TFTP, and HTTP server designed to ease ISO booting
-  - Containerized deployment model makes it highly portable
-  - Supports both legacy BIOS and UEFI architectures
+  - Interesting repository metadata
 - Weaknesses:
-  - Niche audience as modern infrastructure shifts toward HTTP Boot and cloud-init
-  - Limited community scale and enterprise-grade testing
+  - Needs deeper review
 
-### 7. mydisha/keirouter
+### 5. cookiengineer/gooey
 
-- Link: https://github.com/mydisha/keirouter
-- Title: mydisha/keirouter
-- Description: Your friendly, blazing-fast, self-hostable AI gateway
-- Category: ai-gateway
-- Type: tool
+- Link: https://github.com/cookiengineer/gooey
+- Title: cookiengineer/gooey
+- Description: :smiling_imp: :boom: :gun: Opinionated Go WebASM framework
+- Category: webassembly
+- Type: framework
 - Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
-- Small repo potential: 9.0/10
-- Stars: 49
-- Reason: A high-performance, self-hostable AI gateway written in Go, offering a lightweight alternative to heavier Python-based routing solutions.
-- Strengths:
-  - Written in Go, offering excellent performance and low resource overhead
-  - Simplifies multi-provider LLM integrations with self-hosted routing
-  - Clean and easy to deploy as a gateway service
-- Weaknesses:
-  - Early stage of development with low community adoption
-  - Stiff competition from established alternatives like LiteLLM and Portkey
-
-### 8. andrey-vk/wdbgp
-
-- Link: https://github.com/andrey-vk/wdbgp
-- Title: andrey-vk/wdbgp
-- Description: A service that collects lists of prefixes from feeds and distributes them via BGP
-- Category: networking-tool
-- Type: tool
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
+- Score: 6.0/10
+- Novelty: 7.0/10
+- Maturity: 3.0/10
 - Small repo potential: 8.0/10
-- Stars: 27
-- Reason: Focused BGP prefix distribution service
+- Stars: 75
+- Reason: An interesting, opinionated framework for building web applications in Go using WebAssembly, offering a unique alternative to mainstream JS frameworks but remains experimental.
 - Strengths:
-  - Specific use case
-  - Go implementation
+  - Enables Go-based web development via WebAssembly
+  - Opinionated and streamlined API structure
+  - Reduces reliance on complex JS bundlers
 - Weaknesses:
-  - Limited documentation
-  - Small community
+  - Low community adoption and ecosystem support
+  - Inherent Go WASM limitation of large binary sizes
+  - Limited documentation and production-use cases
 
-### 9. GustavoCaso/docker-dash
+### 6. hugalafutro/model-hotel
 
-- Link: https://github.com/GustavoCaso/docker-dash
-- Title: GustavoCaso/docker-dash
-- Description: A full TUI managemnet tool for containers 🏗️
-- Category: container-management
-- Type: tool
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 14
-- Reason: Well-structured TUI management tool for containers
-- Strengths:
-  - Simple and focused functionality
-  - Uses established TUI library (bubbletea)
-- Weaknesses:
-  - Limited features compared to established tools
-  - Small community
-
-### 10. sorokin-vladimir/tele
-
-- Link: https://github.com/sorokin-vladimir/tele
-- Title: sorokin-vladimir/tele
-- Description: Keyboard-first Telegram client for the terminal, written in Go
+- Link: https://github.com/hugalafutro/model-hotel
+- Title: hugalafutro/model-hotel
+- Description: Multi-Provider AI Gateway - Model Autodiscovery, Failover Groups and more. No personal logs by design. "Because we have LiteLLM at home"
 - Category: go
 - Type: unknown
 - Language: Go
@@ -211,7 +122,83 @@ Last updated: 2026-06-14 07:41:01 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 98
+- Stars: 46
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. armin-hg/NewCobaltstrikeTeamServer
+
+- Link: https://github.com/armin-hg/NewCobaltstrikeTeamServer
+- Title: armin-hg/NewCobaltstrikeTeamServer
+- Description: Go-based C2 server inspired by Cobalt Strike; seamless agent control, web UI, and Malleable Profile support. Fast, extensible, and secure for red-team ops. 🐙
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 33
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 8. pulumi/pulumi-vault
+
+- Link: https://github.com/pulumi/pulumi-vault
+- Title: pulumi/pulumi-vault
+- Description: A Vault Pulumi resource package, providing multi-language access to HashiCorp Vault
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 28
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 9. alanisme/awesome-zed-extensions
+
+- Link: https://github.com/alanisme/awesome-zed-extensions
+- Title: alanisme/awesome-zed-extensions
+- Description: ⭐ Discover the best Zed extensions, ranked by stars, loved by developers, updated daily. Find your next favorite tool! 🚀📊
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. gosagawa/atcoder
+
+- Link: https://github.com/gosagawa/atcoder
+- Title: gosagawa/atcoder
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
@@ -220,15 +207,10 @@ Last updated: 2026-06-14 07:41:01 UTC
 
 ## Categories
 
-- [ai-gateway](categories/ai-gateway.md)
-- [ci-cd](categories/ci-cd.md)
-- [container-management](categories/container-management.md)
-- [discussion-platforms](categories/discussion-platforms.md)
+- [cloud-infrastructure](categories/cloud-infrastructure.md)
+- [dev-tool](categories/dev-tool.md)
 - [go](categories/go.md)
-- [iam-integration](categories/iam-integration.md)
-- [infrastructure-as-code](categories/infrastructure-as-code.md)
-- [infrastructure-automation](categories/infrastructure-automation.md)
-- [networking-tool](categories/networking-tool.md)
+- [webassembly](categories/webassembly.md)
 
 ## Data
 
