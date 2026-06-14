@@ -2,7 +2,28 @@
 
 Curated projects in this category.
 
-### 1. agent-receipts/obsigna
+### 1. claudlos/hermes-katana
+
+- Link: https://github.com/claudlos/hermes-katana
+- Title: claudlos/hermes-katana
+- Description: Defense-in-depth security toolkit for LLM agents — taint tracking, proxy secret guard, policy engine, and red-team benchmarking
+- Category: ai-security
+- Type: tool
+- Language: Python
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 39
+- Reason: Comprehensive defense-in-depth security toolkit
+- Strengths:
+  - Unique combination of taint tracking, proxy secret guard, and policy engine
+  - Includes red-team benchmarking for thorough security testing
+- Weaknesses:
+  - Limited community engagement due to relatively low star count
+  - May require additional documentation for ease of use
+
+### 2. agent-receipts/obsigna
 
 - Link: https://github.com/agent-receipts/obsigna
 - Title: agent-receipts/obsigna
@@ -24,7 +45,7 @@ Curated projects in this category.
   - Limited community engagement
   - Dependence on specific cryptographic algorithms
 
-### 2. Asymptote-Labs/agent-beacon
+### 3. Asymptote-Labs/agent-beacon
 
 - Link: https://github.com/Asymptote-Labs/agent-beacon
 - Title: Asymptote-Labs/agent-beacon
@@ -45,7 +66,7 @@ Curated projects in this category.
   - Limited community engagement due to relatively low star count
   - May require additional development for widespread adoption
 
-### 3. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+### 4. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 
 - Link: https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 - Title: Vortalitys/PrivHunterAI-detects-access-vulnerabilities
@@ -66,7 +87,7 @@ Curated projects in this category.
   - Limited stars and community engagement
   - Dependence on third-party AI systems
 
-### 4. Mindburn-Labs/helm-ai-kernel
+### 5. Mindburn-Labs/helm-ai-kernel
 
 - Link: https://github.com/Mindburn-Labs/helm-ai-kernel
 - Title: Mindburn-Labs/helm-ai-kernel
@@ -88,7 +109,7 @@ Curated projects in this category.
   - Limited community engagement
   - Relatively new repository
 
-### 5. kstenerud/yoloai
+### 6. kstenerud/yoloai
 
 - Link: https://github.com/kstenerud/yoloai
 - Title: kstenerud/yoloai
