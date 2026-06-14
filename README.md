@@ -2,58 +2,59 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 09:21:04 UTC
+Last updated: 2026-06-14 09:41:07 UTC
 
 ## Latest Findings
 
-### 1. simonostendorf/kubelet-credential-provider-vault
+### 1. oneclickvirt/oneclickvirt
 
-- Link: https://github.com/simonostendorf/kubelet-credential-provider-vault
-- Title: simonostendorf/kubelet-credential-provider-vault
-- Description: Kubernetes Kubelet Image Credential Provider for Hashicorp Vault
-- Category: k8s-security
-- Type: library
+- Link: https://github.com/oneclickvirt/oneclickvirt
+- Title: oneclickvirt/oneclickvirt
+- Description: Universal Virtualization Management Platform 可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt
+- Category: virtualization-management
+- Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 23
-- Reason: Focused solution for a specific Kubernetes security need
+- Stars: 344
+- Reason: Comprehensive support for various virtualization platforms
 - Strengths:
-  - Clear purpose
-  - Specific use case
+  - Multi-platform support
+  - Extensive topic coverage
+  - Written in Go for performance
 - Weaknesses:
-  - Limited scope
-  - Dependence on Hashicorp Vault
+  - Limited documentation
+  - Relatively low star count
 
-### 2. realdatadriven/central-set-go
+### 2. llm-d/llm-d-inference-sim
 
-- Link: https://github.com/realdatadriven/central-set-go
-- Title: realdatadriven/central-set-go
-- Description: Dynamic, data-driven, application built with GO. Out of the box, it provides an admin that allows users to manage multiple applications, offering built-in authentication, user management, and role-based access control at...
-- Category: data-engineering
-- Type: app
+- Link: https://github.com/llm-d/llm-d-inference-sim
+- Title: llm-d/llm-d-inference-sim
+- Description: A lightweight, configurable, and real-time simulator designed to mimic the behavior of vLLM without the need for GPUs or running actual heavy models.
+- Category: ai-simulation
+- Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Comprehensive data-driven application with multiple features
+- Stars: 147
+- Reason: Efficient vLLM simulation without GPU requirements
 - Strengths:
-  - Provides built-in authentication and user management
-  - Supports role-based access control
-  - Includes DuckDB powered Data App and evidence.dev-like Dashboard
+  - Lightweight
+  - Configurable
+  - Real-time simulation
 - Weaknesses:
-  - Limited community engagement due to low star count
-  - May require additional development for production readiness
+  - Limited topics and applications
+  - Dependence on Go language
 
-### 3. couchbase/sync_gateway
+### 3. gofiber/storage
 
-- Link: https://github.com/couchbase/sync_gateway
-- Title: couchbase/sync_gateway
-- Description: Manages access and synchronization between Couchbase Lite and Couchbase Server
+- Link: https://github.com/gofiber/storage
+- Title: gofiber/storage
+- Description: 📦 Premade storage drivers for 🚀 Fiber
 - Category: go
 - Type: unknown
 - Language: Go
@@ -61,18 +62,18 @@ Last updated: 2026-06-14 09:21:04 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 452
+- Stars: 332
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. ethanhq/cc-fleet
+### 4. gofiber/template
 
-- Link: https://github.com/ethanhq/cc-fleet
-- Title: ethanhq/cc-fleet
-- Description: 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any third-party model — DeepSeek · GLM · Kimi · Qwen … or your Codex subscription. No Anthropic subscription needed. ｜ 🚢 �...
+- Link: https://github.com/gofiber/template
+- Title: gofiber/template
+- Description: 🧬 Template engine middleware for Fiber
 - Category: go
 - Type: unknown
 - Language: Go
@@ -80,18 +81,37 @@ Last updated: 2026-06-14 09:21:04 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 146
+- Stars: 313
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. 89luca89/clampdown
+### 5. antonio-orionus/Arroxy
 
-- Link: https://github.com/89luca89/clampdown
-- Title: 89luca89/clampdown
-- Description: Run AI coding agents in hardened container sandboxes.
+- Link: https://github.com/antonio-orionus/Arroxy
+- Title: antonio-orionus/Arroxy
+- Description: Free open-source YouTube and +2000 sites downloader GUI based on yt-dlp for Windows, macOS, and Linux. Download videos, Shorts, 4K, 1080p60, HDR, playlists, channels, and subtitles with no ads, tracking, cookies, or logi...
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 214
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. goptics/vizb
+
+- Link: https://github.com/goptics/vizb
+- Title: goptics/vizb
+- Description: A 4D visualizer for go, rust & javascript benchmarks from your local to CI/CD pipeline
 - Category: go
 - Type: unknown
 - Language: Go
@@ -99,18 +119,18 @@ Last updated: 2026-06-14 09:21:04 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 75
+- Stars: 70
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. runZeroInc/mac-tracker
+### 7. jamesroutley/news.routley.io
 
-- Link: https://github.com/runZeroInc/mac-tracker
-- Title: runZeroInc/mac-tracker
-- Description: Historical Tracking of MAC Address Assignments
+- Link: https://github.com/jamesroutley/news.routley.io
+- Title: jamesroutley/news.routley.io
+- Description: 🗞 My personal RSS feed
 - Category: go
 - Type: unknown
 - Language: Go
@@ -118,18 +138,18 @@ Last updated: 2026-06-14 09:21:04 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 47
+- Stars: 42
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. ufukty/gonfique
+### 8. blackwell-systems/mcp-assert
 
-- Link: https://github.com/ufukty/gonfique
-- Title: ufukty/gonfique
-- Description: Mapping for configs
+- Link: https://github.com/blackwell-systems/mcp-assert
+- Title: blackwell-systems/mcp-assert
+- Description: The testing standard for MCP servers. Lint (14 rules), test, and fuzz over real stdio/SSE/HTTP transport. 18 assertion types in YAML. Found 4,794 schema issues across 55 servers. Any language, no mocks, single binary.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -137,56 +157,18 @@ Last updated: 2026-06-14 09:21:04 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 39
+- Stars: 18
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. JamesWoolfenden/ghat
+### 9. suzuki-shunsuke/ci-info
 
-- Link: https://github.com/JamesWoolfenden/ghat
-- Title: JamesWoolfenden/ghat
-- Description: Ghat is a tool for updating your GitHub actions and Terraform with the latest version of it dependencies and using immutable hashes instead of mutable tags.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 26
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 9. yaleh/meta-cc
-
-- Link: https://github.com/yaleh/meta-cc
-- Title: yaleh/meta-cc
-- Description: Meta-Cognition tool for Claude Code - analyze session history for workflow optimization.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 16
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 10. lucasnevespereira/nevinho
-
-- Link: https://github.com/lucasnevespereira/nevinho
-- Title: lucasnevespereira/nevinho
-- Description: Personal agent harness
+- Link: https://github.com/suzuki-shunsuke/ci-info
+- Title: suzuki-shunsuke/ci-info
+- Description: CLI tool to get CI related information
 - Category: go
 - Type: unknown
 - Language: Go
@@ -201,11 +183,31 @@ Last updated: 2026-06-14 09:21:04 UTC
 - Weaknesses:
   - Needs deeper review
 
+### 10. eja/wikilite
+
+- Link: https://github.com/eja/wikilite
+- Title: eja/wikilite
+- Description: Offline Lexical and Semantic Wikipedia Search
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
 ## Categories
 
-- [data-engineering](categories/data-engineering.md)
+- [ai-simulation](categories/ai-simulation.md)
 - [go](categories/go.md)
-- [k8s-security](categories/k8s-security.md)
+- [typescript](categories/typescript.md)
+- [virtualization-management](categories/virtualization-management.md)
 
 ## Data
 
