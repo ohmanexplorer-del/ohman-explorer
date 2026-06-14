@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. celzero/firestack
+### 1. 5-whys/adh-rules
 
-- Link: https://github.com/celzero/firestack
-- Title: celzero/firestack
-- Description: Userspace wireguard and network monitor
+- Link: https://github.com/5-whys/adh-rules
+- Title: 5-whys/adh-rules
+- Description: Adblock home rules for China regions (Mainland China, Hong Kong, Taiwan, Macau Users)
 - Category: network-security
 - Type: tool
 - Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 7.0/10
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 163
-- Reason: Focused implementation of WireGuard and network monitoring
+- Stars: 30
+- Reason: Focused on a specific region's adblock rules
 - Strengths:
-  - Userspace implementation
-  - Cross-platform potential
+  - Specific use case
+  - Clear documentation
 - Weaknesses:
-  - Limited documentation
-  - Dependence on WireGuard
+  - Limited scope
+  - Dependence on AdGuard Home
 
