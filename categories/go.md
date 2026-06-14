@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. nooga/let-go
+### 1. sakullla/nginx-reverse-emby
 
-- Link: https://github.com/nooga/let-go
-- Title: nooga/let-go
-- Description: Almost Clojure written in Go.
+- Link: https://github.com/sakullla/nginx-reverse-emby
+- Title: sakullla/nginx-reverse-emby
+- Description: nginx emby反代
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,56 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 490
+- Stars: 179
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. quic-go/webtransport-go
+### 2. xarantolus/fdroid
 
-- Link: https://github.com/quic-go/webtransport-go
-- Title: quic-go/webtransport-go
-- Description: WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 485
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 3. wsshow/feikong-teams
-
-- Link: https://github.com/wsshow/feikong-teams
-- Title: wsshow/feikong-teams
-- Description: 一个基于多智能体协作的 AI 助手，支持命令行和Web界面，提供团队模式、自定义会议模式和多智能体讨论模式（圆桌会议模式）三种工作方式，通过多个专业智能体协...
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 120
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. julython/julython.org
-
-- Link: https://github.com/julython/julython.org
-- Title: julython/julython.org
-- Description: Julython Website
+- Link: https://github.com/xarantolus/fdroid
+- Title: xarantolus/fdroid
+- Description: Auto-updating F-Droid repo using GitHub Actions
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 46
+- Stars: 53
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. Mininglamp-OSS/octo-server
+### 3. cloudboss/keights
 
-- Link: https://github.com/Mininglamp-OSS/octo-server
-- Title: Mininglamp-OSS/octo-server
-- Description: 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
+- Link: https://github.com/cloudboss/keights
+- Title: cloudboss/keights
+- Description: A Kubernetes installer for AWS
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 30
+- Stars: 25
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. bbkane/enventory
+### 4. nabeken/go-github-apps
 
-- Link: https://github.com/bbkane/enventory
-- Title: bbkane/enventory
-- Description: Centrally manage project environment variables with SQLite
+- Link: https://github.com/nabeken/go-github-apps
+- Title: nabeken/go-github-apps
+- Description: A tiny command-line utility to retrieve Github Apps Installation Token
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 23
+- Stars: 17
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. FastLM/SPI_VecDB
+### 5. OpenCSGs/csgclaw
 
-- Link: https://github.com/FastLM/SPI_VecDB
-- Title: FastLM/SPI_VecDB
-- Description: Distributed Parallel Multi-Resolution Vector Search
+- Link: https://github.com/OpenCSGs/csgclaw
+- Title: OpenCSGs/csgclaw
+- Description: Your own personal AI team.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -128,18 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 10
+- Stars: 15
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. aerol-ai/microvm
+### 6. sergeknystautas/schmux
 
-- Link: https://github.com/aerol-ai/microvm
-- Title: aerol-ai/microvm
-- Description: AerolVM is a self-hosted platform for creating isolated Docker-backed sandboxes on a single Linux host.
+- Link: https://github.com/sergeknystautas/schmux
+- Title: sergeknystautas/schmux
+- Description: Smart Cognitive Hub on tmux - orchestrate multiple AI coding agents
 - Category: go
 - Type: unknown
 - Language: Go
@@ -147,7 +109,26 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. nabeken/go-smtp-source
+
+- Link: https://github.com/nabeken/go-smtp-source
+- Title: nabeken/go-smtp-source
+- Description: A simple drop-in replacement for smtp-source in Postfix distribution written in Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
