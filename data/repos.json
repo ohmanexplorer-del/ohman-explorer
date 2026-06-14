@@ -1458,6 +1458,53 @@
     "publish": true
   },
   {
+    "github_id": 252242212,
+    "full_name": "DISSINET/InkVisitor",
+    "owner": "DISSINET",
+    "description": "An open-source, browser-based front-end application for the collection of complex structured data from textual resources in history and the social sciences into a RethinkDB database for further analysis.",
+    "stars": 17,
+    "forks": 2,
+    "language": "TypeScript",
+    "topics": [
+      "complexity-analysis",
+      "data-modeling",
+      "database",
+      "history",
+      "inquisition",
+      "linked-data",
+      "quantitative-narrative-analysis",
+      "research",
+      "rethinkdb",
+      "social-science",
+      "source-criticism",
+      "source-modelling"
+    ],
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "default_branch": "dev",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2020-04-02T00:27:12+07:00",
+    "updated_at": "2026-06-14T23:39:55+07:00",
+    "pushed_at": "2026-06-14T23:39:54+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-structured codebase for a specific research domain",
+    "readme_summary": "",
+    "category": "data-collection",
+    "project_type": "app",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 9,
+    "strengths": [
+      "Domain-specific data modeling",
+      "RethinkDB integration"
+    ],
+    "weaknesses": [
+      "Niche use case",
+      "Limited community engagement"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 473588611,
     "full_name": "pulumi/pulumi-pulumiservice",
     "owner": "pulumi",
@@ -3089,6 +3136,57 @@
     "publish": true
   },
   {
+    "github_id": 434027247,
+    "full_name": "EternalCodeTeam/EternalCore",
+    "owner": "EternalCodeTeam",
+    "description": "♾️ A modern, actively maintained alternative to EssentialsX.",
+    "stars": 101,
+    "forks": 25,
+    "language": "Java",
+    "topics": [
+      "alternative",
+      "bukkit",
+      "core",
+      "discord",
+      "essentials",
+      "essentialsx",
+      "eternalcore",
+      "hacktoberfest",
+      "java",
+      "minecraft",
+      "minecraft-plugin",
+      "minecraft-plugin-development",
+      "minecraft-plugins",
+      "paper",
+      "papermc",
+      "spigot"
+    ],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "master",
+    "homepage": "https://eternalcode.pl",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2021-12-02T07:13:00+07:00",
+    "updated_at": "2026-06-14T23:39:58+07:00",
+    "pushed_at": "2026-06-14T23:39:55+07:00",
+    "ai_score": 8,
+    "ai_notes": "Actively maintained EssentialsX alternative",
+    "readme_summary": "",
+    "category": "minecraft-plugin",
+    "project_type": "framework",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Modern architecture",
+      "Active maintenance"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Dependence on specific Minecraft platforms"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1229361862,
     "full_name": "MattCheramie/GopherTrunk",
     "owner": "MattCheramie",
@@ -3375,6 +3473,41 @@
     "publish": true
   },
   {
+    "github_id": 283908716,
+    "full_name": "Files-com/files-cli",
+    "owner": "Files-com",
+    "description": "Files.com Command Line App for Windows, Linux, and macOS. Files.com is Cloud Storage, Cloud Gateway, and MFT, All In One. Our built-in storage is fast, affordable, and available in 7 Worldwide Regions. Access Any File on Any Cloud, including Google, Amazon, Microsoft, Box, Dropbox, Wasabi, Backblaze, Rackspace, and more.",
+    "stars": 46,
+    "forks": 4,
+    "language": "Go",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "master",
+    "homepage": "https://developers.files.com",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2020-07-31T07:57:44+07:00",
+    "updated_at": "2026-06-14T23:39:58+07:00",
+    "pushed_at": "2026-06-14T23:39:55+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-structured Go project for cloud storage management",
+    "readme_summary": "",
+    "category": "cloud-storage-cli",
+    "project_type": "tool",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Multi-platform support",
+      "Support for various cloud services",
+      "Built-in storage with 7 worldwide regions"
+    ],
+    "weaknesses": [
+      "Limited community engagement",
+      "Lack of topics or documentation"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1051673800,
     "full_name": "NeptuneHub/AudioMuse-AI-MusicServer",
     "owner": "NeptuneHub",
@@ -3493,6 +3626,46 @@
     "weaknesses": [
       "Niche use case",
       "Limited community engagement"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 775684253,
+    "full_name": "mikezaby/blibliki",
+    "owner": "mikezaby",
+    "description": "Schema-driven audio engine for Web and Node",
+    "stars": 37,
+    "forks": 1,
+    "language": "TypeScript",
+    "topics": [
+      "audio",
+      "audio-engine",
+      "diysynth",
+      "modularsynth",
+      "webaudio"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "http://www.blibliki.com",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-03-22T04:06:44+07:00",
+    "updated_at": "2026-06-14T23:39:53+07:00",
+    "pushed_at": "2026-06-14T23:39:48+07:00",
+    "ai_score": 8,
+    "ai_notes": "Schema-driven approach",
+    "readme_summary": "",
+    "category": "audio-engine",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "TypeScript implementation",
+      "Modular design"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Small community"
     ],
     "publish": true
   },
@@ -3823,6 +3996,50 @@
     "weaknesses": [
       "Limited community engagement due to small number of stars",
       "Unclear documentation and usage examples"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1227213243,
+    "full_name": "tanaybhomia/Whisp",
+    "owner": "tanaybhomia",
+    "description": "The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed",
+    "stars": 24,
+    "forks": 4,
+    "language": "Python",
+    "topics": [
+      "flatpak",
+      "gnome",
+      "libadwaita",
+      "markdown",
+      "note-taking",
+      "note-taking-app",
+      "notes",
+      "productivity",
+      "python"
+    ],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "main",
+    "homepage": "https://tanaybhomia.github.io/Whisp/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-05-02T18:18:53+07:00",
+    "updated_at": "2026-06-14T23:39:56+07:00",
+    "pushed_at": "2026-06-14T23:39:52+07:00",
+    "ai_score": 8,
+    "ai_notes": "Focused, gesture-driven design",
+    "readme_summary": "",
+    "category": "productivity-app",
+    "project_type": "app",
+    "novelty": 6,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Simple and intuitive concept",
+      "Utilizes established libraries like libadwaita"
+    ],
+    "weaknesses": [
+      "Limited features",
+      "Small community"
     ],
     "publish": true
   },
@@ -4242,6 +4459,42 @@
     "weaknesses": [
       "Limited documentation",
       "Small community"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 680401705,
+    "full_name": "simonw/scrape-fema-shelters",
+    "owner": "simonw",
+    "description": "",
+    "stars": 14,
+    "forks": 0,
+    "language": "",
+    "topics": [
+      "git-scraping"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2023-08-19T13:02:45+07:00",
+    "updated_at": "2026-06-14T23:39:59+07:00",
+    "pushed_at": "2026-06-14T23:39:55+07:00",
+    "ai_score": 8,
+    "ai_notes": "Focused and useful FEMA shelter scraping tool",
+    "readme_summary": "",
+    "category": "data-scraping",
+    "project_type": "tool",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Specific use case",
+      "Clear purpose"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Dependence on external data"
     ],
     "publish": true
   },
@@ -4818,6 +5071,51 @@
     "publish": true
   },
   {
+    "github_id": 89985463,
+    "full_name": "neogeny/TatSu",
+    "owner": "neogeny",
+    "description": "竜 TatSu generates Python parsers from grammars in a variation of EBNF",
+    "stars": 444,
+    "forks": 55,
+    "language": "Python",
+    "topics": [
+      "ast",
+      "ebnf",
+      "grammar",
+      "parser",
+      "parser-generator",
+      "parser-library",
+      "python",
+      "python3",
+      "walker"
+    ],
+    "license": "Other",
+    "default_branch": "main",
+    "homepage": "https://tatsu.readthedocs.io/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2017-05-02T09:58:58+07:00",
+    "updated_at": "2026-06-14T23:39:59+07:00",
+    "pushed_at": "2026-06-14T23:39:55+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-maintained EBNF parser generator",
+    "readme_summary": "",
+    "category": "parser-generator",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 8,
+    "small_repo_fit": 7,
+    "strengths": [
+      "EBNF grammar support",
+      "Python parser generation",
+      "AST generation"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Niche use case"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 875604761,
     "full_name": "KunMoe/kun-galgame-patch",
     "owner": "KunMoe",
@@ -5346,6 +5644,40 @@
     "weaknesses": [
       "Limited documentation",
       "Relatively small community"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 971570345,
+    "full_name": "ROCm/rocm-libraries",
+    "owner": "ROCm",
+    "description": "super repo for rocm libraries",
+    "stars": 363,
+    "forks": 316,
+    "language": "Assembly",
+    "topics": [],
+    "license": "",
+    "default_branch": "develop",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-04-24T01:11:23+07:00",
+    "updated_at": "2026-06-14T23:39:57+07:00",
+    "pushed_at": "2026-06-14T23:39:54+07:00",
+    "ai_score": 8,
+    "ai_notes": "Comprehensive collection of HPC libraries",
+    "readme_summary": "",
+    "category": "hpc-libraries",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 9,
+    "small_repo_fit": 4,
+    "strengths": [
+      "Well-maintained",
+      "HPC-focused"
+    ],
+    "weaknesses": [
+      "Limited topic information",
+      "Assembly language may limit accessibility"
     ],
     "publish": true
   },
@@ -10484,6 +10816,61 @@
     "publish": true
   },
   {
+    "github_id": 1006370069,
+    "full_name": "indmdev/Telegram-Store-MiniApp",
+    "owner": "indmdev",
+    "description": "Beautiful Telegram Store MiniApp. A Telegram Store Mini App by InDMDev Teams. The best Telegram Shop MiniApp and the latest Telegram Shop Mini App, the Auto Buy Bot every seller should have. This telegram mini app is designed for speed, simplicity, and scalability. Try the Auto shop bot now.",
+    "stars": 30,
+    "forks": 5,
+    "language": "",
+    "topics": [
+      "admin-dashboard",
+      "admin-panel",
+      "bot",
+      "bots",
+      "miniapp",
+      "telegram",
+      "telegram-admin-bot",
+      "telegram-bot",
+      "telegram-bots",
+      "telegram-developers",
+      "telegram-mini-app-developer",
+      "telegram-store",
+      "telegram-store-bot",
+      "telegram-web",
+      "telegram-web-app",
+      "telegram-web-apps",
+      "telegram-web-bot",
+      "telegrammini",
+      "telegramminiapp",
+      "telegtam-mini-app"
+    ],
+    "license": "GNU Lesser General Public License v2.1",
+    "default_branch": "main",
+    "homepage": "https://t.me/InDMDevBots",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-06-22T12:35:33+07:00",
+    "updated_at": "2026-06-14T23:39:55+07:00",
+    "pushed_at": "2026-06-14T23:39:52+07:00",
+    "ai_score": 6,
+    "ai_notes": "Well-structured Telegram mini app with a clear purpose",
+    "readme_summary": "",
+    "category": "telegram-bot",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Simple and scalable design",
+      "Auto Buy Bot feature"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Unclear customization options"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1186524004,
     "full_name": "juspay/kolu",
     "owner": "juspay",
@@ -12193,6 +12580,50 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 346129500,
+    "full_name": "rwlove/home-ops",
+    "owner": "rwlove",
+    "description": "Lovenet Cluster Configuration",
+    "stars": 18,
+    "forks": 0,
+    "language": "YAML",
+    "topics": [
+      "flux",
+      "flux2",
+      "gitops",
+      "home-operations",
+      "home-ops",
+      "k8s-at-home",
+      "kubernetes",
+      "renovate",
+      "selfhosted"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "https://rwlove.github.io/home-ops/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2021-03-10T03:03:13+07:00",
+    "updated_at": "2026-06-14T23:39:53+07:00",
+    "pushed_at": "2026-06-14T23:39:50+07:00",
+    "ai_score": 6,
+    "ai_notes": "Well-structured Kubernetes configuration",
+    "readme_summary": "",
+    "category": "dev-ops",
+    "project_type": "example",
+    "novelty": 2,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Clear YAML configuration",
+      "Specific use case"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Dependence on specific tools"
     ],
     "publish": true
   },
