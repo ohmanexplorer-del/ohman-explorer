@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 16:22:23 UTC
+Last updated: 2026-06-14 16:41:11 UTC
 
-Total indexed projects: 457
+Total indexed projects: 467
 
 ## Categories
 
@@ -37,6 +37,7 @@ Total indexed projects: 457
 | [ai-workflows](categories/ai-workflows.md) | 1 |
 | [application-security](categories/application-security.md) | 1 |
 | [aprs-stack](categories/aprs-stack.md) | 1 |
+| [audio-engine](categories/audio-engine.md) | 1 |
 | [audio-utility](categories/audio-utility.md) | 1 |
 | [auth-library](categories/auth-library.md) | 1 |
 | [authz-cache](categories/authz-cache.md) | 1 |
@@ -52,6 +53,7 @@ Total indexed projects: 457
 | [cloud-monitoring](categories/cloud-monitoring.md) | 1 |
 | [cloud-query-language](categories/cloud-query-language.md) | 1 |
 | [cloud-security](categories/cloud-security.md) | 1 |
+| [cloud-storage-cli](categories/cloud-storage-cli.md) | 1 |
 | [cloud-utils](categories/cloud-utils.md) | 1 |
 | [code-quality](categories/code-quality.md) | 2 |
 | [code-search](categories/code-search.md) | 1 |
@@ -62,8 +64,9 @@ Total indexed projects: 457
 | [core-service](categories/core-service.md) | 1 |
 | [crypto-wallet](categories/crypto-wallet.md) | 1 |
 | [cybersecurity](categories/cybersecurity.md) | 1 |
+| [data-collection](categories/data-collection.md) | 1 |
 | [data-engineering](categories/data-engineering.md) | 1 |
-| [data-scraping](categories/data-scraping.md) | 1 |
+| [data-scraping](categories/data-scraping.md) | 2 |
 | [data-storage](categories/data-storage.md) | 1 |
 | [database-drivers](categories/database-drivers.md) | 1 |
 | [database-library](categories/database-library.md) | 1 |
@@ -76,7 +79,7 @@ Total indexed projects: 457
 | [date-time-utils](categories/date-time-utils.md) | 1 |
 | [deep-learning](categories/deep-learning.md) | 1 |
 | [desktop-service](categories/desktop-service.md) | 1 |
-| [dev-ops](categories/dev-ops.md) | 5 |
+| [dev-ops](categories/dev-ops.md) | 6 |
 | [dev-tool](categories/dev-tool.md) | 2 |
 | [dev-tools](categories/dev-tools.md) | 4 |
 | [developer-tools](categories/developer-tools.md) | 6 |
@@ -104,6 +107,7 @@ Total indexed projects: 457
 | [gpu-framework](categories/gpu-framework.md) | 1 |
 | [hardware-hacking](categories/hardware-hacking.md) | 1 |
 | [homelab-management](categories/homelab-management.md) | 1 |
+| [hpc-libraries](categories/hpc-libraries.md) | 1 |
 | [iam-integration](categories/iam-integration.md) | 1 |
 | [identity-protocol](categories/identity-protocol.md) | 1 |
 | [industrial-iot](categories/industrial-iot.md) | 1 |
@@ -126,6 +130,7 @@ Total indexed projects: 457
 | [media-tools](categories/media-tools.md) | 1 |
 | [messaging-bridge](categories/messaging-bridge.md) | 1 |
 | [metadata-management](categories/metadata-management.md) | 1 |
+| [minecraft-plugin](categories/minecraft-plugin.md) | 1 |
 | [monitoring-observability](categories/monitoring-observability.md) | 1 |
 | [monitoring-tool](categories/monitoring-tool.md) | 2 |
 | [monitoring-tools](categories/monitoring-tools.md) | 1 |
@@ -144,8 +149,10 @@ Total indexed projects: 457
 | [nlp-framework](categories/nlp-framework.md) | 1 |
 | [obsidian-plugin](categories/obsidian-plugin.md) | 1 |
 | [osx-development](categories/osx-development.md) | 1 |
+| [parser-generator](categories/parser-generator.md) | 1 |
 | [pdf-creation](categories/pdf-creation.md) | 1 |
 | [privacy-tools](categories/privacy-tools.md) | 1 |
+| [productivity-app](categories/productivity-app.md) | 1 |
 | [productivity-tool](categories/productivity-tool.md) | 2 |
 | [programming-language](categories/programming-language.md) | 1 |
 | [programming-languages](categories/programming-languages.md) | 1 |
@@ -164,7 +171,7 @@ Total indexed projects: 457
 | [social-media-bot](categories/social-media-bot.md) | 1 |
 | [sql-parser](categories/sql-parser.md) | 1 |
 | [streaming-api](categories/streaming-api.md) | 1 |
-| [telegram-bot](categories/telegram-bot.md) | 1 |
+| [telegram-bot](categories/telegram-bot.md) | 2 |
 | [terminal-agent](categories/terminal-agent.md) | 1 |
 | [terminal-app](categories/terminal-app.md) | 1 |
 | [terminal-multiplexer](categories/terminal-multiplexer.md) | 1 |
@@ -194,21 +201,24 @@ Total indexed projects: 457
 
 | Language | Projects |
 |---|---:|
-| Go | 403 |
-| TypeScript | 24 |
-| Unknown | 10 |
-| Python | 5 |
+| Go | 404 |
+| TypeScript | 26 |
+| Unknown | 12 |
+| Python | 7 |
 | C | 2 |
 | C++ | 2 |
 | HTML | 2 |
 | Rust | 2 |
+| Assembly | 1 |
 | AutoHotkey | 1 |
+| Java | 1 |
 | Kotlin | 1 |
 | OpenSCAD | 1 |
 | PHP | 1 |
 | PowerShell | 1 |
 | SCSS | 1 |
 | Vue | 1 |
+| YAML | 1 |
 
 ## Data
 
