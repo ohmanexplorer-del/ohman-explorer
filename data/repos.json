@@ -1045,6 +1045,57 @@
     "publish": true
   },
   {
+    "github_id": 1201693666,
+    "full_name": "claudlos/hermes-katana",
+    "owner": "claudlos",
+    "description": "Defense-in-depth security toolkit for LLM agents — taint tracking, proxy secret guard, policy engine, and red-team benchmarking",
+    "stars": 39,
+    "forks": 1,
+    "language": "Python",
+    "topics": [
+      "agent-security",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-security",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "llm-security",
+      "llms",
+      "mitm-proxy",
+      "prompt-injection",
+      "python",
+      "security",
+      "security-tools",
+      "taint-tracking"
+    ],
+    "license": "MIT License",
+    "default_branch": "master",
+    "homepage": "https://claudlos.github.io/hermes-katana/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-04-05T09:57:13+07:00",
+    "updated_at": "2026-06-14T22:59:50+07:00",
+    "pushed_at": "2026-06-14T22:59:49+07:00",
+    "ai_score": 8,
+    "ai_notes": "Comprehensive defense-in-depth security toolkit",
+    "readme_summary": "",
+    "category": "ai-security",
+    "project_type": "tool",
+    "novelty": 7,
+    "maturity": 6,
+    "small_repo_fit": 9,
+    "strengths": [
+      "Unique combination of taint tracking, proxy secret guard, and policy engine",
+      "Includes red-team benchmarking for thorough security testing"
+    ],
+    "weaknesses": [
+      "Limited community engagement due to relatively low star count",
+      "May require additional documentation for ease of use"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1178771661,
     "full_name": "dualeai/seek",
     "owner": "dualeai",
@@ -2397,6 +2448,59 @@
     "publish": true
   },
   {
+    "github_id": 1011442017,
+    "full_name": "kaleedtc/Privacium",
+    "owner": "kaleedtc",
+    "description": "A simple app for discovering tools that respects your privacy.",
+    "stars": 243,
+    "forks": 11,
+    "language": "Kotlin",
+    "topics": [
+      "android",
+      "foss",
+      "github",
+      "guides",
+      "jetpack-compose",
+      "kotlin",
+      "material-design",
+      "native-apps",
+      "no-ads",
+      "no-tracking",
+      "open-source",
+      "privacy",
+      "privacy-guide",
+      "privacy-respecting",
+      "privacy-tools",
+      "security",
+      "surveillance"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-07-01T03:30:03+07:00",
+    "updated_at": "2026-06-14T22:59:54+07:00",
+    "pushed_at": "2026-06-14T22:59:51+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-structured and focused on privacy",
+    "readme_summary": "",
+    "category": "privacy-tools",
+    "project_type": "app",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Respects user privacy",
+      "Open-source",
+      "No ads or tracking"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Dependence on Kotlin and Android"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 988989942,
     "full_name": "thushan/olla",
     "owner": "thushan",
@@ -3712,6 +3816,40 @@
     "publish": true
   },
   {
+    "github_id": 663198539,
+    "full_name": "MatejGolian/ReaHotkey",
+    "owner": "MatejGolian",
+    "description": "An AutoHotkey script for blind musicians that use REAPER or Ableton",
+    "stars": 22,
+    "forks": 3,
+    "language": "AutoHotkey",
+    "topics": [],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2023-07-07T02:15:56+07:00",
+    "updated_at": "2026-06-14T22:59:53+07:00",
+    "pushed_at": "2026-06-14T22:59:50+07:00",
+    "ai_score": 8,
+    "ai_notes": "Solves a specific problem for blind musicians",
+    "readme_summary": "",
+    "category": "accessibility-tool",
+    "project_type": "tool",
+    "novelty": 6,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Clear purpose",
+      "Specific use case"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Dependence on AutoHotkey"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1164142219,
     "full_name": "go-kruda/kruda",
     "owner": "go-kruda",
@@ -3981,6 +4119,53 @@
     "weaknesses": [
       "Limited documentation",
       "Small community"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 64996439,
+    "full_name": "apache/couchdb-glazier",
+    "owner": "apache",
+    "description": "Glazier is a set of batch files, scripts and toolchains designed to ease building CouchDB on Windows.",
+    "stars": 13,
+    "forks": 9,
+    "language": "PowerShell",
+    "topics": [
+      "apache",
+      "big-data",
+      "cloud",
+      "couchdb",
+      "cplusplus",
+      "database",
+      "erlang",
+      "http",
+      "javascript",
+      "network-client",
+      "network-server",
+      "powershell"
+    ],
+    "license": "Apache License 2.0",
+    "default_branch": "main",
+    "homepage": "https://github.com/apache/couchdb-glazier",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2016-08-05T14:00:07+07:00",
+    "updated_at": "2026-06-14T22:59:58+07:00",
+    "pushed_at": "2026-06-14T22:59:56+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-defined purpose and focused implementation",
+    "readme_summary": "",
+    "category": "database-tooling",
+    "project_type": "tool",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Specific solution for building CouchDB on Windows",
+      "Clear and organized codebase"
+    ],
+    "weaknesses": [
+      "Limited platform support",
+      "Narrow scope of application"
     ],
     "publish": true
   },
@@ -4882,6 +5067,40 @@
     "publish": true
   },
   {
+    "github_id": 49562518,
+    "full_name": "conda-forge/feedstocks",
+    "owner": "conda-forge",
+    "description": "All conda-forge feedstocks, in one convenient place",
+    "stars": 71,
+    "forks": 41,
+    "language": "",
+    "topics": [],
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2016-01-13T16:09:47+07:00",
+    "updated_at": "2026-06-14T22:59:52+07:00",
+    "pushed_at": "2026-06-14T22:59:48+07:00",
+    "ai_score": 8,
+    "ai_notes": "Centralized feedstock repository",
+    "readme_summary": "",
+    "category": "devops-tools",
+    "project_type": "tool",
+    "novelty": 2,
+    "maturity": 9,
+    "small_repo_fit": 6,
+    "strengths": [
+      "Convenient packaging",
+      "Large collection of feedstocks"
+    ],
+    "weaknesses": [
+      "Limited innovation",
+      "Dependent on conda-forge ecosystem"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 94104725,
     "full_name": "pulumi/pulumi-github",
     "owner": "pulumi",
@@ -5678,6 +5897,45 @@
     "publish": true
   },
   {
+    "github_id": 335602189,
+    "full_name": "MountainDash/nonebot-bison",
+    "owner": "MountainDash",
+    "description": "A nonebot2 plugin to repost social media posts to QQ group",
+    "stars": 211,
+    "forks": 38,
+    "language": "Python",
+    "topics": [
+      "bot",
+      "nonebot-plugin",
+      "nonebot2",
+      "qqbot"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://nonebot-bison.netlify.app",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2021-02-03T18:27:20+07:00",
+    "updated_at": "2026-06-14T22:59:59+07:00",
+    "pushed_at": "2026-06-14T22:59:54+07:00",
+    "ai_score": 7,
+    "ai_notes": "Focused and functional nonebot2 plugin",
+    "readme_summary": "",
+    "category": "social-media-bot",
+    "project_type": "plugin",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Clear purpose",
+      "Specific use case"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Dependence on nonebot2"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1193367674,
     "full_name": "0xjeffro/astroclaw",
     "owner": "0xjeffro",
@@ -5888,6 +6146,40 @@
     "weaknesses": [
       "Limited community engagement",
       "Relatively low star count"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1179883639,
+    "full_name": "esphome/device-builder",
+    "owner": "esphome",
+    "description": "ESPHome Device Builder Dashboard",
+    "stars": 51,
+    "forks": 15,
+    "language": "Python",
+    "topics": [],
+    "license": "Apache License 2.0",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-03-12T20:33:20+07:00",
+    "updated_at": "2026-06-14T22:59:58+07:00",
+    "pushed_at": "2026-06-14T22:59:56+07:00",
+    "ai_score": 7,
+    "ai_notes": "Focused on ESPHome device management",
+    "readme_summary": "",
+    "category": "iot-dashboard",
+    "project_type": "tool",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Specific use case",
+      "Python implementation"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Low community engagement"
     ],
     "publish": true
   },
@@ -9885,6 +10177,47 @@
     "publish": true
   },
   {
+    "github_id": 1097457424,
+    "full_name": "Shade-of-Gr3y/Dream-World-Revival",
+    "owner": "Shade-of-Gr3y",
+    "description": "Reviving the Pokemon Dream World, one dream at a time",
+    "stars": 30,
+    "forks": 0,
+    "language": "HTML",
+    "topics": [
+      "dream-world",
+      "pdw",
+      "pokemon",
+      "pokemon-dream-world",
+      "pokemon-gen-v",
+      "project-pokemon"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-11-16T15:02:16+07:00",
+    "updated_at": "2026-06-14T22:59:53+07:00",
+    "pushed_at": "2026-06-14T22:59:49+07:00",
+    "ai_score": 6,
+    "ai_notes": "Focused goal of reviving Pokémon Dream World",
+    "readme_summary": "",
+    "category": "game-revival",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 3,
+    "small_repo_fit": 8,
+    "strengths": [
+      "clear project objective",
+      "niche topic"
+    ],
+    "weaknesses": [
+      "limited language usage",
+      "small community"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1186524004,
     "full_name": "juspay/kolu",
     "owner": "juspay",
@@ -10300,6 +10633,60 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 785589365,
+    "full_name": "indmdev/indmshopbot",
+    "owner": "indmdev",
+    "description": "InDMShopBot: The best Telegram Shopping Bot For Sellers, The Shop Bot is a Classic Auto Buy Bot and Premium e-commerce bot created for sellers to own a store  for selling products and services on telegram. Try the Auto shop bot now.",
+    "stars": 27,
+    "forks": 7,
+    "language": "",
+    "topics": [
+      "bot",
+      "classic",
+      "classic-bot",
+      "ecommerce",
+      "ecommerce-bot",
+      "premium",
+      "premium-bot",
+      "shop",
+      "shop-bot",
+      "shopping",
+      "shopping-bot",
+      "telegram",
+      "telegram-bot",
+      "telegram-ecommerce",
+      "telegram-ecommerce-bot",
+      "telegram-shop",
+      "telegram-shopping-bot",
+      "telegram-store",
+      "telegram-store-bot"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://indmdev.com",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-04-12T14:38:03+07:00",
+    "updated_at": "2026-06-14T22:59:57+07:00",
+    "pushed_at": "2026-06-14T22:59:54+07:00",
+    "ai_score": 6,
+    "ai_notes": "Specialized Telegram shopping bot with clear purpose",
+    "readme_summary": "",
+    "category": "e-commerce-bot",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Focused functionality",
+      "Telegram integration"
+    ],
+    "weaknesses": [
+      "Limited platform support",
+      "Unclear customization options"
     ],
     "publish": true
   },
@@ -13288,6 +13675,40 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1164933930,
+    "full_name": "vituha230/Neuro-Skyrim-Integration",
+    "owner": "vituha230",
+    "description": "Neuro Skyrim Integration",
+    "stars": 12,
+    "forks": 1,
+    "language": "C++",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-02-23T23:40:14+07:00",
+    "updated_at": "2026-06-14T22:59:55+07:00",
+    "pushed_at": "2026-06-14T22:59:52+07:00",
+    "ai_score": 6,
+    "ai_notes": "Lack of documentation and topics",
+    "readme_summary": "",
+    "category": "gaming-ai",
+    "project_type": "app",
+    "novelty": 8,
+    "maturity": 2,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Unique concept",
+      "C++ implementation"
+    ],
+    "weaknesses": [
+      "Limited information",
+      "Low community engagement"
     ],
     "publish": true
   },
