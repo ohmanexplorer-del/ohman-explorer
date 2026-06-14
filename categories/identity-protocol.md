@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. metalabel/dfos
 
 - Link: https://github.com/metalabel/dfos
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: identity-protocol
 - Type: framework
 - Language: Go
+- Created: 2026-03-09
+- Age: 3 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
