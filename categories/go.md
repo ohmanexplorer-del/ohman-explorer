@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. elvisun/newsjack
+### 1. guigui-gui/guigui
 
-- Link: https://github.com/elvisun/newsjack
-- Title: elvisun/newsjack
-- Description: The open-source skills that turn your agent into a full PR team.
+- Link: https://github.com/guigui-gui/guigui
+- Title: guigui-gui/guigui
+- Description: An immediate-mode-inspired GUI framework for Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,56 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 350
+- Stars: 442
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. Mellanox/network-operator
+### 2. go-gost/x
 
-- Link: https://github.com/Mellanox/network-operator
-- Title: Mellanox/network-operator
-- Description: NVIDIA Network Operator
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 346
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 3. Insajin/autopus-adk
-
-- Link: https://github.com/Insajin/autopus-adk
-- Title: Insajin/autopus-adk
-- Description: Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision tracking, SPEC/EARS engine.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 107
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. pulumi/pulumi-provider-boilerplate
-
-- Link: https://github.com/pulumi/pulumi-provider-boilerplate
-- Title: pulumi/pulumi-provider-boilerplate
-- Description: Boilerplate showing how to create a native Pulumi provider
+- Link: https://github.com/go-gost/x
+- Title: go-gost/x
+- Description: Extended (may be experimental) features outside the main gost tree.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 83
+- Stars: 65
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. dracarys18/cartero
+### 3. lxnay/matrixos
 
-- Link: https://github.com/dracarys18/cartero
-- Title: dracarys18/cartero
-- Description: A personal content aggregator that filters multiple news sources for quality and relevance into a single, high-signal feed.
+- Link: https://github.com/lxnay/matrixos
+- Title: lxnay/matrixos
+- Description: Your personal Gentoo deployment
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 77
+- Stars: 64
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. dcssoftware/bafoeg-manager
+### 4. sandbox0-ai/sandbox0
 
-- Link: https://github.com/dcssoftware/bafoeg-manager
-- Title: dcssoftware/bafoeg-manager
-- Description: Eine basis BAföG Antragsverwaltung inkl. lokaler KI Assistenten (z.B. Ministral 14B) zur effektiveren Bearbeitung von BAföG. Rückzahlungen sowie der "BAföG Bot" wie er politisch genannt wird, sind skizziert aber noch...
+- Link: https://github.com/sandbox0-ai/sandbox0
+- Title: sandbox0-ai/sandbox0
+- Description: Sandbox0 is the open-source sandbox for AI agents.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,7 +71,45 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 10
+- Stars: 58
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. wgtunnel/fdroid
+
+- Link: https://github.com/wgtunnel/fdroid
+- Title: wgtunnel/fdroid
+- Description: F-Droid repo for WG Tunnel
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 42
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. hecatehq/hecate
+
+- Link: https://github.com/hecatehq/hecate
+- Title: hecatehq/hecate
+- Description: Local AI operations console for supervised agent work.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
