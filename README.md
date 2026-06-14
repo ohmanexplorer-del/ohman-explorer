@@ -2,131 +2,77 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 01:22:20 UTC
+Last updated: 2026-06-14 01:40:54 UTC
 
 ## Latest Findings
 
-### 1. reaper47/recipya
+### 1. FootprintAI/Containarium
 
-- Link: https://github.com/reaper47/recipya
-- Title: reaper47/recipya
-- Description: A clean, simple and powerful recipe manager your whole family will enjoy.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 400
-- Reason: {   "category": "recipe-management",   "project_type": "app",   "score": 7,   "novelty": 5
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 2. Mertcikla/tld
-
-- Link: https://github.com/Mertcikla/tld
-- Title: Mertcikla/tld
-- Description: Software architecture diagramming tool. Includes a modern easy to use Frontend + Backend + CLI to enable managing diagrams from the shell or in CI.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 254
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 3. sarchlab/akita
-
-- Link: https://github.com/sarchlab/akita
-- Title: sarchlab/akita
-- Description: A flexible, high-performance, user-friendly computer architecture simulator engine
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 108
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. dharmab/skyeye
-
-- Link: https://github.com/dharmab/skyeye
-- Title: dharmab/skyeye
-- Description: Self-hostable AI Powered GCI Bot for DCS
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 107
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 5. chukwuemekawisdom/claude2api
-
-- Link: https://github.com/chukwuemekawisdom/claude2api
-- Title: chukwuemekawisdom/claude2api
-- Description: 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 56
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. pseudoyu/top-blockchain-projects
-
-- Link: https://github.com/pseudoyu/top-blockchain-projects
-- Title: pseudoyu/top-blockchain-projects
-- Description: Top github blockchain projects by number of stars
-- Category: blockchain-curation
+- Link: https://github.com/FootprintAI/Containarium
+- Title: FootprintAI/Containarium
+- Description: The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
+- Category: ai-sandbox
 - Type: tool
 - Language: Go
-- Score: 6.0/10
-- Novelty: 2.0/10
-- Maturity: 4.0/10
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 35
-- Reason: Simple and focused on blockchain project curation
+- Stars: 212
+- Reason: Innovative agent-native sandbox approach
 - Strengths:
-  - Concise and easy to understand
-  - Uses GitHub stars as a metric
+  - Self-hostable
+  - Multi-tenant support
+  - LXC containerization
 - Weaknesses:
-  - Limited to GitHub stars
-  - No additional project analysis
+  - Limited documentation
+  - Dependence on specific agents
 
-### 7. crossplane-contrib/function-kro
+### 2. jmylchreest/aide
 
-- Link: https://github.com/crossplane-contrib/function-kro
-- Title: crossplane-contrib/function-kro
-- Description: YAML+CEL experience from kro as a Crossplane function
+- Link: https://github.com/jmylchreest/aide
+- Title: jmylchreest/aide
+- Description: Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
+- Category: ai-dev-tools
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Innovative multi-agent approach to AI coding assistants
+- Strengths:
+  - Unique architecture
+  - Support for multiple AI models
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific AI models
+
+### 3. ozgurcd/gograph
+
+- Link: https://github.com/ozgurcd/gograph
+- Title: ozgurcd/gograph
+- Description: Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 175
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 4. cozystack/blockstor
+
+- Link: https://github.com/cozystack/blockstor
+- Title: cozystack/blockstor
+- Description: Free Software-Defined Storage System based on Kubernetes
 - Category: go
 - Type: unknown
 - Language: Go
@@ -134,18 +80,18 @@ Last updated: 2026-06-14 01:22:20 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 18
+- Stars: 41
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. thedavidweng/monarchmoney-cli
+### 5. procinger/turing-pi-v2-cluster
 
-- Link: https://github.com/thedavidweng/monarchmoney-cli
-- Title: thedavidweng/monarchmoney-cli
-- Description: A local, agent-friendly command-line tool for Monarch Money. Written in Go.
+- Link: https://github.com/procinger/turing-pi-v2-cluster
+- Title: procinger/turing-pi-v2-cluster
+- Description: Turing Pi V2 K3S Cluster bootstrapping with Ansible and Argo CD. Dependency monitoring and updating with Renovate Bot. Running CI tests with the K8S E2E Framework.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -153,58 +99,116 @@ Last updated: 2026-06-14 01:22:20 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 14
+- Stars: 26
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 9. signalridge/slipway
+### 6. BK-1107/GoNexus
 
-- Link: https://github.com/signalridge/slipway
-- Title: signalridge/slipway
-- Description: Spec-driven development with full lifecycle accountability for Claude, Codex, Cursor & Gemini
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 10. CowDogMoo/warpgate
-
-- Link: https://github.com/CowDogMoo/warpgate
-- Title: CowDogMoo/warpgate
+- Link: https://github.com/BK-1107/GoNexus
+- Title: BK-1107/GoNexus
 - Description: No description available.
-- Category: network-utility
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. jordigilh/kubernaut
+
+- Link: https://github.com/jordigilh/kubernaut
+- Title: jordigilh/kubernaut
+- Description: Open-source AIOps platform that closes the loop from Kubernetes alert to automated remediation. An AI Agent investigates live via native client-go bindings, logs, and Prometheus, selects a fix from a workflow catalog, an...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 8. baekenough/second-brain
+
+- Link: https://github.com/baekenough/second-brain
+- Title: baekenough/second-brain
+- Description: LLM 큐레이션 프라이빗 검색 엔진. Slack/GitHub/GDrive/파일시스템 하이브리드 검색 + AI 큐레이션 API.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 9. kagenti/kagenti-extensions
+
+- Link: https://github.com/kagenti/kagenti-extensions
+- Title: kagenti/kagenti-extensions
+- Description: Repository for kagenti extensions projects
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. teofanis/ybdownloader
+
+- Link: https://github.com/teofanis/ybdownloader
+- Title: teofanis/ybdownloader
+- Description: YouTube downloader/FFMPEG Converter playground - now in Go/Wails instead of Electron
+- Category: media-tools
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
-- Maturity: 3.0/10
+- Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 10
-- Reason: Lack of documentation and topics
+- Reason: useful YouTube downloader with a modern tech stack
 - Strengths:
-  - Written in Go
-  - Simple concept
+  - Go and Wails tech stack
+  - FFMPEG integration
 - Weaknesses:
-  - Limited visibility
-  - Unclear purpose
+  - limited community engagement
+  - basic functionality
 
 ## Categories
 
-- [blockchain-curation](categories/blockchain-curation.md)
+- [ai-dev-tools](categories/ai-dev-tools.md)
+- [ai-sandbox](categories/ai-sandbox.md)
 - [go](categories/go.md)
-- [network-utility](categories/network-utility.md)
+- [media-tools](categories/media-tools.md)
 
 ## Data
 
