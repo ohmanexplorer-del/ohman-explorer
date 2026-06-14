@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. reh3376/mdemg
 
 - Link: https://github.com/reh3376/mdemg
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-research
 - Type: library
 - Language: Go
+- Created: 2026-01-15
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
