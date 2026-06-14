@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. clawvisor/clawvisor
+### 1. devops-works/binenv
 
-- Link: https://github.com/clawvisor/clawvisor
-- Title: clawvisor/clawvisor
-- Description: API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.
+- Link: https://github.com/devops-works/binenv
+- Title: devops-works/binenv
+- Description: One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 230
+- Stars: 406
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. gosom/scrapemate
+### 2. yumenaka/comigo
 
-- Link: https://github.com/gosom/scrapemate
-- Title: gosom/scrapemate
-- Description: Golang Crawling and scraping framework
+- Link: https://github.com/yumenaka/comigo
+- Title: yumenaka/comigo
+- Description: Comic & Manga Reader in Linux，Windows，MacOS（and Terminal）。跨平台漫画阅读器。 ただの漫画リーダー。
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 201
+- Stars: 343
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. leancodebox/GooseForum
+### 3. qiniu/x
 
-- Link: https://github.com/leancodebox/GooseForum
-- Title: leancodebox/GooseForum
-- Description: Easy forum software for building friendly communities/超简单社区构建软件
+- Link: https://github.com/qiniu/x
+- Title: qiniu/x
+- Description: Extension of Go standard library
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 98
+- Stars: 75
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. TanyaShue/MaaYYs
+### 4. jahwag/clem
 
-- Link: https://github.com/TanyaShue/MaaYYs
-- Title: TanyaShue/MaaYYs
-- Description: No description available.
+- Link: https://github.com/jahwag/clem
+- Title: jahwag/clem
+- Description: Continuously Looping Engineering Machines. docker-compose for Claude Code agents - persistent teams, 24/7, on any Linux host.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 84
+- Stars: 24
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. Deln0r/ygo
+### 5. alanchenchen/suna
 
-- Link: https://github.com/Deln0r/ygo
-- Title: Deln0r/ygo
-- Description: Pure-Go port of the Yjs CRDT, byte-for-byte V1/V2 wire-compatible with yjs@13.6.31 (cross-language fixtures, both directions). UndoManager, snapshots, subdocuments, cursors, GC. yserve: single-binary Hocuspocus-compatibl...
+- Link: https://github.com/alanchenchen/suna
+- Title: alanchenchen/suna
+- Description: Your stateful AI companion
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,45 +90,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 26
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. pieroproietti/oa-tools
-
-- Link: https://github.com/pieroproietti/oa-tools
-- Title: pieroproietti/oa-tools
-- Description: The idea is that every system should have its own way of being remastered. Every distro is different, yet they share many common roots; here, we want to see if a universal approach is reasonably possible.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 17
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. longhorn/longhorn-share-manager
-
-- Link: https://github.com/longhorn/longhorn-share-manager
-- Title: longhorn/longhorn-share-manager
-- Description: No description available.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 16
+- Stars: 10
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
