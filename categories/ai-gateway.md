@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. mydisha/keirouter
 
 - Link: https://github.com/mydisha/keirouter
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-gateway
 - Type: tool
 - Language: Go
+- Created: 2026-05-31
+- Age: 14 days
+- Last pushed: 2026-06-14
+- Assessment context: very young repo; promising signals need extra validation
 - Score: 7.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
