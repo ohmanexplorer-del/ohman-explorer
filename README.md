@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 20:41:43 UTC
+Last updated: 2026-06-14 21:01:09 UTC
 
-Total indexed projects: 557
+Total indexed projects: 567
 
 ## Disclaimer
 
@@ -21,7 +21,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [communications](categories/communications.md) | 5 |
 | [data-engineering](categories/data-engineering.md) | 6 |
 | [database](categories/database.md) | 12 |
-| [developer-tools](categories/developer-tools.md) | 275 |
+| [developer-tools](categories/developer-tools.md) | 277 |
 | [gaming](categories/gaming.md) | 9 |
 | [infrastructure](categories/infrastructure.md) | 32 |
 | [iot](categories/iot.md) | 5 |
@@ -29,43 +29,45 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [media](categories/media.md) | 12 |
 | [networking](categories/networking.md) | 23 |
 | [observability](categories/observability.md) | 7 |
-| [privacy](categories/privacy.md) | 14 |
+| [privacy](categories/privacy.md) | 15 |
 | [productivity](categories/productivity.md) | 7 |
 | [science](categories/science.md) | 4 |
 | [security](categories/security.md) | 16 |
 | [systems](categories/systems.md) | 5 |
 | [ui-components](categories/ui-components.md) | 1 |
-| [uncategorized](categories/uncategorized.md) | 46 |
+| [uncategorized](categories/uncategorized.md) | 53 |
 | [web-development](categories/web-development.md) | 13 |
 
 ## Languages
 
 | Language | Projects |
 |---|---:|
-| Go | 405 |
-| TypeScript | 37 |
-| Python | 26 |
-| Unknown | 22 |
+| Go | 406 |
+| TypeScript | 38 |
+| Python | 27 |
+| Unknown | 23 |
 | Rust | 11 |
-| JavaScript | 7 |
+| JavaScript | 9 |
 | C++ | 5 |
 | C | 4 |
+| C# | 4 |
 | HTML | 4 |
 | Java | 4 |
-| C# | 3 |
+| Shell | 4 |
 | PHP | 3 |
-| Shell | 3 |
 | Kotlin | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
 | CSS | 1 |
 | Dart | 1 |
 | Forth | 1 |
+| Jinja | 1 |
 | Jsonnet | 1 |
 | Julia | 1 |
 | Jupyter Notebook | 1 |
 | Lean | 1 |
 | Lua | 1 |
+| MDX | 1 |
 | Nix | 1 |
 | OpenSCAD | 1 |
 | Perl | 1 |
