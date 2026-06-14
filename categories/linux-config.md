@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. RomeoCavazza/setup-os
 
 - Link: https://github.com/RomeoCavazza/setup-os
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: linux-config
 - Type: example
 - Language: Jsonnet
+- Created: 2025-07-05
+- Age: 11 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
