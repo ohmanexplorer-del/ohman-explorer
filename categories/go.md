@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. mvm-sh/mvm
+### 1. praetorian-inc/augustus
 
-- Link: https://github.com/mvm-sh/mvm
-- Title: mvm-sh/mvm
-- Description: Mvm is a fast interpreter and virtual machine for Go and beyond.
+- Link: https://github.com/praetorian-inc/augustus
+- Title: praetorian-inc/augustus
+- Description: LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 312
+- Stars: 238
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. defilantech/LLMKube
+### 2. celer-pkg/celer
 
-- Link: https://github.com/defilantech/LLMKube
-- Title: defilantech/LLMKube
-- Description: Kubernetes operator for local LLM inference with llama.cpp, vLLM, TGI, and mlx-server — multi-GPU NVIDIA + Apple Silicon Metal, autoscaling, air-gapped, production-ready
+- Link: https://github.com/celer-pkg/celer
+- Title: celer-pkg/celer
+- Description: A lightweight C/C++ package manager driven by TOML.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,37 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 127
+- Stars: 121
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. sheawinkler/ContextLattice
+### 3. pbs-plus/pbs-plus
 
-- Link: https://github.com/sheawinkler/ContextLattice
-- Title: sheawinkler/ContextLattice
-- Description: ContextLattice is the local-first control plane for long-horizon agent memory and coordination.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 113
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. SamSaffron/term-llm
-
-- Link: https://github.com/SamSaffron/term-llm
-- Title: SamSaffron/term-llm
-- Description: LLM Swiss Army Knife for your Terminal
+- Link: https://github.com/pbs-plus/pbs-plus
+- Title: pbs-plus/pbs-plus
+- Description: A Proxmox Backup Server (PBS) "extension" server that aims to add features and make PBS a true alternative to Veeam.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 93
+- Stars: 89
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. seaweedfs/seaweed-up
+### 4. Btr4k/bugbounty-agent
 
-- Link: https://github.com/seaweedfs/seaweed-up
-- Title: seaweedfs/seaweed-up
-- Description: bootstrap SeaweedFS over SSH
+- Link: https://github.com/Btr4k/bugbounty-agent
+- Title: Btr4k/bugbounty-agent
+- Description: Automated bug bounty reconnaissance and scanning agent
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 30
+- Stars: 40
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. martianoff/gala
+### 5. MacroPower/kclipper
 
-- Link: https://github.com/martianoff/gala
-- Title: martianoff/gala
-- Description: Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- Link: https://github.com/MacroPower/kclipper
+- Title: MacroPower/kclipper
+- Description: KCL + Helm = kclipper
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,18 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 15
+- Stars: 38
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. Sarakimz/go-secrets-scanner
+### 6. rhsev/mi.lan
 
-- Link: https://github.com/Sarakimz/go-secrets-scanner
-- Title: Sarakimz/go-secrets-scanner
-- Description: 🔍 Scan files for secrets, hashes, and high-entropy strings with go-secrets-scanner. Detect potential leaks and enhance security in your projects.
+- Link: https://github.com/rhsev/mi.lan
+- Title: rhsev/mi.lan
+- Description: Trigger macOS scripts via URL. A companion for dy.lan and a standalone agent.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -129,26 +110,7 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 10
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 8. candelahq/candela
-
-- Link: https://github.com/candelahq/candela
-- Title: candelahq/candela
-- Description: 🕯️ OTel-native LLM observability platform. Trace, cost, and evaluate your LLM calls.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: Selected from repository metadata.
+- Reason: {   "category": "macos-automation",   "project_type": "tool",   "score": 7,   "novelty": 6,   "maturity": 5,   "small_repo_fit": 7,   "reason": "A small, focused Go agent for triggering macOS
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
