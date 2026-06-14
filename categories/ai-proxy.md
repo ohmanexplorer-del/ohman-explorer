@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. sozercan/vekil
 
 - Link: https://github.com/sozercan/vekil
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-proxy
 - Type: tool
 - Language: Go
+- Created: 2026-02-12
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
@@ -31,6 +37,10 @@ Curated projects in this category.
 - Category: ai-proxy
 - Type: tool
 - Language: Go
+- Created: 2025-05-23
+- Age: 1 years
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
