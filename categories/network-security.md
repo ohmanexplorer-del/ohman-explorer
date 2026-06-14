@@ -2,7 +2,28 @@
 
 Curated projects in this category.
 
-### 1. missdeer/blocklist
+### 1. celzero/firestack
+
+- Link: https://github.com/celzero/firestack
+- Title: celzero/firestack
+- Description: Userspace wireguard and network monitor
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 163
+- Reason: Focused implementation of WireGuard and network monitoring
+- Strengths:
+  - Userspace implementation
+  - Cross-platform potential
+- Weaknesses:
+  - Limited documentation
+  - Dependence on WireGuard
+
+### 2. missdeer/blocklist
 
 - Link: https://github.com/missdeer/blocklist
 - Title: missdeer/blocklist
@@ -22,4 +43,46 @@ Curated projects in this category.
 - Weaknesses:
   - Limited functionality
   - No clear update mechanism
+
+### 3. 5-whys/adh-rules
+
+- Link: https://github.com/5-whys/adh-rules
+- Title: 5-whys/adh-rules
+- Description: Adblock home rules for China regions (Mainland China, Hong Kong, Taiwan, Macau Users)
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 30
+- Reason: Focused on a specific region's adblock rules
+- Strengths:
+  - Specific use case
+  - Clear documentation
+- Weaknesses:
+  - Limited scope
+  - Dependence on AdGuard Home
+
+### 4. Argh73/VpnConfigCollector
+
+- Link: https://github.com/Argh73/VpnConfigCollector
+- Title: Argh73/VpnConfigCollector
+- Description: No description available.
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Limited scope but functional VPN config collector
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Lack of documentation
+  - Limited features
 
