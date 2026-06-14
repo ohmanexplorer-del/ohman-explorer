@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. XigmaDev/cf2tg
+### 1. CowDogMoo/warpgate
 
-- Link: https://github.com/XigmaDev/cf2tg
-- Title: XigmaDev/cf2tg
-- Description: Auto Update Cloudflare Clean IP To Telegram Channel For Personal Use
+- Link: https://github.com/CowDogMoo/warpgate
+- Title: CowDogMoo/warpgate
+- Description: No description available.
 - Category: network-utility
 - Type: tool
 - Language: Go
 - Score: 6.0/10
 - Novelty: 4.0/10
-- Maturity: 6.0/10
+- Maturity: 3.0/10
 - Small repo potential: 8.0/10
-- Stars: 12
-- Reason: Simple and focused on a specific task
+- Stars: 10
+- Reason: Lack of documentation and topics
 - Strengths:
-  - Clear purpose
-  - Small and maintainable codebase
+  - Written in Go
+  - Simple concept
 - Weaknesses:
-  - Limited functionality
-  - Dependence on specific services
+  - Limited visibility
+  - Unclear purpose
 
