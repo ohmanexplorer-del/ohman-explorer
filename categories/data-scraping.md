@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. simonw/scrape-fema-shelters
 
 - Link: https://github.com/simonw/scrape-fema-shelters
@@ -9,6 +11,10 @@ Curated projects in this category.
 - Description: No description available.
 - Category: data-scraping
 - Type: tool
+- Created: 2023-08-19
+- Age: 2 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
@@ -30,6 +36,10 @@ Curated projects in this category.
 - Category: data-scraping
 - Type: tool
 - Language: Go
+- Created: 2020-12-26
+- Age: 5 years 5 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 7.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
