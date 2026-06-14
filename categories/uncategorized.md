@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. torvalds/linux
 
 - Link: https://github.com/torvalds/linux
@@ -9,6 +11,10 @@ Curated projects in this category.
 - Description: Linux kernel source tree
 - Category: uncategorized
 - Language: C
+- Created: 2011-09-04
+- Age: 14 years 9 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 10.0/10
 - Novelty: 0.0/10
 - Maturity: 0.0/10
@@ -23,6 +29,10 @@ Curated projects in this category.
 - Description: Linus learns analog circuits
 - Category: uncategorized
 - Language: C
+- Created: 2025-09-17
+- Age: 9 months
+- Last pushed: 2026-06-12
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 0.0/10
 - Maturity: 0.0/10
@@ -37,6 +47,10 @@ Curated projects in this category.
 - Description: Random odd guitar pedal design in kicad
 - Category: uncategorized
 - Language: OpenSCAD
+- Created: 2025-03-01
+- Age: 1 years 3 months
+- Last pushed: 2025-09-19
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 0.0/10
 - Maturity: 0.0/10
