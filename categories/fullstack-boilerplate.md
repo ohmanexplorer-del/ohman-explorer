@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. MUKE-coder/grit
 
 - Link: https://github.com/MUKE-coder/grit
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: fullstack-boilerplate
 - Type: framework
 - Language: Go
+- Created: 2026-02-11
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 3.0/10
