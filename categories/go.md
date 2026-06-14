@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. alessio/shellescape
+### 1. dougdonohoe/ddphotos
 
-- Link: https://github.com/alessio/shellescape
-- Title: alessio/shellescape
-- Description: Escape arbitrary strings for use as command line arguments
+- Link: https://github.com/dougdonohoe/ddphotos
+- Title: dougdonohoe/ddphotos
+- Description: Beautiful self-hosted photo galleries. No subscriptions, no lock-in, deploys in minutes.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 201
+- Stars: 162
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. tak848/ccgate
+### 2. jclark/satpulse
 
-- Link: https://github.com/tak848/ccgate
-- Title: tak848/ccgate
-- Description: LLM-powered PermissionRequest hook for coding agents (e.g. Claude Code)
+- Link: https://github.com/jclark/satpulse
+- Title: jclark/satpulse
+- Description: Precision timing and positioning for computer systems with modern GNSS receivers
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 58
+- Stars: 53
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. onsi/biloba
+### 3. CherryHQ/stella
 
-- Link: https://github.com/onsi/biloba
-- Title: onsi/biloba
-- Description: Stable, performant, automated browser testing for Ginkgo
+- Link: https://github.com/CherryHQ/stella
+- Title: CherryHQ/stella
+- Description: AI partners for every person: multi-user, multi-agent memory, trusted tools, schedules, sandboxed workspaces, and chat.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 22
+- Stars: 39
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. omkhar/workcell
+### 4. italia/developers-italia-api
 
-- Link: https://github.com/omkhar/workcell
-- Title: omkhar/workcell
-- Description: Bounded local runtime and policy boundary for coding agents
+- Link: https://github.com/italia/developers-italia-api
+- Title: italia/developers-italia-api
+- Description: REST API for public software catalogs (powers developers.italia.it)
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 20
+- Stars: 16
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. smallwat3r/github-antibot
+### 5. agent-guide/agent-gateway
 
-- Link: https://github.com/smallwat3r/github-antibot
-- Title: smallwat3r/github-antibot
-- Description: Block users likely to use bots to mass-follow on GitHub
+- Link: https://github.com/agent-guide/agent-gateway
+- Title: agent-guide/agent-gateway
+- Description: An AI gateway for LLM and agent workloads
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,45 +90,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 14
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. y3owk1n/mimi
-
-- Link: https://github.com/y3owk1n/mimi
-- Title: y3owk1n/mimi
-- Description: macOS windows and spaces. From the terminal.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. lgdd/lfr-cli
-
-- Link: https://github.com/lgdd/lfr-cli
-- Title: lgdd/lfr-cli
-- Description: LFR is an unofficial CLI tool written in Go that helps you create & manage Liferay projects.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 12
+- Stars: 11
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
