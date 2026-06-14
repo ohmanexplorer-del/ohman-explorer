@@ -2,37 +2,59 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 06:21:05 UTC
+Last updated: 2026-06-14 06:41:07 UTC
 
 ## Latest Findings
 
-### 1. go-kruda/kruda
+### 1. dualeai/seek
 
-- Link: https://github.com/go-kruda/kruda
-- Title: go-kruda/kruda
-- Description: High-performance, type-safe Go web framework with custom async I/O transport — faster than Fiber and Actix on every benchmark route
-- Category: web-development
-- Type: framework
+- Link: https://github.com/dualeai/seek
+- Title: dualeai/seek
+- Description: Ranked local search for AI coding agents. Search the current Git worktree, selected paths, external folders, or exact files. Single binary, no server, no API key.
+- Category: code-search
+- Type: tool
 - Language: Go
 - Score: 8.0/10
-- Novelty: 6.0/10
+- Novelty: 7.0/10
 - Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 22
-- Reason: High-performance claims with custom async I/O transport
+- Small repo potential: 9.0/10
+- Stars: 35
+- Reason: Provides a lightweight, zero-dependency local search utility specifically optimized for feeding relevant code context to AI agents without the overhead of heavy vector databases.
 - Strengths:
-  - Custom async I/O transport
-  - Type-safe design
-  - High-performance claims
+  - Single binary with zero external dependencies or server requirements
+  - Tailored for AI agent context retrieval with ranked results
+  - Respects Git worktrees and offers flexible path filtering
+- Weaknesses:
+  - Low community adoption and early stage of maturity
+  - Limited integration examples with popular agentic frameworks like LangChain or AutoGPT
+
+### 2. kaicontext/kai
+
+- Link: https://github.com/kaicontext/kai
+- Title: kaicontext/kai
+- Description: Kai is a semantic analysis engine that sits on top of Git. It captures meaningful changes, generates semantic diffs, and produces safe selective CI plans.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Innovative semantic analysis engine
+- Strengths:
+  - Unique approach to code analysis
+  - Integration with Git
+  - Generates semantic diffs
 - Weaknesses:
   - Limited community engagement
-  - New repository with limited testing
+  - Small number of stars
 
-### 2. guigui-gui/guigui
+### 3. caidaoli/ccLoad
 
-- Link: https://github.com/guigui-gui/guigui
-- Title: guigui-gui/guigui
-- Description: An immediate-mode-inspired GUI framework for Go
+- Link: https://github.com/caidaoli/ccLoad
+- Title: caidaoli/ccLoad
+- Description: High-performance AI API proxy with smart routing, failover, monitoring, and protocol transforms for Claude Code, Codex, Gemini, and OpenAI.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -40,115 +62,77 @@ Last updated: 2026-06-14 06:21:05 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 442
+- Stars: 320
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. go-gost/x
+### 4. norunners/tue
 
-- Link: https://github.com/go-gost/x
-- Title: go-gost/x
-- Description: Extended (may be experimental) features outside the main gost tree.
+- Link: https://github.com/norunners/tue
+- Title: norunners/tue
+- Description: The progressive framework for WebAssembly applications.
 - Category: go
 - Type: unknown
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 65
+- Small repo potential: 6.0/10
+- Stars: 242
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. lxnay/matrixos
+### 5. kubevirt/hyperconverged-cluster-operator
 
-- Link: https://github.com/lxnay/matrixos
-- Title: lxnay/matrixos
-- Description: Your personal Gentoo deployment
+- Link: https://github.com/kubevirt/hyperconverged-cluster-operator
+- Title: kubevirt/hyperconverged-cluster-operator
+- Description: Operator pattern for managing multi-operator products
 - Category: go
 - Type: unknown
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 64
+- Small repo potential: 6.0/10
+- Stars: 184
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. sandbox0-ai/sandbox0
+### 6. gmuxapp/gmux
 
-- Link: https://github.com/sandbox0-ai/sandbox0
-- Title: sandbox0-ai/sandbox0
-- Description: Sandbox0 is the open-source sandbox for AI agents.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 58
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. wgtunnel/fdroid
-
-- Link: https://github.com/wgtunnel/fdroid
-- Title: wgtunnel/fdroid
-- Description: F-Droid repo for WG Tunnel
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 42
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. hyperledger/fabric-x-common
-
-- Link: https://github.com/hyperledger/fabric-x-common
-- Title: hyperledger/fabric-x-common
+- Link: https://github.com/gmuxapp/gmux
+- Title: gmuxapp/gmux
 - Description: No description available.
-- Category: blockchain-tools
-- Type: library
+- Category: terminal-multiplexer
+- Type: app
 - Language: Go
 - Score: 6.0/10
-- Novelty: 2.0/10
-- Maturity: 8.0/10
-- Small repo potential: 4.0/10
-- Stars: 21
-- Reason: Part of the Hyperledger Fabric ecosystem
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 81
+- Reason: Lack of documentation and topics
 - Strengths:
-  - Established organization
-  - Clear purpose
+  - Written in Go
+  - Simple codebase
 - Weaknesses:
-  - Low star count
-  - Lack of topics
+  - Limited features
+  - No clear documentation
 
-### 8. hecatehq/hecate
+### 7. nunnatsa/ginkgolinter
 
-- Link: https://github.com/hecatehq/hecate
-- Title: hecatehq/hecate
-- Description: Local AI operations console for supervised agent work.
+- Link: https://github.com/nunnatsa/ginkgolinter
+- Title: nunnatsa/ginkgolinter
+- Description: golang linter for ginkgo and gomega
 - Category: go
 - Type: unknown
 - Language: Go
@@ -156,42 +140,40 @@ Last updated: 2026-06-14 06:21:05 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 19
+- Stars: 37
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 9. Mellanox/doca-driver-build
+### 8. sunholo-data/ailang
 
-- Link: https://github.com/Mellanox/doca-driver-build
-- Title: Mellanox/doca-driver-build
-- Description: No description available.
-- Category: driver-build-tools
-- Type: tool
+- Link: https://github.com/sunholo-data/ailang
+- Title: sunholo-data/ailang
+- Description: For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning.
+- Category: go
+- Type: unknown
 - Language: Go
 - Score: 6.0/10
-- Novelty: 2.0/10
-- Maturity: 8.0/10
-- Small repo potential: 4.0/10
-- Stars: 18
-- Reason: Specific use case for Mellanox drivers
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 31
+- Reason: Selected from repository metadata.
 - Strengths:
-  - Mellanox official repository
-  - clear purpose
+  - Interesting repository metadata
 - Weaknesses:
-  - narrow scope
-  - low community engagement
+  - Needs deeper review
 
-### 10. Sammons/agentic-collab
+### 9. wintermi/sigma
 
-- Link: https://github.com/Sammons/agentic-collab
-- Title: Sammons/agentic-collab
-- Description: Zero-dependency orchestrator for managing AI coding agents (Claude, Codex, OpenCode) via tmux sessions. Node 24, no build step, no npm install.
-- Category: typescript
+- Link: https://github.com/wintermi/sigma
+- Title: wintermi/sigma
+- Description: sigma is a Go package for provider-neutral AI model calls.
+- Category: go
 - Type: unknown
-- Language: TypeScript
+- Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
@@ -203,13 +185,31 @@ Last updated: 2026-06-14 06:21:05 UTC
 - Weaknesses:
   - Needs deeper review
 
+### 10. zlylong/EdgeRouteGW
+
+- Link: https://github.com/zlylong/EdgeRouteGW
+- Title: zlylong/EdgeRouteGW
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
 ## Categories
 
-- [blockchain-tools](categories/blockchain-tools.md)
-- [driver-build-tools](categories/driver-build-tools.md)
+- [code-search](categories/code-search.md)
+- [developer-tools](categories/developer-tools.md)
 - [go](categories/go.md)
-- [typescript](categories/typescript.md)
-- [web-development](categories/web-development.md)
+- [terminal-multiplexer](categories/terminal-multiplexer.md)
 
 ## Data
 
