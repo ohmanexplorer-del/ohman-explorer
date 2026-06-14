@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. lrhodin/corten-matrix
 
 - Link: https://github.com/lrhodin/corten-matrix
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: messaging-bridge
 - Type: tool
 - Language: Go
+- Created: 2026-02-05
+- Age: 4 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
