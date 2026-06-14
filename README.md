@@ -2,58 +2,59 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 08:21:03 UTC
+Last updated: 2026-06-14 08:41:00 UTC
 
 ## Latest Findings
 
-### 1. modernc-org/sqlite
+### 1. gogpu/gogpu
 
-- Link: https://github.com/modernc-org/sqlite
-- Title: modernc-org/sqlite
-- Description: Read-only mirror of https://gitlab.com/cznic/sqlite
-- Category: database-drivers
-- Type: library
+- Link: https://github.com/gogpu/gogpu
+- Title: gogpu/gogpu
+- Description: Pure Go GPU Application Framework — windowing, input, lifecycle, platform abstraction. Part of the GoGPU ecosystem.
+- Category: gpu-framework
+- Type: framework
 - Language: Go
-- Score: 9.0/10
-- Novelty: 8.0/10
-- Maturity: 9.0/10
-- Small repo potential: 10.0/10
-- Stars: 63
-- Reason: An essential, production-ready Cgo-free SQLite driver for Go that enables seamless cross-compilation without a C toolchain.
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 306
+- Reason: Comprehensive pure Go GPU framework
 - Strengths:
-  - Eliminates the need for Cgo, simplifying Go builds and cross-compilation
-  - Fully-featured SQLite translation via automated C-to-Go transpilation
-  - Highly trusted and widely adopted in the Go ecosystem
+  - Cross-platform support
+  - Platform abstraction
+  - Zero CGO for better performance
 - Weaknesses:
-  - Slightly lower performance compared to native Cgo SQLite bindings
-  - Transpiled codebase is difficult to read or debug manually
+  - Limited community engagement
+  - Dependence on GoGPU ecosystem
 
-### 2. threatcl/threatcl
+### 2. KunMoe/kun-galgame-patch
 
-- Link: https://github.com/threatcl/threatcl
-- Title: threatcl/threatcl
-- Description: Documenting your Threat Models with HCL
-- Category: security-tools
-- Type: tool
+- Link: https://github.com/KunMoe/kun-galgame-patch
+- Title: KunMoe/kun-galgame-patch
+- Description: The most advanced visual novel patch resource website in the world at the moment! Free forever! 开源, 免费, 零门槛, 纯手写, 最先进的 Galgame 补丁资源下载站, 永远免费！
+- Category: visual-novel-patch
+- Type: app
 - Language: Go
-- Score: 7.0/10
+- Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
-- Small repo potential: 6.0/10
-- Stars: 461
-- Reason: Focused on threat modeling documentation
+- Small repo potential: 7.0/10
+- Stars: 299
+- Reason: Well-maintained Go application with a clear purpose
 - Strengths:
-  - Specific use case
-  - Clear documentation goal
+  - Free and open-source
+  - Utilizes modern technologies like Next.js and Postgres
+  - Clear documentation and description
 - Weaknesses:
-  - Narrow scope
-  - Limited topics
+  - Limited to a specific niche (Galgame patches)
+  - May require additional setup for non-technical users
 
-### 3. cloudbase/garm
+### 3. JetSetIlly/Gopher2600
 
-- Link: https://github.com/cloudbase/garm
-- Title: cloudbase/garm
-- Description: Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable providers
+- Link: https://github.com/JetSetIlly/Gopher2600
+- Title: JetSetIlly/Gopher2600
+- Description: Gopher2600 is an emulator for the Atari 2600 games console
 - Category: go
 - Type: unknown
 - Language: Go
@@ -61,18 +62,18 @@ Last updated: 2026-06-14 08:21:03 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 337
+- Stars: 302
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. llm-d/llm-d-router
+### 4. kubernetes-sigs/kernel-module-management
 
-- Link: https://github.com/llm-d/llm-d-router
-- Title: llm-d/llm-d-router
-- Description: llm-d Router: The intelligent entry point for inference requests
+- Link: https://github.com/kubernetes-sigs/kernel-module-management
+- Title: kubernetes-sigs/kernel-module-management
+- Description: The kernel module management operator builds, signs and loads kernel modules in Kubernetes clusters.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -80,18 +81,37 @@ Last updated: 2026-06-14 08:21:03 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 220
+- Stars: 123
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. liuran001/MusicBot-Go
+### 5. vegidio/open-photo-ai
 
-- Link: https://github.com/liuran001/MusicBot-Go
-- Title: liuran001/MusicBot-Go
-- Description: 一个支持音乐下载/分享的 Telegram Bot。
+- Link: https://github.com/vegidio/open-photo-ai
+- Title: vegidio/open-photo-ai
+- Description: An open source alternative to the popular photo AI editor.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 123
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. Nostalgica-Reverie/Content-Monorepo
+
+- Link: https://github.com/Nostalgica-Reverie/Content-Monorepo
+- Title: Nostalgica-Reverie/Content-Monorepo
+- Description: Repository hosting the source for all versions of Re-Console
 - Category: go
 - Type: unknown
 - Language: Go
@@ -99,18 +119,18 @@ Last updated: 2026-06-14 08:21:03 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 83
+- Stars: 69
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. heygen-com/heygen-cli
+### 7. Will-Luck/iplayer-arr
 
-- Link: https://github.com/heygen-com/heygen-cli
-- Title: heygen-com/heygen-cli
-- Description: Create AI videos from the terminal. Official CLI for the HeyGen video generation API.
+- Link: https://github.com/Will-Luck/iplayer-arr
+- Title: Will-Luck/iplayer-arr
+- Description: BBC iPlayer download manager with a web UI, Sonarr integration, and built-in VPN support
 - Category: go
 - Type: unknown
 - Language: Go
@@ -118,77 +138,18 @@ Last updated: 2026-06-14 08:21:03 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 68
+- Stars: 29
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. missdeer/blocklist
+### 8. samzong/gmc
 
-- Link: https://github.com/missdeer/blocklist
-- Title: missdeer/blocklist
-- Description: A big domain block list - 200000+ lines
-- Category: network-security
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 2.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 59
-- Reason: Large domain block list with simple Go implementation
-- Strengths:
-  - Comprehensive block list
-  - Simple implementation
-- Weaknesses:
-  - Limited functionality
-  - No clear update mechanism
-
-### 8. ashvvvvv/mini-sb-agent
-
-- Link: https://github.com/ashvvvvv/mini-sb-agent
-- Title: ashvvvvv/mini-sb-agent
-- Description: 专为128/256M NAT 小鸡打造的超低内存占用代理程序 (16MB RSS) || An ultra-lightweight sing-box proxy agent (16MB RSS) tailored for 128/256M NAT VPS, with Xboard panel support.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 22
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 9. fullstack-lang/gong
-
-- Link: https://github.com/fullstack-lang/gong
-- Title: fullstack-lang/gong
-- Description: Gong (go+ng) is a language for developing domain specific modelling environments (DSME).
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 15
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 10. jonascrevecoeur/terraform-provider-azuresql
-
-- Link: https://github.com/jonascrevecoeur/terraform-provider-azuresql
-- Title: jonascrevecoeur/terraform-provider-azuresql
-- Description: Terraform provider for Azure SQL resources
+- Link: https://github.com/samzong/gmc
+- Title: samzong/gmc
+- Description: Parallel git worktrees for parallel AI agents — plus AI-generated commits.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -203,12 +164,50 @@ Last updated: 2026-06-14 08:21:03 UTC
 - Weaknesses:
   - Needs deeper review
 
+### 9. wacht-platform/frontend-api
+
+- Link: https://github.com/wacht-platform/frontend-api
+- Title: wacht-platform/frontend-api
+- Description: Ship product, not plumbing. Open source framework for AI-first SaaS — identity, OAuth, API auth, webhooks, notifications, and agents in one stack.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. netrisai/terraform-provider-netris
+
+- Link: https://github.com/netrisai/terraform-provider-netris
+- Title: netrisai/terraform-provider-netris
+- Description: Terraform Netris provider
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
 ## Categories
 
-- [database-drivers](categories/database-drivers.md)
 - [go](categories/go.md)
-- [network-security](categories/network-security.md)
-- [security-tools](categories/security-tools.md)
+- [gpu-framework](categories/gpu-framework.md)
+- [typescript](categories/typescript.md)
+- [visual-novel-patch](categories/visual-novel-patch.md)
 
 ## Data
 
