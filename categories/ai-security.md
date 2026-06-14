@@ -2,47 +2,24 @@
 
 Curated projects in this category.
 
-### 1. agent-receipts/obsigna
+### 1. kstenerud/yoloai
 
-- Link: https://github.com/agent-receipts/obsigna
-- Title: agent-receipts/obsigna
-- Description: Agent Receipts — cryptographically signed audit trails for AI agent actions. Protocol spec, SDKs (Go, TypeScript, Python), and MCP proxy.
-- Category: ai-security
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 7.0/10
-- Maturity: 6.0/10
-- Small repo potential: 9.0/10
-- Stars: 18
-- Reason: Strong foundation in cryptography and AI agent audit trails
-- Strengths:
-  - Cryptographically signed audit trails
-  - Support for multiple programming languages
-  - Clear protocol specification
-- Weaknesses:
-  - Limited community engagement
-  - Dependence on specific cryptographic algorithms
-
-### 2. Mindburn-Labs/helm-ai-kernel
-
-- Link: https://github.com/Mindburn-Labs/helm-ai-kernel
-- Title: Mindburn-Labs/helm-ai-kernel
-- Description: Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.
+- Link: https://github.com/kstenerud/yoloai
+- Title: kstenerud/yoloai
+- Description: Permission fatigue is a real problem. Sandbox escape is a real problem. yoloAI solves it.
 - Category: ai-security
 - Type: tool
 - Language: Go
-- Score: 8.0/10
-- Novelty: 9.0/10
-- Maturity: 6.0/10
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Innovative AI agent security solution
+- Stars: 111
+- Reason: Addresses permission fatigue and sandbox escape
 - Strengths:
-  - Unique fail-closed execution firewall approach
-  - Support for OpenAI-compatible requests
-  - Offline verification of EvidencePacks
+  - Unique approach to security
+  - Go implementation for performance
 - Weaknesses:
-  - Limited community engagement
-  - Relatively new repository
+  - Limited documentation
+  - Unclear deployment instructions
 
