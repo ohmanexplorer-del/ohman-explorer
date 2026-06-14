@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. williamchanrico/planet-exporter
 
 - Link: https://github.com/williamchanrico/planet-exporter
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: network-monitoring
 - Type: tool
 - Language: Go
+- Created: 2020-09-06
+- Age: 5 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
@@ -31,6 +37,10 @@ Curated projects in this category.
 - Category: network-monitoring
 - Type: tool
 - Language: Go
+- Created: 2025-11-28
+- Age: 6 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
