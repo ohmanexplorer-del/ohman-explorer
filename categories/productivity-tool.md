@@ -22,3 +22,24 @@ Curated projects in this category.
 - Weaknesses:
   - Limited topics and community engagement
 
+### 2. utilForever/focustime
+
+- Link: https://github.com/utilForever/focustime
+- Title: utilForever/focustime
+- Description: TUI-based application for ⏱ Pomodoro + 🚫 Site Blocking + 📊 WakaTime Tracking
+- Category: productivity-tool
+- Type: app
+- Language: Rust
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Combines Pomodoro, site blocking, and time tracking in a single TUI-based application
+- Strengths:
+  - Simple and focused feature set
+  - TUI-based for easy use
+- Weaknesses:
+  - Limited topics and community engagement
+  - New repository with limited maturity
+
