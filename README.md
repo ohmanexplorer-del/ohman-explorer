@@ -2,11 +2,1037 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 09:41:07 UTC
+Last updated: 2026-06-14 14:41:27 UTC
 
-## Latest Findings
+Total indexed projects: 427
 
-### 1. oneclickvirt/oneclickvirt
+## Project Library
+
+### 1. torvalds/linux
+
+- Link: https://github.com/torvalds/linux
+- Title: torvalds/linux
+- Description: Linux kernel source tree
+- Category: uncategorized
+- Language: C
+- Score: 10.0/10
+- Novelty: 0.0/10
+- Maturity: 0.0/10
+- Small repo potential: 0.0/10
+- Stars: 236312
+- Reason: SCORE: 10 NOTES: The official Linux kernel repository, maintained by Linus Torvalds, with an extremely high star count and widespread influence in the open-source community, indicating its significance and quality.
+
+### 2. modernc-org/sqlite
+
+- Link: https://github.com/modernc-org/sqlite
+- Title: modernc-org/sqlite
+- Description: Read-only mirror of https://gitlab.com/cznic/sqlite
+- Category: database-drivers
+- Type: library
+- Language: Go
+- Score: 9.0/10
+- Novelty: 8.0/10
+- Maturity: 9.0/10
+- Small repo potential: 10.0/10
+- Stars: 63
+- Reason: An essential, production-ready Cgo-free SQLite driver for Go that enables seamless cross-compilation without a C toolchain.
+- Strengths:
+  - Eliminates the need for Cgo, simplifying Go builds and cross-compilation
+  - Fully-featured SQLite translation via automated C-to-Go transpilation
+  - Highly trusted and widely adopted in the Go ecosystem
+- Weaknesses:
+  - Slightly lower performance compared to native Cgo SQLite bindings
+  - Transpiled codebase is difficult to read or debug manually
+
+### 3. bombsimon/wsl
+
+- Link: https://github.com/bombsimon/wsl
+- Title: bombsimon/wsl
+- Description: ␊ whitespace linter - Forces you to use empty lines!
+- Category: code-quality
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 374
+- Reason: Focused whitespace linter with clear purpose
+- Strengths:
+  - Simple and specific functionality
+  - Low barrier to contribution
+- Weaknesses:
+  - Limited scope
+  - Dependence on Go ecosystem
+
+### 4. browserutils/kooky
+
+- Link: https://github.com/browserutils/kooky
+- Title: browserutils/kooky
+- Description: Go code to read cookies from browser cookie stores.
+- Category: web-scraping
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 287
+- Reason: Focused Go library for reading browser cookies
+- Strengths:
+  - Simple and focused codebase
+  - Supports multiple browsers
+- Weaknesses:
+  - Limited to cookie reading functionality
+
+### 5. rix4uni/medium-writeups
+
+- Link: https://github.com/rix4uni/medium-writeups
+- Title: rix4uni/medium-writeups
+- Description: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL
+- Category: security-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 170
+- Reason: Automated bug bounty writeup aggregator
+- Strengths:
+  - Automated updates
+  - Multiple archive sources
+- Weaknesses:
+  - Limited to Medium writeups
+  - Dependence on external archives
+
+### 6. karlderkaefer/cdk-notifier
+
+- Link: https://github.com/karlderkaefer/cdk-notifier
+- Title: karlderkaefer/cdk-notifier
+- Description: CLI tool to post AWS CDK diff as comment to Github pull request
+- Category: ci-cd
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 130
+- Reason: A highly practical Go-based CLI tool that bridges the developer feedback loop by posting AWS CDK diffs directly to GitHub Pull Requests, significantly improving CI/CD visibility.
+- Strengths:
+  - Significantly improves code review developer experience for AWS CDK users
+  - Lightweight Go binary makes it fast and easy to integrate into CI/CD pipelines
+  - Supports collapsing large diff outputs to keep PR comments readable
+- Weaknesses:
+  - Coupled tightly to GitHub, lacks native support for alternative providers like GitLab or BitBucket
+
+### 7. andyrewlee/amux
+
+- Link: https://github.com/andyrewlee/amux
+- Title: andyrewlee/amux
+- Description: TUI for easily running parallel coding agents
+- Category: dev-tool
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 124
+- Reason: Well-structured Go project for parallel agent coordination
+- Strengths:
+  - Clear and focused purpose
+  - Simple and intuitive TUI
+  - Effective use of Git worktrees
+- Weaknesses:
+  - Limited documentation
+  - Small community engagement
+
+### 8. Danialsamadi/v2go
+
+- Link: https://github.com/Danialsamadi/v2go
+- Title: Danialsamadi/v2go
+- Description: v2go is a blazingly fast Go V2Ray config aggregator that processes 20,000+ configurations in 11 seconds (99.7% faster than Python), automatically removing duplicates and generating fresh subscription files every 6 hours.
+- Category: networking-tool
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 116
+- Reason: High-performance V2Ray config aggregator
+- Strengths:
+  - Blazingly fast performance
+  - Automatic duplicate removal
+  - Scheduled subscription file generation
+- Weaknesses:
+  - Limited topics and documentation
+  - Dependence on V2Ray ecosystem
+
+### 9. Au1rxx/free-vpn-subscriptions
+
+- Link: https://github.com/Au1rxx/free-vpn-subscriptions
+- Title: Au1rxx/free-vpn-subscriptions
+- Description: Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
+- Category: vpn-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 101
+- Reason: Well-organized VPN subscription feed with live node status
+- Strengths:
+  - Live node status
+  - Setup guides
+  - Multi-protocol support
+- Weaknesses:
+  - Limited to specific VPN protocols
+  - Dependence on external services
+
+### 10. nikhilsbhat/helm-drift
+
+- Link: https://github.com/nikhilsbhat/helm-drift
+- Title: nikhilsbhat/helm-drift
+- Description: Helm plugin that identifies the configuration that has drifted from the Helm chart
+- Category: kubernetes-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 83
+- Reason: Fills a specific niche in Helm chart management
+- Strengths:
+  - Addresses a common pain point in Kubernetes management
+  - Clear and focused purpose
+  - Written in a suitable language for the task
+- Weaknesses:
+  - Limited scope may restrict broader applicability
+  - Relatively low star count may indicate limited community engagement
+
+### 11. Kraftland/portable
+
+- Link: https://github.com/Kraftland/portable
+- Title: Kraftland/portable
+- Description: Fast, private, modern sandbox designed for desktop Linux
+- Category: linux-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 81
+- Reason: Well-defined sandboxing goals with modern Linux focus
+- Strengths:
+  - Fast and private
+  - Modern design
+  - User-friendly
+- Weaknesses:
+  - Limited platform support
+  - Relatively new project
+
+### 12. pulumi/pulumi-command
+
+- Link: https://github.com/pulumi/pulumi-command
+- Title: pulumi/pulumi-command
+- Description: No description available.
+- Category: infrastructure-as-code
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 79
+- Reason: An official Pulumi provider that acts as a reliable escape hatch, enabling local and remote command execution as lifecycle-managed IaC resources.
+- Strengths:
+  - Official Pulumi provider with robust support
+  - Manages commands as proper resources with create/update/delete lifecycles
+  - Supports secure remote execution via SSH
+- Weaknesses:
+  - Running raw commands can introduce side effects and non-deterministic behavior into deployments
+  - Requires careful handling of environment dependencies
+
+### 13. palantir/go-java-launcher
+
+- Link: https://github.com/palantir/go-java-launcher
+- Title: palantir/go-java-launcher
+- Description: A simple Go program for launching Java programs from a fixed configuration. This program replaces Gradle-generated Bash launch scripts which are susceptible to attacks via injection of environment variables of the form J...
+- Category: security-tool
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 74
+- Reason: Simple and effective solution for securing Java program launches
+- Strengths:
+  - Addresses specific security vulnerability
+  - Lightweight and easy to use
+  - Written in Go for performance
+- Weaknesses:
+  - Limited functionality
+  - Niche use case
+
+### 14. bl4ko/netbox-ssot
+
+- Link: https://github.com/bl4ko/netbox-ssot
+- Title: bl4ko/netbox-ssot
+- Description: Microservice that syncs objects from multiple sources into NetBox as automatic SSOT
+- Category: network-automation
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 73
+- Reason: An incredibly practical Go-based microservice that automates the ingestion of infrastructure data from major hypervisors and firewalls into NetBox, solving a major maintenance pain point.
+- Strengths:
+  - Supports a wide array of sources including vCenter, Proxmox, Fortigate, Palo Alto, and Cisco DNAC
+  - Written in Go, offering a single lightweight binary deployment compared to heavy Python alternatives
+  - Helps enforce NetBox as a true Single Source of Truth (SSOT) through automated synchronization
+- Weaknesses:
+  - Requires constant maintenance to keep up with API schema changes from NetBox and various third-party vendors
+  - Smaller community size makes long-term support reliant on a few core contributors
+
+### 15. TomasZmek/cpm
+
+- Link: https://github.com/TomasZmek/cpm
+- Title: TomasZmek/cpm
+- Description: Caddy Proxy Manager - Lightweight web UI for managing Caddy reverse proxy
+- Category: reverse-proxy
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 68
+- Reason: Well-structured Go project for managing Caddy reverse proxy
+- Strengths:
+  - Lightweight web UI
+  - Specific use case
+- Weaknesses:
+  - Limited topics and community engagement
+
+### 16. breml/terraform-provider-uptimekuma
+
+- Link: https://github.com/breml/terraform-provider-uptimekuma
+- Title: breml/terraform-provider-uptimekuma
+- Description: Terraform provider for uptime kuma
+- Category: infrastructure-as-code
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 57
+- Reason: An incredibly useful GitOps tool that bridges the gap between Terraform and Uptime Kuma, allowing declarative management of self-hosted monitoring.
+- Strengths:
+  - Enables Infrastructure as Code (IaC) for Uptime Kuma monitors
+  - Written in Go, conforming to standard Terraform provider structures
+  - Fills a highly requested integration gap for self-hosted homelab and SMB setups
+- Weaknesses:
+  - Relies on Uptime Kuma's non-standard API/WebSocket connection, which can be prone to breaking changes
+  - Limited documentation compared to official HashiCorp providers
+
+### 17. juan294/summon
+
+- Link: https://github.com/juan294/summon
+- Title: juan294/summon
+- Description: CLI tool that launches configurable multi-pane Ghostty workspaces with one command using native splits — no tmux needed. Features an interactive setup wizard, project registration, and layout presets. Published on npm ...
+- Category: productivity-tool
+- Type: tool
+- Language: TypeScript
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 57
+- Reason: Solves a specific problem efficiently
+- Strengths:
+  - Configurable multi-pane workspaces
+  - Interactive setup wizard
+- Weaknesses:
+  - Limited topics and community engagement
+
+### 18. fyvri/fresh-proxy-list
+
+- Link: https://github.com/fyvri/fresh-proxy-list
+- Title: fyvri/fresh-proxy-list
+- Description: An automatically updated list of free HTTP, HTTPS, SOCKS4, and SOCKS5 proxies, available in multiple formats including JSON, TXT, CSV, XML, and YAML.
+- Category: proxy-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 55
+- Reason: Automated proxy list updates
+- Strengths:
+  - Automated updates
+  - Multiple proxy formats
+  - Written in Go
+- Weaknesses:
+  - Limited documentation
+  - Dependence on external proxy sources
+
+### 19. deploymenttheory/terraform-provider-microsoft365
+
+- Link: https://github.com/deploymenttheory/terraform-provider-microsoft365
+- Title: deploymenttheory/terraform-provider-microsoft365
+- Description: A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 & MS Graph beta API's. Built upon the terraform provider framework and MS kiota generated gra...
+- Category: infrastructure-as-code
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 53
+- Reason: Well-structured Terraform provider for Microsoft 365
+- Strengths:
+  - Leverages Terraform provider framework
+  - Supports MS Graph v1.0 and beta APIs
+  - Built with MS Kiota generated Graph SDKs in Go
+- Weaknesses:
+  - Limited community engagement (53 stars)
+  - Dependence on Microsoft APIs and SDKs
+
+### 20. spacedock-dev/spacedock
+
+- Link: https://github.com/spacedock-dev/spacedock
+- Title: spacedock-dev/spacedock
+- Description: Zero-dep agent workflows with structured approval gates and adversarial review.
+- Category: ai-workflow
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 46
+- Reason: Well-structured codebase with focused functionality
+- Strengths:
+  - Zero dependencies
+  - Structured approval gates
+  - Adversarial review
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 21. int128/ghcp
+
+- Link: https://github.com/int128/ghcp
+- Title: int128/ghcp
+- Description: Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API
+- Category: dev-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 44
+- Reason: Well-focused GitHub API automation
+- Strengths:
+  - Simple and clear purpose
+  - Utilizes GitHub API effectively
+- Weaknesses:
+  - Limited scope
+  - Dependence on GitHub API
+
+### 22. RichardKnop/minisql
+
+- Link: https://github.com/RichardKnop/minisql
+- Title: RichardKnop/minisql
+- Description: Embedded single file SQL database written in Golang
+- Category: database-system
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 42
+- Reason: Embedded single-file SQL database with MVCC support
+- Strengths:
+  - Written in Go
+  - Single file database
+  - MVCC support
+- Weaknesses:
+  - Limited community engagement
+  - Fewer features compared to established databases
+
+### 23. client9/gospell
+
+- Link: https://github.com/client9/gospell
+- Title: client9/gospell
+- Description: pure golang spelling based on hunspell dictionaries
+- Category: text-processing
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 41
+- Reason: Well-defined purpose with a clear implementation
+- Strengths:
+  - Pure Go implementation
+  - Hunspell dictionary support
+- Weaknesses:
+  - Limited topics and documentation
+
+### 24. IodeSystems/homelab-horizon
+
+- Link: https://github.com/IodeSystems/homelab-horizon
+- Title: IodeSystems/homelab-horizon
+- Description: Manage your homelab with one tool: WireGuard VPN, split-horizon DNS, HAProxy reverse proxy with automatic wildcard SSL, and service monitoring on Ubuntu/Debian.
+- Category: homelab-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 39
+- Reason: Comprehensive homelab management with multiple features
+- Strengths:
+  - Integrates multiple tools for seamless homelab management
+  - Automates wildcard SSL with Let's Encrypt
+  - Supports split-horizon DNS and WireGuard VPN
+- Weaknesses:
+  - Limited to Ubuntu/Debian
+  - Relatively low number of stars and community engagement
+
+### 25. dualeai/seek
+
+- Link: https://github.com/dualeai/seek
+- Title: dualeai/seek
+- Description: Ranked local search for AI coding agents. Search the current Git worktree, selected paths, external folders, or exact files. Single binary, no server, no API key.
+- Category: code-search
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 4.0/10
+- Small repo potential: 9.0/10
+- Stars: 35
+- Reason: Provides a lightweight, zero-dependency local search utility specifically optimized for feeding relevant code context to AI agents without the overhead of heavy vector databases.
+- Strengths:
+  - Single binary with zero external dependencies or server requirements
+  - Tailored for AI agent context retrieval with ranked results
+  - Respects Git worktrees and offers flexible path filtering
+- Weaknesses:
+  - Low community adoption and early stage of maturity
+  - Limited integration examples with popular agentic frameworks like LangChain or AutoGPT
+
+### 26. KeibiSoft/KeibiDrop
+
+- Link: https://github.com/KeibiSoft/KeibiDrop
+- Title: KeibiSoft/KeibiDrop
+- Description: Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.
+- Category: file-sharing
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 9.0/10
+- Stars: 26
+- Reason: An innovative file-sharing tool that mounts shared files as a virtual FUSE directory, enabling instant on-demand streaming and downloading with a strong security model.
+- Strengths:
+  - On-demand file streaming via virtual filesystem (FUSE) integration
+  - Modern, lightweight UI built with Slint and Rust
+  - Strong privacy focus with post-quantum security concepts
+- Weaknesses:
+  - FUSE filesystem drivers can be difficult to set up and maintain across different operating systems
+  - Very early stage with low community adoption and testing
+
+### 27. in4it/vpn-server
+
+- Link: https://github.com/in4it/vpn-server
+- Title: in4it/vpn-server
+- Description: WireGuard® based VPN Server for AWS, Azure, DigitalOcean or on-prem
+- Category: vpn-server
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 26
+- Reason: Well-focused WireGuard-based VPN server
+- Strengths:
+  - Clear purpose
+  - Support for multiple cloud providers
+  - Written in Go for performance
+- Weaknesses:
+  - Limited community engagement
+  - Lack of detailed documentation
+
+### 28. lm705/vair
+
+- Link: https://github.com/lm705/vair
+- Title: lm705/vair
+- Description: GUI клиент для VPN-конфигураций протоколов VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC. Репозиторий и клиент содержит бесплатные VLESS-конфи�...
+- Category: vpn-client
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 26
+- Reason: Well-structured GUI client for multiple VPN protocols
+- Strengths:
+  - Supports multiple VPN protocols
+  - Includes free VLESS configs
+  - Written in Go for cross-platform compatibility
+- Weaknesses:
+  - Limited documentation
+  - Small user base
+
+### 29. williamchanrico/planet-exporter
+
+- Link: https://github.com/williamchanrico/planet-exporter
+- Title: williamchanrico/planet-exporter
+- Description: :rocket: Determine server network dependencies along with required bandwidth
+- Category: network-monitoring
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 23
+- Reason: Efficient network dependency analysis
+- Strengths:
+  - Leverages eBPF for efficient monitoring
+  - Prometheus exporter for seamless integration
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 30. suzuki-shunsuke/flute
+
+- Link: https://github.com/suzuki-shunsuke/flute
+- Title: suzuki-shunsuke/flute
+- Description: Golang HTTP client testing framework
+- Category: testing-framework
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 22
+- Reason: Focused Golang HTTP client testing framework
+- Strengths:
+  - Specific use case
+  - Clear description
+- Weaknesses:
+  - Limited scope
+  - Small community
+
+### 31. agent-receipts/obsigna
+
+- Link: https://github.com/agent-receipts/obsigna
+- Title: agent-receipts/obsigna
+- Description: Agent Receipts — cryptographically signed audit trails for AI agent actions. Protocol spec, SDKs (Go, TypeScript, Python), and MCP proxy.
+- Category: ai-security
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 18
+- Reason: Strong foundation in cryptography and AI agent audit trails
+- Strengths:
+  - Cryptographically signed audit trails
+  - Support for multiple programming languages
+  - Clear protocol specification
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific cryptographic algorithms
+
+### 32. pulumi/pulumi-pulumiservice
+
+- Link: https://github.com/pulumi/pulumi-pulumiservice
+- Title: pulumi/pulumi-pulumiservice
+- Description: No description available.
+- Category: infrastructure-as-code
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 16
+- Reason: An official, high-utility Pulumi provider that allows teams to programmatically manage their Pulumi Service resources (like teams, stacks, and webhooks) using Infrastructure as Code.
+- Strengths:
+  - Official provider maintained by Pulumi
+  - Enables GitOps and self-hosting configurations for Pulumi Service itself
+  - Robust and well-structured Go codebase
+- Weaknesses:
+  - Highly specific to users of the managed Pulumi Service (Pulumi Cloud)
+
+### 33. sozercan/vekil
+
+- Link: https://github.com/sozercan/vekil
+- Title: sozercan/vekil
+- Description: 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
+- Category: ai-proxy
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 16
+- Reason: Exposes multiple AI APIs over a reverse proxy
+- Strengths:
+  - Supports multiple AI models
+  - Written in Go for performance
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 34. jongwoo328/cloudip
+
+- Link: https://github.com/jongwoo328/cloudip
+- Title: jongwoo328/cloudip
+- Description: CLI tool to identify whether an IP address belongs to AWS, GCP, or Azure.
+- Category: cloud-utils
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 15
+- Reason: Focused and useful CLI tool
+- Strengths:
+  - Clear and specific purpose
+  - Well-defined topics and keywords
+- Weaknesses:
+  - Limited functionality
+  - Small community engagement
+
+### 35. skzv/ccmux
+
+- Link: https://github.com/skzv/ccmux
+- Title: skzv/ccmux
+- Description: One TUI for every AI coding agent session — Claude Code, Codex, Cursor, and more — in sync across every device.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 15
+- Reason: Unified TUI for multiple AI coding agents
+- Strengths:
+  - Syncs across devices
+  - Supports multiple AI coding agents
+  - Written in Go for performance
+- Weaknesses:
+  - Limited user base indicated by low star count
+  - May require additional setup for TUI and AI agents
+
+### 36. 23skdu/longbow
+
+- Link: https://github.com/23skdu/longbow
+- Title: 23skdu/longbow
+- Description: Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing
+- Category: ai-engine
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 13
+- Reason: Efficient memory sharing for AI agents
+- Strengths:
+  - Leverages Apache Arrow Flight for high throughput
+  - Focused on clustered vector engine for AI applications
+- Weaknesses:
+  - Limited documentation and community engagement
+  - Dependence on specific technologies like Go and Apache Arrow
+
+### 37. tazhate/chainplane
+
+- Link: https://github.com/tazhate/chainplane
+- Title: tazhate/chainplane
+- Description: Kubernetes operator for 102 blockchain networks. Declarative node lifecycle, auto-upgrades, health monitoring, and snapshot bootstrap via a single CRD.
+- Category: blockchain-infrastructure
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 8.0/10
+- Maturity: 3.0/10
+- Small repo potential: 9.0/10
+- Stars: 13
+- Reason: An ambitious Kubernetes operator that dramatically simplifies the complex task of running and maintaining nodes across over a hundred diverse blockchain networks using a single unified CRD.
+- Strengths:
+  - Supports declarative lifecycle management, auto-upgrades, and snapshot bootstrapping
+  - Covers an impressive matrix of 100+ blockchain networks under a unified operator
+  - Written in Go, leveraging native Kubernetes Operator patterns
+- Weaknesses:
+  - Low community adoption and star count
+  - Maintaining configurations and upgrade paths for 102 rapidly evolving protocols poses a massive long-term upkeep challenge
+
+### 38. toricls/acos
+
+- Link: https://github.com/toricls/acos
+- Title: toricls/acos
+- Description: An interactive CLI tool to retrieve and show your AWS costs 💸
+- Category: cloud-cost-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 13
+- Reason: Well-defined purpose and focused implementation
+- Strengths:
+  - Simple and interactive CLI
+  - Specific use case for AWS costs
+- Weaknesses:
+  - Limited to AWS billing
+  - Small community
+
+### 39. amaanx86/oci-prometheus-sd-proxy
+
+- Link: https://github.com/amaanx86/oci-prometheus-sd-proxy
+- Title: amaanx86/oci-prometheus-sd-proxy
+- Description: A lightweight Go service that bridges Oracle Cloud Infrastructure and Prometheus by dynamically discovering tagged compute instances across multiple tenancies via HTTP service discovery.
+- Category: cloud-monitoring
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 12
+- Reason: Effective Prometheus integration
+- Strengths:
+  - Lightweight
+  - Multi-tenancy support
+  - Go implementation
+- Weaknesses:
+  - Niche use case
+  - Limited documentation
+
+### 40. mdb/gh-dispatch
+
+- Link: https://github.com/mdb/gh-dispatch
+- Title: mdb/gh-dispatch
+- Description: A gh CLI extension for sending GitHub dispatch events and watching the triggered GitHub Actions runs directly from your terminal.
+- Category: dev-tool
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 12
+- Reason: Fills a specific niche for GitHub CLI users
+- Strengths:
+  - Solves a practical problem
+  - Well-defined scope
+  - Written in a suitable language (Go)
+- Weaknesses:
+  - Limited user base due to GitHub CLI requirement
+  - Relatively low number of stars
+
+### 41. ubiquiti-community/unifi-api
+
+- Link: https://github.com/ubiquiti-community/unifi-api
+- Title: ubiquiti-community/unifi-api
+- Description: OpenAPI Definition for Unifi Controller API
+- Category: network-api
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 12
+- Reason: Well-defined OpenAPI specification for Unifi Controller API
+- Strengths:
+  - Clear API definition
+  - Useful for automation and integration
+- Weaknesses:
+  - Limited community engagement
+  - Dependent on Unifi Controller API
+
+### 42. kubevirt/ci-health
+
+- Link: https://github.com/kubevirt/ci-health
+- Title: kubevirt/ci-health
+- Description: Metrics about CI performance in repositories using Prow
+- Category: ci-metrics
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 11
+- Reason: Focused metrics collection for CI performance
+- Strengths:
+  - Specific use case
+  - Prow and Prometheus integration
+- Weaknesses:
+  - Limited scope
+  - Dependence on Prow ecosystem
+
+### 43. paperclipinc/hermes-operator
+
+- Link: https://github.com/paperclipinc/hermes-operator
+- Title: paperclipinc/hermes-operator
+- Description: Production-grade Kubernetes operator for nousresearch/hermes-agent: declarative spec, security defaults, S3 backups, OCI auto-update with rollback, SSA-based GitOps coexistence, OpenClaw migration.
+- Category: kubernetes-operator
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 10
+- Reason: Well-structured Kubernetes operator with strong security defaults
+- Strengths:
+  - Declarative spec
+  - Security defaults
+  - OCI auto-update with rollback
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on nousresearch/hermes-agent
+
+### 44. argoproj-labs/gitops-promoter
+
+- Link: https://github.com/argoproj-labs/gitops-promoter
+- Title: argoproj-labs/gitops-promoter
+- Description: GitOps Environment Promotion tool that lets you focus on the "what," not the "how"
+- Category: devops-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 467
+- Reason: Focused on environment promotion in GitOps
+- Strengths:
+  - Solves a specific problem in GitOps
+  - Built with Go for performance
+- Weaknesses:
+  - Limited to Kubernetes environments
+  - Dependent on Argo CD
+
+### 45. mondoohq/cnspec
+
+- Link: https://github.com/mondoohq/cnspec
+- Title: mondoohq/cnspec
+- Description: An open source, cloud-native security to protect everything from build to runtime
+- Category: cloud-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 429
+- Reason: An exceptionally versatile security and compliance scanner that unifies infrastructure, Kubernetes, and cloud-native scanning under a single, declarative policy engine.
+- Strengths:
+  - Supports a wide array of targets including local OS, containers, Kubernetes, and cloud providers
+  - Uses a powerful, declarative query language (MQL) for custom policy definition
+  - Highly efficient Go implementation with minimal runtime overhead
+- Weaknesses:
+  - Mondoo Query Language (MQL) adds a learning curve compared to established standards like Rego/OPA
+  - Some ecosystem integrations heavily nudge users towards their commercial SaaS platform
+
+### 46. sari3l/Poc-Monitor
+
+- Link: https://github.com/sari3l/Poc-Monitor
+- Title: sari3l/Poc-Monitor
+- Description: 🔍 Github CVE POC 信息监控推送 🚀
+- Category: security-monitoring
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 410
+- Reason: Effective CVE monitoring and POC push
+- Strengths:
+  - Focused functionality
+  - Go implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on GitHub CVE data
+
+### 47. thecodearcher/limen
+
+- Link: https://github.com/thecodearcher/limen
+- Title: thecodearcher/limen
+- Description: Modern, composable authentication for Go
+- Category: auth-library
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 390
+- Reason: Composable authentication for Go
+- Strengths:
+  - Modern architecture
+  - Composable design
+  - Support for multiple auth protocols
+- Weaknesses:
+  - Limited documentation
+  - Dependent on Go ecosystem
+
+### 48. boshu2/agentops
+
+- Link: https://github.com/boshu2/agentops
+- Title: boshu2/agentops
+- Description: The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.
+- Category: ai-agents
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 389
+- Reason: Well-structured codebase for coding agents
+- Strengths:
+  - Compounds memory between sessions
+  - Includes validation and feedback loops
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 49. oneclickvirt/oneclickvirt
 
 - Link: https://github.com/oneclickvirt/oneclickvirt
 - Title: oneclickvirt/oneclickvirt
@@ -28,7 +1054,371 @@ Last updated: 2026-06-14 09:41:07 UTC
   - Limited documentation
   - Relatively low star count
 
-### 2. llm-d/llm-d-inference-sim
+### 50. tarmac-project/tarmac
+
+- Link: https://github.com/tarmac-project/tarmac
+- Title: tarmac-project/tarmac
+- Description: Write as Functions, Deploy as a Monolith or Microservice with WebAssembly
+- Category: serverless-framework
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 343
+- Reason: Unique approach to deploying functions as monoliths or microservices with WebAssembly
+- Strengths:
+  - Innovative use of WebAssembly
+  - Flexible deployment options
+  - Written in Go for performance
+- Weaknesses:
+  - Limited documentation
+  - Still evolving with potential breaking changes
+
+### 51. kdlbs/kandev
+
+- Link: https://github.com/kdlbs/kandev
+- Title: kdlbs/kandev
+- Description: AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
+- Category: dev-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 327
+- Reason: Unique AI-powered Kanban and development environment
+- Strengths:
+  - Multi-provider support
+  - Self-hostable
+  - No telemetry
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 52. gogpu/gogpu
+
+- Link: https://github.com/gogpu/gogpu
+- Title: gogpu/gogpu
+- Description: Pure Go GPU Application Framework — windowing, input, lifecycle, platform abstraction. Part of the GoGPU ecosystem.
+- Category: gpu-framework
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 306
+- Reason: Comprehensive pure Go GPU framework
+- Strengths:
+  - Cross-platform support
+  - Platform abstraction
+  - Zero CGO for better performance
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on GoGPU ecosystem
+
+### 53. scrapli/scrapligo
+
+- Link: https://github.com/scrapli/scrapligo
+- Title: scrapli/scrapligo
+- Description: scrapli, but in go!
+- Category: network-automation
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 300
+- Reason: Well-structured Go library for network automation
+- Strengths:
+  - Simple and efficient codebase
+  - Clear documentation
+- Weaknesses:
+  - Limited topics and community engagement
+
+### 54. kenn-io/kata
+
+- Link: https://github.com/kenn-io/kata
+- Title: kenn-io/kata
+- Description: Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
+- Category: issue-tracking
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 260
+- Reason: Unique local-first approach with AI assistance
+- Strengths:
+  - Innovative AI-assisted workflow
+  - Dual CLI and TUI interfaces
+- Weaknesses:
+  - Limited community engagement
+  - Unclear topic categorization
+
+### 55. slackapi/slack-cli
+
+- Link: https://github.com/slackapi/slack-cli
+- Title: slackapi/slack-cli
+- Description: Create, develop, and deploy Slack apps from the command-line ✨
+- Category: dev-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 246
+- Reason: Useful command-line tool for Slack app development
+- Strengths:
+  - Streamlines Slack app development
+  - Written in Go for efficiency
+- Weaknesses:
+  - Limited to Slack app development
+  - Relatively small community
+
+### 56. thushan/olla
+
+- Link: https://github.com/thushan/olla
+- Title: thushan/olla
+- Description: High-performance lightweight proxy and load balancer for LLM infrastructure. Intelligent routing, automatic failover and unified model discovery across local and remote inference backends.
+- Category: ai-proxy
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 241
+- Reason: Well-structured Go project for LLM infrastructure
+- Strengths:
+  - High-performance proxy and load balancer
+  - Intelligent routing and automatic failover
+  - Unified model discovery
+- Weaknesses:
+  - Limited documentation
+  - Dependence on specific inference backends
+
+### 57. AfterShip/clickhouse-sql-parser
+
+- Link: https://github.com/AfterShip/clickhouse-sql-parser
+- Title: AfterShip/clickhouse-sql-parser
+- Description: ClickHouse SQL Parser writing in Go
+- Category: sql-parser
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 237
+- Reason: Well-structured Go library for parsing ClickHouse SQL
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on ClickHouse
+
+### 58. cybercdh/kitphishr
+
+- Link: https://github.com/cybercdh/kitphishr
+- Title: cybercdh/kitphishr
+- Description: A tool designed to hunt for Phishing Kit source code
+- Category: security-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 231
+- Reason: Focused phishing kit detection
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on OSINT
+
+### 59. Asymptote-Labs/agent-beacon
+
+- Link: https://github.com/Asymptote-Labs/agent-beacon
+- Title: Asymptote-Labs/agent-beacon
+- Description: Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, or in the cloud.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 225
+- Reason: Unique open-source telemetry solution for AI agents
+- Strengths:
+  - Addresses a specific need in AI agent monitoring
+  - Supports various deployment environments
+- Weaknesses:
+  - Limited community engagement due to relatively low star count
+  - May require additional development for widespread adoption
+
+### 60. FootprintAI/Containarium
+
+- Link: https://github.com/FootprintAI/Containarium
+- Title: FootprintAI/Containarium
+- Description: The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
+- Category: ai-sandbox
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 212
+- Reason: Innovative agent-native sandbox approach
+- Strengths:
+  - Self-hostable
+  - Multi-tenant support
+  - LXC containerization
+- Weaknesses:
+  - Limited documentation
+  - Dependence on specific agents
+
+### 61. tronbyt/server
+
+- Link: https://github.com/tronbyt/server
+- Title: tronbyt/server
+- Description: Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt.
+- Category: iot-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 197
+- Reason: Solves a specific problem for Tidbyt users
+- Strengths:
+  - Local app management
+  - Go implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on Tidbyt hardware
+
+### 62. xunholy/promptzero
+
+- Link: https://github.com/xunholy/promptzero
+- Title: xunholy/promptzero
+- Description: AI operated Flipper Zero
+- Category: hardware-hacking
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 181
+- Reason: Well-focused AI-operated Flipper Zero project
+- Strengths:
+  - Specific use case
+  - Clear topic alignment
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on Flipper Zero hardware
+
+### 63. gma1k/podtrace
+
+- Link: https://github.com/gma1k/podtrace
+- Title: gma1k/podtrace
+- Description: eBPF-driven diagnostic tool for Kubernetes applications 🐝
+- Category: kubernetes-observability
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 179
+- Reason: Focused eBPF-driven diagnostic tool for Kubernetes
+- Strengths:
+  - eBPF-based
+  - Kubernetes integration
+  - Grafana and Prometheus support
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 64. celzero/firestack
+
+- Link: https://github.com/celzero/firestack
+- Title: celzero/firestack
+- Description: Userspace wireguard and network monitor
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 163
+- Reason: Focused implementation of WireGuard and network monitoring
+- Strengths:
+  - Userspace implementation
+  - Cross-platform potential
+- Weaknesses:
+  - Limited documentation
+  - Dependence on WireGuard
+
+### 65. zigflow/zigflow
+
+- Link: https://github.com/zigflow/zigflow
+- Title: zigflow/zigflow
+- Description: Define durable workflows in YAML, powered by Temporal
+- Category: workflow-orchestration
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 163
+- Reason: Well-structured YAML-based workflow definition
+- Strengths:
+  - Temporal integration
+  - Declarative workflow definition
+  - Go implementation
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 66. chrissnell/graywolf
+
+- Link: https://github.com/chrissnell/graywolf
+- Title: chrissnell/graywolf
+- Description: A fully-featured APRS stack with modern web UI
+- Category: aprs-stack
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 148
+- Reason: Well-structured APRS stack with modern web UI
+- Strengths:
+  - Modern web UI
+  - Fully-featured APRS stack
+  - Written in Go
+- Weaknesses:
+  - Limited community engagement
+  - Lack of topics or documentation
+
+### 67. llm-d/llm-d-inference-sim
 
 - Link: https://github.com/llm-d/llm-d-inference-sim
 - Title: llm-d/llm-d-inference-sim
@@ -50,64 +1440,2296 @@ Last updated: 2026-06-14 09:41:07 UTC
   - Limited topics and applications
   - Dependence on Go language
 
-### 3. gofiber/storage
+### 68. MattCheramie/GopherTrunk
 
-- Link: https://github.com/gofiber/storage
-- Title: gofiber/storage
-- Description: 📦 Premade storage drivers for 🚀 Fiber
+- Link: https://github.com/MattCheramie/GopherTrunk
+- Title: MattCheramie/GopherTrunk
+- Description: Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit.
+- Category: radio-communication
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 79
+- Reason: Well-structured RTL-SDR scanner and audio processing toolkit
+- Strengths:
+  - Pure-Go implementation
+  - Cross-platform support
+  - Support for multiple radio protocols
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 69. pedropombeiro/qnapexporter
+
+- Link: https://github.com/pedropombeiro/qnapexporter
+- Title: pedropombeiro/qnapexporter
+- Description: Prometheus metrics exporter, Grafana dashboards, and QNAP notification sink for QNAP NAS devices.
+- Category: monitoring-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 72
+- Reason: Well-focused exporter for QNAP NAS devices
+- Strengths:
+  - Specific use case
+  - Clear documentation implied by Grafana dashboards
+  - Written in Go for performance
+- Weaknesses:
+  - Limited scope
+  - Dependence on specific NAS devices
+
+### 70. mss-boot-io/mss-boot-admin
+
+- Link: https://github.com/mss-boot-io/mss-boot-admin
+- Title: mss-boot-io/mss-boot-admin
+- Description: Governance-first Go admin backend with RBAC, API registry, configuration, i18n, operations, and AI-assisted OSS maintenance.
+- Category: admin-backend
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 71
+- Reason: Comprehensive governance-first backend with RBAC and AI-assisted maintenance
+- Strengths:
+  - Governance-first approach
+  - RBAC and API registry
+  - AI-assisted OSS maintenance
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific libraries like Casbin and Ant Design
+
+### 71. kernelstub/Ferrum
+
+- Link: https://github.com/kernelstub/Ferrum
+- Title: kernelstub/Ferrum
+- Description: Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.
+- Category: windows-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 60
+- Reason: Focused scope and clear documentation
+- Strengths:
+  - Specific use cases
+  - Clear topic tags
+- Weaknesses:
+  - Limited language support
+  - Small community
+
+### 72. aalpar/wile
+
+- Link: https://github.com/aalpar/wile
+- Title: aalpar/wile
+- Description: Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
+- Category: programming-language
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 55
+- Reason: Unique implementation of R7RS Scheme in Go
+- Strengths:
+  - Pure Go implementation
+  - Hygienic macros and first-class continuations
+  - Sandboxing support
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 73. shukiv/jabali-panel
+
+- Link: https://github.com/shukiv/jabali-panel
+- Title: shukiv/jabali-panel
+- Description: Modern web hosting control panel (Go + React) — WordPress + PHP isolation, Stalwart mail, PowerDNS, restic backups, CrowdSec WAF, per-user nspawn SSH. AGPL-3.0.
+- Category: web-hosting
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 48
+- Reason: Well-structured modern web hosting control panel
+- Strengths:
+  - Multi-tenant support
+  - Isolation features for WordPress and PHP
+  - Integration with security tools like CrowdSec
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific technologies like React and Go
+
+### 74. NeptuneHub/AudioMuse-AI-MusicServer
+
+- Link: https://github.com/NeptuneHub/AudioMuse-AI-MusicServer
+- Title: NeptuneHub/AudioMuse-AI-MusicServer
+- Description: Music server built on the Open Subsonic API, designed to showcase AudioMuse-AI’s advanced sonic analysis capabilities.
+- Category: music-server
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 44
+- Reason: Well-structured music server with AI-powered sonic analysis
+- Strengths:
+  - Leverages Open Subsonic API
+  - Docker and Kubernetes support
+  - Showcases AudioMuse-AI capabilities
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on AudioMuse-AI
+
+### 75. kubevirt/project-infra
+
+- Link: https://github.com/kubevirt/project-infra
+- Title: kubevirt/project-infra
+- Description: Project infrastructure administrative tools
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 41
+- Reason: Focused infrastructure tools
+- Strengths:
+  - Infrastructure-as-code approach
+  - Ansible integration
+- Weaknesses:
+  - Niche use case
+  - Limited community engagement
+
+### 76. workweave/router
+
+- Link: https://github.com/workweave/router
+- Title: workweave/router
+- Description: Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
+- Category: ai-routing
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 35
+- Reason: Efficient model routing with significant cost savings
+- Strengths:
+  - High-performance routing
+  - Cost-effective
+  - OpenAI-compatible
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 77. IntuitionAmiga/IntuitionEngine
+
+- Link: https://github.com/IntuitionAmiga/IntuitionEngine
+- Title: IntuitionAmiga/IntuitionEngine
+- Description: A modern 64-bit RISC re-imagining of Commodore/Atari/Sinclair/BBC/Amstrad/MSX/IBM 8/16/32-bit home computers with 6 heterogeneous CPU cores (6502/Z80/68020/x86/IE32/IE64) & 3DFX Voodoo/VGA/VideoChip/SID/PSG(AY/YM/SN)/POK...
+- Category: emulation-engine
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 34
+- Reason: Ambitious re-imagining of classic home computers
+- Strengths:
+  - Unique multi-CPU core approach
+  - Comprehensive chip emulation
+- Weaknesses:
+  - Limited documentation
+  - Unclear user interface
+
+### 78. cobaltdb/cobaltdb
+
+- Link: https://github.com/cobaltdb/cobaltdb
+- Title: cobaltdb/cobaltdb
+- Description: The Modern Embedded Database for Go
+- Category: database-library
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 34
+- Reason: Well-structured Go database library
+- Strengths:
+  - Modern design
+  - Embedded database
+  - SQL support
+- Weaknesses:
+  - Limited community engagement
+  - Fewer stars than established alternatives
+
+### 79. softsoundd/MedgeNet
+
+- Link: https://github.com/softsoundd/MedgeNet
+- Title: softsoundd/MedgeNet
+- Description: MedgeNet is a project that restores online features for Mirror's Edge on PC.
+- Category: game-modification
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 32
+- Reason: Restores online features for a specific game
+- Strengths:
+  - Specific goal
+  - Written in Go
+- Weaknesses:
+  - Limited scope
+  - Lack of documentation
+
+### 80. int128/ktunnels
+
+- Link: https://github.com/int128/ktunnels
+- Title: int128/ktunnels
+- Description: Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy
+- Category: kubernetes-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 31
+- Reason: Provides a unique solution for port-forwarding in Kubernetes
+- Strengths:
+  - Leverages Envoy TCP proxy for efficient port-forwarding
+  - Built using Kubebuilder for seamless Kubernetes integration
+- Weaknesses:
+  - Limited documentation and community engagement
+
+### 81. JoakimCarlsson/ai
+
+- Link: https://github.com/JoakimCarlsson/ai
+- Title: JoakimCarlsson/ai
+- Description: A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with handoffs, tool calling, streaming, structured output, MCP integration, and cost tracking.
+- Category: ai-toolkit
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 30
+- Reason: Unified LLM client and agent framework
+- Strengths:
+  - Multi-provider support
+  - Structured output and cost tracking
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 82. boringSQL/dryrun
+
+- Link: https://github.com/boringSQL/dryrun
+- Title: boringSQL/dryrun
+- Description: PostgreSQL schema intelligence MCP server with offline linting, migration safety, query validation for AI coding assistants.
+- Category: database-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 27
+- Reason: Effective PostgreSQL schema management
+- Strengths:
+  - Offline linting and migration safety features
+  - Query validation for AI coding assistants
+  - Written in Go for performance
+- Weaknesses:
+  - Limited community engagement due to low star count
+  - May require additional development for widespread adoption
+
+### 83. go-appsec/toolbox
+
+- Link: https://github.com/go-appsec/toolbox
+- Title: go-appsec/toolbox
+- Description: Collaborative application security testing between humans and agents via CLI and MCP
+- Category: application-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Collaborative approach to application security testing
+- Strengths:
+  - Unique collaboration model between humans and agents
+  - Support for CLI and MCP protocols
+- Weaknesses:
+  - Limited community engagement due to small number of stars
+  - Unclear documentation and usage examples
+
+### 84. timebertt/kubectl-revisions
+
+- Link: https://github.com/timebertt/kubectl-revisions
+- Title: timebertt/kubectl-revisions
+- Description: 🚀 Time-travel through your workload's revision history 🕰️
+- Category: kubernetes-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 24
+- Reason: useful kubectl plugin
+- Strengths:
+  - solves specific problem
+  - simple concept
+- Weaknesses:
+  - limited functionality
+  - small community
+
+### 85. simonostendorf/kubelet-credential-provider-vault
+
+- Link: https://github.com/simonostendorf/kubelet-credential-provider-vault
+- Title: simonostendorf/kubelet-credential-provider-vault
+- Description: Kubernetes Kubelet Image Credential Provider for Hashicorp Vault
+- Category: k8s-security
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 23
+- Reason: Focused solution for a specific Kubernetes security need
+- Strengths:
+  - Clear purpose
+  - Specific use case
+- Weaknesses:
+  - Limited scope
+  - Dependence on Hashicorp Vault
+
+### 86. go-kruda/kruda
+
+- Link: https://github.com/go-kruda/kruda
+- Title: go-kruda/kruda
+- Description: High-performance, type-safe Go web framework with custom async I/O transport — faster than Fiber and Actix on every benchmark route
+- Category: web-development
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: High-performance claims with custom async I/O transport
+- Strengths:
+  - Custom async I/O transport
+  - Type-safe design
+  - High-performance claims
+- Weaknesses:
+  - Limited community engagement
+  - New repository with limited testing
+
+### 87. agenticenv/agent-sdk-go
+
+- Link: https://github.com/agenticenv/agent-sdk-go
+- Title: agenticenv/agent-sdk-go
+- Description: AI agents in Go — Temporal for durable, crash-resilient execution or run in-process with zero setup. OpenAI, Anthropic, Gemini, tools, MCP, A2A, RAG, conversations, AG-UI, streaming, sub-agents & human-in-the-loop.
+- Category: ai-agents
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Well-structured AI agent framework in Go
+- Strengths:
+  - Durable and crash-resilient execution
+  - Support for multiple AI models and tools
+  - In-process execution with zero setup
+- Weaknesses:
+  - Limited community engagement
+  - Still a relatively new repository
+
+### 88. procore-oss/kube-binpacking-exporter
+
+- Link: https://github.com/procore-oss/kube-binpacking-exporter
+- Title: procore-oss/kube-binpacking-exporter
+- Description: Exports Pre-computed Kubernetes Cluster Binpacking Metrics
+- Category: kubernetes-tooling
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
+- Reason: Focused and useful binpacking metrics exporter
+- Strengths:
+  - Specific use case
+  - Clear documentation
+- Weaknesses:
+  - Niche functionality
+  - Limited community engagement
+
+### 89. kaicontext/kai
+
+- Link: https://github.com/kaicontext/kai
+- Title: kaicontext/kai
+- Description: Kai is a semantic analysis engine that sits on top of Git. It captures meaningful changes, generates semantic diffs, and produces safe selective CI plans.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Innovative semantic analysis engine
+- Strengths:
+  - Unique approach to code analysis
+  - Integration with Git
+  - Generates semantic diffs
+- Weaknesses:
+  - Limited community engagement
+  - Small number of stars
+
+### 90. markhuangai/dense-mem
+
+- Link: https://github.com/markhuangai/dense-mem
+- Title: markhuangai/dense-mem
+- Description: Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, PostgreSQL, and Neo4j.
+- Category: ai-memory-server
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Well-structured AI memory server with multiple features
+- Strengths:
+  - Self-hosted solution
+  - Supports multiple databases
+  - Includes conflict detection and embeddings
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 91. aystro-com/apod
+
+- Link: https://github.com/aystro-com/apod
+- Title: aystro-com/apod
+- Description: A single binary that turns any VPS into a hosting platform. Deploy sites, manage domains, handle SSL — all through Docker containers without the overhead of traditional panels. Why apod? Hosting panels are bloated. Paa...
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Simplifies hosting platform setup
+- Strengths:
+  - Single binary deployment
+  - Zero dependencies
+  - Docker container management
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 92. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+
+- Link: https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+- Title: Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+- Description: A tool that detects unauthorized access vulnerabilities through passive proxies, leveraging mainstream AI systems such as Kimi, DeepSeek, GPT, and others.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Leverages mainstream AI systems for access vulnerability detection
+- Strengths:
+  - Innovative use of AI for security testing
+  - Passive proxy approach for vulnerability detection
+- Weaknesses:
+  - Limited stars and community engagement
+  - Dependence on third-party AI systems
+
+### 93. hitesh22rana/chronoverse
+
+- Link: https://github.com/hitesh22rana/chronoverse
+- Title: hitesh22rana/chronoverse
+- Description: Distributed job scheduler & Orchestrator on your infrastructure
+- Category: distributed-systems
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Well-structured Go project with clear purpose
+- Strengths:
+  - Clear documentation
+  - Modular design
+  - Support for multiple databases and messaging systems
+- Weaknesses:
+  - Limited community engagement
+  - Still in early stages of development
+
+### 94. Mindburn-Labs/helm-ai-kernel
+
+- Link: https://github.com/Mindburn-Labs/helm-ai-kernel
+- Title: Mindburn-Labs/helm-ai-kernel
+- Description: Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Innovative AI agent security solution
+- Strengths:
+  - Unique fail-closed execution firewall approach
+  - Support for OpenAI-compatible requests
+  - Offline verification of EvidencePacks
+- Weaknesses:
+  - Limited community engagement
+  - Relatively new repository
+
+### 95. feitasIoT/CRose
+
+- Link: https://github.com/feitasIoT/CRose
+- Title: feitasIoT/CRose
+- Description: 一站式轻量化数据引擎：连接设备，交付价值；CRose是一个专为制造业与现代农业打造的集成化数据底座。它封装了从底层的协议采集（Modbus/MQTT）到上层的统计分析、...
+- Category: industrial-iot
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Comprehensive data engine for manufacturing and agriculture
+- Strengths:
+  - Encapsulates full stack capabilities
+  - Supports multiple protocols (Modbus/MQTT)
+  - Designed for edge computing and IIoT
+- Weaknesses:
+  - Limited community engagement (11 stars)
+  - May require additional development for widespread adoption
+
+### 96. llxisdsh/cc
+
+- Link: https://github.com/llxisdsh/cc
+- Title: llxisdsh/cc
+- Description: Concurrent Core for Go — a lightweight, high-performance toolkit designed for critical paths where latency and allocation matter.
+- Category: concurrent-programming
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: High-performance concurrent core for critical paths
+- Strengths:
+  - Lightweight
+  - High-performance
+  - Lock-free design
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 97. mashiro/otelop
+
+- Link: https://github.com/mashiro/otelop
+- Title: mashiro/otelop
+- Description: Local OTel viewer for dev loops — single binary, in-memory, browser UI.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Focused on local OTel viewer for dev loops
+- Strengths:
+  - Single binary distribution
+  - In-memory data storage
+  - Browser-based UI
+- Weaknesses:
+  - Limited scalability
+  - New project with limited community
+
+### 98. pulumi/pulumi-okta
+
+- Link: https://github.com/pulumi/pulumi-okta
+- Title: pulumi/pulumi-okta
+- Description: An Okta Pulumi resource package, providing multi-language access to Okta
+- Category: iam-integration
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Provides multi-language access to Okta
+- Strengths:
+  - Multi-language support
+  - Focused on Okta integration
+- Weaknesses:
+  - Limited community engagement
+  - Few topics and stars
+
+### 99. realdatadriven/central-set-go
+
+- Link: https://github.com/realdatadriven/central-set-go
+- Title: realdatadriven/central-set-go
+- Description: Dynamic, data-driven, application built with GO. Out of the box, it provides an admin that allows users to manage multiple applications, offering built-in authentication, user management, and role-based access control at...
+- Category: data-engineering
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Comprehensive data-driven application with multiple features
+- Strengths:
+  - Provides built-in authentication and user management
+  - Supports role-based access control
+  - Includes DuckDB powered Data App and evidence.dev-like Dashboard
+- Weaknesses:
+  - Limited community engagement due to low star count
+  - May require additional development for production readiness
+
+### 100. cncf/sbom
+
+- Link: https://github.com/cncf/sbom
+- Title: cncf/sbom
+- Description: House of SBOMs (and tooling)
+- Category: security-tools
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Focused on SBOM management
+- Strengths:
+  - Specific use case
+  - CNCF backing
+- Weaknesses:
+  - Limited topics
+  - Low star count
+
+### 101. jmylchreest/aide
+
+- Link: https://github.com/jmylchreest/aide
+- Title: jmylchreest/aide
+- Description: Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
+- Category: ai-dev-tools
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Innovative multi-agent approach to AI coding assistants
+- Strengths:
+  - Unique architecture
+  - Support for multiple AI models
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on specific AI models
+
+### 102. neo4j-partners/neo4j-kubernetes-operator
+
+- Link: https://github.com/neo4j-partners/neo4j-kubernetes-operator
+- Title: neo4j-partners/neo4j-kubernetes-operator
+- Description: The Neo4j Kuberenetes Operator automates the deployment and management of Neo4j Enterprise Edition.
+- Category: database-management
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Well-structured operator for Neo4j on Kubernetes
+- Strengths:
+  - Specific use case automation
+  - Written in Go for performance
+- Weaknesses:
+  - Limited community engagement
+  - Narrow scope of application
+
+### 103. suzuki-shunsuke/nllint
+
+- Link: https://github.com/suzuki-shunsuke/nllint
+- Title: suzuki-shunsuke/nllint
+- Description: Linter and formatter of newlines and trailing spaces in files
+- Category: code-quality
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: well-defined purpose
+- Strengths:
+  - clear description
+  - specific use case
+- Weaknesses:
+  - limited functionality
+  - small community
+
+### 104. KunMoe/kun-galgame-patch
+
+- Link: https://github.com/KunMoe/kun-galgame-patch
+- Title: KunMoe/kun-galgame-patch
+- Description: The most advanced visual novel patch resource website in the world at the moment! Free forever! 开源, 免费, 零门槛, 纯手写, 最先进的 Galgame 补丁资源下载站, 永远免费！
+- Category: visual-novel-patch
+- Type: app
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 299
+- Reason: Well-maintained Go application with a clear purpose
+- Strengths:
+  - Free and open-source
+  - Utilizes modern technologies like Next.js and Postgres
+  - Clear documentation and description
+- Weaknesses:
+  - Limited to a specific niche (Galgame patches)
+  - May require additional setup for non-technical users
+
+### 105. centrifugal/centrifuge-go
+
+- Link: https://github.com/centrifugal/centrifuge-go
+- Title: centrifugal/centrifuge-go
+- Description: Go client SDK for bidirectional communication with Centrifugo and Centrifuge-based server over WebSocket
+- Category: realtime-comm
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 262
+- Reason: Well-structured Go client SDK
+- Strengths:
+  - Bidirectional WebSocket communication
+  - Support for Centrifugo and Centrifuge-based servers
+  - Uses Protobuf
+- Weaknesses:
+  - Limited to Go language
+  - Dependent on Centrifugo/Centrifuge ecosystem
+
+### 106. kelos-dev/kelos
+
+- Link: https://github.com/kelos-dev/kelos
+- Title: kelos-dev/kelos
+- Description: Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
+- Category: ai-automation
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 7.0/10
+- Stars: 218
+- Reason: Unique approach to autonomous AI coding agents
+- Strengths:
+  - Kubernetes-native design
+  - Focus on autonomous coding agents
+- Weaknesses:
+  - Limited documentation
+  - Relatively small community
+
+### 107. Team254/cheesy-arena
+
+- Link: https://github.com/Team254/cheesy-arena
+- Title: Team254/cheesy-arena
+- Description: An alternative field management system for the FIRST Robotics Competition.
+- Category: robotics-competition
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 201
+- Reason: Well-structured alternative field management system
+- Strengths:
+  - Go implementation
+  - Focused purpose
+- Weaknesses:
+  - Limited topics and documentation
+
+### 108. paxlabs-inc/matrix-core
+
+- Link: https://github.com/paxlabs-inc/matrix-core
+- Title: paxlabs-inc/matrix-core
+- Description: Matrix is the cognition and UX layer on top of Paxeer Network. It turns natural-language requests from non-developers into a typed, inspectable, correctable Intent IR
+- Category: nlp-framework
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 7.0/10
+- Stars: 62
+- Reason: Strong foundation in natural language processing
+- Strengths:
+  - Cognition and UX layer
+  - Typed Intent IR
+- Weaknesses:
+  - Limited community engagement
+  - Unclear documentation
+
+### 109. Dash-Industry-Forum/livesim2
+
+- Link: https://github.com/Dash-Industry-Forum/livesim2
+- Title: Dash-Industry-Forum/livesim2
+- Description: DASH Live Source Simulator v2 in Go
+- Category: video-streaming
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 58
+- Reason: Specialized DASH live source simulator
+- Strengths:
+  - Focused on a specific industry standard
+  - Written in a modern language (Go)
+- Weaknesses:
+  - Niche use case
+  - Limited community engagement (58 stars)
+
+### 110. pulumi/pulumi-oci
+
+- Link: https://github.com/pulumi/pulumi-oci
+- Title: pulumi/pulumi-oci
+- Description: An Oracle Cloud (OCI) Pulumi resource package, providing multi-language access to OCI
+- Category: cloud-infrastructure
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 39
+- Reason: Provides multi-language access to OCI
+- Strengths:
+  - Multi-language support
+  - Official Pulumi resource package
+- Weaknesses:
+  - Limited community engagement
+  - Niche use case
+
+### 111. NVIDIA/aicr
+
+- Link: https://github.com/NVIDIA/aicr
+- Title: NVIDIA/aicr
+- Description: Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
+- Category: ai-runtime
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 329
+- Reason: Optimized AI runtime in Kubernetes
+- Strengths:
+  - GPU acceleration support
+  - Kubernetes integration
+  - Reproducibility focus
+- Weaknesses:
+  - Limited language support
+  - Dependence on NVIDIA hardware
+
+### 112. crossplane/crossplane-runtime
+
+- Link: https://github.com/crossplane/crossplane-runtime
+- Title: crossplane/crossplane-runtime
+- Description: A set of libraries for writing Crossplane controllers.
+- Category: kubernetes-tools
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 191
+- Reason: Well-structured library for Crossplane controllers
+- Strengths:
+  - Focused on a specific use case
+  - Written in a popular language (Go)
+- Weaknesses:
+  - Limited scope
+  - Dependent on Crossplane ecosystem
+
+### 113. pulumi/pulumi-github
+
+- Link: https://github.com/pulumi/pulumi-github
+- Title: pulumi/pulumi-github
+- Description: A Pulumi package to facilitate interacting with GitHub
+- Category: dev-ops
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 4.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 70
+- Reason: Focused GitHub integration for Pulumi
+- Strengths:
+  - Specific use case
+  - Established owner
+- Weaknesses:
+  - Limited scope
+  - Dependent on Pulumi
+
+### 114. mondoohq/mql
+
+- Link: https://github.com/mondoohq/mql
+- Title: mondoohq/mql
+- Description: open source, cloud-native, graph-based query language
+- Category: cloud-query-language
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
+- Small repo potential: 4.0/10
+- Stars: 402
+- Reason: Well-structured cloud-native graph query language
+- Strengths:
+  - Cloud-agnostic support
+  - Graph-based query capabilities
+  - Security-as-code features
+- Weaknesses:
+  - Limited documentation
+  - Relatively small community
+
+### 115. pulumi/pulumi-gcp
+
+- Link: https://github.com/pulumi/pulumi-gcp
+- Title: pulumi/pulumi-gcp
+- Description: A Google Cloud Platform (GCP) Pulumi resource package, providing multi-language access to GCP
+- Category: cloud-infrastructure
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 4.0/10
+- Stars: 212
+- Reason: Well-maintained GCP resource package
+- Strengths:
+  - Multi-language support
+  - Official Pulumi package
+- Weaknesses:
+  - Limited to GCP ecosystem
+
+### 116. pulumi/pulumi-cloudflare
+
+- Link: https://github.com/pulumi/pulumi-cloudflare
+- Title: pulumi/pulumi-cloudflare
+- Description: Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare
+- Category: infrastructure-as-code
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 5.0/10
+- Maturity: 9.0/10
+- Small repo potential: 3.0/10
+- Stars: 150
+- Reason: Official Pulumi provider for Cloudflare, offering robust, multi-language infrastructure-as-code capabilities bridged from the Terraform provider.
+- Strengths:
+  - Official Pulumi support and active maintenance
+  - Supports multiple languages including TypeScript, Python, Go, and .NET
+  - Kept up-to-date with Cloudflare's API via the upstream Terraform bridge
+- Weaknesses:
+  - Inherits upstream bridge limitations and potential translation issues
+  - Primarily a generated wrapper rather than a native implementation
+
+### 117. pulumi/pulumi-azuread
+
+- Link: https://github.com/pulumi/pulumi-azuread
+- Title: pulumi/pulumi-azuread
+- Description: A Microsoft Azure Active Directory (Azure AD) Pulumi resource package, providing multi-language access to Azure AD
+- Category: infrastructure-as-code
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 5.0/10
+- Maturity: 9.0/10
+- Small repo potential: 3.0/10
+- Stars: 21
+- Reason: An essential, officially maintained Pulumi provider for managing Azure Active Directory (Entra ID) resources programmatically across multiple languages.
+- Strengths:
+  - Official, production-grade Pulumi provider
+  - Supports TypeScript, Python, Go, and C#
+  - Maintained and kept up-to-date with upstream changes
+- Weaknesses:
+  - Largely auto-generated code based on upstream Terraform providers
+  - Low direct repository engagement as users consume it packaged via package managers
+
+### 118. torvalds/GuitarPedal
+
+- Link: https://github.com/torvalds/GuitarPedal
+- Title: torvalds/GuitarPedal
+- Description: Linus learns analog circuits
+- Category: uncategorized
+- Language: C
+- Score: 8.0/10
+- Novelty: 0.0/10
+- Maturity: 0.0/10
+- Small repo potential: 0.0/10
+- Stars: 2010
+- Reason: SCORE: 8 NOTES: The repository has a high star count, suggesting it's well-liked, and being owned by Linus Torvalds, the creator of Linux, adds credibility. However, the lack of topics and limited information about the project makes it difficult to fully assess its quality or purpose.
+
+### 119. caseymrm/menuet
+
+- Link: https://github.com/caseymrm/menuet
+- Title: caseymrm/menuet
+- Description: Go library to create menubar apps- programs that live only in OSX's NSStatusBar
+- Category: osx-development
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 303
+- Reason: Focused and useful library for creating menubar apps
+- Strengths:
+  - Specific use case
+  - Simple and concise code
+- Weaknesses:
+  - Limited platform support
+  - Lack of documentation
+
+### 120. jaqx0r/blts
+
+- Link: https://github.com/jaqx0r/blts
+- Title: jaqx0r/blts
+- Description: Better Living Through Statistics: Monitoring Doesn't Have To Suck
+- Category: monitoring-observability
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 161
+- Reason: practical approach to monitoring and observability
+- Strengths:
+  - uses OpenTelemetry and Prometheus
+  - demonstrates SLO and SRE principles
+- Weaknesses:
+  - limited documentation
+  - small community
+
+### 121. garybowers/bootimus
+
+- Link: https://github.com/garybowers/bootimus
+- Title: garybowers/bootimus
+- Description: A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
+- Category: infrastructure-automation
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 9.0/10
+- Stars: 118
+- Reason: An elegant, containerizable Go-based PXE server that simplifies network booting from ISOs, addressing a common pain point for homelabs and bare-metal provisioning.
+- Strengths:
+  - All-in-one DHCP, TFTP, and HTTP server designed to ease ISO booting
+  - Containerized deployment model makes it highly portable
+  - Supports both legacy BIOS and UEFI architectures
+- Weaknesses:
+  - Niche audience as modern infrastructure shifts toward HTTP Boot and cloud-init
+  - Limited community scale and enterprise-grade testing
+
+### 122. bjarneo/kli
+
+- Link: https://github.com/bjarneo/kli
+- Title: bjarneo/kli
+- Description: A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
+- Category: kubernetes-tools
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 9.0/10
+- Stars: 79
+- Reason: An elegant and lightweight Kubernetes TUI built on the Charm Bubble Tea framework, serving as a snappy, modern alternative to k9s.
+- Strengths:
+  - Built using the highly responsive and customizable Charm Bubble Tea TUI ecosystem
+  - Supports crucial day-to-day operations like log streaming, YAML editing, and pod exec
+  - Clean, minimal, and fast user interface
+- Weaknesses:
+  - Faces extremely tough competition from the industry-standard k9s
+  - Lacks advanced cluster-wide metrics visualizations and extensive CRD deep-dives found in more mature tools
+
+### 123. mydisha/keirouter
+
+- Link: https://github.com/mydisha/keirouter
+- Title: mydisha/keirouter
+- Description: Your friendly, blazing-fast, self-hostable AI gateway
+- Category: ai-gateway
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 9.0/10
+- Stars: 49
+- Reason: A high-performance, self-hostable AI gateway written in Go, offering a lightweight alternative to heavier Python-based routing solutions.
+- Strengths:
+  - Written in Go, offering excellent performance and low resource overhead
+  - Simplifies multi-provider LLM integrations with self-hosted routing
+  - Clean and easy to deploy as a gateway service
+- Weaknesses:
+  - Early stage of development with low community adoption
+  - Stiff competition from established alternatives like LiteLLM and Portkey
+
+### 124. home-operations/flate
+
+- Link: https://github.com/home-operations/flate
+- Title: home-operations/flate
+- Description: A Flux resource inflator ⇄
+- Category: devops-tooling
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 45
+- Reason: Focused Flux resource inflator with clear purpose
+- Strengths:
+  - Specific use case
+  - Clear description
+  - Small and maintainable codebase
+- Weaknesses:
+  - Limited scope
+  - Dependence on Flux ecosystem
+
+### 125. alexfalkowski/go-service
+
+- Link: https://github.com/alexfalkowski/go-service
+- Title: alexfalkowski/go-service
+- Description: A framework to build services in Go.
+- Category: go-framework
+- Type: framework
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 34
+- Reason: Well-structured Go framework with multiple features
+- Strengths:
+  - Supports various protocols
+  - Includes caching and database integrations
+- Weaknesses:
+  - Limited community engagement
+  - Lack of extensive documentation
+
+### 126. vikrantwaghmode/agentarmor-oss
+
+- Link: https://github.com/vikrantwaghmode/agentarmor-oss
+- Title: vikrantwaghmode/agentarmor-oss
+- Description: No description available.
+- Category: llm-security
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 7.0/10
+- Maturity: 3.0/10
+- Small repo potential: 9.0/10
+- Stars: 25
+- Reason: Provides a high-performance Go-based security and guardrail layer for LLM agents, filling a crucial niche typically dominated by Python-centric tooling.
+- Strengths:
+  - Written in Go, offering better performance and lower latency for proxying LLM requests
+  - Addresses critical LLM security risks like prompt injection and data exfiltration
+- Weaknesses:
+  - Low maturity with limited community adoption and ecosystem integrations
+  - Documentation is sparse compared to established Python security frameworks
+
+### 127. vito/dang
+
+- Link: https://github.com/vito/dang
+- Title: vito/dang
+- Description: Experimental GraphQL scripting language
+- Category: programming-languages
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 9.0/10
+- Maturity: 3.0/10
+- Small repo potential: 9.0/10
+- Stars: 23
+- Reason: An ambitious experimental scripting language that applies Hindley-Milner type inference to GraphQL, designed with Dagger workflows in mind.
+- Strengths:
+  - Innovative integration of Hindley-Milner type inference with GraphQL
+  - Authored by a highly experienced systems developer
+  - Addresses complex orchestration scripting needs in Dagger
+- Weaknesses:
+  - Highly experimental and subject to breaking changes
+  - Minimal documentation and limited ecosystem adoption
+
+### 128. albertodonato/h2static
+
+- Link: https://github.com/albertodonato/h2static
+- Title: albertodonato/h2static
+- Description: Tiny static web server with TLS and HTTP/2 support
+- Category: web-servers
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 9.0/10
+- Stars: 19
+- Reason: A lightweight, zero-dependency static file server built in Go with built-in TLS and HTTP/2 support, perfect for quick local testing or minimal deployments.
+- Strengths:
+  - Native HTTP/2 and TLS support out of the box
+  - Single binary with no external dependencies
+  - Simple configuration via JSON or command-line flags
+- Weaknesses:
+  - High competition from established tools like Caddy or miniserve
+  - Limited feature set compared to full-featured reverse proxies
+
+### 129. wham/kaja
+
+- Link: https://github.com/wham/kaja
+- Title: wham/kaja
+- Description: A code-based UI for exploring and calling gRPC and Twirp APIs.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 3.0/10
+- Small repo potential: 9.0/10
+- Stars: 15
+- Reason: Offers a unique code-based UI approach to exploring and testing both gRPC and Twirp APIs, filling a highly specific niche for Go microservices developers.
+- Strengths:
+  - Supports Twirp, which has significantly fewer tooling options compared to gRPC
+  - Code-based UI allows developers to version-control their API exploration scripts
+  - Lightweight and native to the Go ecosystem
+- Weaknesses:
+  - Low community adoption and maturity
+  - Documentation is sparse, requiring users to dive into the code to understand full capabilities
+
+### 130. tomasz-tomczyk/crit
+
+- Link: https://github.com/tomasz-tomczyk/crit
+- Title: tomasz-tomczyk/crit
+- Description: Your feedback loop with the agent
+- Category: ai-tools
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 490
+- Reason: Well-structured codebase with clear documentation
+- Strengths:
+  - Clean Go code
+  - Clear Markdown documentation
+  - CLI interface for user interaction
+- Weaknesses:
+  - Limited community engagement
+  - Unclear long-term development plans
+
+### 131. Southclaws/storyden
+
+- Link: https://github.com/Southclaws/storyden
+- Title: Southclaws/storyden
+- Description: With a fresh new take on traditional bulletin board forum software, Storyden is a modern, secure and extensible platform for building communities.
+- Category: discussion-platforms
+- Type: app
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 312
+- Reason: A modern, performant alternative to resource-heavy forum platforms, leveraging Go for a lightweight and secure backend.
+- Strengths:
+  - Written in Go, offering excellent performance and low resource consumption
+  - Modern, clean UI and extensible architecture
+  - Focuses on security and ease of self-hosting
+- Weaknesses:
+  - Smaller community and plugin ecosystem compared to giants like Discourse or Flarum
+  - Active development phase means potential for breaking changes
+
+### 132. 0xjeffro/astroclaw
+
+- Link: https://github.com/0xjeffro/astroclaw
+- Title: 0xjeffro/astroclaw
+- Description: Cloud-native agent-as-a-service framework with one-click IaC deployment.
+- Category: cloud-infrastructure
+- Type: framework
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 174
+- Reason: Well-structured Go codebase
+- Strengths:
+  - Cloud-native design
+  - One-click IaC deployment
+- Weaknesses:
+  - Limited documentation
+  - Unclear use cases
+
+### 133. RapidAI/MaClaw
+
+- Link: https://github.com/RapidAI/MaClaw
+- Title: RapidAI/MaClaw
+- Description: 下一代自主进化智能体平台（GUI/TUI/Service/SDK)
+- Category: ai-platform
+- Type: framework
+- Language: Go
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 117
+- Reason: Strong foundation with diverse interfaces
+- Strengths:
+  - Multi-interface support
+  - Autonomous evolution concept
+- Weaknesses:
+  - Limited community engagement
+  - Unclear documentation
+
+### 134. kstenerud/yoloai
+
+- Link: https://github.com/kstenerud/yoloai
+- Title: kstenerud/yoloai
+- Description: Permission fatigue is a real problem. Sandbox escape is a real problem. yoloAI solves it.
+- Category: ai-security
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 111
+- Reason: Addresses permission fatigue and sandbox escape
+- Strengths:
+  - Unique approach to security
+  - Go implementation for performance
+- Weaknesses:
+  - Limited documentation
+  - Unclear deployment instructions
+
+### 135. ranjbar-dev/tron-wallet
+
+- Link: https://github.com/ranjbar-dev/tron-wallet
+- Title: ranjbar-dev/tron-wallet
+- Description: Tron wallet package for generating Tron wallet, transferring TRX and Tron Tokens, fetching wallet balance live and crawling blockchain blocks to extract wallet transactions
+- Category: crypto-wallet
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 64
+- Reason: Well-structured Tron wallet library in Go
+- Strengths:
+  - Clear description
+  - Specific use case
+  - Organized topics
+- Weaknesses:
+  - Limited community engagement
+  - Niche functionality
+
+### 136. getpusk/pusk
+
+- Link: https://github.com/getpusk/pusk
+- Title: getpusk/pusk
+- Description: Self-hosted alert platform for ops teams. Telegram Bot API compatible. ACK, push, team chat.
+- Category: monitoring-tool
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 62
+- Reason: Well-structured Go project with a clear purpose
+- Strengths:
+  - Telegram Bot API compatibility
+  - Self-hosted alert platform
+  - Simple and focused functionality
+- Weaknesses:
+  - Limited community engagement
+  - Relatively low star count
+
+### 137. fe-spark/EcoHub
+
+- Link: https://github.com/fe-spark/EcoHub
+- Title: fe-spark/EcoHub
+- Description: 一款高性能、现代化的全栈影视聚合系统。它不仅提供极致流畅的 Web 观影体验，还集成了强大的自动化采集与管理后台，旨在帮助开发者和影视爱好者快速搭建属于�...
+- Category: media-streaming
+- Type: app
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 50
+- Reason: A high-performance Go-based media aggregation and automation system that offers a modern, fast alternative to legacy PHP-based movie CMS platforms.
+- Strengths:
+  - Go-based backend ensures high performance and low resource usage
+  - Integrates automated media collection/scraping and management in one package
+  - Modern, user-friendly Web UI for streaming and administration
+- Weaknesses:
+  - Relatively early stage with limited community adoption
+  - Dependency on external scrapers which are prone to breaking when target sites change
+
+### 138. prometheus-community/parquet-common
+
+- Link: https://github.com/prometheus-community/parquet-common
+- Title: prometheus-community/parquet-common
+- Description: Shared library to work with Prometheus and Parquet
+- Category: data-storage
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 49
+- Reason: Focused on a specific use case
+- Strengths:
+  - Clear purpose
+  - Specific integration with Prometheus and Parquet
+- Weaknesses:
+  - Limited scope
+  - Dependence on specific technologies
+
+### 139. kazhuravlev/database-gateway
+
+- Link: https://github.com/kazhuravlev/database-gateway
+- Title: kazhuravlev/database-gateway
+- Description: Safe access to production databases
+- Category: database-security
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 37
+- Reason: Focused on secure database access
+- Strengths:
+  - Clear purpose
+  - Specific use case
+- Weaknesses:
+  - Limited community engagement
+  - Small user base
+
+### 140. andrey-vk/wdbgp
+
+- Link: https://github.com/andrey-vk/wdbgp
+- Title: andrey-vk/wdbgp
+- Description: A service that collects lists of prefixes from feeds and distributes them via BGP
+- Category: networking-tool
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 27
+- Reason: Focused BGP prefix distribution service
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 141. itsubaki/autograd
+
+- Link: https://github.com/itsubaki/autograd
+- Title: itsubaki/autograd
+- Description: Automatic differentiation library in Go
+- Category: deep-learning
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 24
+- Reason: A clean, pure Go implementation of reverse-mode automatic differentiation, highly suitable for educational purposes and lightweight deep learning tasks without external Cgo dependencies.
+- Strengths:
+  - Pure Go implementation with no external bindings
+  - Clean API design reminiscent of modern autograd libraries
+  - Great educational resource for understanding automatic differentiation internals
+- Weaknesses:
+  - Lacks GPU acceleration and high-performance tensor operations
+  - Limited ecosystem and pre-built neural network layers compared to mainstream frameworks
+
+### 142. neufeldtech/secretmessage-go
+
+- Link: https://github.com/neufeldtech/secretmessage-go
+- Title: neufeldtech/secretmessage-go
+- Description: Send self-destructing secret messages over Slack
+- Category: security-tool
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Self-destructing message feature is unique and useful
+- Strengths:
+  - Ephemeral messaging functionality
+  - Slack integration
+- Weaknesses:
+  - Limited documentation
+  - Small user base
+
+### 143. omarluq/librecode
+
+- Link: https://github.com/omarluq/librecode
+- Title: omarluq/librecode
+- Description: free and open source terminal agent harness
+- Category: terminal-agent
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Innovative terminal agent harness with a strong foundation
+- Strengths:
+  - Free and open source
+  - Written in Go for performance
+  - Unique concept of a terminal agent harness
+- Weaknesses:
+  - Limited community engagement
+  - Still in early stages of development
+
+### 144. aarondpn/redmine-cli
+
+- Link: https://github.com/aarondpn/redmine-cli
+- Title: aarondpn/redmine-cli
+- Description: A powerful command-line interface for Redmine, enhanced with first-class AI agent capabilities via Skills and MCP integration.
+- Category: project-management
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Unique AI-powered Redmine CLI
+- Strengths:
+  - Go implementation
+  - MCP integration
+  - Redmine API coverage
+- Weaknesses:
+  - Limited community engagement
+  - Documentation could be improved
+
+### 145. GustavoCaso/docker-dash
+
+- Link: https://github.com/GustavoCaso/docker-dash
+- Title: GustavoCaso/docker-dash
+- Description: A full TUI managemnet tool for containers 🏗️
+- Category: container-management
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Well-structured TUI management tool for containers
+- Strengths:
+  - Simple and focused functionality
+  - Uses established TUI library (bubbletea)
+- Weaknesses:
+  - Limited features compared to established tools
+  - Small community
+
+### 146. danp/nspoweroutages
+
+- Link: https://github.com/danp/nspoweroutages
+- Title: danp/nspoweroutages
+- Description: Git scraping of the Nova Scotia Power Outage Map
+- Category: data-scraping
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Focused on a specific task
+- Strengths:
+  - Specific use case
+  - Git scraping implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on external data source
+
+### 147. dbtrail/dbtrail
+
+- Link: https://github.com/dbtrail/dbtrail
+- Title: dbtrail/dbtrail
+- Description: DB Trail
+- Category: database-tools
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Focused on MySQL binlog and point-in-time-recovery
+- Strengths:
+  - Specific use case
+  - Golang implementation
+- Weaknesses:
+  - Limited database support
+  - Small community
+
+### 148. contenox/runtime
+
+- Link: https://github.com/contenox/runtime
+- Title: contenox/runtime
+- Description: Local-first AI workflows for engineers.
+- Category: ai-workflows
+- Type: framework
+- Language: Go
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Local-first AI workflows with a clear focus
+- Strengths:
+  - Clear description
+  - Focused topics
+- Weaknesses:
+  - Low star count
+  - Limited community
+
+### 149. threatcl/threatcl
+
+- Link: https://github.com/threatcl/threatcl
+- Title: threatcl/threatcl
+- Description: Documenting your Threat Models with HCL
+- Category: security-tools
+- Type: tool
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 461
+- Reason: Focused on threat modeling documentation
+- Strengths:
+  - Specific use case
+  - Clear documentation goal
+- Weaknesses:
+  - Narrow scope
+  - Limited topics
+
+### 150. 3052/rosso
+
+- Link: https://github.com/3052/rosso
+- Title: 3052/rosso
+- Description: streaming API authentication, metadata, and DRM playback
+- Category: streaming-api
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 102
+- Reason: Well-focused API library
+- Strengths:
+  - Specific use case
+  - Clear topic listing
+- Weaknesses:
+  - Limited general applicability
+  - Dependence on specific services
+
+### 151. profullstack/pairux.com
+
+- Link: https://github.com/profullstack/pairux.com
+- Title: profullstack/pairux.com
+- Description: Collaborative screen sharing with simultaneous remote control — like Screenhero, but open source.
+- Category: developer-tools
+- Type: app
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 3.0/10
+- Small repo potential: 9.0/10
+- Stars: 12
+- Reason: An ambitious open-source attempt to replicate Screenhero/Tuple-style collaborative screen sharing with multi-cursor remote control, a highly sought-after developer tool niche.
+- Strengths:
+  - Addresses a major gap in open-source developer collaboration tools
+  - Aims for simultaneous multi-user remote control, not just view-only sharing
+  - Built with TypeScript and WebRTC foundations
+- Weaknesses:
+  - Very early stage with extremely low community adoption and traction
+  - Cross-platform OS-level input injection is technically complex and difficult to maintain
+
+### 152. opentofu/registry
+
+- Link: https://github.com/opentofu/registry
+- Title: opentofu/registry
+- Description: Metadata and tooling for the OpenTofu registry
+- Category: metadata-management
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 406
+- Reason: Lack of topics and limited visibility
+- Strengths:
+  - Go implementation
+  - focused purpose
+- Weaknesses:
+  - Limited community engagement
+  - unclear documentation
+
+### 153. Clov614/SteamHostSync
+
+- Link: https://github.com/Clov614/SteamHostSync
+- Title: Clov614/SteamHostSync
+- Description: 自动同步hosts
+- Category: network-utility
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 268
+- Reason: Simple yet effective hosts synchronization tool
+- Strengths:
+  - Automates hosts synchronization
+  - Written in Go for efficiency
+- Weaknesses:
+  - Lack of detailed documentation
+  - Limited features
+
+### 154. ZaparooProject/zaparoo-core
+
+- Link: https://github.com/ZaparooProject/zaparoo-core
+- Title: ZaparooProject/zaparoo-core
+- Description: Core Zaparoo service software
+- Category: core-service
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 168
+- Reason: Lack of topics and low star count despite mature codebase
+- Strengths:
+  - mature Go codebase
+- Weaknesses:
+  - limited community engagement
+
+### 155. github/gh-aw-mcpg
+
+- Link: https://github.com/github/gh-aw-mcpg
+- Title: github/gh-aw-mcpg
+- Description: Github Agentic Workflows MCP Gateway
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 133
+- Reason: Lack of topics and documentation
+- Strengths:
+  - Written in Go
+  - Specific use case
+- Weaknesses:
+  - Limited information available
+  - Low community engagement
+
+### 156. leancodebox/GooseForum
+
+- Link: https://github.com/leancodebox/GooseForum
+- Title: leancodebox/GooseForum
+- Description: Easy forum software for building friendly communities/超简单社区构建软件
 - Category: go
 - Type: unknown
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 332
+- Small repo potential: 8.0/10
+- Stars: 98
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. gofiber/template
+### 157. sorokin-vladimir/tele
 
-- Link: https://github.com/gofiber/template
-- Title: gofiber/template
-- Description: 🧬 Template engine middleware for Fiber
+- Link: https://github.com/sorokin-vladimir/tele
+- Title: sorokin-vladimir/tele
+- Description: Keyboard-first Telegram client for the terminal, written in Go
 - Category: go
 - Type: unknown
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 313
+- Small repo potential: 8.0/10
+- Stars: 98
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. antonio-orionus/Arroxy
+### 158. SamSaffron/term-llm
 
-- Link: https://github.com/antonio-orionus/Arroxy
-- Title: antonio-orionus/Arroxy
-- Description: Free open-source YouTube and +2000 sites downloader GUI based on yt-dlp for Windows, macOS, and Linux. Download videos, Shorts, 4K, 1080p60, HDR, playlists, channels, and subtitles with no ads, tracking, cookies, or logi...
+- Link: https://github.com/SamSaffron/term-llm
+- Title: SamSaffron/term-llm
+- Description: LLM Swiss Army Knife for your Terminal
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 93
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 159. designinlife/jetbrains
+
+- Link: https://github.com/designinlife/jetbrains
+- Title: designinlife/jetbrains
+- Description: Check out the command line tool for JetBrains software version update links.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 90
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 160. merill/msgraph
+
+- Link: https://github.com/merill/msgraph
+- Title: merill/msgraph
+- Description: Microsoft Graph Skill for Agents
+- Category: ai-tooling
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 89
+- Reason: Focused implementation of Microsoft Graph Skill
+- Strengths:
+  - Clear purpose
+  - Specific use case
+- Weaknesses:
+  - Limited scope
+  - Dependence on Microsoft Graph
+
+### 161. pbs-plus/pbs-plus
+
+- Link: https://github.com/pbs-plus/pbs-plus
+- Title: pbs-plus/pbs-plus
+- Description: A Proxmox Backup Server (PBS) "extension" server that aims to add features and make PBS a true alternative to Veeam.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 89
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 162. TanyaShue/MaaYYs
+
+- Link: https://github.com/TanyaShue/MaaYYs
+- Title: TanyaShue/MaaYYs
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 84
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 163. liuran001/MusicBot-Go
+
+- Link: https://github.com/liuran001/MusicBot-Go
+- Title: liuran001/MusicBot-Go
+- Description: 一个支持音乐下载/分享的 Telegram Bot。
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 83
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 164. pulumi/pulumi-provider-boilerplate
+
+- Link: https://github.com/pulumi/pulumi-provider-boilerplate
+- Title: pulumi/pulumi-provider-boilerplate
+- Description: Boilerplate showing how to create a native Pulumi provider
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 83
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 165. AvaProtocol/EigenLayer-AVS
+
+- Link: https://github.com/AvaProtocol/EigenLayer-AVS
+- Title: AvaProtocol/EigenLayer-AVS
+- Description: AvaProtocol Ethereum Automation Build on EigenLayer
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 82
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 166. gmuxapp/gmux
+
+- Link: https://github.com/gmuxapp/gmux
+- Title: gmuxapp/gmux
+- Description: No description available.
+- Category: terminal-multiplexer
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 81
+- Reason: Lack of documentation and topics
+- Strengths:
+  - Written in Go
+  - Simple codebase
+- Weaknesses:
+  - Limited features
+  - No clear documentation
+
+### 167. goern/forgejo-mcp
+
+- Link: https://github.com/goern/forgejo-mcp
+- Title: goern/forgejo-mcp
+- Description: MIRROR ONLY!! This Model Context Protocol (MCP) server provides tools and resources for interacting with the Forgejo (specifically Codeberg.org) REST API.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 79
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 168. databricks/databricks-sdk-go
+
+- Link: https://github.com/databricks/databricks-sdk-go
+- Title: databricks/databricks-sdk-go
+- Description: Databricks SDK for Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 78
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 169. dracarys18/cartero
+
+- Link: https://github.com/dracarys18/cartero
+- Title: dracarys18/cartero
+- Description: A personal content aggregator that filters multiple news sources for quality and relevance into a single, high-signal feed.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 77
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 170. cropflre/nowen-reader
+
+- Link: https://github.com/cropflre/nowen-reader
+- Title: cropflre/nowen-reader
+- Description: NowenReader 是一款轻量开源、本地化优先的漫画 / 同人志管理与阅读一体化工具，对标 LANraragi 核心体验，聚焦本地漫画资源的归档整理、元数据智能管理与沉浸式阅读�...
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 214
+- Small repo potential: 8.0/10
+- Stars: 76
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. goptics/vizb
+### 171. 89luca89/clampdown
+
+- Link: https://github.com/89luca89/clampdown
+- Title: 89luca89/clampdown
+- Description: Run AI coding agents in hardened container sandboxes.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 75
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 172. alphaa1111/proxyscraper
+
+- Link: https://github.com/alphaa1111/proxyscraper
+- Title: alphaa1111/proxyscraper
+- Description: Proxy Scraper (HTTP & SOCKS)
+- Category: networking-tool
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 75
+- Reason: Focused proxy scraping functionality
+- Strengths:
+  - Specific use case
+  - Simple Go implementation
+- Weaknesses:
+  - Limited scope
+  - No clear documentation
+
+### 173. cookiengineer/gooey
+
+- Link: https://github.com/cookiengineer/gooey
+- Title: cookiengineer/gooey
+- Description: :smiling_imp: :boom: :gun: Opinionated Go WebASM framework
+- Category: webassembly
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 7.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 75
+- Reason: An interesting, opinionated framework for building web applications in Go using WebAssembly, offering a unique alternative to mainstream JS frameworks but remains experimental.
+- Strengths:
+  - Enables Go-based web development via WebAssembly
+  - Opinionated and streamlined API structure
+  - Reduces reliance on complex JS bundlers
+- Weaknesses:
+  - Low community adoption and ecosystem support
+  - Inherent Go WASM limitation of large binary sizes
+  - Limited documentation and production-use cases
+
+### 174. mimicode/tksdk
+
+- Link: https://github.com/mimicode/tksdk
+- Title: mimicode/tksdk
+- Description: 淘客sdk 包含 京东 、苏宁、唯品会、拼多多、淘宝、阿里生活
+- Category: e-commerce-sdk
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 75
+- Reason: Focused SDK for multiple e-commerce platforms
+- Strengths:
+  - Supports multiple platforms
+  - Written in Go
+- Weaknesses:
+  - Limited documentation
+  - Narrow scope
+
+### 175. qiniu/x
+
+- Link: https://github.com/qiniu/x
+- Title: qiniu/x
+- Description: Extension of Go standard library
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 75
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 176. home-operations/gatus-sidecar
+
+- Link: https://github.com/home-operations/gatus-sidecar
+- Title: home-operations/gatus-sidecar
+- Description: Generate Gatus endpoint configs from Kubernetes HTTPRoute, Ingress, and Service resources
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 74
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 177. goptics/vizb
 
 - Link: https://github.com/goptics/vizb
 - Title: goptics/vizb
@@ -126,7 +3748,631 @@ Last updated: 2026-06-14 09:41:07 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 7. jamesroutley/news.routley.io
+### 178. Nostalgica-Reverie/Content-Monorepo
+
+- Link: https://github.com/Nostalgica-Reverie/Content-Monorepo
+- Title: Nostalgica-Reverie/Content-Monorepo
+- Description: Repository hosting the source for all versions of Re-Console
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 69
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 179. heygen-com/heygen-cli
+
+- Link: https://github.com/heygen-com/heygen-cli
+- Title: heygen-com/heygen-cli
+- Description: Create AI videos from the terminal. Official CLI for the HeyGen video generation API.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 68
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 180. go-gost/x
+
+- Link: https://github.com/go-gost/x
+- Title: go-gost/x
+- Description: Extended (may be experimental) features outside the main gost tree.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 65
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 181. sandydasari/openacme
+
+- Link: https://github.com/sandydasari/openacme
+- Title: sandydasari/openacme
+- Description: An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in charge.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 65
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 182. lxnay/matrixos
+
+- Link: https://github.com/lxnay/matrixos
+- Title: lxnay/matrixos
+- Description: Your personal Gentoo deployment
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 64
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 183. aws/eks-anywhere-build-tooling
+
+- Link: https://github.com/aws/eks-anywhere-build-tooling
+- Title: aws/eks-anywhere-build-tooling
+- Description: Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 63
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 184. genai-io/san
+
+- Link: https://github.com/genai-io/san
+- Title: genai-io/san
+- Description: Open-source AI agent. Lives in your terminal.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 60
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 185. betterstack-community/go-logging-benchmarks
+
+- Link: https://github.com/betterstack-community/go-logging-benchmarks
+- Title: betterstack-community/go-logging-benchmarks
+- Description: A comparison of the top logging libraries for Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 59
+- Reason: {   "category": "logging",   "project_type": "example",   "score": 6,   "novelty": 4,   "m
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 186. dotnet/nbgv
+
+- Link: https://github.com/dotnet/nbgv
+- Title: dotnet/nbgv
+- Description: The repo behind the dotnet/nbgv GitHub Action
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 59
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 187. missdeer/blocklist
+
+- Link: https://github.com/missdeer/blocklist
+- Title: missdeer/blocklist
+- Description: A big domain block list - 200000+ lines
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 59
+- Reason: Large domain block list with simple Go implementation
+- Strengths:
+  - Comprehensive block list
+  - Simple implementation
+- Weaknesses:
+  - Limited functionality
+  - No clear update mechanism
+
+### 188. soapbox-pub/ditto
+
+- Link: https://github.com/soapbox-pub/ditto
+- Title: soapbox-pub/ditto
+- Description: Your content. Your vibe. Your rules.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 59
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 189. nxtrace/GlobalTrace
+
+- Link: https://github.com/nxtrace/GlobalTrace
+- Title: nxtrace/GlobalTrace
+- Description: GlobalTrace 是一个基于 Globalping MTR 测量的 traceroute 风格诊断工具
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 58
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 190. sandbox0-ai/sandbox0
+
+- Link: https://github.com/sandbox0-ai/sandbox0
+- Title: sandbox0-ai/sandbox0
+- Description: Sandbox0 is the open-source sandbox for AI agents.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 58
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 191. tak848/ccgate
+
+- Link: https://github.com/tak848/ccgate
+- Title: tak848/ccgate
+- Description: LLM-powered PermissionRequest hook for coding agents (e.g. Claude Code)
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 58
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 192. chukwuemekawisdom/claude2api
+
+- Link: https://github.com/chukwuemekawisdom/claude2api
+- Title: chukwuemekawisdom/claude2api
+- Description: 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 56
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 193. guitarrapc/githubactions-lab
+
+- Link: https://github.com/guitarrapc/githubactions-lab
+- Title: guitarrapc/githubactions-lab
+- Description: github actions ci lab
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 55
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 194. jclark/satpulse
+
+- Link: https://github.com/jclark/satpulse
+- Title: jclark/satpulse
+- Description: Precision timing and positioning for computer systems with modern GNSS receivers
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 53
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 195. syvlech/remnawave-limiter
+
+- Link: https://github.com/syvlech/remnawave-limiter
+- Title: syvlech/remnawave-limiter
+- Description: Мониторинг и ограничение одновременных подключений к нодам Remnawave сверх лимита HWID.
+- Category: network-monitoring
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 53
+- Reason: Focused on a specific use case
+- Strengths:
+  - Specific solution for Remnawave nodes
+  - Written in Go for performance
+- Weaknesses:
+  - Limited scope
+  - Lack of documentation
+
+### 196. xarantolus/fdroid
+
+- Link: https://github.com/xarantolus/fdroid
+- Title: xarantolus/fdroid
+- Description: Auto-updating F-Droid repo using GitHub Actions
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 53
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 197. tjhop/prometheus-mcp-server
+
+- Link: https://github.com/tjhop/prometheus-mcp-server
+- Title: tjhop/prometheus-mcp-server
+- Description: MCP server for LLMs to interact with Prometheus
+- Category: monitoring-tool
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 50
+- Reason: Clear purpose, but limited context
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Lack of documentation
+  - Unclear scalability
+
+### 198. cagedbird043/fcm-hosts-next
+
+- Link: https://github.com/cagedbird043/fcm-hosts-next
+- Title: cagedbird043/fcm-hosts-next
+- Description: FCM hosts generator and publisher for direct Google push connectivity.
+- Category: push-notifications
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 49
+- Reason: Specific use case with clear functionality
+- Strengths:
+  - Clear purpose
+  - Focused functionality
+- Weaknesses:
+  - Limited scope
+  - Lack of documentation
+
+### 199. dr-dobermann/gobpm
+
+- Link: https://github.com/dr-dobermann/gobpm
+- Title: dr-dobermann/gobpm
+- Description: BPMN v.2 compliant BPM engine on Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 49
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 200. paketo-buildpacks/dotnet-core
+
+- Link: https://github.com/paketo-buildpacks/dotnet-core
+- Title: paketo-buildpacks/dotnet-core
+- Description: A Cloud Native Buildpack for .NET Core
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 49
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 201. lrhodin/corten-matrix
+
+- Link: https://github.com/lrhodin/corten-matrix
+- Title: lrhodin/corten-matrix
+- Description: Corten - a Rust-based iMessage-Matrix bridge. Like the steel: the rust is what makes it last.
+- Category: messaging-bridge
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 47
+- Reason: Inconsistent language description
+- Strengths:
+  - Unique iMessage-Matrix bridge concept
+  - Rust-based for potential performance benefits
+- Weaknesses:
+  - Language mismatch between description and repository
+  - Limited topics and documentation
+
+### 202. runZeroInc/mac-tracker
+
+- Link: https://github.com/runZeroInc/mac-tracker
+- Title: runZeroInc/mac-tracker
+- Description: Historical Tracking of MAC Address Assignments
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 47
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 203. gedigi/noisecat
+
+- Link: https://github.com/gedigi/noisecat
+- Title: gedigi/noisecat
+- Description: The noise swiss army knife
+- Category: audio-utility
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 46
+- Reason: Well-structured Go project
+- Strengths:
+  - Swiss army knife approach to noise generation
+- Weaknesses:
+  - Limited documentation and community
+
+### 204. hugalafutro/model-hotel
+
+- Link: https://github.com/hugalafutro/model-hotel
+- Title: hugalafutro/model-hotel
+- Description: Multi-Provider AI Gateway - Model Autodiscovery, Failover Groups and more. No personal logs by design. "Because we have LiteLLM at home"
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 46
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 205. julython/julython.org
+
+- Link: https://github.com/julython/julython.org
+- Title: julython/julython.org
+- Description: Julython Website
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 46
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 206. retab-dev/retab
+
+- Link: https://github.com/retab-dev/retab
+- Title: retab-dev/retab
+- Description: The developper starter pack for document processing
+- Category: document-processing
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 45
+- Reason: Focused on document analysis with LLM integration
+- Strengths:
+  - Go implementation
+  - OpenAI integration
+  - structured generation
+- Weaknesses:
+  - Limited community engagement
+  - Niche use case
+
+### 207. railzen/nezha-zero
+
+- Link: https://github.com/railzen/nezha-zero
+- Title: railzen/nezha-zero
+- Description: Nezha V0 YYDS!
+- Category: ai-model
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 44
+- Reason: Lack of documentation
+- Strengths:
+  - Unique AI model implementation
+- Weaknesses:
+  - Limited community engagement
+  - No clear use cases
+
+### 208. terraform-linters/tflint-ruleset-template
+
+- Link: https://github.com/terraform-linters/tflint-ruleset-template
+- Title: terraform-linters/tflint-ruleset-template
+- Description: TFLint ruleset template
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 43
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 209. urnetwork/connect
+
+- Link: https://github.com/urnetwork/connect
+- Title: urnetwork/connect
+- Description: Open core client, protocol, and api written in Go
+- Category: network-protocol
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 43
+- Reason: Well-structured Go codebase
+- Strengths:
+  - Open core architecture
+  - Go implementation
+- Weaknesses:
+  - Limited documentation
+  - Low community engagement
+
+### 210. jamesroutley/news.routley.io
 
 - Link: https://github.com/jamesroutley/news.routley.io
 - Title: jamesroutley/news.routley.io
@@ -145,7 +4391,1336 @@ Last updated: 2026-06-14 09:41:07 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 8. blackwell-systems/mcp-assert
+### 211. wgtunnel/fdroid
+
+- Link: https://github.com/wgtunnel/fdroid
+- Title: wgtunnel/fdroid
+- Description: F-Droid repo for WG Tunnel
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 42
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 212. cozystack/blockstor
+
+- Link: https://github.com/cozystack/blockstor
+- Title: cozystack/blockstor
+- Description: Free Software-Defined Storage System based on Kubernetes
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 41
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 213. naibabiji/wp-panel
+
+- Link: https://github.com/naibabiji/wp-panel
+- Title: naibabiji/wp-panel
+- Description: WordPress 专用服务器管理面板。一行命令，纯净 Debian 13 变身 WordPress 托管平台。
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 41
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 214. Btr4k/bugbounty-agent
+
+- Link: https://github.com/Btr4k/bugbounty-agent
+- Title: Btr4k/bugbounty-agent
+- Description: Automated bug bounty reconnaissance and scanning agent
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 40
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 215. CherryHQ/stella
+
+- Link: https://github.com/CherryHQ/stella
+- Title: CherryHQ/stella
+- Description: AI partners for every person: multi-user, multi-agent memory, trusted tools, schedules, sandboxed workspaces, and chat.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 39
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 216. MUKE-coder/grit
+
+- Link: https://github.com/MUKE-coder/grit
+- Title: MUKE-coder/grit
+- Description: Go and NextJS Batteries Included Framework
+- Category: fullstack-boilerplate
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 39
+- Reason: Provides an opinionated, ready-to-go monorepo structure combining a Go (Gin/GORM) backend with a NextJS frontend, simplifying full-stack development.
+- Strengths:
+  - Pre-configured monorepo bridging Go and Next.js
+  - Uses popular, proven technologies (Gin, GORM, Next.js)
+  - Reduces initial scaffolding and configuration time
+- Weaknesses:
+  - Low community adoption and potential maintenance bottlenecks
+  - Limited documentation and guides for advanced deployment scenarios
+
+### 217. ommengman-prog/god-eye
+
+- Link: https://github.com/ommengman-prog/god-eye
+- Title: ommengman-prog/god-eye
+- Description: 🛡️ Detect and respond to security threats in real-time with God-Eye, an AI-driven tool designed for privacy and local deployment on multiple platforms.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 39
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 218. ufukty/gonfique
+
+- Link: https://github.com/ufukty/gonfique
+- Title: ufukty/gonfique
+- Description: Mapping for configs
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 39
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 219. MacroPower/kclipper
+
+- Link: https://github.com/MacroPower/kclipper
+- Title: MacroPower/kclipper
+- Description: KCL + Helm = kclipper
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 38
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 220. blak0p/git-courer
+
+- Link: https://github.com/blak0p/git-courer
+- Title: blak0p/git-courer
+- Description: MCP server for Git with local Ollama — zero tokens for git operations
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 37
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 221. damusix/atomic-claude
+
+- Link: https://github.com/damusix/atomic-claude
+- Title: damusix/atomic-claude
+- Description: Operational Tooling. Better token consumption. Faster decision making.
+- Category: developer-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 37
+- Reason: Focused on improving token consumption and decision making
+- Strengths:
+  - Operational tooling
+  - Specific use case
+- Weaknesses:
+  - Limited documentation
+  - Niche application
+
+### 222. nunnatsa/ginkgolinter
+
+- Link: https://github.com/nunnatsa/ginkgolinter
+- Title: nunnatsa/ginkgolinter
+- Description: golang linter for ginkgo and gomega
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 37
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 223. agentserver/agentserver
+
+- Link: https://github.com/agentserver/agentserver
+- Title: agentserver/agentserver
+- Description: Your Personal Compute Network — command devices anywhere, from your WeChat chat window.
+- Category: chatops-agents
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 7.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 36
+- Reason: An intriguing self-hosted ChatOps application that bridges WeChat and personal infrastructure via AI agents, though it is in its early stages of community adoption.
+- Strengths:
+  - Integrates popular LLMs with personal infrastructure control
+  - Supports multiple deployment options including Docker, Helm, and Kubernetes
+  - Leverages WeChat as a highly accessible client interface
+- Weaknesses:
+  - Very early stage with limited community validation and stars
+  - Highly niche focus primarily targeting WeChat users
+
+### 224. miladtahanian/Config-Collector
+
+- Link: https://github.com/miladtahanian/Config-Collector
+- Title: miladtahanian/Config-Collector
+- Description: V2Ray Config collector from various telegram channels
+- Category: proxy-configs
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 36
+- Reason: Focused on collecting V2Ray configs
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Limited scope
+  - Dependence on Telegram channels
+
+### 225. pseudoyu/top-blockchain-projects
+
+- Link: https://github.com/pseudoyu/top-blockchain-projects
+- Title: pseudoyu/top-blockchain-projects
+- Description: Top github blockchain projects by number of stars
+- Category: blockchain-curation
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 35
+- Reason: Simple and focused on blockchain project curation
+- Strengths:
+  - Concise and easy to understand
+  - Uses GitHub stars as a metric
+- Weaknesses:
+  - Limited to GitHub stars
+  - No additional project analysis
+
+### 226. batazor/microservice-template-ddd
+
+- Link: https://github.com/batazor/microservice-template-ddd
+- Title: batazor/microservice-template-ddd
+- Description: Golnag microservice-template by DDD
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 34
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 227. codaqui/institucional
+
+- Link: https://github.com/codaqui/institucional
+- Title: codaqui/institucional
+- Description: Repositório central da Codaqui, possui os documentos e discussões.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 34
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 228. openshift/sippy
+
+- Link: https://github.com/openshift/sippy
+- Title: openshift/sippy
+- Description: Sippy provides dashboards for the openshift CI test/job data
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 34
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 229. armin-hg/NewCobaltstrikeTeamServer
+
+- Link: https://github.com/armin-hg/NewCobaltstrikeTeamServer
+- Title: armin-hg/NewCobaltstrikeTeamServer
+- Description: Go-based C2 server inspired by Cobalt Strike; seamless agent control, web UI, and Malleable Profile support. Fast, extensible, and secure for red-team ops. 🐙
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 33
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 230. go-training/mcp-workshop
+
+- Link: https://github.com/go-training/mcp-workshop
+- Title: go-training/mcp-workshop
+- Description: MCP workshop using Golang
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 33
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 231. kdeps/kdeps
+
+- Link: https://github.com/kdeps/kdeps
+- Title: kdeps/kdeps
+- Description: Build and deploy AI agents in YAML — Workflow pipelines and autonomous agents in YAML. Export as Docker, Kubernetes, ISO, or a single binary. Local llamafile models out of the box - or Ollama, OpenAI, Anthropic, and an...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 33
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 232. mochow13/keen-code
+
+- Link: https://github.com/mochow13/keen-code
+- Title: mochow13/keen-code
+- Description: A context-aware and efficient CLI-based coding agent written in Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 33
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 233. BapiGso/gopanel
+
+- Link: https://github.com/BapiGso/gopanel
+- Title: BapiGso/gopanel
+- Description: a lite server manage panel
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 32
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 234. ze-software/ze
+
+- Link: https://github.com/ze-software/ze
+- Title: ze-software/ze
+- Description: Ze networking software you didn't know you were looking for.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 32
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 235. mokiat/lacking
+
+- Link: https://github.com/mokiat/lacking
+- Title: mokiat/lacking
+- Description: A 3D game engine/framework written in Go
+- Category: game-engine
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 31
+- Reason: Early-stage game engine with potential
+- Strengths:
+  - Written in Go
+  - 3D game engine capabilities
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 236. sunholo-data/ailang
+
+- Link: https://github.com/sunholo-data/ailang
+- Title: sunholo-data/ailang
+- Description: For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 31
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 237. velocitykode/velocity
+
+- Link: https://github.com/velocitykode/velocity
+- Title: velocitykode/velocity
+- Description: A modern Go web framework for rapid app development - routing, ORM, authentication, broadcasting, queues, scheduler, validation, gRPC, mail, storage, events, and more
+- Category: web-frameworks
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 31
+- Reason: An ambitious, batteries-included Go framework bringing Laravel-like rapid development features (ORM, auth, queues, scheduler) to Go, though it fights against the Go community's preference for lightweight libraries.
+- Strengths:
+  - Comprehensive feature set out of the box including queues, mail, and gRPC
+  - Promotes rapid application development with predefined structures
+  - Modern design incorporating modern Go standards
+- Weaknesses:
+  - Low community adoption and early maturity stage
+  - Go developers historically prefer composable micro-libraries over monolith frameworks
+
+### 238. 5-whys/adh-rules
+
+- Link: https://github.com/5-whys/adh-rules
+- Title: 5-whys/adh-rules
+- Description: Adblock home rules for China regions (Mainland China, Hong Kong, Taiwan, Macau Users)
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 30
+- Reason: Focused on a specific region's adblock rules
+- Strengths:
+  - Specific use case
+  - Clear documentation
+- Weaknesses:
+  - Limited scope
+  - Dependence on AdGuard Home
+
+### 239. Mininglamp-OSS/octo-server
+
+- Link: https://github.com/Mininglamp-OSS/octo-server
+- Title: Mininglamp-OSS/octo-server
+- Description: 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 30
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 240. seaweedfs/seaweed-up
+
+- Link: https://github.com/seaweedfs/seaweed-up
+- Title: seaweedfs/seaweed-up
+- Description: bootstrap SeaweedFS over SSH
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 30
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 241. Will-Luck/iplayer-arr
+
+- Link: https://github.com/Will-Luck/iplayer-arr
+- Title: Will-Luck/iplayer-arr
+- Description: BBC iPlayer download manager with a web UI, Sonarr integration, and built-in VPN support
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 29
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 242. afadesigns/zshellcheck
+
+- Link: https://github.com/afadesigns/zshellcheck
+- Title: afadesigns/zshellcheck
+- Description: Static analysis and auto-fix for the setopts, hooks, and globs Bash never learned.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 29
+- Reason: {   "category": "shell-linters",   "project_type": "tool",   "score": 7.2,   "novelty": 
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 243. jr200-labs/nats-iam-broker
+
+- Link: https://github.com/jr200-labs/nats-iam-broker
+- Title: jr200-labs/nats-iam-broker
+- Description: A NATS decentralised auth-callout service to swap thirdparty IdP JWTs for RBAC'd NATS User JWTs
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 29
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 244. sorafujitani/ccsession
+
+- Link: https://github.com/sorafujitani/ccsession
+- Title: sorafujitani/ccsession
+- Description: pick any past Claude Code session via fzf, then resume it from the right cwd
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 29
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 245. stormsia/proxy-list
+
+- Link: https://github.com/stormsia/proxy-list
+- Title: stormsia/proxy-list
+- Description: 🚀 A curated collection of working proxies, automatically updated every 30 minutes. Features real-time validation, anonymity levels, and detailed statistics.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 29
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 246. Icehunter/dune-admin
+
+- Link: https://github.com/Icehunter/dune-admin
+- Title: Icehunter/dune-admin
+- Description: No description available.
+- Category: dev-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 28
+- Reason: Lack of documentation and topics
+- Strengths:
+  - Written in Go
+  - Specific purpose
+- Weaknesses:
+  - Low visibility
+  - Unclear functionality
+
+### 247. kittors/codeProxy
+
+- Link: https://github.com/kittors/codeProxy
+- Title: kittors/codeProxy
+- Description: 🖥️ The official frontend management panel for CliRelay (CLI Proxy API)
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 28
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 248. pulumi/pulumi-vault
+
+- Link: https://github.com/pulumi/pulumi-vault
+- Title: pulumi/pulumi-vault
+- Description: A Vault Pulumi resource package, providing multi-language access to HashiCorp Vault
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 28
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 249. HoangP8/tokless
+
+- Link: https://github.com/HoangP8/tokless
+- Title: HoangP8/tokless
+- Description: A unified CLI to install and update token-saving plugins — RTK, Caveman, CodeGraph, and Context-Mode — for Claude Code, OpenCode, Codex, and Antigravity.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 27
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 250. Deln0r/ygo
+
+- Link: https://github.com/Deln0r/ygo
+- Title: Deln0r/ygo
+- Description: Pure-Go port of the Yjs CRDT, byte-for-byte V1/V2 wire-compatible with yjs@13.6.31 (cross-language fixtures, both directions). UndoManager, snapshots, subdocuments, cursors, GC. yserve: single-binary Hocuspocus-compatibl...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 251. JamesWoolfenden/ghat
+
+- Link: https://github.com/JamesWoolfenden/ghat
+- Title: JamesWoolfenden/ghat
+- Description: Ghat is a tool for updating your GitHub actions and Terraform with the latest version of it dependencies and using immutable hashes instead of mutable tags.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 252. gotd/botapi
+
+- Link: https://github.com/gotd/botapi
+- Title: gotd/botapi
+- Description: WIP Telegram Bot API
+- Category: telegram-bot
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Well-structured Go library for Telegram Bot API
+- Strengths:
+  - Clean codebase
+  - Focused on Telegram Bot API
+- Weaknesses:
+  - Limited documentation
+  - Work-in-progress
+
+### 253. iluobei/miaomiaowuX
+
+- Link: https://github.com/iluobei/miaomiaowuX
+- Title: iluobei/miaomiaowuX
+- Description: 这是一个类似xui、sui的xray管理应用，使用主控+SubAgent模式管理多个服务器上的Xray。
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 254. procinger/turing-pi-v2-cluster
+
+- Link: https://github.com/procinger/turing-pi-v2-cluster
+- Title: procinger/turing-pi-v2-cluster
+- Description: Turing Pi V2 K3S Cluster bootstrapping with Ansible and Argo CD. Dependency monitoring and updating with Renovate Bot. Running CI tests with the K8S E2E Framework.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 255. cloudboss/keights
+
+- Link: https://github.com/cloudboss/keights
+- Title: cloudboss/keights
+- Description: A Kubernetes installer for AWS
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 25
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 256. ollygarden/opentelemetry-agent-skills
+
+- Link: https://github.com/ollygarden/opentelemetry-agent-skills
+- Title: ollygarden/opentelemetry-agent-skills
+- Description: This repository contains reusable agent skills for OpenTelemetry.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 25
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 257. uberware/sqi
+
+- Link: https://github.com/uberware/sqi
+- Title: uberware/sqi
+- Description: A distributed task and render farm manager built for modern production pipelines
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 25
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 258. Windshiftapp/core
+
+- Link: https://github.com/Windshiftapp/core
+- Title: Windshiftapp/core
+- Description: Open-source work management that's fast, complete, and simple to run
+- Category: project-management
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 24
+- Reason: Well-structured Go codebase
+- Strengths:
+  - Simple to run
+  - Open-source
+- Weaknesses:
+  - Limited community engagement
+  - Lack of documentation
+
+### 259. huantt/weather-forecast
+
+- Link: https://github.com/huantt/weather-forecast
+- Title: huantt/weather-forecast
+- Description: This project uses GitLab Actions to collect the weather then update to README.md
+- Category: weather-forecast
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 24
+- Reason: Automated weather forecast update
+- Strengths:
+  - Automated workflow
+  - Simple concept
+- Weaknesses:
+  - Limited functionality
+  - No clear documentation
+
+### 260. jahwag/clem
+
+- Link: https://github.com/jahwag/clem
+- Title: jahwag/clem
+- Description: Continuously Looping Engineering Machines. docker-compose for Claude Code agents - persistent teams, 24/7, on any Linux host.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 24
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 261. rezakhademix/zorm
+
+- Link: https://github.com/rezakhademix/zorm
+- Title: rezakhademix/zorm
+- Description: Z-ORM A Golang ORM to write fluent and fast queries. Query smarter, Code faster.
+- Category: database-orm
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 24
+- Reason: Well-structured Go ORM library
+- Strengths:
+  - Fluent query API
+  - Small and focused codebase
+- Weaknesses:
+  - Limited documentation
+  - Small community
+
+### 262. bbkane/enventory
+
+- Link: https://github.com/bbkane/enventory
+- Title: bbkane/enventory
+- Description: Centrally manage project environment variables with SQLite
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 23
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 263. evg4b/uncors
+
+- Link: https://github.com/evg4b/uncors
+- Title: evg4b/uncors
+- Description: A simple dev HTTP/HTTPS reverse proxy for replacing CORS headers.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 23
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 264. thlib/go-timezone-local
+
+- Link: https://github.com/thlib/go-timezone-local
+- Title: thlib/go-timezone-local
+- Description: Get the full name of the local timezone
+- Category: date-time-utils
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 23
+- Reason: Focused on a specific problem
+- Strengths:
+  - Simple and clear purpose
+  - Small and maintainable codebase
+- Weaknesses:
+  - Limited functionality
+  - Lack of documentation and tests
+
+### 265. ashvvvvv/mini-sb-agent
+
+- Link: https://github.com/ashvvvvv/mini-sb-agent
+- Title: ashvvvvv/mini-sb-agent
+- Description: 专为128/256M NAT 小鸡打造的超低内存占用代理程序 (16MB RSS) || An ultra-lightweight sing-box proxy agent (16MB RSS) tailored for 128/256M NAT VPS, with Xboard panel support.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 266. descope/authzcache
+
+- Link: https://github.com/descope/authzcache
+- Title: descope/authzcache
+- Description: Authz cache
+- Category: authz-cache
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Focused on authorization caching
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Limited scope
+  - Small community
+
+### 267. onsi/biloba
+
+- Link: https://github.com/onsi/biloba
+- Title: onsi/biloba
+- Description: Stable, performant, automated browser testing for Ginkgo
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 268. pulumi/pulumi-datadog
+
+- Link: https://github.com/pulumi/pulumi-datadog
+- Title: pulumi/pulumi-datadog
+- Description: An Datadog Pulumi resource package, providing multi-language access to Datadog
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 269. sahil87/fab-kit
+
+- Link: https://github.com/sahil87/fab-kit
+- Title: sahil87/fab-kit
+- Description: Structured, spec-driven development workflow for AI coding agents.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 22
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 270. BK-1107/GoNexus
+
+- Link: https://github.com/BK-1107/GoNexus
+- Title: BK-1107/GoNexus
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 271. SIPC/H2O
+
+- Link: https://github.com/SIPC/H2O
+- Title: SIPC/H2O
+- Description: Hysteria2 Ops — One-stop management for your Hy2 nodes
+- Category: proxy-management
+- Type: app
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 6.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: A niche but highly practical management panel tailored specifically for administering Hysteria2 proxy nodes.
+- Strengths:
+  - Simplifies Hysteria2 multi-node deployment and monitoring
+  - Written in TypeScript, offering a modern stack for web-based operations
+  - Fills a specific tooling gap for the growing Hysteria2 community
+- Weaknesses:
+  - Very early stage with low community engagement and stars
+  - Lacks extensive documentation and localization
+  - Centralized management of proxy nodes introduces security and credential handling risks
+
+### 272. shepherdjerred/monorepo
+
+- Link: https://github.com/shepherdjerred/monorepo
+- Title: shepherdjerred/monorepo
+- Description: Monorepo for all of my projects
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 273. jordigilh/kubernaut
+
+- Link: https://github.com/jordigilh/kubernaut
+- Title: jordigilh/kubernaut
+- Description: Open-source AIOps platform that closes the loop from Kubernetes alert to automated remediation. An AI Agent investigates live via native client-go bindings, logs, and Prometheus, selects a fix from a workflow catalog, an...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 274. omkhar/workcell
+
+- Link: https://github.com/omkhar/workcell
+- Title: omkhar/workcell
+- Description: Bounded local runtime and policy boundary for coding agents
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 275. Nathandela/compound-agent
+
+- Link: https://github.com/Nathandela/compound-agent
+- Title: Nathandela/compound-agent
+- Description: Memory. Knowledge. Structure. Accountability. For AI coding agents. Fully local, git-tracked.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 276. Pettor/app-pixi-image-editor
+
+- Link: https://github.com/Pettor/app-pixi-image-editor
+- Title: Pettor/app-pixi-image-editor
+- Description: React web application using PixiJS to create a basic image editor. The editor can load an image and contains several different tools and mechanics to view and adjust the content.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 277. alanisme/awesome-zed-extensions
+
+- Link: https://github.com/alanisme/awesome-zed-extensions
+- Title: alanisme/awesome-zed-extensions
+- Description: ⭐ Discover the best Zed extensions, ranked by stars, loved by developers, updated daily. Find your next favorite tool! 🚀📊
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 278. hecatehq/hecate
+
+- Link: https://github.com/hecatehq/hecate
+- Title: hecatehq/hecate
+- Description: Local AI operations console for supervised agent work.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 19
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 279. blackwell-systems/mcp-assert
 
 - Link: https://github.com/blackwell-systems/mcp-assert
 - Title: blackwell-systems/mcp-assert
@@ -164,7 +5739,351 @@ Last updated: 2026-06-14 09:41:07 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 9. suzuki-shunsuke/ci-info
+### 280. crossplane-contrib/function-kro
+
+- Link: https://github.com/crossplane-contrib/function-kro
+- Title: crossplane-contrib/function-kro
+- Description: YAML+CEL experience from kro as a Crossplane function
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 281. Kartik-2239/lightcode
+
+- Link: https://github.com/Kartik-2239/lightcode
+- Title: Kartik-2239/lightcode
+- Description: Lightcode is a coding agent written in Go.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 282. cruxdigital-llc/CongaLine
+
+- Link: https://github.com/cruxdigital-llc/CongaLine
+- Title: cruxdigital-llc/CongaLine
+- Description: Deploy and manage a fleet of OpenClaw AI assistants anywhere. Supporting hobbyist, team, and enterprise use cases.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 283. nabeken/go-github-apps
+
+- Link: https://github.com/nabeken/go-github-apps
+- Title: nabeken/go-github-apps
+- Description: A tiny command-line utility to retrieve Github Apps Installation Token
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 284. phuetz/code-buddy
+
+- Link: https://github.com/phuetz/code-buddy
+- Title: phuetz/code-buddy
+- Description: Open-source multi-provider AI coding agent: terminal TUI, Electron desktop cockpit (Cowork), and a 24/7 autonomous multi-AI fleet that runs free-first on local Ollama. 15 LLM providers, ~110 tools, voice + vision compani...
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 285. pieroproietti/oa-tools
+
+- Link: https://github.com/pieroproietti/oa-tools
+- Title: pieroproietti/oa-tools
+- Description: The idea is that every system should have its own way of being remastered. Every distro is different, yet they share many common roots; here, we want to see if a universal approach is reasonably possible.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 286. windsorcli/cli
+
+- Link: https://github.com/windsorcli/cli
+- Title: windsorcli/cli
+- Description: The Windsor CLI assists your cloud native development workflow
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 287. egv/yolo-runner
+
+- Link: https://github.com/egv/yolo-runner
+- Title: egv/yolo-runner
+- Description: No description available.
+- Category: computer-vision
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 16
+- Reason: Lack of documentation and topics
+- Strengths:
+  - Simple and focused implementation
+- Weaknesses:
+  - Limited functionality and unclear purpose
+
+### 288. gotd/teled
+
+- Link: https://github.com/gotd/teled
+- Title: gotd/teled
+- Description: Testing Telegram Server in Go
+- Category: testing-tool
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 16
+- Reason: Focused testing tool with clear purpose
+- Strengths:
+  - Clear description
+  - Specific use case
+- Weaknesses:
+  - Limited scope
+  - Few topics or documentation
+
+### 289. italia/developers-italia-api
+
+- Link: https://github.com/italia/developers-italia-api
+- Title: italia/developers-italia-api
+- Description: REST API for public software catalogs (powers developers.italia.it)
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 16
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 290. longhorn/longhorn-share-manager
+
+- Link: https://github.com/longhorn/longhorn-share-manager
+- Title: longhorn/longhorn-share-manager
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 16
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 291. yaleh/meta-cc
+
+- Link: https://github.com/yaleh/meta-cc
+- Title: yaleh/meta-cc
+- Description: Meta-Cognition tool for Claude Code - analyze session history for workflow optimization.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 16
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 292. zoharbabin/web-researcher-mcp
+
+- Link: https://github.com/zoharbabin/web-researcher-mcp
+- Title: zoharbabin/web-researcher-mcp
+- Description: Verifies citations, flags retractions, audits bibliographies — and searches the web. Your AI research assistant that cites real sources and stays honest. Works with Claude, Cursor, any MCP client.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 16
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 293. OpenCSGs/csgclaw
+
+- Link: https://github.com/OpenCSGs/csgclaw
+- Title: OpenCSGs/csgclaw
+- Description: Your own personal AI team.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 294. Sammons/agentic-collab
+
+- Link: https://github.com/Sammons/agentic-collab
+- Title: Sammons/agentic-collab
+- Description: Zero-dependency orchestrator for managing AI coding agents (Claude, Codex, OpenCode) via tmux sessions. Node 24, no build step, no npm install.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 295. fullstack-lang/gong
+
+- Link: https://github.com/fullstack-lang/gong
+- Title: fullstack-lang/gong
+- Description: Gong (go+ng) is a language for developing domain specific modelling environments (DSME).
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 296. lucasnevespereira/nevinho
+
+- Link: https://github.com/lucasnevespereira/nevinho
+- Title: lucasnevespereira/nevinho
+- Description: Personal agent harness
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 297. martianoff/gala
+
+- Link: https://github.com/martianoff/gala
+- Title: martianoff/gala
+- Description: Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 298. suzuki-shunsuke/ci-info
 
 - Link: https://github.com/suzuki-shunsuke/ci-info
 - Title: suzuki-shunsuke/ci-info
@@ -183,7 +6102,667 @@ Last updated: 2026-06-14 09:41:07 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 10. eja/wikilite
+### 299. wintermi/sigma
+
+- Link: https://github.com/wintermi/sigma
+- Title: wintermi/sigma
+- Description: sigma is a Go package for provider-neutral AI model calls.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 15
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 300. CustomResourceDefinition/catalog
+
+- Link: https://github.com/CustomResourceDefinition/catalog
+- Title: CustomResourceDefinition/catalog
+- Description: Repository with Custom Resource Definition files for validation purposes
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 301. Mintimate/oh-my-rime-cli
+
+- Link: https://github.com/Mintimate/oh-my-rime-cli
+- Title: Mintimate/oh-my-rime-cli
+- Description: oh-my-rime-cli 是一个用于 Rime 输入法更新和管理薄荷配置的命令行工具，支持多平台（Windows、macOS、Linux）🖥️，方便用户快速操作和定制 Rime 输入法环境✨
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 302. abai569/flox
+
+- Link: https://github.com/abai569/flox
+- Title: abai569/flox
+- Description: Flvx转发面板
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 303. jonascrevecoeur/terraform-provider-azuresql
+
+- Link: https://github.com/jonascrevecoeur/terraform-provider-azuresql
+- Title: jonascrevecoeur/terraform-provider-azuresql
+- Description: Terraform provider for Azure SQL resources
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 304. openshift-kni/oran-o2ims
+
+- Link: https://github.com/openshift-kni/oran-o2ims
+- Title: openshift-kni/oran-o2ims
+- Description: No description available.
+- Category: cloud-infrastructure
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Strong foundation despite small size
+- Strengths:
+  - Written in Go
+  - Focused on OpenShift and ORAN integration
+- Weaknesses:
+  - Limited community engagement
+  - Lack of documentation
+
+### 305. paperclipinc/paperclip-operator
+
+- Link: https://github.com/paperclipinc/paperclip-operator
+- Title: paperclipinc/paperclip-operator
+- Description: Kubernetes operator for managing Paperclip instances - the open-source AI agent orchestration platform
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 306. samzong/gmc
+
+- Link: https://github.com/samzong/gmc
+- Title: samzong/gmc
+- Description: Parallel git worktrees for parallel AI agents — plus AI-generated commits.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 307. smallwat3r/github-antibot
+
+- Link: https://github.com/smallwat3r/github-antibot
+- Title: smallwat3r/github-antibot
+- Description: Block users likely to use bots to mass-follow on GitHub
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 308. thedavidweng/monarchmoney-cli
+
+- Link: https://github.com/thedavidweng/monarchmoney-cli
+- Title: thedavidweng/monarchmoney-cli
+- Description: A local, agent-friendly command-line tool for Monarch Money. Written in Go.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 309. winebarrel/pistachio
+
+- Link: https://github.com/winebarrel/pistachio
+- Title: winebarrel/pistachio
+- Description: pistachio is a declarative schema management tool for PostgreSQL.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 310. Zxilly/cjv
+
+- Link: https://github.com/Zxilly/cjv
+- Title: Zxilly/cjv
+- Description: The Cangjie SDK installer
+- Category: installer-sdk
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Specific installer for Cangjie SDK
+- Strengths:
+  - Focused purpose
+  - Clear description
+- Weaknesses:
+  - Limited scope
+  - Lack of topics or documentation
+
+### 311. adanalife/tripbot
+
+- Link: https://github.com/adanalife/tripbot
+- Title: adanalife/tripbot
+- Description: An ongoing 24/7 slow-TV art project
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 312. gosagawa/atcoder
+
+- Link: https://github.com/gosagawa/atcoder
+- Title: gosagawa/atcoder
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 313. rowland/leadtype
+
+- Link: https://github.com/rowland/leadtype
+- Title: rowland/leadtype
+- Description: Go language packages for creating PDF documents.
+- Category: pdf-creation
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Focused Go library for PDF creation
+- Strengths:
+  - Specific use case
+  - Go language support
+- Weaknesses:
+  - Limited functionality
+  - Small community
+
+### 314. sergeknystautas/schmux
+
+- Link: https://github.com/sergeknystautas/schmux
+- Title: sergeknystautas/schmux
+- Description: Smart Cognitive Hub on tmux - orchestrate multiple AI coding agents
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 315. signalridge/slipway
+
+- Link: https://github.com/signalridge/slipway
+- Title: signalridge/slipway
+- Description: Spec-driven development with full lifecycle accountability for Claude, Codex, Cursor & Gemini
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 316. y3owk1n/mimi
+
+- Link: https://github.com/y3owk1n/mimi
+- Title: y3owk1n/mimi
+- Description: macOS windows and spaces. From the terminal.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 317. Argh73/VpnConfigCollector
+
+- Link: https://github.com/Argh73/VpnConfigCollector
+- Title: Argh73/VpnConfigCollector
+- Description: No description available.
+- Category: network-security
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Limited scope but functional VPN config collector
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Lack of documentation
+  - Limited features
+
+### 318. Correia-jpv/fucking-awesome-go
+
+- Link: https://github.com/Correia-jpv/fucking-awesome-go
+- Title: Correia-jpv/fucking-awesome-go
+- Description: A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 319. XigmaDev/cf2tg
+
+- Link: https://github.com/XigmaDev/cf2tg
+- Title: XigmaDev/cf2tg
+- Description: Auto Update Cloudflare Clean IP To Telegram Channel For Personal Use
+- Category: network-utility
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Simple and focused on a specific task
+- Strengths:
+  - Clear purpose
+  - Small and maintainable codebase
+- Weaknesses:
+  - Limited functionality
+  - Dependence on specific services
+
+### 320. aspect-build/aspect-gazelle
+
+- Link: https://github.com/aspect-build/aspect-gazelle
+- Title: aspect-build/aspect-gazelle
+- Description: Aspect Gazelle languages, enhancements, utils
+- Category: build-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Focused on specific build enhancements
+- Strengths:
+  - Specific use case
+  - Go implementation
+- Weaknesses:
+  - Limited topics
+  - Low star count
+
+### 321. baekenough/second-brain
+
+- Link: https://github.com/baekenough/second-brain
+- Title: baekenough/second-brain
+- Description: LLM 큐레이션 프라이빗 검색 엔진. Slack/GitHub/GDrive/파일시스템 하이브리드 검색 + AI 큐레이션 API.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 322. btelolabs/btelo-coding-release
+
+- Link: https://github.com/btelolabs/btelo-coding-release
+- Title: btelolabs/btelo-coding-release
+- Description: Btele Coding Release
+- Category: coding-tool
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Lack of detailed documentation
+- Strengths:
+  - Go implementation
+  - open-source
+- Weaknesses:
+  - Limited community engagement
+  - unclear purpose
+
+### 323. caic-xyz/caic
+
+- Link: https://github.com/caic-xyz/caic
+- Title: caic-xyz/caic
+- Description: Coding Agents in Containers
+- Category: dev-ops
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Clear concept, but lacks documentation and community engagement
+- Strengths:
+  - Unique approach to coding agents
+- Weaknesses:
+  - Limited topics and low star count
+
+### 324. hyiger/filament-db
+
+- Link: https://github.com/hyiger/filament-db
+- Title: hyiger/filament-db
+- Description: No description available.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 325. kleister/kleister-api
+
+- Link: https://github.com/kleister/kleister-api
+- Title: kleister/kleister-api
+- Description: Server to manage mod packs for Minecraft
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 326. lgdd/lfr-cli
+
+- Link: https://github.com/lgdd/lfr-cli
+- Title: lgdd/lfr-cli
+- Description: LFR is an unofficial CLI tool written in Go that helps you create & manage Liferay projects.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 327. zlylong/EdgeRouteGW
+
+- Link: https://github.com/zlylong/EdgeRouteGW
+- Title: zlylong/EdgeRouteGW
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 328. BlackbirdWorks/gopherstack
+
+- Link: https://github.com/BlackbirdWorks/gopherstack
+- Title: BlackbirdWorks/gopherstack
+- Description: Localstack alternative written in Go.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: {   "category": "aws-infrastructure",   "project_type": "tool",   "score": 5,   "novelty": 5,   "maturity": 2,   "small_repo_fit": 6,   "reason": "A Go-based LocalStack alternative is potentially useful, but the project appears early-stage and likely has limited service coverage.",   "strengths": [     "Targets a clear AWS-local-development need",     "Go implementation may be lighter and easier to deploy than heavier alternatives",     "Niche could be valuable for
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 329. Viridian-Inc/cloudmock
+
+- Link: https://github.com/Viridian-Inc/cloudmock
+- Title: Viridian-Inc/cloudmock
+- Description: Local AWS emulation. 100 services, one binary. 249x faster than LocalStack.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 330. agent-guide/agent-gateway
+
+- Link: https://github.com/agent-guide/agent-gateway
+- Title: agent-guide/agent-gateway
+- Description: An AI gateway for LLM and agent workloads
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 331. burakberkkeskin/crtforge
+
+- Link: https://github.com/burakberkkeskin/crtforge
+- Title: burakberkkeskin/crtforge
+- Description: No description available.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 332. cxykevin/alkaid0
+
+- Link: https://github.com/cxykevin/alkaid0
+- Title: cxykevin/alkaid0
+- Description: Alkaid0 Coding Agent
+- Category: ai-agent
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Interesting AI coding agent concept
+- Strengths:
+  - Unique approach to coding assistance
+- Weaknesses:
+  - Limited documentation and community
+
+### 333. eja/wikilite
 
 - Link: https://github.com/eja/wikilite
 - Title: eja/wikilite
@@ -202,16 +6781,1962 @@ Last updated: 2026-06-14 09:41:07 UTC
 - Weaknesses:
   - Needs deeper review
 
+### 334. kagenti/kagenti-extensions
+
+- Link: https://github.com/kagenti/kagenti-extensions
+- Title: kagenti/kagenti-extensions
+- Description: Repository for kagenti extensions projects
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 335. nabeken/go-smtp-source
+
+- Link: https://github.com/nabeken/go-smtp-source
+- Title: nabeken/go-smtp-source
+- Description: A simple drop-in replacement for smtp-source in Postfix distribution written in Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 336. BagToad/BestPal
+
+- Link: https://github.com/BagToad/BestPal
+- Title: BagToad/BestPal
+- Description: Discord bot for r/GamerPals
+- Category: discord-bot
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Well-defined purpose for r/GamerPals
+- Strengths:
+  - Specific use case
+  - Clear language choice
+- Weaknesses:
+  - Lack of documentation
+  - Limited community engagement
+
+### 337. CowDogMoo/warpgate
+
+- Link: https://github.com/CowDogMoo/warpgate
+- Title: CowDogMoo/warpgate
+- Description: No description available.
+- Category: network-utility
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 3.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Lack of documentation and topics
+- Strengths:
+  - Written in Go
+  - Simple concept
+- Weaknesses:
+  - Limited visibility
+  - Unclear purpose
+
+### 338. FastLM/SPI_VecDB
+
+- Link: https://github.com/FastLM/SPI_VecDB
+- Title: FastLM/SPI_VecDB
+- Description: Distributed Parallel Multi-Resolution Vector Search
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 339. Sarakimz/go-secrets-scanner
+
+- Link: https://github.com/Sarakimz/go-secrets-scanner
+- Title: Sarakimz/go-secrets-scanner
+- Description: 🔍 Scan files for secrets, hashes, and high-entropy strings with go-secrets-scanner. Detect potential leaks and enhance security in your projects.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 340. aerol-ai/microvm
+
+- Link: https://github.com/aerol-ai/microvm
+- Title: aerol-ai/microvm
+- Description: AerolVM is a self-hosted platform for creating isolated Docker-backed sandboxes on a single Linux host.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 341. alanchenchen/suna
+
+- Link: https://github.com/alanchenchen/suna
+- Title: alanchenchen/suna
+- Description: Your stateful AI companion
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 342. candelahq/candela
+
+- Link: https://github.com/candelahq/candela
+- Title: candelahq/candela
+- Description: 🕯️ OTel-native LLM observability platform. Trace, cost, and evaluate your LLM calls.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 343. clm-cloud-solutions/kubebolt
+
+- Link: https://github.com/clm-cloud-solutions/kubebolt
+- Title: clm-cloud-solutions/kubebolt
+- Description: Instant Kubernetes monitoring platform — full cluster visibility in under 2 minutes. Go backend + React frontend. Multi-cluster, Gateway API, insights engine, topology map.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 344. d-velop/grafana-odata-datasource
+
+- Link: https://github.com/d-velop/grafana-odata-datasource
+- Title: d-velop/grafana-odata-datasource
+- Description: This is a Grafana data source plugin that allows you to query and visualize data from OData V4 compatible data sources.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 345. dcssoftware/bafoeg-manager
+
+- Link: https://github.com/dcssoftware/bafoeg-manager
+- Title: dcssoftware/bafoeg-manager
+- Description: Eine basis BAföG Antragsverwaltung inkl. lokaler KI Assistenten (z.B. Ministral 14B) zur effektiveren Bearbeitung von BAföG. Rückzahlungen sowie der "BAföG Bot" wie er politisch genannt wird, sind skizziert aber noch...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 346. dwisiswant0/nuclei-confuser
+
+- Link: https://github.com/dwisiswant0/nuclei-confuser
+- Title: dwisiswant0/nuclei-confuser
+- Description: This repository gathers matchers from Nuclei templates designed to fool the Nuclei scanner.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 347. netrisai/terraform-provider-netris
+
+- Link: https://github.com/netrisai/terraform-provider-netris
+- Title: netrisai/terraform-provider-netris
+- Description: Terraform Netris provider
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 348. nite-coder/bifrost
+
+- Link: https://github.com/nite-coder/bifrost
+- Title: nite-coder/bifrost
+- Description: A low-latency and high-throughput API gateway library in Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 349. rhsev/mi.lan
+
+- Link: https://github.com/rhsev/mi.lan
+- Title: rhsev/mi.lan
+- Description: Trigger macOS scripts via URL. A companion for dy.lan and a standalone agent.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: {   "category": "macos-automation",   "project_type": "tool",   "score": 7,   "novelty": 6,   "maturity": 5,   "small_repo_fit": 7,   "reason": "A small, focused Go agent for triggering macOS
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 350. teofanis/ybdownloader
+
+- Link: https://github.com/teofanis/ybdownloader
+- Title: teofanis/ybdownloader
+- Description: YouTube downloader/FFMPEG Converter playground - now in Go/Wails instead of Electron
+- Category: media-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: useful YouTube downloader with a modern tech stack
+- Strengths:
+  - Go and Wails tech stack
+  - FFMPEG integration
+- Weaknesses:
+  - limited community engagement
+  - basic functionality
+
+### 351. wacht-platform/frontend-api
+
+- Link: https://github.com/wacht-platform/frontend-api
+- Title: wacht-platform/frontend-api
+- Description: Ship product, not plumbing. Open source framework for AI-first SaaS — identity, OAuth, API auth, webhooks, notifications, and agents in one stack.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 352. wippyai/runtime
+
+- Link: https://github.com/wippyai/runtime
+- Title: wippyai/runtime
+- Description: Application and Orchestration Runtime for agentic systems
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 353. metalabel/dfos
+
+- Link: https://github.com/metalabel/dfos
+- Title: metalabel/dfos
+- Description: Dark Forest OS identity and content protocol, reference implementations, schemas and tests
+- Category: identity-protocol
+- Type: framework
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 7.0/10
+- Stars: 23
+- Reason: Strong foundation in identity and content protocol
+- Strengths:
+  - Reference implementations
+  - Schemas and tests
+- Weaknesses:
+  - Limited community engagement
+  - Small number of stars
+
+### 354. reh3376/mdemg
+
+- Link: https://github.com/reh3376/mdemg
+- Title: reh3376/mdemg
+- Description: multi-dimensional emergent memory graph
+- Category: ai-research
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 7.0/10
+- Stars: 12
+- Reason: Lack of documentation and community engagement
+- Strengths:
+  - Unique concept of multi-dimensional emergent memory graph
+- Weaknesses:
+  - Limited codebase and no clear use cases
+
+### 355. nooga/let-go
+
+- Link: https://github.com/nooga/let-go
+- Title: nooga/let-go
+- Description: Almost Clojure written in Go.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 490
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 356. quic-go/webtransport-go
+
+- Link: https://github.com/quic-go/webtransport-go
+- Title: quic-go/webtransport-go
+- Description: WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 485
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 357. couchbase/sync_gateway
+
+- Link: https://github.com/couchbase/sync_gateway
+- Title: couchbase/sync_gateway
+- Description: Manages access and synchronization between Couchbase Lite and Couchbase Server
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 452
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 358. guigui-gui/guigui
+
+- Link: https://github.com/guigui-gui/guigui
+- Title: guigui-gui/guigui
+- Description: An immediate-mode-inspired GUI framework for Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 442
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 359. terraform-linters/tflint-ruleset-aws
+
+- Link: https://github.com/terraform-linters/tflint-ruleset-aws
+- Title: terraform-linters/tflint-ruleset-aws
+- Description: TFLint ruleset for terraform-provider-aws
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 419
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 360. devops-works/binenv
+
+- Link: https://github.com/devops-works/binenv
+- Title: devops-works/binenv
+- Description: One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 406
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 361. perber/leafwiki
+
+- Link: https://github.com/perber/leafwiki
+- Title: perber/leafwiki
+- Description: LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 406
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 362. reaper47/recipya
+
+- Link: https://github.com/reaper47/recipya
+- Title: reaper47/recipya
+- Description: A clean, simple and powerful recipe manager your whole family will enjoy.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 400
+- Reason: {   "category": "recipe-management",   "project_type": "app",   "score": 7,   "novelty": 5
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 363. projectdiscovery/awesome-search-queries
+
+- Link: https://github.com/projectdiscovery/awesome-search-queries
+- Title: projectdiscovery/awesome-search-queries
+- Description: Community curated list of search queries for various products across multiple search engines.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 389
+- Reason: {   "category": "security-recon",   "project_type": "unknown",   "score": 7.4,   "novelty": 6.5,   "maturity": 7.0,   "small
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 364. elvisun/newsjack
+
+- Link: https://github.com/elvisun/newsjack
+- Title: elvisun/newsjack
+- Description: The open-source skills that turn your agent into a full PR team.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 350
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 365. awalsh128/cache-apt-pkgs-action
+
+- Link: https://github.com/awalsh128/cache-apt-pkgs-action
+- Title: awalsh128/cache-apt-pkgs-action
+- Description: Cache APT packages in GitHub Actions
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 348
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 366. Mellanox/network-operator
+
+- Link: https://github.com/Mellanox/network-operator
+- Title: Mellanox/network-operator
+- Description: NVIDIA Network Operator
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 346
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 367. yumenaka/comigo
+
+- Link: https://github.com/yumenaka/comigo
+- Title: yumenaka/comigo
+- Description: Comic & Manga Reader in Linux，Windows，MacOS（and Terminal）。跨平台漫画阅读器。 ただの漫画リーダー。
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 343
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 368. apache/skywalking-banyandb
+
+- Link: https://github.com/apache/skywalking-banyandb
+- Title: apache/skywalking-banyandb
+- Description: An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 341
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 369. cloudbase/garm
+
+- Link: https://github.com/cloudbase/garm
+- Title: cloudbase/garm
+- Description: Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable providers
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 337
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 370. gfpcom/free-proxy-list
+
+- Link: https://github.com/gfpcom/free-proxy-list
+- Title: gfpcom/free-proxy-list
+- Description: 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers - 🔄 Updated Every 30 Minutes⏰
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 337
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 371. Azure/azure-workload-identity
+
+- Link: https://github.com/Azure/azure-workload-identity
+- Title: Azure/azure-workload-identity
+- Description: Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 333
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 372. gofiber/storage
+
+- Link: https://github.com/gofiber/storage
+- Title: gofiber/storage
+- Description: 📦 Premade storage drivers for 🚀 Fiber
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 332
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 373. caidaoli/ccLoad
+
+- Link: https://github.com/caidaoli/ccLoad
+- Title: caidaoli/ccLoad
+- Description: High-performance AI API proxy with smart routing, failover, monitoring, and protocol transforms for Claude Code, Codex, Gemini, and OpenAI.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 320
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 374. gofiber/template
+
+- Link: https://github.com/gofiber/template
+- Title: gofiber/template
+- Description: 🧬 Template engine middleware for Fiber
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 313
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 375. mvm-sh/mvm
+
+- Link: https://github.com/mvm-sh/mvm
+- Title: mvm-sh/mvm
+- Description: Mvm is a fast interpreter and virtual machine for Go and beyond.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 312
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 376. JetSetIlly/Gopher2600
+
+- Link: https://github.com/JetSetIlly/Gopher2600
+- Title: JetSetIlly/Gopher2600
+- Description: Gopher2600 is an emulator for the Atari 2600 games console
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 302
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 377. divVerent/aaaaxy
+
+- Link: https://github.com/divVerent/aaaaxy
+- Title: divVerent/aaaaxy
+- Description: A nonlinear 2D puzzle platformer taking place in impossible spaces.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 284
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 378. oneclickvirt/backtrace
+
+- Link: https://github.com/oneclickvirt/backtrace
+- Title: oneclickvirt/backtrace
+- Description: 上游及回程路由线路检测模块
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 265
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 379. Mertcikla/tld
+
+- Link: https://github.com/Mertcikla/tld
+- Title: Mertcikla/tld
+- Description: Software architecture diagramming tool. Includes a modern easy to use Frontend + Backend + CLI to enable managing diagrams from the shell or in CI.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 254
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 380. harryzcy/mailbox
+
+- Link: https://github.com/harryzcy/mailbox
+- Title: harryzcy/mailbox
+- Description: Versatile email infrastructure on AWS serverless
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 254
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 381. runxiyu/furgit
+
+- Link: https://github.com/runxiyu/furgit
+- Title: runxiyu/furgit
+- Description: Low-level Git plumbing library in pure Go
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 254
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 382. blacktop/go-macho
+
+- Link: https://github.com/blacktop/go-macho
+- Title: blacktop/go-macho
+- Description: Package macho implements access to and creation of Mach-O object files.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 253
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 383. norunners/tue
+
+- Link: https://github.com/norunners/tue
+- Title: norunners/tue
+- Description: The progressive framework for WebAssembly applications.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 242
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 384. praetorian-inc/augustus
+
+- Link: https://github.com/praetorian-inc/augustus
+- Title: praetorian-inc/augustus
+- Description: LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 238
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 385. clawvisor/clawvisor
+
+- Link: https://github.com/clawvisor/clawvisor
+- Title: clawvisor/clawvisor
+- Description: API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 230
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 386. t-mart/mousehole
+
+- Link: https://github.com/t-mart/mousehole
+- Title: t-mart/mousehole
+- Description: A background service to update a seedbox IP for MAM
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 230
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 387. llm-d/llm-d-router
+
+- Link: https://github.com/llm-d/llm-d-router
+- Title: llm-d/llm-d-router
+- Description: llm-d Router: The intelligent entry point for inference requests
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 220
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 388. Katenary/katenary
+
+- Link: https://github.com/Katenary/katenary
+- Title: Katenary/katenary
+- Description: Convert docker and podamn compose to a configurable helm chart
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 214
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 389. Mic92/ssh-to-age
+
+- Link: https://github.com/Mic92/ssh-to-age
+- Title: Mic92/ssh-to-age
+- Description: Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 214
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 390. antonio-orionus/Arroxy
+
+- Link: https://github.com/antonio-orionus/Arroxy
+- Title: antonio-orionus/Arroxy
+- Description: Free open-source YouTube and +2000 sites downloader GUI based on yt-dlp for Windows, macOS, and Linux. Download videos, Shorts, 4K, 1080p60, HDR, playlists, channels, and subtitles with no ads, tracking, cookies, or logi...
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 214
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 391. crossplane-contrib/provider-upjet-aws
+
+- Link: https://github.com/crossplane-contrib/provider-upjet-aws
+- Title: crossplane-contrib/provider-upjet-aws
+- Description: AWS Provider for Crossplane.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 211
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 392. losisin/helm-values-schema-json
+
+- Link: https://github.com/losisin/helm-values-schema-json
+- Title: losisin/helm-values-schema-json
+- Description: Helm plugin for generating values.schema.json from multiple values files
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 203
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 393. alessio/shellescape
+
+- Link: https://github.com/alessio/shellescape
+- Title: alessio/shellescape
+- Description: Escape arbitrary strings for use as command line arguments
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 201
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 394. gosom/scrapemate
+
+- Link: https://github.com/gosom/scrapemate
+- Title: gosom/scrapemate
+- Description: Golang Crawling and scraping framework
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 201
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 395. Delta-Kronecker/V2ray-Config
+
+- Link: https://github.com/Delta-Kronecker/V2ray-Config
+- Title: Delta-Kronecker/V2ray-Config
+- Description: 🔥 با کیفیت ترین کانفیگ ها برای شرایط فعلی اینترنت ایران، به همراه کانفیگ های مخصوص اسپوف و ساب های کلش 🔥
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 184
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 396. kubevirt/hyperconverged-cluster-operator
+
+- Link: https://github.com/kubevirt/hyperconverged-cluster-operator
+- Title: kubevirt/hyperconverged-cluster-operator
+- Description: Operator pattern for managing multi-operator products
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 184
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 397. soybeanjs/soybean-ui
+
+- Link: https://github.com/soybeanjs/soybean-ui
+- Title: soybeanjs/soybean-ui
+- Description: A powerful and elegant Vue 3 component system with headless primitives and ready-to-use styled wrappers.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 183
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 398. sakullla/nginx-reverse-emby
+
+- Link: https://github.com/sakullla/nginx-reverse-emby
+- Title: sakullla/nginx-reverse-emby
+- Description: nginx emby反代
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 179
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 399. v9ai/ai-engineer-roadmap
+
+- Link: https://github.com/v9ai/ai-engineer-roadmap
+- Title: v9ai/ai-engineer-roadmap
+- Description: No description available.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 178
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 400. itmisx/deepx-code
+
+- Link: https://github.com/itmisx/deepx-code
+- Title: itmisx/deepx-code
+- Description: deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择等功能，从根本上节省Token
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 177
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 401. ozgurcd/gograph
+
+- Link: https://github.com/ozgurcd/gograph
+- Title: ozgurcd/gograph
+- Description: Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 175
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 402. tanaikech/ggsrun
+
+- Link: https://github.com/tanaikech/ggsrun
+- Title: tanaikech/ggsrun
+- Description: High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Apps Script (GAS) dynamically, automate conflict policies, recursive transfer, and manage Drive infrastructure...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 165
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 403. dougdonohoe/ddphotos
+
+- Link: https://github.com/dougdonohoe/ddphotos
+- Title: dougdonohoe/ddphotos
+- Description: Beautiful self-hosted photo galleries. No subscriptions, no lock-in, deploys in minutes.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 162
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 404. stryan/materia
+
+- Link: https://github.com/stryan/materia
+- Title: stryan/materia
+- Description: GitOps tool for deploying Quadlets
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 162
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 405. layer5io/getnighthawk
+
+- Link: https://github.com/layer5io/getnighthawk
+- Title: layer5io/getnighthawk
+- Description: Putting Nighthawk into the hands of many
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 157
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 406. m-mizutani/zenv
+
+- Link: https://github.com/m-mizutani/zenv
+- Title: m-mizutani/zenv
+- Description: Enhanced env command to set environment variable by various method
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 151
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 407. MengMengCode/CLICD
+
+- Link: https://github.com/MengMengCode/CLICD
+- Title: MengMengCode/CLICD
+- Description: CLICD is a lightweight LXC/KVM virtualization management panel featuring a web console, batch operations, image management, NAT networking, IPv6 allocation, WebSSH, VNC, resource and bandwidth controls, security monitori...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 149
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 408. ethanhq/cc-fleet
+
+- Link: https://github.com/ethanhq/cc-fleet
+- Title: ethanhq/cc-fleet
+- Description: 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any third-party model — DeepSeek · GLM · Kimi · Qwen … or your Codex subscription. No Anthropic subscription needed. ｜ 🚢 �...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 146
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 409. wroge/wgs84
+
+- Link: https://github.com/wroge/wgs84
+- Title: wroge/wgs84
+- Description: A zero-dependency Go package for coordinate transformations.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 141
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 410. woming98/shine-ray-future
+
+- Link: https://github.com/woming98/shine-ray-future
+- Title: woming98/shine-ray-future
+- Description: shine-ray-future official website
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 131
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 411. defilantech/LLMKube
+
+- Link: https://github.com/defilantech/LLMKube
+- Title: defilantech/LLMKube
+- Description: Kubernetes operator for local LLM inference with llama.cpp, vLLM, TGI, and mlx-server — multi-GPU NVIDIA + Apple Silicon Metal, autoscaling, air-gapped, production-ready
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 127
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 412. secmon-lab/warren
+
+- Link: https://github.com/secmon-lab/warren
+- Title: secmon-lab/warren
+- Description: AI-powered security alert management that reduces noise and accelerates response time
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 127
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 413. kubernetes-sigs/kernel-module-management
+
+- Link: https://github.com/kubernetes-sigs/kernel-module-management
+- Title: kubernetes-sigs/kernel-module-management
+- Description: The kernel module management operator builds, signs and loads kernel modules in Kubernetes clusters.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 123
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 414. vegidio/open-photo-ai
+
+- Link: https://github.com/vegidio/open-photo-ai
+- Title: vegidio/open-photo-ai
+- Description: An open source alternative to the popular photo AI editor.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 123
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 415. celer-pkg/celer
+
+- Link: https://github.com/celer-pkg/celer
+- Title: celer-pkg/celer
+- Description: A lightweight C/C++ package manager driven by TOML.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 121
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 416. pkimetal/pkimetal
+
+- Link: https://github.com/pkimetal/pkimetal
+- Title: pkimetal/pkimetal
+- Description: PKI Meta-Linter
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 121
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 417. wsshow/feikong-teams
+
+- Link: https://github.com/wsshow/feikong-teams
+- Title: wsshow/feikong-teams
+- Description: 一个基于多智能体协作的 AI 助手，支持命令行和Web界面，提供团队模式、自定义会议模式和多智能体讨论模式（圆桌会议模式）三种工作方式，通过多个专业智能体协...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 120
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 418. pulumi/pulumi-terraform
+
+- Link: https://github.com/pulumi/pulumi-terraform
+- Title: pulumi/pulumi-terraform
+- Description: A resource package that allows Pulumi programs to use Terraform state
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 118
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 419. akiver/cs-demo-analyzer
+
+- Link: https://github.com/akiver/cs-demo-analyzer
+- Title: akiver/cs-demo-analyzer
+- Description: Analyze and extract data from Counter-Strike demos.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 115
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 420. sheawinkler/ContextLattice
+
+- Link: https://github.com/sheawinkler/ContextLattice
+- Title: sheawinkler/ContextLattice
+- Description: ContextLattice is the local-first control plane for long-horizon agent memory and coordination.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 113
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 421. sarchlab/akita
+
+- Link: https://github.com/sarchlab/akita
+- Title: sarchlab/akita
+- Description: A flexible, high-performance, user-friendly computer architecture simulator engine
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 108
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 422. Insajin/autopus-adk
+
+- Link: https://github.com/Insajin/autopus-adk
+- Title: Insajin/autopus-adk
+- Description: Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision tracking, SPEC/EARS engine.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 107
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 423. dharmab/skyeye
+
+- Link: https://github.com/dharmab/skyeye
+- Title: dharmab/skyeye
+- Description: Self-hostable AI Powered GCI Bot for DCS
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 107
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 424. hyperledger/fabric-x-common
+
+- Link: https://github.com/hyperledger/fabric-x-common
+- Title: hyperledger/fabric-x-common
+- Description: No description available.
+- Category: blockchain-tools
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 8.0/10
+- Small repo potential: 4.0/10
+- Stars: 21
+- Reason: Part of the Hyperledger Fabric ecosystem
+- Strengths:
+  - Established organization
+  - Clear purpose
+- Weaknesses:
+  - Low star count
+  - Lack of topics
+
+### 425. Mellanox/doca-driver-build
+
+- Link: https://github.com/Mellanox/doca-driver-build
+- Title: Mellanox/doca-driver-build
+- Description: No description available.
+- Category: driver-build-tools
+- Type: tool
+- Language: Go
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 8.0/10
+- Small repo potential: 4.0/10
+- Stars: 18
+- Reason: Specific use case for Mellanox drivers
+- Strengths:
+  - Mellanox official repository
+  - clear purpose
+- Weaknesses:
+  - narrow scope
+  - low community engagement
+
+### 426. torvalds/1590A
+
+- Link: https://github.com/torvalds/1590A
+- Title: torvalds/1590A
+- Description: Random odd guitar pedal design in kicad
+- Category: uncategorized
+- Language: OpenSCAD
+- Score: 6.0/10
+- Novelty: 0.0/10
+- Maturity: 0.0/10
+- Small repo potential: 0.0/10
+- Stars: 567
+- Reason: SCORE: 6 NOTES: The repository has a moderate number of stars, but lacks topics and a detailed description, making it difficult to understand the project's purpose and scope. The use of OpenSCAD for a guitar pedal design is also unusual, as KiCad is typically used for PCB design, suggesting a potential mismatch between the tools and the project's goals.
+
+### 427. urnetwork/server
+
+- Link: https://github.com/urnetwork/server
+- Title: urnetwork/server
+- Description: No description available.
+- Category: network-server
+- Type: app
+- Language: Go
+- Score: 4.0/10
+- Novelty: 2.0/10
+- Maturity: 3.0/10
+- Small repo potential: 6.0/10
+- Stars: 17
+- Reason: Lack of documentation and topics
+- Strengths:
+  - Written in Go
+- Weaknesses:
+  - Limited information available
+  - Low star count
+
 ## Categories
 
+- [admin-backend](categories/admin-backend.md)
+- [ai-agent](categories/ai-agent.md)
+- [ai-agents](categories/ai-agents.md)
+- [ai-automation](categories/ai-automation.md)
+- [ai-dev-tools](categories/ai-dev-tools.md)
+- [ai-engine](categories/ai-engine.md)
+- [ai-gateway](categories/ai-gateway.md)
+- [ai-memory-server](categories/ai-memory-server.md)
+- [ai-model](categories/ai-model.md)
+- [ai-platform](categories/ai-platform.md)
+- [ai-proxy](categories/ai-proxy.md)
+- [ai-research](categories/ai-research.md)
+- [ai-routing](categories/ai-routing.md)
+- [ai-runtime](categories/ai-runtime.md)
+- [ai-sandbox](categories/ai-sandbox.md)
+- [ai-security](categories/ai-security.md)
 - [ai-simulation](categories/ai-simulation.md)
+- [ai-tooling](categories/ai-tooling.md)
+- [ai-toolkit](categories/ai-toolkit.md)
+- [ai-tools](categories/ai-tools.md)
+- [ai-workflow](categories/ai-workflow.md)
+- [ai-workflows](categories/ai-workflows.md)
+- [application-security](categories/application-security.md)
+- [aprs-stack](categories/aprs-stack.md)
+- [audio-utility](categories/audio-utility.md)
+- [auth-library](categories/auth-library.md)
+- [authz-cache](categories/authz-cache.md)
+- [blockchain-curation](categories/blockchain-curation.md)
+- [blockchain-infrastructure](categories/blockchain-infrastructure.md)
+- [blockchain-tools](categories/blockchain-tools.md)
+- [build-tools](categories/build-tools.md)
+- [chatops-agents](categories/chatops-agents.md)
+- [ci-cd](categories/ci-cd.md)
+- [ci-metrics](categories/ci-metrics.md)
+- [cloud-cost-management](categories/cloud-cost-management.md)
+- [cloud-infrastructure](categories/cloud-infrastructure.md)
+- [cloud-monitoring](categories/cloud-monitoring.md)
+- [cloud-query-language](categories/cloud-query-language.md)
+- [cloud-security](categories/cloud-security.md)
+- [cloud-utils](categories/cloud-utils.md)
+- [code-quality](categories/code-quality.md)
+- [code-search](categories/code-search.md)
+- [coding-tool](categories/coding-tool.md)
+- [computer-vision](categories/computer-vision.md)
+- [concurrent-programming](categories/concurrent-programming.md)
+- [container-management](categories/container-management.md)
+- [core-service](categories/core-service.md)
+- [crypto-wallet](categories/crypto-wallet.md)
+- [data-engineering](categories/data-engineering.md)
+- [data-scraping](categories/data-scraping.md)
+- [data-storage](categories/data-storage.md)
+- [database-drivers](categories/database-drivers.md)
+- [database-library](categories/database-library.md)
+- [database-management](categories/database-management.md)
+- [database-orm](categories/database-orm.md)
+- [database-security](categories/database-security.md)
+- [database-system](categories/database-system.md)
+- [database-tooling](categories/database-tooling.md)
+- [database-tools](categories/database-tools.md)
+- [date-time-utils](categories/date-time-utils.md)
+- [deep-learning](categories/deep-learning.md)
+- [dev-ops](categories/dev-ops.md)
+- [dev-tool](categories/dev-tool.md)
+- [dev-tools](categories/dev-tools.md)
+- [developer-tools](categories/developer-tools.md)
+- [devops-tooling](categories/devops-tooling.md)
+- [discord-bot](categories/discord-bot.md)
+- [discussion-platforms](categories/discussion-platforms.md)
+- [distributed-systems](categories/distributed-systems.md)
+- [document-processing](categories/document-processing.md)
+- [driver-build-tools](categories/driver-build-tools.md)
+- [e-commerce-sdk](categories/e-commerce-sdk.md)
+- [emulation-engine](categories/emulation-engine.md)
+- [file-sharing](categories/file-sharing.md)
+- [fullstack-boilerplate](categories/fullstack-boilerplate.md)
+- [game-engine](categories/game-engine.md)
+- [game-modification](categories/game-modification.md)
 - [go](categories/go.md)
+- [go-framework](categories/go-framework.md)
+- [gpu-framework](categories/gpu-framework.md)
+- [hardware-hacking](categories/hardware-hacking.md)
+- [homelab-management](categories/homelab-management.md)
+- [iam-integration](categories/iam-integration.md)
+- [identity-protocol](categories/identity-protocol.md)
+- [industrial-iot](categories/industrial-iot.md)
+- [infrastructure-as-code](categories/infrastructure-as-code.md)
+- [infrastructure-automation](categories/infrastructure-automation.md)
+- [installer-sdk](categories/installer-sdk.md)
+- [iot-management](categories/iot-management.md)
+- [issue-tracking](categories/issue-tracking.md)
+- [k8s-security](categories/k8s-security.md)
+- [kubernetes-observability](categories/kubernetes-observability.md)
+- [kubernetes-operator](categories/kubernetes-operator.md)
+- [kubernetes-tooling](categories/kubernetes-tooling.md)
+- [kubernetes-tools](categories/kubernetes-tools.md)
+- [linux-security](categories/linux-security.md)
+- [llm-security](categories/llm-security.md)
+- [media-streaming](categories/media-streaming.md)
+- [media-tools](categories/media-tools.md)
+- [messaging-bridge](categories/messaging-bridge.md)
+- [metadata-management](categories/metadata-management.md)
+- [monitoring-observability](categories/monitoring-observability.md)
+- [monitoring-tool](categories/monitoring-tool.md)
+- [monitoring-tools](categories/monitoring-tools.md)
+- [music-server](categories/music-server.md)
+- [network-api](categories/network-api.md)
+- [network-automation](categories/network-automation.md)
+- [network-monitoring](categories/network-monitoring.md)
+- [network-protocol](categories/network-protocol.md)
+- [network-security](categories/network-security.md)
+- [network-server](categories/network-server.md)
+- [network-utility](categories/network-utility.md)
+- [networking-tool](categories/networking-tool.md)
+- [nlp-framework](categories/nlp-framework.md)
+- [osx-development](categories/osx-development.md)
+- [pdf-creation](categories/pdf-creation.md)
+- [productivity-tool](categories/productivity-tool.md)
+- [programming-language](categories/programming-language.md)
+- [programming-languages](categories/programming-languages.md)
+- [project-management](categories/project-management.md)
+- [proxy-configs](categories/proxy-configs.md)
+- [proxy-management](categories/proxy-management.md)
+- [push-notifications](categories/push-notifications.md)
+- [radio-communication](categories/radio-communication.md)
+- [realtime-comm](categories/realtime-comm.md)
+- [reverse-proxy](categories/reverse-proxy.md)
+- [robotics-competition](categories/robotics-competition.md)
+- [security-monitoring](categories/security-monitoring.md)
+- [security-tool](categories/security-tool.md)
+- [security-tools](categories/security-tools.md)
+- [serverless-framework](categories/serverless-framework.md)
+- [sql-parser](categories/sql-parser.md)
+- [streaming-api](categories/streaming-api.md)
+- [telegram-bot](categories/telegram-bot.md)
+- [terminal-agent](categories/terminal-agent.md)
+- [terminal-multiplexer](categories/terminal-multiplexer.md)
+- [testing-framework](categories/testing-framework.md)
+- [testing-tool](categories/testing-tool.md)
+- [text-processing](categories/text-processing.md)
 - [typescript](categories/typescript.md)
+- [uncategorized](categories/uncategorized.md)
+- [video-streaming](categories/video-streaming.md)
 - [virtualization-management](categories/virtualization-management.md)
+- [visual-novel-patch](categories/visual-novel-patch.md)
+- [vpn-client](categories/vpn-client.md)
+- [vpn-server](categories/vpn-server.md)
+- [vpn-tools](categories/vpn-tools.md)
+- [weather-forecast](categories/weather-forecast.md)
+- [web-development](categories/web-development.md)
+- [web-frameworks](categories/web-frameworks.md)
+- [web-hosting](categories/web-hosting.md)
+- [web-scraping](categories/web-scraping.md)
+- [web-servers](categories/web-servers.md)
+- [webassembly](categories/webassembly.md)
+- [windows-security](categories/windows-security.md)
+- [workflow-orchestration](categories/workflow-orchestration.md)
 
 ## Data
 
 - [Machine-readable repo data](data/repos.json)
-- [Daily findings](findings/2026-06-14.md)
+- [Current library snapshot](findings/2026-06-14.md)
 
 Managed by Ohman Explorer.
