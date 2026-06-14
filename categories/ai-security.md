@@ -66,7 +66,27 @@ Curated projects in this category.
   - Limited community engagement due to relatively low star count
   - May require additional development for widespread adoption
 
-### 4. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
+### 4. kagnlp/Awesome-Agentic-Security
+
+- Link: https://github.com/kagnlp/Awesome-Agentic-Security
+- Title: kagnlp/Awesome-Agentic-Security
+- Description: A curated list of 150+ papers and resources on Agentic Security. Based on the survey covering the transition from passive LLMs to autonomous agents, structured around three pillars: Applications (Red/Blue Teaming), Threa...
+- Category: ai-security
+- Type: example
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 44
+- Reason: Comprehensive curated list of Agentic Security resources
+- Strengths:
+  - Curated list of 150+ papers and resources
+  - Structured around three pillars
+- Weaknesses:
+  - Limited interactivity
+  - Dependent on external resources
+
+### 5. Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 
 - Link: https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities
 - Title: Vortalitys/PrivHunterAI-detects-access-vulnerabilities
@@ -87,7 +107,7 @@ Curated projects in this category.
   - Limited stars and community engagement
   - Dependence on third-party AI systems
 
-### 5. Mindburn-Labs/helm-ai-kernel
+### 6. Mindburn-Labs/helm-ai-kernel
 
 - Link: https://github.com/Mindburn-Labs/helm-ai-kernel
 - Title: Mindburn-Labs/helm-ai-kernel
@@ -109,7 +129,7 @@ Curated projects in this category.
   - Limited community engagement
   - Relatively new repository
 
-### 6. kstenerud/yoloai
+### 7. kstenerud/yoloai
 
 - Link: https://github.com/kstenerud/yoloai
 - Title: kstenerud/yoloai
