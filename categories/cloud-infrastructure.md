@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. pulumi/pulumi-oci
 
 - Link: https://github.com/pulumi/pulumi-oci
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: cloud-infrastructure
 - Type: library
 - Language: Go
+- Created: 2022-04-23
+- Age: 4 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
@@ -31,6 +37,10 @@ Curated projects in this category.
 - Category: cloud-infrastructure
 - Type: library
 - Language: Go
+- Created: 2017-07-17
+- Age: 8 years 11 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
@@ -51,6 +61,10 @@ Curated projects in this category.
 - Category: cloud-infrastructure
 - Type: framework
 - Language: Go
+- Created: 2026-03-27
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 7.0/10
 - Novelty: 6.0/10
 - Maturity: 5.0/10
@@ -72,6 +86,10 @@ Curated projects in this category.
 - Category: cloud-infrastructure
 - Type: tool
 - Language: Go
+- Created: 2023-10-31
+- Age: 2 years 7 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
