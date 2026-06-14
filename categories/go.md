@@ -2,11 +2,30 @@
 
 Curated projects in this category.
 
-### 1. dr-dobermann/gobpm
+### 1. itmisx/deepx-code
 
-- Link: https://github.com/dr-dobermann/gobpm
-- Title: dr-dobermann/gobpm
-- Description: BPMN v.2 compliant BPM engine on Go
+- Link: https://github.com/itmisx/deepx-code
+- Title: itmisx/deepx-code
+- Description: deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择等功能，从根本上节省Token
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 177
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 2. designinlife/jetbrains
+
+- Link: https://github.com/designinlife/jetbrains
+- Title: designinlife/jetbrains
+- Description: Check out the command line tool for JetBrains software version update links.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 49
+- Stars: 90
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. ommengman-prog/god-eye
+### 3. aws/eks-anywhere-build-tooling
 
-- Link: https://github.com/ommengman-prog/god-eye
-- Title: ommengman-prog/god-eye
-- Description: 🛡️ Detect and respond to security threats in real-time with God-Eye, an AI-driven tool designed for privacy and local deployment on multiple platforms.
+- Link: https://github.com/aws/eks-anywhere-build-tooling
+- Title: aws/eks-anywhere-build-tooling
+- Description: Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 39
+- Stars: 63
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. BapiGso/gopanel
+### 4. mochow13/keen-code
 
-- Link: https://github.com/BapiGso/gopanel
-- Title: BapiGso/gopanel
-- Description: a lite server manage panel
+- Link: https://github.com/mochow13/keen-code
+- Title: mochow13/keen-code
+- Description: A context-aware and efficient CLI-based coding agent written in Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 32
+- Stars: 33
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. sorafujitani/ccsession
+### 5. go-training/mcp-workshop
 
-- Link: https://github.com/sorafujitani/ccsession
-- Title: sorafujitani/ccsession
-- Description: pick any past Claude Code session via fzf, then resume it from the right cwd
+- Link: https://github.com/go-training/mcp-workshop
+- Title: go-training/mcp-workshop
+- Description: MCP workshop using Golang
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,56 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 29
+- Stars: 33
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. Mintimate/oh-my-rime-cli
+### 6. Correia-jpv/fucking-awesome-go
 
-- Link: https://github.com/Mintimate/oh-my-rime-cli
-- Title: Mintimate/oh-my-rime-cli
-- Description: oh-my-rime-cli 是一个用于 Rime 输入法更新和管理薄荷配置的命令行工具，支持多平台（Windows、macOS、Linux）🖥️，方便用户快速操作和定制 Rime 输入法环境✨
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 14
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. adanalife/tripbot
-
-- Link: https://github.com/adanalife/tripbot
-- Title: adanalife/tripbot
-- Description: An ongoing 24/7 slow-TV art project
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. kleister/kleister-api
-
-- Link: https://github.com/kleister/kleister-api
-- Title: kleister/kleister-api
-- Description: Server to manage mod packs for Minecraft
+- Link: https://github.com/Correia-jpv/fucking-awesome-go
+- Title: Correia-jpv/fucking-awesome-go
+- Description: A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴
 - Category: go
 - Type: unknown
 - Language: Go
@@ -129,6 +110,25 @@ Curated projects in this category.
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
 - Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. d-velop/grafana-odata-datasource
+
+- Link: https://github.com/d-velop/grafana-odata-datasource
+- Title: d-velop/grafana-odata-datasource
+- Description: This is a Grafana data source plugin that allows you to query and visualize data from OData V4 compatible data sources.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 10
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
