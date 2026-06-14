@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. rowland/leadtype
 
 - Link: https://github.com/rowland/leadtype
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: pdf-creation
 - Type: library
 - Language: Go
+- Created: 2012-06-24
+- Age: 13 years 11 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 2.0/10
 - Maturity: 4.0/10
