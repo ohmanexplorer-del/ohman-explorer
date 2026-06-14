@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 19:01:03 UTC
+Last updated: 2026-06-14 19:21:44 UTC
 
-Total indexed projects: 507
+Total indexed projects: 517
 
 ## Disclaimer
 
@@ -15,13 +15,13 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Category | Projects |
 |---|---:|
 | [artificial-intelligence](categories/artificial-intelligence.md) | 36 |
-| [automation](categories/automation.md) | 3 |
-| [blockchain](categories/blockchain.md) | 5 |
+| [automation](categories/automation.md) | 4 |
+| [blockchain](categories/blockchain.md) | 6 |
 | [bots](categories/bots.md) | 7 |
 | [communications](categories/communications.md) | 5 |
 | [data-engineering](categories/data-engineering.md) | 6 |
 | [database](categories/database.md) | 12 |
-| [developer-tools](categories/developer-tools.md) | 264 |
+| [developer-tools](categories/developer-tools.md) | 266 |
 | [gaming](categories/gaming.md) | 9 |
 | [infrastructure](categories/infrastructure.md) | 32 |
 | [iot](categories/iot.md) | 5 |
@@ -35,7 +35,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [security](categories/security.md) | 16 |
 | [systems](categories/systems.md) | 5 |
 | [ui-components](categories/ui-components.md) | 1 |
-| [uncategorized](categories/uncategorized.md) | 14 |
+| [uncategorized](categories/uncategorized.md) | 20 |
 | [web-development](categories/web-development.md) | 12 |
 
 ## Languages
@@ -43,15 +43,16 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Language | Projects |
 |---|---:|
 | Go | 404 |
-| TypeScript | 30 |
-| Unknown | 18 |
-| Python | 15 |
+| TypeScript | 32 |
+| Unknown | 19 |
+| Python | 17 |
+| C++ | 5 |
+| JavaScript | 5 |
 | Rust | 5 |
-| C++ | 4 |
 | HTML | 4 |
 | C | 3 |
-| JavaScript | 3 |
 | Java | 2 |
+| PHP | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
 | C# | 1 |
@@ -62,13 +63,13 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Lean | 1 |
 | Nix | 1 |
 | OpenSCAD | 1 |
-| PHP | 1 |
 | Perl | 1 |
 | PowerShell | 1 |
 | RouterOS Script | 1 |
 | Ruby | 1 |
 | SCSS | 1 |
 | Scala | 1 |
+| Shell | 1 |
 | Vue | 1 |
 | YAML | 1 |
 
