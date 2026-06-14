@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. terraform-linters/tflint-ruleset-aws
+### 1. nooga/let-go
 
-- Link: https://github.com/terraform-linters/tflint-ruleset-aws
-- Title: terraform-linters/tflint-ruleset-aws
-- Description: TFLint ruleset for terraform-provider-aws
+- Link: https://github.com/nooga/let-go
+- Title: nooga/let-go
+- Description: Almost Clojure written in Go.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 419
+- Stars: 490
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. oneclickvirt/backtrace
+### 2. quic-go/webtransport-go
 
-- Link: https://github.com/oneclickvirt/backtrace
-- Title: oneclickvirt/backtrace
-- Description: 上游及回程路由线路检测模块
+- Link: https://github.com/quic-go/webtransport-go
+- Title: quic-go/webtransport-go
+- Description: WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +33,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 265
+- Stars: 485
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. layer5io/getnighthawk
+### 3. wsshow/feikong-teams
 
-- Link: https://github.com/layer5io/getnighthawk
-- Title: layer5io/getnighthawk
-- Description: Putting Nighthawk into the hands of many
+- Link: https://github.com/wsshow/feikong-teams
+- Title: wsshow/feikong-teams
+- Description: 一个基于多智能体协作的 AI 助手，支持命令行和Web界面，提供团队模式、自定义会议模式和多智能体讨论模式（圆桌会议模式）三种工作方式，通过多个专业智能体协...
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 157
+- Stars: 120
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. AvaProtocol/EigenLayer-AVS
+### 4. julython/julython.org
 
-- Link: https://github.com/AvaProtocol/EigenLayer-AVS
-- Title: AvaProtocol/EigenLayer-AVS
-- Description: AvaProtocol Ethereum Automation Build on EigenLayer
+- Link: https://github.com/julython/julython.org
+- Title: julython/julython.org
+- Description: Julython Website
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 82
+- Stars: 46
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. iluobei/miaomiaowuX
+### 5. Mininglamp-OSS/octo-server
 
-- Link: https://github.com/iluobei/miaomiaowuX
-- Title: iluobei/miaomiaowuX
-- Description: 这是一个类似xui、sui的xray管理应用，使用主控+SubAgent模式管理多个服务器上的Xray。
+- Link: https://github.com/Mininglamp-OSS/octo-server
+- Title: Mininglamp-OSS/octo-server
+- Description: 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,18 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 26
+- Stars: 30
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. uberware/sqi
+### 6. bbkane/enventory
 
-- Link: https://github.com/uberware/sqi
-- Title: uberware/sqi
-- Description: A distributed task and render farm manager built for modern production pipelines
+- Link: https://github.com/bbkane/enventory
+- Title: bbkane/enventory
+- Description: Centrally manage project environment variables with SQLite
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,18 +109,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 25
+- Stars: 23
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. Kartik-2239/lightcode
+### 7. FastLM/SPI_VecDB
 
-- Link: https://github.com/Kartik-2239/lightcode
-- Title: Kartik-2239/lightcode
-- Description: Lightcode is a coding agent written in Go.
+- Link: https://github.com/FastLM/SPI_VecDB
+- Title: FastLM/SPI_VecDB
+- Description: Distributed Parallel Multi-Resolution Vector Search
 - Category: go
 - Type: unknown
 - Language: Go
@@ -128,18 +128,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 17
+- Stars: 10
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. CustomResourceDefinition/catalog
+### 8. aerol-ai/microvm
 
-- Link: https://github.com/CustomResourceDefinition/catalog
-- Title: CustomResourceDefinition/catalog
-- Description: Repository with Custom Resource Definition files for validation purposes
+- Link: https://github.com/aerol-ai/microvm
+- Title: aerol-ai/microvm
+- Description: AerolVM is a self-hosted platform for creating isolated Docker-backed sandboxes on a single Linux host.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -147,7 +147,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 14
+- Stars: 10
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
