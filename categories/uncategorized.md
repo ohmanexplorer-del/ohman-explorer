@@ -40,7 +40,53 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Stars: 2010
 - Reason: SCORE: 8 NOTES: The repository has a high star count, suggesting it's well-liked, and being owned by Linus Torvalds, the creator of Linux, adds credibility. However, the lack of topics and limited information about the project makes it difficult to fully assess its quality or purpose.
 
-### 3. forfudan/MojoMiji
+### 3. edwardvmills/Silk
+
+- Link: https://github.com/edwardvmills/Silk
+- Title: edwardvmills/Silk
+- Description: NURBS Surface modeling tools focused on low degree and seam continuity (FreeCAD Workbench)
+- Category: uncategorized
+- Type: unknown
+- Language: Python
+- Created: 2017-05-20
+- Age: 9 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 92
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 4. yuanw/nix-home
+
+- Link: https://github.com/yuanw/nix-home
+- Title: yuanw/nix-home
+- Description: My Nix dotfiles on MacOS/NixOS
+- Category: uncategorized
+- Type: unknown
+- Language: Nix
+- Created: 2019-12-12
+- Age: 6 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 46
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. forfudan/MojoMiji
 
 - Link: https://github.com/forfudan/MojoMiji
 - Title: forfudan/MojoMiji
@@ -63,7 +109,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 4. add-my-pet/DEBtool_M
+### 6. add-my-pet/DEBtool_M
 
 - Link: https://github.com/add-my-pet/DEBtool_M
 - Title: add-my-pet/DEBtool_M
@@ -86,7 +132,74 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 5. zcanann/SFA-Decomp
+### 7. jobright-ai/2026-Engineering-New-Grad
+
+- Link: https://github.com/jobright-ai/2026-Engineering-New-Grad
+- Title: jobright-ai/2026-Engineering-New-Grad
+- Description: Collection of 2026 New Grad Jobs in Engineering and Development!
+- Category: uncategorized
+- Type: unknown
+- Created: 2024-08-26
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 8. jobright-ai/2026-Business-Analyst-New-Grad
+
+- Link: https://github.com/jobright-ai/2026-Business-Analyst-New-Grad
+- Title: jobright-ai/2026-Business-Analyst-New-Grad
+- Description: Collection of 2026 New Grad Jobs in Business Analyst!
+- Category: uncategorized
+- Type: unknown
+- Created: 2024-08-26
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 9. tabhub/rss-feeds
+
+- Link: https://github.com/tabhub/rss-feeds
+- Title: tabhub/rss-feeds
+- Description: RSS feeds created/collected by TabHub.
+- Category: uncategorized
+- Type: unknown
+- Language: JavaScript
+- Created: 2020-10-23
+- Age: 5 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. zcanann/SFA-Decomp
 
 - Link: https://github.com/zcanann/SFA-Decomp
 - Title: zcanann/SFA-Decomp
@@ -109,7 +222,74 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 6. torvalds/1590A
+### 11. jobright-ai/2026-Account-New-Grad
+
+- Link: https://github.com/jobright-ai/2026-Account-New-Grad
+- Title: jobright-ai/2026-Account-New-Grad
+- Description: Collection of 2026 New Grad Jobs in Accounting and Finance!
+- Category: uncategorized
+- Type: unknown
+- Created: 2024-08-26
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 12. jwwelbor/AgentMap
+
+- Link: https://github.com/jwwelbor/AgentMap
+- Title: jwwelbor/AgentMap
+- Description: AgentMap: Build and deploy LangGraph workflows from CSV files. Create complex LLM agent graphs without coding, convert simple spreadsheets into powerful AI agents, and orchestrate multi-agent systems with ease. Integrate...
+- Category: uncategorized
+- Type: unknown
+- Language: Python
+- Created: 2025-05-06
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 13. jobright-ai/2026-Software-Engineer-New-Grad
+
+- Link: https://github.com/jobright-ai/2026-Software-Engineer-New-Grad
+- Title: jobright-ai/2026-Software-Engineer-New-Grad
+- Description: Collection of 2026 New Grad Jobs in Software Engineer!
+- Category: uncategorized
+- Type: unknown
+- Created: 2024-08-26
+- Age: 1 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 400
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 14. torvalds/1590A
 
 - Link: https://github.com/torvalds/1590A
 - Title: torvalds/1590A
