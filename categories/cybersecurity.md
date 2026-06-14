@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. Avarok-Cybersecurity/Citadel-Protocol
 
 - Link: https://github.com/Avarok-Cybersecurity/Citadel-Protocol
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: cybersecurity
 - Type: library
 - Language: Rust
+- Created: 2022-01-15
+- Age: 4 years 5 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 9.0/10
 - Maturity: 6.0/10
