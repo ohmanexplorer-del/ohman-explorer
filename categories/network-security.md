@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. Argh73/VpnConfigCollector
+### 1. celzero/firestack
 
-- Link: https://github.com/Argh73/VpnConfigCollector
-- Title: Argh73/VpnConfigCollector
-- Description: No description available.
+- Link: https://github.com/celzero/firestack
+- Title: celzero/firestack
+- Description: Userspace wireguard and network monitor
 - Category: network-security
 - Type: tool
 - Language: Go
-- Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 6.0/10
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 12
-- Reason: Limited scope but functional VPN config collector
+- Stars: 163
+- Reason: Focused implementation of WireGuard and network monitoring
 - Strengths:
-  - Specific use case
-  - Go implementation
+  - Userspace implementation
+  - Cross-platform potential
 - Weaknesses:
-  - Lack of documentation
-  - Limited features
+  - Limited documentation
+  - Dependence on WireGuard
 
