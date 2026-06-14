@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. Southclaws/storyden
 
 - Link: https://github.com/Southclaws/storyden
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: discussion-platforms
 - Type: app
 - Language: Go
+- Created: 2021-11-15
+- Age: 4 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 7.0/10
 - Novelty: 6.0/10
 - Maturity: 5.0/10
