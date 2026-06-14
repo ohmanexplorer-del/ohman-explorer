@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. KeibiSoft/KeibiDrop
 
 - Link: https://github.com/KeibiSoft/KeibiDrop
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: file-sharing
 - Type: tool
 - Language: Go
+- Created: 2025-05-06
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 8.0/10
 - Maturity: 4.0/10
