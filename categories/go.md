@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. stryan/materia
+### 1. reaper47/recipya
 
-- Link: https://github.com/stryan/materia
-- Title: stryan/materia
-- Description: GitOps tool for deploying Quadlets
+- Link: https://github.com/reaper47/recipya
+- Title: reaper47/recipya
+- Description: A clean, simple and powerful recipe manager your whole family will enjoy.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 162
-- Reason: Selected from repository metadata.
+- Stars: 400
+- Reason: {   "category": "recipe-management",   "project_type": "app",   "score": 7,   "novelty": 5
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. m-mizutani/zenv
+### 2. Mertcikla/tld
 
-- Link: https://github.com/m-mizutani/zenv
-- Title: m-mizutani/zenv
-- Description: Enhanced env command to set environment variable by various method
+- Link: https://github.com/Mertcikla/tld
+- Title: Mertcikla/tld
+- Description: Software architecture diagramming tool. Includes a modern easy to use Frontend + Backend + CLI to enable managing diagrams from the shell or in CI.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,75 +33,56 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 151
+- Stars: 254
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. betterstack-community/go-logging-benchmarks
+### 3. sarchlab/akita
 
-- Link: https://github.com/betterstack-community/go-logging-benchmarks
-- Title: betterstack-community/go-logging-benchmarks
-- Description: A comparison of the top logging libraries for Go
+- Link: https://github.com/sarchlab/akita
+- Title: sarchlab/akita
+- Description: A flexible, high-performance, user-friendly computer architecture simulator engine
 - Category: go
 - Type: unknown
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 59
-- Reason: {   "category": "logging",   "project_type": "example",   "score": 6,   "novelty": 4,   "m
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. guitarrapc/githubactions-lab
-
-- Link: https://github.com/guitarrapc/githubactions-lab
-- Title: guitarrapc/githubactions-lab
-- Description: github actions ci lab
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 55
+- Small repo potential: 6.0/10
+- Stars: 108
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. openshift/sippy
+### 4. dharmab/skyeye
 
-- Link: https://github.com/openshift/sippy
-- Title: openshift/sippy
-- Description: Sippy provides dashboards for the openshift CI test/job data
+- Link: https://github.com/dharmab/skyeye
+- Title: dharmab/skyeye
+- Description: Self-hostable AI Powered GCI Bot for DCS
 - Category: go
 - Type: unknown
 - Language: Go
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 34
+- Small repo potential: 6.0/10
+- Stars: 107
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. ze-software/ze
+### 5. chukwuemekawisdom/claude2api
 
-- Link: https://github.com/ze-software/ze
-- Title: ze-software/ze
-- Description: Ze networking software you didn't know you were looking for.
+- Link: https://github.com/chukwuemekawisdom/claude2api
+- Title: chukwuemekawisdom/claude2api
+- Description: 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,18 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 32
+- Stars: 56
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. afadesigns/zshellcheck
+### 6. crossplane-contrib/function-kro
 
-- Link: https://github.com/afadesigns/zshellcheck
-- Title: afadesigns/zshellcheck
-- Description: Static analysis and auto-fix for the setopts, hooks, and globs Bash never learned.
+- Link: https://github.com/crossplane-contrib/function-kro
+- Title: crossplane-contrib/function-kro
+- Description: YAML+CEL experience from kro as a Crossplane function
 - Category: go
 - Type: unknown
 - Language: Go
@@ -128,18 +109,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 29
-- Reason: {   "category": "shell-linters",   "project_type": "tool",   "score": 7.2,   "novelty": 
+- Stars: 18
+- Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. sahil87/fab-kit
+### 7. thedavidweng/monarchmoney-cli
 
-- Link: https://github.com/sahil87/fab-kit
-- Title: sahil87/fab-kit
-- Description: Structured, spec-driven development workflow for AI coding agents.
+- Link: https://github.com/thedavidweng/monarchmoney-cli
+- Title: thedavidweng/monarchmoney-cli
+- Description: A local, agent-friendly command-line tool for Monarch Money. Written in Go.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -147,7 +128,26 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 22
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 8. signalridge/slipway
+
+- Link: https://github.com/signalridge/slipway
+- Title: signalridge/slipway
+- Description: Spec-driven development with full lifecycle accountability for Claude, Codex, Cursor & Gemini
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
