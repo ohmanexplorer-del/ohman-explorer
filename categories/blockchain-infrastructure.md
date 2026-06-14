@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. tazhate/chainplane
 
 - Link: https://github.com/tazhate/chainplane
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: blockchain-infrastructure
 - Type: tool
 - Language: Go
+- Created: 2026-03-27
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 8.0/10
 - Maturity: 3.0/10
