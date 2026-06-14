@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. thlib/go-timezone-local
 
 - Link: https://github.com/thlib/go-timezone-local
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: date-time-utils
 - Type: library
 - Language: Go
+- Created: 2021-08-28
+- Age: 4 years 9 months
+- Last pushed: 2026-06-13
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
 - Novelty: 2.0/10
 - Maturity: 4.0/10
