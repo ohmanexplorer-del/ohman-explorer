@@ -2,19 +2,19 @@
 
 Curated projects in this category.
 
-### 1. stormsia/proxy-list
+### 1. t-mart/mousehole
 
-- Link: https://github.com/stormsia/proxy-list
-- Title: stormsia/proxy-list
-- Description: 🚀 A curated collection of working proxies, automatically updated every 30 minutes. Features real-time validation, anonymity levels, and detailed statistics.
+- Link: https://github.com/t-mart/mousehole
+- Title: t-mart/mousehole
+- Description: A background service to update a seedbox IP for MAM
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 29
+- Small repo potential: 6.0/10
+- Stars: 230
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
