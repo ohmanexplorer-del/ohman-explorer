@@ -2,14 +2,15 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 15:38:33 UTC
+Last updated: 2026-06-14 16:01:02 UTC
 
-Total indexed projects: 437
+Total indexed projects: 447
 
 ## Categories
 
 | Category | Projects |
 |---|---:|
+| [accessibility-tool](categories/accessibility-tool.md) | 1 |
 | [admin-backend](categories/admin-backend.md) | 1 |
 | [ai-agent](categories/ai-agent.md) | 1 |
 | [ai-agents](categories/ai-agents.md) | 2 |
@@ -26,7 +27,7 @@ Total indexed projects: 437
 | [ai-routing](categories/ai-routing.md) | 1 |
 | [ai-runtime](categories/ai-runtime.md) | 1 |
 | [ai-sandbox](categories/ai-sandbox.md) | 1 |
-| [ai-security](categories/ai-security.md) | 5 |
+| [ai-security](categories/ai-security.md) | 6 |
 | [ai-simulation](categories/ai-simulation.md) | 1 |
 | [ai-tooling](categories/ai-tooling.md) | 1 |
 | [ai-toolkit](categories/ai-toolkit.md) | 1 |
@@ -68,7 +69,7 @@ Total indexed projects: 437
 | [database-orm](categories/database-orm.md) | 1 |
 | [database-security](categories/database-security.md) | 1 |
 | [database-system](categories/database-system.md) | 1 |
-| [database-tooling](categories/database-tooling.md) | 1 |
+| [database-tooling](categories/database-tooling.md) | 2 |
 | [database-tools](categories/database-tools.md) | 1 |
 | [date-time-utils](categories/date-time-utils.md) | 1 |
 | [deep-learning](categories/deep-learning.md) | 1 |
@@ -78,18 +79,22 @@ Total indexed projects: 437
 | [dev-tools](categories/dev-tools.md) | 4 |
 | [developer-tools](categories/developer-tools.md) | 6 |
 | [devops-tooling](categories/devops-tooling.md) | 2 |
+| [devops-tools](categories/devops-tools.md) | 1 |
 | [discord-bot](categories/discord-bot.md) | 1 |
 | [discussion-platforms](categories/discussion-platforms.md) | 1 |
 | [distributed-systems](categories/distributed-systems.md) | 1 |
 | [document-processing](categories/document-processing.md) | 1 |
 | [documentation-website](categories/documentation-website.md) | 1 |
 | [driver-build-tools](categories/driver-build-tools.md) | 1 |
+| [e-commerce-bot](categories/e-commerce-bot.md) | 1 |
 | [e-commerce-sdk](categories/e-commerce-sdk.md) | 1 |
 | [emulation-engine](categories/emulation-engine.md) | 1 |
 | [file-sharing](categories/file-sharing.md) | 1 |
 | [fullstack-boilerplate](categories/fullstack-boilerplate.md) | 1 |
 | [game-engine](categories/game-engine.md) | 1 |
 | [game-modification](categories/game-modification.md) | 1 |
+| [game-revival](categories/game-revival.md) | 1 |
+| [gaming-ai](categories/gaming-ai.md) | 1 |
 | [gaming-client](categories/gaming-client.md) | 1 |
 | [github-tools](categories/github-tools.md) | 1 |
 | [go](categories/go.md) | 203 |
@@ -103,6 +108,7 @@ Total indexed projects: 437
 | [infrastructure-as-code](categories/infrastructure-as-code.md) | 6 |
 | [infrastructure-automation](categories/infrastructure-automation.md) | 1 |
 | [installer-sdk](categories/installer-sdk.md) | 1 |
+| [iot-dashboard](categories/iot-dashboard.md) | 1 |
 | [iot-management](categories/iot-management.md) | 1 |
 | [issue-tracking](categories/issue-tracking.md) | 1 |
 | [k8s-security](categories/k8s-security.md) | 1 |
@@ -134,6 +140,7 @@ Total indexed projects: 437
 | [nlp-framework](categories/nlp-framework.md) | 1 |
 | [osx-development](categories/osx-development.md) | 1 |
 | [pdf-creation](categories/pdf-creation.md) | 1 |
+| [privacy-tools](categories/privacy-tools.md) | 1 |
 | [productivity-tool](categories/productivity-tool.md) | 1 |
 | [programming-language](categories/programming-language.md) | 1 |
 | [programming-languages](categories/programming-languages.md) | 1 |
@@ -149,6 +156,7 @@ Total indexed projects: 437
 | [security-tool](categories/security-tool.md) | 2 |
 | [security-tools](categories/security-tools.md) | 4 |
 | [serverless-framework](categories/serverless-framework.md) | 1 |
+| [social-media-bot](categories/social-media-bot.md) | 1 |
 | [sql-parser](categories/sql-parser.md) | 1 |
 | [streaming-api](categories/streaming-api.md) | 1 |
 | [telegram-bot](categories/telegram-bot.md) | 1 |
@@ -182,12 +190,15 @@ Total indexed projects: 437
 |---|---:|
 | Go | 403 |
 | TypeScript | 23 |
-| Unknown | 3 |
+| Unknown | 5 |
+| Python | 4 |
 | C | 2 |
-| C++ | 1 |
-| HTML | 1 |
+| C++ | 2 |
+| HTML | 2 |
+| AutoHotkey | 1 |
+| Kotlin | 1 |
 | OpenSCAD | 1 |
-| Python | 1 |
+| PowerShell | 1 |
 | SCSS | 1 |
 | Vue | 1 |
 
