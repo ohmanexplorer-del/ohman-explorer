@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. Au1rxx/free-vpn-subscriptions
 
 - Link: https://github.com/Au1rxx/free-vpn-subscriptions
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: vpn-tools
 - Type: tool
 - Language: Go
+- Created: 2026-04-09
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
@@ -31,6 +37,10 @@ Curated projects in this category.
 - Description: Надоело смотреть на "соединение..." в телеграме? Бесит баннер "Адрес не найден"? Мы просто убираем все БС и ЧС в сторонку, чт...
 - Category: vpn-tools
 - Type: tool
+- Created: 2026-01-14
+- Age: 5 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 6.0/10
