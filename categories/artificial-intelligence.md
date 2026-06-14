@@ -767,7 +767,30 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Low star count
   - Limited community
 
-### 31. merill/msgraph
+### 31. hazel-js/hazeljs
+
+- Link: https://github.com/hazel-js/hazeljs
+- Title: hazel-js/hazeljs
+- Description: HazelJS is AI native runtime and framework
+- Category: artificial-intelligence
+- Type: framework
+- Language: TypeScript
+- Created: 2025-12-08
+- Age: 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 7.0/10
+- Novelty: 8.0/10
+- Maturity: 6.0/10
+- Small repo potential: 5.0/10
+- Stars: 46
+- Reason: The project is a real, working AI framework with clear purpose and English documentation.
+- Strengths:
+  - Unique AI native runtime and framework
+- Weaknesses:
+  - Low star count and relatively low maturity
+
+### 32. merill/msgraph
 
 - Link: https://github.com/merill/msgraph
 - Title: merill/msgraph
@@ -792,7 +815,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependence on Microsoft Graph
 
-### 32. railzen/nezha-zero
+### 33. railzen/nezha-zero
 
 - Link: https://github.com/railzen/nezha-zero
 - Title: railzen/nezha-zero
@@ -816,7 +839,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - No clear use cases
 
-### 33. egv/yolo-runner
+### 34. egv/yolo-runner
 
 - Link: https://github.com/egv/yolo-runner
 - Title: egv/yolo-runner
@@ -839,7 +862,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited functionality and unclear purpose
 
-### 34. cxykevin/alkaid0
+### 35. cxykevin/alkaid0
 
 - Link: https://github.com/cxykevin/alkaid0
 - Title: cxykevin/alkaid0
@@ -862,7 +885,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited documentation and community
 
-### 35. tobinjo96/CPFcluster
+### 36. tobinjo96/CPFcluster
 
 - Link: https://github.com/tobinjo96/CPFcluster
 - Title: tobinjo96/CPFcluster
@@ -887,7 +910,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Lack of documentation
   - Limited community engagement
 
-### 36. reh3376/mdemg
+### 37. reh3376/mdemg
 
 - Link: https://github.com/reh3376/mdemg
 - Title: reh3376/mdemg
