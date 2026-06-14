@@ -7705,7 +7705,7 @@
     "created_at": "2024-10-30T03:05:47+07:00",
     "updated_at": "2026-06-14T07:39:09+07:00",
     "pushed_at": "2026-06-14T07:39:27+07:00",
-    "repo_age_days": 592,
+    "repo_age_days": 593,
     "repo_age_label": "1 years 7 months",
     "ai_score": 7,
     "ai_notes": "Focused on secure database access",
@@ -8309,6 +8309,49 @@
     "publish": true
   },
   {
+    "github_id": 1112581654,
+    "full_name": "hazel-js/hazeljs",
+    "owner": "hazel-js",
+    "description": "HazelJS is AI native runtime and framework",
+    "stars": 46,
+    "forks": 2,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "ai-tools",
+      "rag",
+      "rag-pipeline",
+      "web-framework"
+    ],
+    "license": "Other",
+    "default_branch": "main",
+    "homepage": "https://hazeljs.ai",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-12-09T03:30:48+07:00",
+    "updated_at": "2026-06-15T03:19:53+07:00",
+    "pushed_at": "2026-06-15T03:19:51+07:00",
+    "repo_age_days": 187,
+    "repo_age_label": "6 months",
+    "ai_score": 7,
+    "ai_notes": "The project is a real, working AI framework with clear purpose and English documentation.",
+    "readme_summary": "",
+    "category": "artificial-intelligence",
+    "project_type": "framework",
+    "novelty": 8,
+    "maturity": 6,
+    "small_repo_fit": 5,
+    "strengths": [
+      "Unique AI native runtime and framework"
+    ],
+    "weaknesses": [
+      "Low star count and relatively low maturity"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1149419805,
     "full_name": "hevnsnt/collider",
     "owner": "hevnsnt",
@@ -8409,6 +8452,42 @@
     "weaknesses": [
       "Limited novelty",
       "May require additional setup for production use"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1092940697,
+    "full_name": "picccassso/Ariami",
+    "owner": "picccassso",
+    "description": "Cross-Platform Self-Hosted Music App built using Flutter.",
+    "stars": 22,
+    "forks": 1,
+    "language": "Dart",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-11-09T22:57:00+07:00",
+    "updated_at": "2026-06-14T23:57:58+07:00",
+    "pushed_at": "2026-06-15T03:19:58+07:00",
+    "repo_age_days": 217,
+    "repo_age_label": "7 months",
+    "ai_score": 6.5,
+    "ai_notes": "The project is a real, working music app with a clear purpose, but lacks documentation and releases.",
+    "readme_summary": "",
+    "category": "media",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Cross-platform support",
+      "Self-hosted"
+    ],
+    "weaknesses": [
+      "Low star count",
+      "Lack of documentation"
     ],
     "publish": true
   },
@@ -8668,6 +8747,49 @@
     "weaknesses": [
       "Limited information available",
       "Low community engagement"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1192699008,
+    "full_name": "nikships/droidproxy",
+    "owner": "nikships",
+    "description": "A native macOS menu bar app that proxies Claude/Codex/Gemini subscriptions for use with Factory Droid CLI. Always updated with new model releases!",
+    "stars": 99,
+    "forks": 13,
+    "language": "Swift",
+    "topics": [
+      "anthropic",
+      "claude",
+      "droid",
+      "factory",
+      "macos",
+      "menu-bar-app",
+      "proxy",
+      "swift"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://droidproxy-site.web.app/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-03-26T20:28:15+07:00",
+    "updated_at": "2026-06-15T03:19:52+07:00",
+    "pushed_at": "2026-06-15T03:19:49+07:00",
+    "repo_age_days": 80,
+    "repo_age_label": "2 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
     ],
     "publish": true
   },
@@ -9296,6 +9418,40 @@
     "weaknesses": [
       "Limited documentation",
       "Unclear proxy source"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1406218,
+    "full_name": "xwiki/xwiki-rendering",
+    "owner": "xwiki",
+    "description": "The XWiki Rendering Engine",
+    "stars": 80,
+    "forks": 85,
+    "language": "Java",
+    "topics": [],
+    "license": "GNU Lesser General Public License v2.1",
+    "default_branch": "master",
+    "homepage": "http://rendering.xwiki.org",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2011-02-24T17:25:20+07:00",
+    "updated_at": "2026-06-15T03:19:56+07:00",
+    "pushed_at": "2026-06-15T03:19:49+07:00",
+    "repo_age_days": 5589,
+    "repo_age_label": "15 years 3 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
     ],
     "publish": true
   },
@@ -11211,7 +11367,7 @@
     "created_at": "2022-12-14T03:14:11+07:00",
     "updated_at": "2026-06-14T05:54:32+07:00",
     "pushed_at": "2026-06-14T05:57:32+07:00",
-    "repo_age_days": 1278,
+    "repo_age_days": 1279,
     "repo_age_label": "3 years 6 months",
     "ai_score": 6,
     "ai_notes": "Well-structured Go codebase",
@@ -11621,7 +11777,7 @@
     "created_at": "2024-08-26T03:05:16+07:00",
     "updated_at": "2026-06-14T06:54:54+07:00",
     "pushed_at": "2026-06-14T06:54:51+07:00",
-    "repo_age_days": 657,
+    "repo_age_days": 658,
     "repo_age_label": "1 years 9 months",
     "ai_score": 6,
     "ai_notes": "Selected from repository metadata.",
@@ -12142,6 +12298,56 @@
     "ai_notes": "Selected from repository metadata.",
     "readme_summary": "",
     "category": "go",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1131308316,
+    "full_name": "pog7x/vpn-configs",
+    "owner": "pog7x",
+    "description": "💻🛡 Free VPN configs for VPN and proxy tools",
+    "stars": 34,
+    "forks": 3,
+    "language": "Python",
+    "topics": [
+      "free-vpn-keys",
+      "nekobox",
+      "nekoray",
+      "proxy",
+      "proxy-server",
+      "russia-vpn",
+      "shadowsocks",
+      "v2rayng",
+      "vless",
+      "vpn-connections",
+      "vpn-for-russia",
+      "vpn-gateway",
+      "vpn-keys",
+      "vpn-russia",
+      "xray"
+    ],
+    "license": "",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-01-10T02:47:14+07:00",
+    "updated_at": "2026-06-15T03:19:59+07:00",
+    "pushed_at": "2026-06-15T03:19:59+07:00",
+    "repo_age_days": 156,
+    "repo_age_label": "5 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
     "project_type": "unknown",
     "novelty": 5,
     "maturity": 6,
@@ -13485,6 +13691,44 @@
     "publish": true
   },
   {
+    "github_id": 804754783,
+    "full_name": "atlanhq/application-sdk",
+    "owner": "atlanhq",
+    "description": "Application SDK is a python library to build resilient applications on the Atlan platform",
+    "stars": 27,
+    "forks": 15,
+    "language": "Python",
+    "topics": [
+      "atlan",
+      "python",
+      "sdk"
+    ],
+    "license": "Apache License 2.0",
+    "default_branch": "main",
+    "homepage": "https://docs.atlan.com/product/capabilities/build-apps",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-05-23T14:51:00+07:00",
+    "updated_at": "2026-06-15T03:19:58+07:00",
+    "pushed_at": "2026-06-15T03:19:57+07:00",
+    "repo_age_days": 752,
+    "repo_age_label": "2 years",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 785589365,
     "full_name": "indmdev/indmshopbot",
     "owner": "indmdev",
@@ -13645,7 +13889,7 @@
     "created_at": "2023-06-14T03:13:20+07:00",
     "updated_at": "2026-06-14T16:15:53+07:00",
     "pushed_at": "2026-06-14T16:15:51+07:00",
-    "repo_age_days": 1096,
+    "repo_age_days": 1097,
     "repo_age_label": "3 years",
     "ai_score": 6,
     "ai_notes": "Selected from repository metadata.",
@@ -14429,6 +14673,53 @@
     "publish": true
   },
   {
+    "github_id": 1092028876,
+    "full_name": "raintree-technology/docpull",
+    "owner": "raintree-technology",
+    "description": "Convert the web into AI-ready Markdown with an async Python crawler, smart caching, profiles, and MCP support.",
+    "stars": 22,
+    "forks": 2,
+    "language": "Python",
+    "topics": [
+      "ai-training-data",
+      "cli",
+      "crawler",
+      "developer-tools",
+      "documentation",
+      "llm",
+      "markdown",
+      "mcp",
+      "pypi",
+      "python",
+      "rag",
+      "web-scraping"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://docpull.raintree.technology/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-11-08T05:03:11+07:00",
+    "updated_at": "2026-06-15T03:19:56+07:00",
+    "pushed_at": "2026-06-15T03:19:54+07:00",
+    "repo_age_days": 218,
+    "repo_age_label": "7 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1150514910,
     "full_name": "sahil87/fab-kit",
     "owner": "sahil87",
@@ -14926,7 +15217,7 @@
     "created_at": "2024-02-09T03:16:57+07:00",
     "updated_at": "2026-06-14T12:40:14+07:00",
     "pushed_at": "2026-06-14T12:40:11+07:00",
-    "repo_age_days": 856,
+    "repo_age_days": 857,
     "repo_age_label": "2 years 4 months",
     "ai_score": 6,
     "ai_notes": "Selected from repository metadata.",
@@ -15266,7 +15557,7 @@
     "created_at": "2021-03-10T03:03:13+07:00",
     "updated_at": "2026-06-14T23:39:53+07:00",
     "pushed_at": "2026-06-14T23:39:50+07:00",
-    "repo_age_days": 1922,
+    "repo_age_days": 1923,
     "repo_age_label": "5 years 3 months",
     "ai_score": 6,
     "ai_notes": "Well-structured Kubernetes configuration",
@@ -15909,6 +16200,48 @@
     "publish": true
   },
   {
+    "github_id": 490584229,
+    "full_name": "Simon-He95/Simon-He95",
+    "owner": "Simon-He95",
+    "description": "Frontend DX \u0026 open-source tooling · Vue, TypeScript, UnoCSS, VSCode Extensions",
+    "stars": 15,
+    "forks": 1,
+    "language": "Shell",
+    "topics": [
+      "dx",
+      "frontend",
+      "open-source",
+      "typescript",
+      "unocss",
+      "vscode-extension",
+      "vue"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "https://www.simonhe.me",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2022-05-10T14:16:47+07:00",
+    "updated_at": "2026-06-15T03:19:52+07:00",
+    "pushed_at": "2026-06-15T03:19:49+07:00",
+    "repo_age_days": 1496,
+    "repo_age_label": "4 years 1 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 354901902,
     "full_name": "fullstack-lang/gong",
     "owner": "fullstack-lang",
@@ -16073,6 +16406,47 @@
     "ai_notes": "Selected from repository metadata.",
     "readme_summary": "",
     "category": "go",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1268421611,
+    "full_name": "watadarkstar/react-native-nsfw-detector",
+    "owner": "watadarkstar",
+    "description": "A fast on device AI image safety detector for React Native / Expo using a CoreML model to detect nudity and unsafe visual content in images.",
+    "stars": 15,
+    "forks": 0,
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "coreml",
+      "expo",
+      "machine-learning",
+      "react-native",
+      "swift"
+    ],
+    "license": "Other",
+    "default_branch": "main",
+    "homepage": "https://www.npmjs.com/package/react-native-nsfw-detector",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-06-13T21:11:17+07:00",
+    "updated_at": "2026-06-15T03:19:55+07:00",
+    "pushed_at": "2026-06-15T03:19:52+07:00",
+    "repo_age_days": 1,
+    "repo_age_label": "1 days",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
     "project_type": "unknown",
     "novelty": 5,
     "maturity": 6,
@@ -18387,6 +18761,40 @@
     "publish": true
   },
   {
+    "github_id": 1172570039,
+    "full_name": "cogni-work/insight-wave",
+    "owner": "cogni-work",
+    "description": "Open-source Claude Code plugins for knowledge work — consulting, B2B sales, marketing, and strategic foresight.",
+    "stars": 10,
+    "forks": 1,
+    "language": "Python",
+    "topics": [],
+    "license": "GNU Affero General Public License v3.0",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-03-04T20:10:19+07:00",
+    "updated_at": "2026-06-15T03:19:59+07:00",
+    "pushed_at": "2026-06-15T03:19:55+07:00",
+    "repo_age_days": 102,
+    "repo_age_label": "3 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 469668604,
     "full_name": "d-velop/grafana-odata-datasource",
     "owner": "d-velop",
@@ -18456,7 +18864,7 @@
     "created_at": "2026-04-07T03:20:16+07:00",
     "updated_at": "2026-06-14T12:58:16+07:00",
     "pushed_at": "2026-06-14T13:00:00+07:00",
-    "repo_age_days": 68,
+    "repo_age_days": 69,
     "repo_age_label": "2 months",
     "ai_score": 6,
     "ai_notes": "Selected from repository metadata.",
@@ -18797,7 +19205,7 @@
     "created_at": "2021-06-23T03:17:23+07:00",
     "updated_at": "2026-06-15T00:19:52+07:00",
     "pushed_at": "2026-06-15T00:19:49+07:00",
-    "repo_age_days": 1817,
+    "repo_age_days": 1818,
     "repo_age_label": "4 years 11 months",
     "ai_score": 6,
     "ai_notes": "Selected from repository metadata.",
