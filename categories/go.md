@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. ozgurcd/gograph
+### 1. runxiyu/furgit
 
-- Link: https://github.com/ozgurcd/gograph
-- Title: ozgurcd/gograph
-- Description: Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more.
+- Link: https://github.com/runxiyu/furgit
+- Title: runxiyu/furgit
+- Description: Low-level Git plumbing library in pure Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,37 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 175
+- Stars: 254
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. cozystack/blockstor
+### 2. secmon-lab/warren
 
-- Link: https://github.com/cozystack/blockstor
-- Title: cozystack/blockstor
-- Description: Free Software-Defined Storage System based on Kubernetes
+- Link: https://github.com/secmon-lab/warren
+- Title: secmon-lab/warren
+- Description: AI-powered security alert management that reduces noise and accelerates response time
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 127
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 3. home-operations/gatus-sidecar
+
+- Link: https://github.com/home-operations/gatus-sidecar
+- Title: home-operations/gatus-sidecar
+- Description: Generate Gatus endpoint configs from Kubernetes HTTPRoute, Ingress, and Service resources
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +52,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 41
+- Stars: 74
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. procinger/turing-pi-v2-cluster
+### 4. paketo-buildpacks/dotnet-core
 
-- Link: https://github.com/procinger/turing-pi-v2-cluster
-- Title: procinger/turing-pi-v2-cluster
-- Description: Turing Pi V2 K3S Cluster bootstrapping with Ansible and Argo CD. Dependency monitoring and updating with Renovate Bot. Running CI tests with the K8S E2E Framework.
+- Link: https://github.com/paketo-buildpacks/dotnet-core
+- Title: paketo-buildpacks/dotnet-core
+- Description: A Cloud Native Buildpack for .NET Core
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 26
+- Stars: 49
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. BK-1107/GoNexus
+### 5. jr200-labs/nats-iam-broker
 
-- Link: https://github.com/BK-1107/GoNexus
-- Title: BK-1107/GoNexus
-- Description: No description available.
+- Link: https://github.com/jr200-labs/nats-iam-broker
+- Title: jr200-labs/nats-iam-broker
+- Description: A NATS decentralised auth-callout service to swap thirdparty IdP JWTs for RBAC'd NATS User JWTs
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 21
+- Stars: 29
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. jordigilh/kubernaut
+### 6. zoharbabin/web-researcher-mcp
 
-- Link: https://github.com/jordigilh/kubernaut
-- Title: jordigilh/kubernaut
-- Description: Open-source AIOps platform that closes the loop from Kubernetes alert to automated remediation. An AI Agent investigates live via native client-go bindings, logs, and Prometheus, selects a fix from a workflow catalog, an...
+- Link: https://github.com/zoharbabin/web-researcher-mcp
+- Title: zoharbabin/web-researcher-mcp
+- Description: Verifies citations, flags retractions, audits bibliographies — and searches the web. Your AI research assistant that cites real sources and stays honest. Works with Claude, Cursor, any MCP client.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,18 +109,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 20
+- Stars: 16
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. baekenough/second-brain
+### 7. winebarrel/pistachio
 
-- Link: https://github.com/baekenough/second-brain
-- Title: baekenough/second-brain
-- Description: LLM 큐레이션 프라이빗 검색 엔진. Slack/GitHub/GDrive/파일시스템 하이브리드 검색 + AI 큐레이션 API.
+- Link: https://github.com/winebarrel/pistachio
+- Title: winebarrel/pistachio
+- Description: pistachio is a declarative schema management tool for PostgreSQL.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -109,26 +128,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 12
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 7. kagenti/kagenti-extensions
-
-- Link: https://github.com/kagenti/kagenti-extensions
-- Title: kagenti/kagenti-extensions
-- Description: Repository for kagenti extensions projects
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 11
+- Stars: 14
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
