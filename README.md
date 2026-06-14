@@ -2,80 +2,57 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 04:20:57 UTC
+Last updated: 2026-06-14 04:40:57 UTC
 
 ## Latest Findings
 
-### 1. Danialsamadi/v2go
+### 1. kelos-dev/kelos
 
-- Link: https://github.com/Danialsamadi/v2go
-- Title: Danialsamadi/v2go
-- Description: v2go is a blazingly fast Go V2Ray config aggregator that processes 20,000+ configurations in 11 seconds (99.7% faster than Python), automatically removing duplicates and generating fresh subscription files every 6 hours.
-- Category: networking-tool
+- Link: https://github.com/kelos-dev/kelos
+- Title: kelos-dev/kelos
+- Description: Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
+- Category: ai-automation
+- Type: framework
+- Language: Go
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 7.0/10
+- Stars: 218
+- Reason: Unique approach to autonomous AI coding agents
+- Strengths:
+  - Kubernetes-native design
+  - Focus on autonomous coding agents
+- Weaknesses:
+  - Limited documentation
+  - Relatively small community
+
+### 2. cncf/sbom
+
+- Link: https://github.com/cncf/sbom
+- Title: cncf/sbom
+- Description: House of SBOMs (and tooling)
+- Category: security-tools
 - Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 116
-- Reason: High-performance V2Ray config aggregator
-- Strengths:
-  - Blazingly fast performance
-  - Automatic duplicate removal
-  - Scheduled subscription file generation
-- Weaknesses:
-  - Limited topics and documentation
-  - Dependence on V2Ray ecosystem
-
-### 2. fe-spark/EcoHub
-
-- Link: https://github.com/fe-spark/EcoHub
-- Title: fe-spark/EcoHub
-- Description: 一款高性能、现代化的全栈影视聚合系统。它不仅提供极致流畅的 Web 观影体验，还集成了强大的自动化采集与管理后台，旨在帮助开发者和影视爱好者快速搭建属于�...
-- Category: media-streaming
-- Type: app
-- Language: Go
-- Score: 7.0/10
-- Novelty: 6.0/10
-- Maturity: 5.0/10
-- Small repo potential: 8.0/10
-- Stars: 50
-- Reason: A high-performance Go-based media aggregation and automation system that offers a modern, fast alternative to legacy PHP-based movie CMS platforms.
-- Strengths:
-  - Go-based backend ensures high performance and low resource usage
-  - Integrates automated media collection/scraping and management in one package
-  - Modern, user-friendly Web UI for streaming and administration
-- Weaknesses:
-  - Relatively early stage with limited community adoption
-  - Dependency on external scrapers which are prone to breaking when target sites change
-
-### 3. Clov614/SteamHostSync
-
-- Link: https://github.com/Clov614/SteamHostSync
-- Title: Clov614/SteamHostSync
-- Description: 自动同步hosts
-- Category: network-utility
-- Type: tool
-- Language: Go
-- Score: 6.0/10
-- Novelty: 2.0/10
 - Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 268
-- Reason: Simple yet effective hosts synchronization tool
+- Stars: 10
+- Reason: Focused on SBOM management
 - Strengths:
-  - Automates hosts synchronization
-  - Written in Go for efficiency
+  - Specific use case
+  - CNCF backing
 - Weaknesses:
-  - Lack of detailed documentation
-  - Limited features
+  - Limited topics
+  - Low star count
 
-### 4. sakullla/nginx-reverse-emby
+### 3. divVerent/aaaaxy
 
-- Link: https://github.com/sakullla/nginx-reverse-emby
-- Title: sakullla/nginx-reverse-emby
-- Description: nginx emby反代
+- Link: https://github.com/divVerent/aaaaxy
+- Title: divVerent/aaaaxy
+- Description: A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -83,18 +60,75 @@ Last updated: 2026-06-14 04:20:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 179
+- Stars: 284
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. xarantolus/fdroid
+### 4. Delta-Kronecker/V2ray-Config
 
-- Link: https://github.com/xarantolus/fdroid
-- Title: xarantolus/fdroid
-- Description: Auto-updating F-Droid repo using GitHub Actions
+- Link: https://github.com/Delta-Kronecker/V2ray-Config
+- Title: Delta-Kronecker/V2ray-Config
+- Description: 🔥 با کیفیت ترین کانفیگ ها برای شرایط فعلی اینترنت ایران، به همراه کانفیگ های مخصوص اسپوف و ساب های کلش 🔥
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 184
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. soybeanjs/soybean-ui
+
+- Link: https://github.com/soybeanjs/soybean-ui
+- Title: soybeanjs/soybean-ui
+- Description: A powerful and elegant Vue 3 component system with headless primitives and ready-to-use styled wrappers.
+- Category: typescript
+- Type: unknown
+- Language: TypeScript
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 183
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. tanaikech/ggsrun
+
+- Link: https://github.com/tanaikech/ggsrun
+- Title: tanaikech/ggsrun
+- Description: High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Apps Script (GAS) dynamically, automate conflict policies, recursive transfer, and manage Drive infrastructure...
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 165
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. databricks/databricks-sdk-go
+
+- Link: https://github.com/databricks/databricks-sdk-go
+- Title: databricks/databricks-sdk-go
+- Description: Databricks SDK for Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -102,114 +136,79 @@ Last updated: 2026-06-14 04:20:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 53
+- Stars: 78
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. cloudboss/keights
+### 8. soapbox-pub/ditto
 
-- Link: https://github.com/cloudboss/keights
-- Title: cloudboss/keights
-- Description: A Kubernetes installer for AWS
-- Category: go
+- Link: https://github.com/soapbox-pub/ditto
+- Title: soapbox-pub/ditto
+- Description: Your content. Your vibe. Your rules.
+- Category: typescript
 - Type: unknown
-- Language: Go
+- Language: TypeScript
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 25
+- Stars: 59
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. nabeken/go-github-apps
+### 9. codaqui/institucional
 
-- Link: https://github.com/nabeken/go-github-apps
-- Title: nabeken/go-github-apps
-- Description: A tiny command-line utility to retrieve Github Apps Installation Token
-- Category: go
+- Link: https://github.com/codaqui/institucional
+- Title: codaqui/institucional
+- Description: Repositório central da Codaqui, possui os documentos e discussões.
+- Category: typescript
 - Type: unknown
-- Language: Go
+- Language: TypeScript
 - Score: 6.0/10
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 17
+- Stars: 34
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. OpenCSGs/csgclaw
+### 10. aspect-build/aspect-gazelle
 
-- Link: https://github.com/OpenCSGs/csgclaw
-- Title: OpenCSGs/csgclaw
-- Description: Your own personal AI team.
-- Category: go
-- Type: unknown
+- Link: https://github.com/aspect-build/aspect-gazelle
+- Title: aspect-build/aspect-gazelle
+- Description: Aspect Gazelle languages, enhancements, utils
+- Category: build-tools
+- Type: tool
 - Language: Go
 - Score: 6.0/10
-- Novelty: 5.0/10
+- Novelty: 4.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 15
-- Reason: Selected from repository metadata.
+- Stars: 12
+- Reason: Focused on specific build enhancements
 - Strengths:
-  - Interesting repository metadata
+  - Specific use case
+  - Go implementation
 - Weaknesses:
-  - Needs deeper review
-
-### 9. sergeknystautas/schmux
-
-- Link: https://github.com/sergeknystautas/schmux
-- Title: sergeknystautas/schmux
-- Description: Smart Cognitive Hub on tmux - orchestrate multiple AI coding agents
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 10. nabeken/go-smtp-source
-
-- Link: https://github.com/nabeken/go-smtp-source
-- Title: nabeken/go-smtp-source
-- Description: A simple drop-in replacement for smtp-source in Postfix distribution written in Go
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
+  - Limited topics
+  - Low star count
 
 ## Categories
 
+- [ai-automation](categories/ai-automation.md)
+- [build-tools](categories/build-tools.md)
 - [go](categories/go.md)
-- [media-streaming](categories/media-streaming.md)
-- [network-utility](categories/network-utility.md)
-- [networking-tool](categories/networking-tool.md)
+- [security-tools](categories/security-tools.md)
+- [typescript](categories/typescript.md)
 
 ## Data
 
