@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. pulumi/pulumi-command
 
 - Link: https://github.com/pulumi/pulumi-command
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: infrastructure-as-code
 - Type: library
 - Language: Go
+- Created: 2021-09-01
+- Age: 4 years 9 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
@@ -32,6 +38,10 @@ Curated projects in this category.
 - Category: infrastructure-as-code
 - Type: tool
 - Language: Go
+- Created: 2025-09-28
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
@@ -54,6 +64,10 @@ Curated projects in this category.
 - Category: infrastructure-as-code
 - Type: library
 - Language: Go
+- Created: 2024-07-15
+- Age: 1 years 11 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
@@ -76,6 +90,10 @@ Curated projects in this category.
 - Category: infrastructure-as-code
 - Type: library
 - Language: Go
+- Created: 2022-03-24
+- Age: 4 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
@@ -97,6 +115,10 @@ Curated projects in this category.
 - Category: infrastructure-as-code
 - Type: library
 - Language: Go
+- Created: 2019-03-04
+- Age: 7 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 5.0/10
 - Maturity: 9.0/10
@@ -119,6 +141,10 @@ Curated projects in this category.
 - Category: infrastructure-as-code
 - Type: library
 - Language: Go
+- Created: 2019-04-25
+- Age: 7 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 5.0/10
 - Maturity: 9.0/10
