@@ -2,59 +2,78 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 02:40:57 UTC
+Last updated: 2026-06-14 03:01:05 UTC
 
 ## Latest Findings
 
-### 1. agenticenv/agent-sdk-go
+### 1. xunholy/promptzero
 
-- Link: https://github.com/agenticenv/agent-sdk-go
-- Title: agenticenv/agent-sdk-go
-- Description: AI agents in Go — Temporal for durable, crash-resilient execution or run in-process with zero setup. OpenAI, Anthropic, Gemini, tools, MCP, A2A, RAG, conversations, AG-UI, streaming, sub-agents & human-in-the-loop.
-- Category: ai-agents
-- Type: framework
-- Language: Go
-- Score: 8.0/10
-- Novelty: 7.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 20
-- Reason: Well-structured AI agent framework in Go
-- Strengths:
-  - Durable and crash-resilient execution
-  - Support for multiple AI models and tools
-  - In-process execution with zero setup
-- Weaknesses:
-  - Limited community engagement
-  - Still a relatively new repository
-
-### 2. llxisdsh/cc
-
-- Link: https://github.com/llxisdsh/cc
-- Title: llxisdsh/cc
-- Description: Concurrent Core for Go — a lightweight, high-performance toolkit designed for critical paths where latency and allocation matter.
-- Category: concurrent-programming
-- Type: library
+- Link: https://github.com/xunholy/promptzero
+- Title: xunholy/promptzero
+- Description: AI operated Flipper Zero
+- Category: hardware-hacking
+- Type: tool
 - Language: Go
 - Score: 8.0/10
 - Novelty: 6.0/10
-- Maturity: 4.0/10
+- Maturity: 7.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
-- Reason: High-performance concurrent core for critical paths
+- Stars: 181
+- Reason: Well-focused AI-operated Flipper Zero project
 - Strengths:
-  - Lightweight
-  - High-performance
-  - Lock-free design
+  - Specific use case
+  - Clear topic alignment
 - Weaknesses:
-  - Limited documentation
-  - Small community
+  - Limited community engagement
+  - Dependence on Flipper Zero hardware
 
-### 3. itmisx/deepx-code
+### 2. jongwoo328/cloudip
 
-- Link: https://github.com/itmisx/deepx-code
-- Title: itmisx/deepx-code
-- Description: deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择等功能，从根本上节省Token
+- Link: https://github.com/jongwoo328/cloudip
+- Title: jongwoo328/cloudip
+- Description: CLI tool to identify whether an IP address belongs to AWS, GCP, or Azure.
+- Category: cloud-utils
+- Type: tool
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 15
+- Reason: Focused and useful CLI tool
+- Strengths:
+  - Clear and specific purpose
+  - Well-defined topics and keywords
+- Weaknesses:
+  - Limited functionality
+  - Small community engagement
+
+### 3. prometheus-community/parquet-common
+
+- Link: https://github.com/prometheus-community/parquet-common
+- Title: prometheus-community/parquet-common
+- Description: Shared library to work with Prometheus and Parquet
+- Category: data-storage
+- Type: library
+- Language: Go
+- Score: 7.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 49
+- Reason: Focused on a specific use case
+- Strengths:
+  - Clear purpose
+  - Specific integration with Prometheus and Parquet
+- Weaknesses:
+  - Limited scope
+  - Dependence on specific technologies
+
+### 4. alessio/shellescape
+
+- Link: https://github.com/alessio/shellescape
+- Title: alessio/shellescape
+- Description: Escape arbitrary strings for use as command line arguments
 - Category: go
 - Type: unknown
 - Language: Go
@@ -62,18 +81,18 @@ Last updated: 2026-06-14 02:40:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 177
+- Stars: 201
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. designinlife/jetbrains
+### 5. tak848/ccgate
 
-- Link: https://github.com/designinlife/jetbrains
-- Title: designinlife/jetbrains
-- Description: Check out the command line tool for JetBrains software version update links.
+- Link: https://github.com/tak848/ccgate
+- Title: tak848/ccgate
+- Description: LLM-powered PermissionRequest hook for coding agents (e.g. Claude Code)
 - Category: go
 - Type: unknown
 - Language: Go
@@ -81,18 +100,18 @@ Last updated: 2026-06-14 02:40:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 90
+- Stars: 58
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. aws/eks-anywhere-build-tooling
+### 6. onsi/biloba
 
-- Link: https://github.com/aws/eks-anywhere-build-tooling
-- Title: aws/eks-anywhere-build-tooling
-- Description: Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
+- Link: https://github.com/onsi/biloba
+- Title: onsi/biloba
+- Description: Stable, performant, automated browser testing for Ginkgo
 - Category: go
 - Type: unknown
 - Language: Go
@@ -100,38 +119,18 @@ Last updated: 2026-06-14 02:40:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 63
+- Stars: 22
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. railzen/nezha-zero
+### 7. omkhar/workcell
 
-- Link: https://github.com/railzen/nezha-zero
-- Title: railzen/nezha-zero
-- Description: Nezha V0 YYDS!
-- Category: ai-model
-- Type: library
-- Language: Go
-- Score: 6.0/10
-- Novelty: 8.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 44
-- Reason: Lack of documentation
-- Strengths:
-  - Unique AI model implementation
-- Weaknesses:
-  - Limited community engagement
-  - No clear use cases
-
-### 7. mochow13/keen-code
-
-- Link: https://github.com/mochow13/keen-code
-- Title: mochow13/keen-code
-- Description: A context-aware and efficient CLI-based coding agent written in Go
+- Link: https://github.com/omkhar/workcell
+- Title: omkhar/workcell
+- Description: Bounded local runtime and policy boundary for coding agents
 - Category: go
 - Type: unknown
 - Language: Go
@@ -139,18 +138,18 @@ Last updated: 2026-06-14 02:40:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 33
+- Stars: 20
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 8. go-training/mcp-workshop
+### 8. smallwat3r/github-antibot
 
-- Link: https://github.com/go-training/mcp-workshop
-- Title: go-training/mcp-workshop
-- Description: MCP workshop using Golang
+- Link: https://github.com/smallwat3r/github-antibot
+- Title: smallwat3r/github-antibot
+- Description: Block users likely to use bots to mass-follow on GitHub
 - Category: go
 - Type: unknown
 - Language: Go
@@ -158,18 +157,37 @@ Last updated: 2026-06-14 02:40:57 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 33
+- Stars: 14
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 9. Correia-jpv/fucking-awesome-go
+### 9. y3owk1n/mimi
 
-- Link: https://github.com/Correia-jpv/fucking-awesome-go
-- Title: Correia-jpv/fucking-awesome-go
-- Description: A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴
+- Link: https://github.com/y3owk1n/mimi
+- Title: y3owk1n/mimi
+- Description: macOS windows and spaces. From the terminal.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. lgdd/lfr-cli
+
+- Link: https://github.com/lgdd/lfr-cli
+- Title: lgdd/lfr-cli
+- Description: LFR is an unofficial CLI tool written in Go that helps you create & manage Liferay projects.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -184,31 +202,12 @@ Last updated: 2026-06-14 02:40:57 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 10. d-velop/grafana-odata-datasource
-
-- Link: https://github.com/d-velop/grafana-odata-datasource
-- Title: d-velop/grafana-odata-datasource
-- Description: This is a Grafana data source plugin that allows you to query and visualize data from OData V4 compatible data sources.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
 ## Categories
 
-- [ai-agents](categories/ai-agents.md)
-- [ai-model](categories/ai-model.md)
-- [concurrent-programming](categories/concurrent-programming.md)
+- [cloud-utils](categories/cloud-utils.md)
+- [data-storage](categories/data-storage.md)
 - [go](categories/go.md)
+- [hardware-hacking](categories/hardware-hacking.md)
 
 ## Data
 
