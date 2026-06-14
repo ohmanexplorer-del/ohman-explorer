@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. KunMoe/kun-galgame-patch
 
 - Link: https://github.com/KunMoe/kun-galgame-patch
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: visual-novel-patch
 - Type: app
 - Language: Go
+- Created: 2024-10-20
+- Age: 1 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 8.0/10
