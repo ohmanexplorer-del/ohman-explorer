@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. 23skdu/longbow
 
 - Link: https://github.com/23skdu/longbow
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-engine
 - Type: library
 - Language: Go
+- Created: 2025-12-13
+- Age: 6 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
