@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. vikrantwaghmode/agentarmor-oss
 
 - Link: https://github.com/vikrantwaghmode/agentarmor-oss
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: llm-security
 - Type: tool
 - Language: Go
+- Created: 2026-05-05
+- Age: 1 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 7.0/10
 - Novelty: 7.0/10
 - Maturity: 3.0/10
