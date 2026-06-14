@@ -30,7 +30,59 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope may restrict broader applicability
   - Relatively low star count may indicate limited community engagement
 
-### 2. int128/ktunnels
+### 2. paperclipinc/hermes-operator
+
+- Link: https://github.com/paperclipinc/hermes-operator
+- Title: paperclipinc/hermes-operator
+- Description: Production-grade Kubernetes operator for nousresearch/hermes-agent: declarative spec, security defaults, S3 backups, OCI auto-update with rollback, SSA-based GitOps coexistence, OpenClaw migration.
+- Category: kubernetes
+- Type: tool
+- Language: Go
+- Created: 2026-05-12
+- Age: 1 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 9.0/10
+- Stars: 10
+- Reason: Well-structured Kubernetes operator with strong security defaults
+- Strengths:
+  - Declarative spec
+  - Security defaults
+  - OCI auto-update with rollback
+- Weaknesses:
+  - Limited community engagement
+  - Dependence on nousresearch/hermes-agent
+
+### 3. gma1k/podtrace
+
+- Link: https://github.com/gma1k/podtrace
+- Title: gma1k/podtrace
+- Description: eBPF-driven diagnostic tool for Kubernetes applications 🐝
+- Category: kubernetes
+- Type: tool
+- Language: Go
+- Created: 2025-11-21
+- Age: 6 months
+- Last pushed: 2026-06-13
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 179
+- Reason: Focused eBPF-driven diagnostic tool for Kubernetes
+- Strengths:
+  - eBPF-based
+  - Kubernetes integration
+  - Grafana and Prometheus support
+- Weaknesses:
+  - Limited documentation
+  - Niche use case
+
+### 4. int128/ktunnels
 
 - Link: https://github.com/int128/ktunnels
 - Title: int128/ktunnels
@@ -54,7 +106,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited documentation and community engagement
 
-### 3. timebertt/kubectl-revisions
+### 5. timebertt/kubectl-revisions
 
 - Link: https://github.com/timebertt/kubectl-revisions
 - Title: timebertt/kubectl-revisions
@@ -79,7 +131,32 @@ Note: young repositories can show strong potential but still carry higher stabil
   - limited functionality
   - small community
 
-### 4. procore-oss/kube-binpacking-exporter
+### 6. simonostendorf/kubelet-credential-provider-vault
+
+- Link: https://github.com/simonostendorf/kubelet-credential-provider-vault
+- Title: simonostendorf/kubelet-credential-provider-vault
+- Description: Kubernetes Kubelet Image Credential Provider for Hashicorp Vault
+- Category: kubernetes
+- Type: library
+- Language: Go
+- Created: 2025-05-15
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 7.0/10
+- Small repo potential: 8.0/10
+- Stars: 23
+- Reason: Focused solution for a specific Kubernetes security need
+- Strengths:
+  - Clear purpose
+  - Specific use case
+- Weaknesses:
+  - Limited scope
+  - Dependence on Hashicorp Vault
+
+### 7. procore-oss/kube-binpacking-exporter
 
 - Link: https://github.com/procore-oss/kube-binpacking-exporter
 - Title: procore-oss/kube-binpacking-exporter
@@ -104,7 +181,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Niche functionality
   - Limited community engagement
 
-### 5. crossplane/crossplane-runtime
+### 8. crossplane/crossplane-runtime
 
 - Link: https://github.com/crossplane/crossplane-runtime
 - Title: crossplane/crossplane-runtime
@@ -129,7 +206,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependent on Crossplane ecosystem
 
-### 6. bjarneo/kli
+### 9. bjarneo/kli
 
 - Link: https://github.com/bjarneo/kli
 - Title: bjarneo/kli
