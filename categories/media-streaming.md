@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. fe-spark/EcoHub
 
 - Link: https://github.com/fe-spark/EcoHub
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: media-streaming
 - Type: app
 - Language: Go
+- Created: 2026-03-27
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 7.0/10
 - Novelty: 6.0/10
 - Maturity: 5.0/10
