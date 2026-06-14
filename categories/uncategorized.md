@@ -40,7 +40,76 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Stars: 2010
 - Reason: SCORE: 8 NOTES: The repository has a high star count, suggesting it's well-liked, and being owned by Linus Torvalds, the creator of Linux, adds credibility. However, the lack of topics and limited information about the project makes it difficult to fully assess its quality or purpose.
 
-### 3. torvalds/1590A
+### 3. forfudan/MojoMiji
+
+- Link: https://github.com/forfudan/MojoMiji
+- Title: forfudan/MojoMiji
+- Description: Mojo Miji | A guide to Mojo programming language from a Pythonista's perspective | Mojo 秘籍
+- Category: uncategorized
+- Type: unknown
+- Language: CSS
+- Created: 2024-07-03
+- Age: 1 years 11 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 33
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 4. add-my-pet/DEBtool_M
+
+- Link: https://github.com/add-my-pet/DEBtool_M
+- Title: add-my-pet/DEBtool_M
+- Description: DEBtool - package of DEB functions for Matlab
+- Category: uncategorized
+- Type: unknown
+- Language: HTML
+- Created: 2015-05-04
+- Age: 11 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 27
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. zcanann/SFA-Decomp
+
+- Link: https://github.com/zcanann/SFA-Decomp
+- Title: zcanann/SFA-Decomp
+- Description: Experimental AI Agent Driven Decomp of Star Fox Adventures.
+- Category: uncategorized
+- Type: unknown
+- Language: C
+- Created: 2026-02-10
+- Age: 4 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. torvalds/1590A
 
 - Link: https://github.com/torvalds/1590A
 - Title: torvalds/1590A
