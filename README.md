@@ -2,133 +2,57 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 02:01:04 UTC
+Last updated: 2026-06-14 02:21:02 UTC
 
 ## Latest Findings
 
-### 1. crossplane/crossplane-runtime
+### 1. sozercan/vekil
 
-- Link: https://github.com/crossplane/crossplane-runtime
-- Title: crossplane/crossplane-runtime
-- Description: A set of libraries for writing Crossplane controllers.
-- Category: kubernetes-tools
-- Type: library
+- Link: https://github.com/sozercan/vekil
+- Title: sozercan/vekil
+- Description: 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
+- Category: ai-proxy
+- Type: tool
 - Language: Go
 - Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
-- Small repo potential: 6.0/10
-- Stars: 191
-- Reason: Well-structured library for Crossplane controllers
-- Strengths:
-  - Focused on a specific use case
-  - Written in a popular language (Go)
-- Weaknesses:
-  - Limited scope
-  - Dependent on Crossplane ecosystem
-
-### 2. ubiquiti-community/unifi-api
-
-- Link: https://github.com/ubiquiti-community/unifi-api
-- Title: ubiquiti-community/unifi-api
-- Description: OpenAPI Definition for Unifi Controller API
-- Category: network-api
-- Type: library
-- Language: Go
-- Score: 8.0/10
-- Novelty: 6.0/10
-- Maturity: 8.0/10
+- Novelty: 7.0/10
+- Maturity: 6.0/10
 - Small repo potential: 9.0/10
-- Stars: 12
-- Reason: Well-defined OpenAPI specification for Unifi Controller API
+- Stars: 16
+- Reason: Exposes multiple AI APIs over a reverse proxy
 - Strengths:
-  - Clear API definition
-  - Useful for automation and integration
+  - Supports multiple AI models
+  - Written in Go for performance
 - Weaknesses:
-  - Limited community engagement
-  - Dependent on Unifi Controller API
+  - Limited documentation
+  - Small community
 
-### 3. runxiyu/furgit
+### 2. tjhop/prometheus-mcp-server
 
-- Link: https://github.com/runxiyu/furgit
-- Title: runxiyu/furgit
-- Description: Low-level Git plumbing library in pure Go
-- Category: go
-- Type: unknown
+- Link: https://github.com/tjhop/prometheus-mcp-server
+- Title: tjhop/prometheus-mcp-server
+- Description: MCP server for LLMs to interact with Prometheus
+- Category: monitoring-tool
+- Type: tool
 - Language: Go
 - Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 254
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 4. t-mart/mousehole
-
-- Link: https://github.com/t-mart/mousehole
-- Title: t-mart/mousehole
-- Description: A background service to update a seedbox IP for MAM
-- Category: typescript
-- Type: unknown
-- Language: TypeScript
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 230
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 5. secmon-lab/warren
-
-- Link: https://github.com/secmon-lab/warren
-- Title: secmon-lab/warren
-- Description: AI-powered security alert management that reduces noise and accelerates response time
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 6.0/10
-- Stars: 127
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. home-operations/gatus-sidecar
-
-- Link: https://github.com/home-operations/gatus-sidecar
-- Title: home-operations/gatus-sidecar
-- Description: Generate Gatus endpoint configs from Kubernetes HTTPRoute, Ingress, and Service resources
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
+- Novelty: 4.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 74
-- Reason: Selected from repository metadata.
+- Stars: 50
+- Reason: Clear purpose, but limited context
 - Strengths:
-  - Interesting repository metadata
+  - Specific use case
+  - Go implementation
 - Weaknesses:
-  - Needs deeper review
+  - Lack of documentation
+  - Unclear scalability
 
-### 7. paketo-buildpacks/dotnet-core
+### 3. dr-dobermann/gobpm
 
-- Link: https://github.com/paketo-buildpacks/dotnet-core
-- Title: paketo-buildpacks/dotnet-core
-- Description: A Cloud Native Buildpack for .NET Core
+- Link: https://github.com/dr-dobermann/gobpm
+- Title: dr-dobermann/gobpm
+- Description: BPMN v.2 compliant BPM engine on Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -143,11 +67,49 @@ Last updated: 2026-06-14 02:01:04 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 8. jr200-labs/nats-iam-broker
+### 4. ommengman-prog/god-eye
 
-- Link: https://github.com/jr200-labs/nats-iam-broker
-- Title: jr200-labs/nats-iam-broker
-- Description: A NATS decentralised auth-callout service to swap thirdparty IdP JWTs for RBAC'd NATS User JWTs
+- Link: https://github.com/ommengman-prog/god-eye
+- Title: ommengman-prog/god-eye
+- Description: 🛡️ Detect and respond to security threats in real-time with God-Eye, an AI-driven tool designed for privacy and local deployment on multiple platforms.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 39
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. BapiGso/gopanel
+
+- Link: https://github.com/BapiGso/gopanel
+- Title: BapiGso/gopanel
+- Description: a lite server manage panel
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 32
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 6. sorafujitani/ccsession
+
+- Link: https://github.com/sorafujitani/ccsession
+- Title: sorafujitani/ccsession
+- Description: pick any past Claude Code session via fzf, then resume it from the right cwd
 - Category: go
 - Type: unknown
 - Language: Go
@@ -162,30 +124,11 @@ Last updated: 2026-06-14 02:01:04 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 9. zoharbabin/web-researcher-mcp
+### 7. Mintimate/oh-my-rime-cli
 
-- Link: https://github.com/zoharbabin/web-researcher-mcp
-- Title: zoharbabin/web-researcher-mcp
-- Description: Verifies citations, flags retractions, audits bibliographies — and searches the web. Your AI research assistant that cites real sources and stays honest. Works with Claude, Cursor, any MCP client.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 16
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 10. winebarrel/pistachio
-
-- Link: https://github.com/winebarrel/pistachio
-- Title: winebarrel/pistachio
-- Description: pistachio is a declarative schema management tool for PostgreSQL.
+- Link: https://github.com/Mintimate/oh-my-rime-cli
+- Title: Mintimate/oh-my-rime-cli
+- Description: oh-my-rime-cli 是一个用于 Rime 输入法更新和管理薄荷配置的命令行工具，支持多平台（Windows、macOS、Linux）🖥️，方便用户快速操作和定制 Rime 输入法环境✨
 - Category: go
 - Type: unknown
 - Language: Go
@@ -200,12 +143,69 @@ Last updated: 2026-06-14 02:01:04 UTC
 - Weaknesses:
   - Needs deeper review
 
+### 8. adanalife/tripbot
+
+- Link: https://github.com/adanalife/tripbot
+- Title: adanalife/tripbot
+- Description: An ongoing 24/7 slow-TV art project
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 13
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 9. kleister/kleister-api
+
+- Link: https://github.com/kleister/kleister-api
+- Title: kleister/kleister-api
+- Description: Server to manage mod packs for Minecraft
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 12
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. cxykevin/alkaid0
+
+- Link: https://github.com/cxykevin/alkaid0
+- Title: cxykevin/alkaid0
+- Description: Alkaid0 Coding Agent
+- Category: ai-agent
+- Type: app
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: Interesting AI coding agent concept
+- Strengths:
+  - Unique approach to coding assistance
+- Weaknesses:
+  - Limited documentation and community
+
 ## Categories
 
+- [ai-agent](categories/ai-agent.md)
+- [ai-proxy](categories/ai-proxy.md)
 - [go](categories/go.md)
-- [kubernetes-tools](categories/kubernetes-tools.md)
-- [network-api](categories/network-api.md)
-- [typescript](categories/typescript.md)
+- [monitoring-tool](categories/monitoring-tool.md)
 
 ## Data
 
