@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. guigui-gui/guigui
+### 1. caidaoli/ccLoad
 
-- Link: https://github.com/guigui-gui/guigui
-- Title: guigui-gui/guigui
-- Description: An immediate-mode-inspired GUI framework for Go
+- Link: https://github.com/caidaoli/ccLoad
+- Title: caidaoli/ccLoad
+- Description: High-performance AI API proxy with smart routing, failover, monitoring, and protocol transforms for Claude Code, Codex, Gemini, and OpenAI.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -14,18 +14,56 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 442
+- Stars: 320
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 2. go-gost/x
+### 2. norunners/tue
 
-- Link: https://github.com/go-gost/x
-- Title: go-gost/x
-- Description: Extended (may be experimental) features outside the main gost tree.
+- Link: https://github.com/norunners/tue
+- Title: norunners/tue
+- Description: The progressive framework for WebAssembly applications.
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 242
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 3. kubevirt/hyperconverged-cluster-operator
+
+- Link: https://github.com/kubevirt/hyperconverged-cluster-operator
+- Title: kubevirt/hyperconverged-cluster-operator
+- Description: Operator pattern for managing multi-operator products
+- Category: go
+- Type: unknown
+- Language: Go
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 184
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 4. nunnatsa/ginkgolinter
+
+- Link: https://github.com/nunnatsa/ginkgolinter
+- Title: nunnatsa/ginkgolinter
+- Description: golang linter for ginkgo and gomega
 - Category: go
 - Type: unknown
 - Language: Go
@@ -33,18 +71,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 65
+- Stars: 37
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 3. lxnay/matrixos
+### 5. sunholo-data/ailang
 
-- Link: https://github.com/lxnay/matrixos
-- Title: lxnay/matrixos
-- Description: Your personal Gentoo deployment
+- Link: https://github.com/sunholo-data/ailang
+- Title: sunholo-data/ailang
+- Description: For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -52,18 +90,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 64
+- Stars: 31
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. sandbox0-ai/sandbox0
+### 6. wintermi/sigma
 
-- Link: https://github.com/sandbox0-ai/sandbox0
-- Title: sandbox0-ai/sandbox0
-- Description: Sandbox0 is the open-source sandbox for AI agents.
+- Link: https://github.com/wintermi/sigma
+- Title: wintermi/sigma
+- Description: sigma is a Go package for provider-neutral AI model calls.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -71,18 +109,18 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 58
+- Stars: 15
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. wgtunnel/fdroid
+### 7. zlylong/EdgeRouteGW
 
-- Link: https://github.com/wgtunnel/fdroid
-- Title: wgtunnel/fdroid
-- Description: F-Droid repo for WG Tunnel
+- Link: https://github.com/zlylong/EdgeRouteGW
+- Title: zlylong/EdgeRouteGW
+- Description: No description available.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -90,26 +128,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 42
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 6. hecatehq/hecate
-
-- Link: https://github.com/hecatehq/hecate
-- Title: hecatehq/hecate
-- Description: Local AI operations console for supervised agent work.
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 19
+- Stars: 12
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
