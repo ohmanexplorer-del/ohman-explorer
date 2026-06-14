@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 20:01:35 UTC
+Last updated: 2026-06-14 20:21:12 UTC
 
-Total indexed projects: 537
+Total indexed projects: 547
 
 ## Disclaimer
 
@@ -14,7 +14,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 
 | Category | Projects |
 |---|---:|
-| [artificial-intelligence](categories/artificial-intelligence.md) | 36 |
+| [artificial-intelligence](categories/artificial-intelligence.md) | 37 |
 | [automation](categories/automation.md) | 4 |
 | [blockchain](categories/blockchain.md) | 6 |
 | [bots](categories/bots.md) | 7 |
@@ -26,7 +26,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [infrastructure](categories/infrastructure.md) | 32 |
 | [iot](categories/iot.md) | 5 |
 | [kubernetes](categories/kubernetes.md) | 9 |
-| [media](categories/media.md) | 11 |
+| [media](categories/media.md) | 12 |
 | [networking](categories/networking.md) | 23 |
 | [observability](categories/observability.md) | 7 |
 | [privacy](categories/privacy.md) | 14 |
@@ -35,7 +35,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [security](categories/security.md) | 16 |
 | [systems](categories/systems.md) | 5 |
 | [ui-components](categories/ui-components.md) | 1 |
-| [uncategorized](categories/uncategorized.md) | 33 |
+| [uncategorized](categories/uncategorized.md) | 41 |
 | [web-development](categories/web-development.md) | 12 |
 
 ## Languages
@@ -43,22 +43,23 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Language | Projects |
 |---|---:|
 | Go | 405 |
-| TypeScript | 34 |
+| TypeScript | 35 |
+| Python | 24 |
 | Unknown | 22 |
-| Python | 20 |
 | Rust | 9 |
-| JavaScript | 6 |
+| JavaScript | 7 |
 | C++ | 5 |
 | C | 4 |
 | HTML | 4 |
+| Java | 3 |
+| Shell | 3 |
 | C# | 2 |
-| Java | 2 |
 | Kotlin | 2 |
 | PHP | 2 |
-| Shell | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
 | CSS | 1 |
+| Dart | 1 |
 | Forth | 1 |
 | Jsonnet | 1 |
 | Julia | 1 |
@@ -72,6 +73,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | Ruby | 1 |
 | SCSS | 1 |
 | Scala | 1 |
+| Swift | 1 |
 | Vue | 1 |
 | YAML | 1 |
 
