@@ -55,7 +55,32 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Still in early stages of development
 
-### 3. indmdev/Telegram-Store-MiniApp
+### 3. indmdev/Free-Telegram-Store-Bot
+
+- Link: https://github.com/indmdev/Free-Telegram-Store-Bot
+- Title: indmdev/Free-Telegram-Store-Bot
+- Description: This is 100% Free Shop Bot, Is a Telegram Store Bot you can use for selling your products and services and managing your products and orders. You customers can easily use the Auto Buy Bot to shop on you store with confid...
+- Category: bots
+- Type: bot
+- Language: Python
+- Created: 2024-04-14
+- Age: 2 years 2 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.5/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 118
+- Reason: The project is a real, working Telegram store bot with clear purpose and English documentation.
+- Strengths:
+  - Free and open-source
+  - Easy to use for selling products and services
+- Weaknesses:
+  - Limited novelty
+  - May require additional setup for production use
+
+### 4. indmdev/Telegram-Store-MiniApp
 
 - Link: https://github.com/indmdev/Telegram-Store-MiniApp
 - Title: indmdev/Telegram-Store-MiniApp
@@ -79,7 +104,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Unclear customization options
 
-### 4. indmdev/indmshopbot
+### 5. indmdev/indmshopbot
 
 - Link: https://github.com/indmdev/indmshopbot
 - Title: indmdev/indmshopbot
@@ -103,7 +128,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited platform support
   - Unclear customization options
 
-### 5. gotd/botapi
+### 6. gotd/botapi
 
 - Link: https://github.com/gotd/botapi
 - Title: gotd/botapi
@@ -128,7 +153,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Work-in-progress
 
-### 6. BagToad/BestPal
+### 7. BagToad/BestPal
 
 - Link: https://github.com/BagToad/BestPal
 - Title: BagToad/BestPal
