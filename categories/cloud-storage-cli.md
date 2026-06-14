@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. Files-com/files-cli
 
 - Link: https://github.com/Files-com/files-cli
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: cloud-storage-cli
 - Type: tool
 - Language: Go
+- Created: 2020-07-31
+- Age: 5 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 7.0/10
