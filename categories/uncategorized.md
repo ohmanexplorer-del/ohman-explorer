@@ -63,7 +63,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 4. yuanw/nix-home
+### 4. briis/affalddk
+
+- Link: https://github.com/briis/affalddk
+- Title: briis/affalddk
+- Description: Home Assistant Integration to retrieve Garbage Collection data from danish Municipalities
+- Category: uncategorized
+- Type: unknown
+- Language: Python
+- Created: 2024-03-03
+- Age: 2 years 3 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 90
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 5. yuanw/nix-home
 
 - Link: https://github.com/yuanw/nix-home
 - Title: yuanw/nix-home
@@ -86,7 +109,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 5. forfudan/MojoMiji
+### 6. forfudan/MojoMiji
 
 - Link: https://github.com/forfudan/MojoMiji
 - Title: forfudan/MojoMiji
@@ -109,7 +132,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 6. add-my-pet/DEBtool_M
+### 7. add-my-pet/DEBtool_M
 
 - Link: https://github.com/add-my-pet/DEBtool_M
 - Title: add-my-pet/DEBtool_M
@@ -132,7 +155,76 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 7. jobright-ai/2026-Engineering-New-Grad
+### 8. Dev-FelixOfc/Kazuma-Mr-Bot
+
+- Link: https://github.com/Dev-FelixOfc/Kazuma-Mr-Bot
+- Title: Dev-FelixOfc/Kazuma-Mr-Bot
+- Description: ¡Repositório oficial del bot Kazuma Bot!
+- Category: uncategorized
+- Type: unknown
+- Language: JavaScript
+- Created: 2026-03-30
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 26
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 9. rdmurphy/actblue-ticker-tracker
+
+- Link: https://github.com/rdmurphy/actblue-ticker-tracker
+- Title: rdmurphy/actblue-ticker-tracker
+- Description: Keeps tabs on the ticking donation amount found on ActBlue's home page.
+- Category: uncategorized
+- Type: unknown
+- Language: Shell
+- Created: 2020-09-19
+- Age: 5 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 25
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 10. sergeii/swat4stats
+
+- Link: https://github.com/sergeii/swat4stats
+- Title: sergeii/swat4stats
+- Description: Source code to swat4stats.com backend
+- Category: uncategorized
+- Type: unknown
+- Language: Python
+- Created: 2014-05-24
+- Age: 12 years
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 11. jobright-ai/2026-Engineering-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Engineering-New-Grad
 - Title: jobright-ai/2026-Engineering-New-Grad
@@ -154,7 +246,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 8. jobright-ai/2026-Business-Analyst-New-Grad
+### 12. jobright-ai/2026-Business-Analyst-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Business-Analyst-New-Grad
 - Title: jobright-ai/2026-Business-Analyst-New-Grad
@@ -176,7 +268,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 9. tabhub/rss-feeds
+### 13. tabhub/rss-feeds
 
 - Link: https://github.com/tabhub/rss-feeds
 - Title: tabhub/rss-feeds
@@ -199,7 +291,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 10. zcanann/SFA-Decomp
+### 14. zcanann/SFA-Decomp
 
 - Link: https://github.com/zcanann/SFA-Decomp
 - Title: zcanann/SFA-Decomp
@@ -222,7 +314,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 11. jobright-ai/2026-Account-New-Grad
+### 15. jobright-ai/2026-Account-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Account-New-Grad
 - Title: jobright-ai/2026-Account-New-Grad
@@ -244,7 +336,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 12. jwwelbor/AgentMap
+### 16. jwwelbor/AgentMap
 
 - Link: https://github.com/jwwelbor/AgentMap
 - Title: jwwelbor/AgentMap
@@ -267,7 +359,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 13. jobright-ai/2026-Software-Engineer-New-Grad
+### 17. jobright-ai/2026-Software-Engineer-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Software-Engineer-New-Grad
 - Title: jobright-ai/2026-Software-Engineer-New-Grad
@@ -289,7 +381,53 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 14. torvalds/1590A
+### 18. doldecomp/sms
+
+- Link: https://github.com/doldecomp/sms
+- Title: doldecomp/sms
+- Description: A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.
+- Category: uncategorized
+- Type: unknown
+- Language: C++
+- Created: 2021-05-16
+- Age: 5 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 256
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 19. nextcloud/collectives
+
+- Link: https://github.com/nextcloud/collectives
+- Title: nextcloud/collectives
+- Description: Collectives is a Nextcloud App for activist and community projects to organize together.
+- Category: uncategorized
+- Type: unknown
+- Language: JavaScript
+- Created: 2022-12-13
+- Age: 3 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 182
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 20. torvalds/1590A
 
 - Link: https://github.com/torvalds/1590A
 - Title: torvalds/1590A
