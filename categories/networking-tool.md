@@ -2,25 +2,24 @@
 
 Curated projects in this category.
 
-### 1. Danialsamadi/v2go
+### 1. andrey-vk/wdbgp
 
-- Link: https://github.com/Danialsamadi/v2go
-- Title: Danialsamadi/v2go
-- Description: v2go is a blazingly fast Go V2Ray config aggregator that processes 20,000+ configurations in 11 seconds (99.7% faster than Python), automatically removing duplicates and generating fresh subscription files every 6 hours.
+- Link: https://github.com/andrey-vk/wdbgp
+- Title: andrey-vk/wdbgp
+- Description: A service that collects lists of prefixes from feeds and distributes them via BGP
 - Category: networking-tool
 - Type: tool
 - Language: Go
-- Score: 8.0/10
+- Score: 7.0/10
 - Novelty: 6.0/10
-- Maturity: 7.0/10
-- Small repo potential: 9.0/10
-- Stars: 116
-- Reason: High-performance V2Ray config aggregator
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 27
+- Reason: Focused BGP prefix distribution service
 - Strengths:
-  - Blazingly fast performance
-  - Automatic duplicate removal
-  - Scheduled subscription file generation
+  - Specific use case
+  - Go implementation
 - Weaknesses:
-  - Limited topics and documentation
-  - Dependence on V2Ray ecosystem
+  - Limited documentation
+  - Small community
 
