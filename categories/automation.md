@@ -88,7 +88,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Type: tool
 - Language: PHP
 - Created: 2022-01-16
-- Age: 4 years 4 months
+- Age: 4 years 5 months
 - Last pushed: 2026-06-14
 - Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
 - Score: 6.0/10
