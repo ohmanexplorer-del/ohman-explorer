@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. cncf/sbom
+### 1. threatcl/threatcl
 
-- Link: https://github.com/cncf/sbom
-- Title: cncf/sbom
-- Description: House of SBOMs (and tooling)
+- Link: https://github.com/threatcl/threatcl
+- Title: threatcl/threatcl
+- Description: Documenting your Threat Models with HCL
 - Category: security-tools
 - Type: tool
 - Language: Go
-- Score: 8.0/10
+- Score: 7.0/10
 - Novelty: 6.0/10
-- Maturity: 4.0/10
-- Small repo potential: 8.0/10
-- Stars: 10
-- Reason: Focused on SBOM management
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 461
+- Reason: Focused on threat modeling documentation
 - Strengths:
   - Specific use case
-  - CNCF backing
+  - Clear documentation goal
 - Weaknesses:
+  - Narrow scope
   - Limited topics
-  - Low star count
 
