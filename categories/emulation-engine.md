@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. IntuitionAmiga/IntuitionEngine
 
 - Link: https://github.com/IntuitionAmiga/IntuitionEngine
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: emulation-engine
 - Type: framework
 - Language: Go
+- Created: 2024-11-21
+- Age: 1 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 9.0/10
 - Maturity: 6.0/10
