@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. markhuangai/dense-mem
 
 - Link: https://github.com/markhuangai/dense-mem
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-memory-server
 - Type: tool
 - Language: Go
+- Created: 2026-04-13
+- Age: 2 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
