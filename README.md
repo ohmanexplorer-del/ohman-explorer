@@ -2,15 +2,15 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 16:41:11 UTC
+Last updated: 2026-06-14 17:01:04 UTC
 
-Total indexed projects: 467
+Total indexed projects: 477
 
 ## Categories
 
 | Category | Projects |
 |---|---:|
-| [accessibility-tool](categories/accessibility-tool.md) | 1 |
+| [accessibility-tool](categories/accessibility-tool.md) | 2 |
 | [adblock-filterlists](categories/adblock-filterlists.md) | 1 |
 | [admin-backend](categories/admin-backend.md) | 1 |
 | [ai-agent](categories/ai-agent.md) | 1 |
@@ -66,6 +66,7 @@ Total indexed projects: 467
 | [cybersecurity](categories/cybersecurity.md) | 1 |
 | [data-collection](categories/data-collection.md) | 1 |
 | [data-engineering](categories/data-engineering.md) | 1 |
+| [data-repository](categories/data-repository.md) | 1 |
 | [data-scraping](categories/data-scraping.md) | 2 |
 | [data-storage](categories/data-storage.md) | 1 |
 | [database-drivers](categories/database-drivers.md) | 1 |
@@ -83,6 +84,7 @@ Total indexed projects: 467
 | [dev-tool](categories/dev-tool.md) | 2 |
 | [dev-tools](categories/dev-tools.md) | 4 |
 | [developer-tools](categories/developer-tools.md) | 6 |
+| [development-tool](categories/development-tool.md) | 1 |
 | [devops-tooling](categories/devops-tooling.md) | 2 |
 | [devops-tools](categories/devops-tools.md) | 1 |
 | [discord-bot](categories/discord-bot.md) | 1 |
@@ -96,6 +98,7 @@ Total indexed projects: 467
 | [emulation-engine](categories/emulation-engine.md) | 1 |
 | [file-sharing](categories/file-sharing.md) | 1 |
 | [fullstack-boilerplate](categories/fullstack-boilerplate.md) | 1 |
+| [game-development](categories/game-development.md) | 1 |
 | [game-engine](categories/game-engine.md) | 1 |
 | [game-modification](categories/game-modification.md) | 1 |
 | [game-revival](categories/game-revival.md) | 1 |
@@ -126,8 +129,10 @@ Total indexed projects: 467
 | [linux-security](categories/linux-security.md) | 1 |
 | [llm-security](categories/llm-security.md) | 1 |
 | [machine-learning](categories/machine-learning.md) | 1 |
+| [mathematical-research](categories/mathematical-research.md) | 1 |
 | [media-streaming](categories/media-streaming.md) | 1 |
 | [media-tools](categories/media-tools.md) | 1 |
+| [medical-software](categories/medical-software.md) | 1 |
 | [messaging-bridge](categories/messaging-bridge.md) | 1 |
 | [metadata-management](categories/metadata-management.md) | 1 |
 | [minecraft-plugin](categories/minecraft-plugin.md) | 1 |
@@ -146,6 +151,7 @@ Total indexed projects: 467
 | [networking-config](categories/networking-config.md) | 1 |
 | [networking-tool](categories/networking-tool.md) | 3 |
 | [networking-tools](categories/networking-tools.md) | 1 |
+| [nextjs-boilerplate](categories/nextjs-boilerplate.md) | 1 |
 | [nlp-framework](categories/nlp-framework.md) | 1 |
 | [obsidian-plugin](categories/obsidian-plugin.md) | 1 |
 | [osx-development](categories/osx-development.md) | 1 |
@@ -159,11 +165,13 @@ Total indexed projects: 467
 | [project-management](categories/project-management.md) | 2 |
 | [proxy-configs](categories/proxy-configs.md) | 2 |
 | [proxy-management](categories/proxy-management.md) | 3 |
+| [proxy-subscription](categories/proxy-subscription.md) | 1 |
 | [push-notifications](categories/push-notifications.md) | 1 |
 | [radio-communication](categories/radio-communication.md) | 1 |
 | [realtime-comm](categories/realtime-comm.md) | 1 |
 | [reverse-proxy](categories/reverse-proxy.md) | 1 |
 | [robotics-competition](categories/robotics-competition.md) | 1 |
+| [scientific-simulation](categories/scientific-simulation.md) | 1 |
 | [security-monitoring](categories/security-monitoring.md) | 1 |
 | [security-tool](categories/security-tool.md) | 2 |
 | [security-tools](categories/security-tools.md) | 4 |
@@ -187,6 +195,7 @@ Total indexed projects: 467
 | [vpn-server](categories/vpn-server.md) | 1 |
 | [vpn-tools](categories/vpn-tools.md) | 1 |
 | [weather-forecast](categories/weather-forecast.md) | 1 |
+| [web-crawling](categories/web-crawling.md) | 1 |
 | [web-development](categories/web-development.md) | 1 |
 | [web-frameworks](categories/web-frameworks.md) | 1 |
 | [web-hosting](categories/web-hosting.md) | 1 |
@@ -202,20 +211,24 @@ Total indexed projects: 467
 | Language | Projects |
 |---|---:|
 | Go | 404 |
-| TypeScript | 26 |
+| TypeScript | 28 |
 | Unknown | 12 |
-| Python | 7 |
+| Python | 8 |
+| Rust | 4 |
+| C++ | 3 |
 | C | 2 |
-| C++ | 2 |
 | HTML | 2 |
-| Rust | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
 | Java | 1 |
+| JavaScript | 1 |
+| Julia | 1 |
 | Kotlin | 1 |
+| Lean | 1 |
 | OpenSCAD | 1 |
 | PHP | 1 |
 | PowerShell | 1 |
+| Ruby | 1 |
 | SCSS | 1 |
 | Vue | 1 |
 | YAML | 1 |
@@ -223,7 +236,7 @@ Total indexed projects: 467
 ## Data
 
 - [Machine-readable repo data](data/repos.json)
-- [Current library snapshot](findings/2026-06-14.md)
+- [Current library snapshot](findings/2026-06-15.md)
 
 Repository details live inside the category pages.
 
