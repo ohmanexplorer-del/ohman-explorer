@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. andyrewlee/amux
+### 1. mdb/gh-dispatch
 
-- Link: https://github.com/andyrewlee/amux
-- Title: andyrewlee/amux
-- Description: TUI for easily running parallel coding agents
+- Link: https://github.com/mdb/gh-dispatch
+- Title: mdb/gh-dispatch
+- Description: A gh CLI extension for sending GitHub dispatch events and watching the triggered GitHub Actions runs directly from your terminal.
 - Category: dev-tool
 - Type: tool
 - Language: Go
@@ -14,13 +14,13 @@ Curated projects in this category.
 - Novelty: 6.0/10
 - Maturity: 7.0/10
 - Small repo potential: 9.0/10
-- Stars: 124
-- Reason: Well-structured Go project for parallel agent coordination
+- Stars: 12
+- Reason: Fills a specific niche for GitHub CLI users
 - Strengths:
-  - Clear and focused purpose
-  - Simple and intuitive TUI
-  - Effective use of Git worktrees
+  - Solves a practical problem
+  - Well-defined scope
+  - Written in a suitable language (Go)
 - Weaknesses:
-  - Limited documentation
-  - Small community engagement
+  - Limited user base due to GitHub CLI requirement
+  - Relatively low number of stars
 
