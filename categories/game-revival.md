@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. Shade-of-Gr3y/Dream-World-Revival
 
 - Link: https://github.com/Shade-of-Gr3y/Dream-World-Revival
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: game-revival
 - Type: app
 - Language: HTML
+- Created: 2025-11-16
+- Age: 7 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 6.0/10
 - Novelty: 4.0/10
 - Maturity: 3.0/10
