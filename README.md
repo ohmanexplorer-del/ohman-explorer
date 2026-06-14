@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 19:21:44 UTC
+Last updated: 2026-06-14 19:41:15 UTC
 
-Total indexed projects: 517
+Total indexed projects: 527
 
 ## Disclaimer
 
@@ -21,7 +21,7 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [communications](categories/communications.md) | 5 |
 | [data-engineering](categories/data-engineering.md) | 6 |
 | [database](categories/database.md) | 12 |
-| [developer-tools](categories/developer-tools.md) | 266 |
+| [developer-tools](categories/developer-tools.md) | 271 |
 | [gaming](categories/gaming.md) | 9 |
 | [infrastructure](categories/infrastructure.md) | 32 |
 | [iot](categories/iot.md) | 5 |
@@ -35,30 +35,31 @@ This library is AI-assisted curation, not a final endorsement. Scores are signal
 | [security](categories/security.md) | 16 |
 | [systems](categories/systems.md) | 5 |
 | [ui-components](categories/ui-components.md) | 1 |
-| [uncategorized](categories/uncategorized.md) | 20 |
+| [uncategorized](categories/uncategorized.md) | 25 |
 | [web-development](categories/web-development.md) | 12 |
 
 ## Languages
 
 | Language | Projects |
 |---|---:|
-| Go | 404 |
-| TypeScript | 32 |
-| Unknown | 19 |
-| Python | 17 |
+| Go | 405 |
+| TypeScript | 33 |
+| Unknown | 21 |
+| Python | 18 |
+| Rust | 8 |
 | C++ | 5 |
 | JavaScript | 5 |
-| Rust | 5 |
 | HTML | 4 |
 | C | 3 |
+| C# | 2 |
 | Java | 2 |
 | PHP | 2 |
 | Assembly | 1 |
 | AutoHotkey | 1 |
-| C# | 1 |
 | CSS | 1 |
 | Jsonnet | 1 |
 | Julia | 1 |
+| Jupyter Notebook | 1 |
 | Kotlin | 1 |
 | Lean | 1 |
 | Nix | 1 |
