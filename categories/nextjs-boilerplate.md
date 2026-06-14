@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. ProductOfAmerica/turbo-starter
 
 - Link: https://github.com/ProductOfAmerica/turbo-starter
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: nextjs-boilerplate
 - Type: example
 - Language: TypeScript
+- Created: 2024-12-15
+- Age: 1 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
