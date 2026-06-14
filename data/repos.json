@@ -2784,6 +2784,40 @@
     "publish": true
   },
   {
+    "github_id": 717905871,
+    "full_name": "teorth/pfr",
+    "owner": "teorth",
+    "description": "Repository for formalization of the Polynomial Freiman Ruzsa conjecture (and related results)",
+    "stars": 215,
+    "forks": 48,
+    "language": "Lean",
+    "topics": [],
+    "license": "Apache License 2.0",
+    "default_branch": "master",
+    "homepage": "https://teorth.github.io/pfr/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2023-11-13T06:57:47+07:00",
+    "updated_at": "2026-06-14T23:59:55+07:00",
+    "pushed_at": "2026-06-14T23:59:54+07:00",
+    "ai_score": 8,
+    "ai_notes": "Focused formalization of a specific mathematical conjecture",
+    "readme_summary": "",
+    "category": "mathematical-research",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Formal proof in Lean",
+      "Clear research focus"
+    ],
+    "weaknesses": [
+      "Narrow scope",
+      "Limited topics"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1124390254,
     "full_name": "FootprintAI/Containarium",
     "owner": "FootprintAI",
@@ -3132,6 +3166,57 @@
     "weaknesses": [
       "Limited topics and applications",
       "Dependence on Go language"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1176688502,
+    "full_name": "kreuzberg-dev/kreuzcrawl",
+    "owner": "kreuzberg-dev",
+    "description": "High-performance web crawling engine with bindings for 11 languages",
+    "stars": 110,
+    "forks": 13,
+    "language": "Rust",
+    "topics": [
+      "crawling",
+      "csharp",
+      "elixir",
+      "ffi",
+      "golang",
+      "java",
+      "mcp",
+      "php",
+      "python",
+      "ruby",
+      "rust",
+      "typescript",
+      "wasm",
+      "web-crawler",
+      "web-scraping"
+    ],
+    "license": "Other",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-03-09T16:21:16+07:00",
+    "updated_at": "2026-06-14T23:59:47+07:00",
+    "pushed_at": "2026-06-14T23:59:47+07:00",
+    "ai_score": 8,
+    "ai_notes": "High-performance crawling with multi-language support",
+    "readme_summary": "",
+    "category": "web-crawling",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Multi-language bindings",
+      "High-performance",
+      "Rust-based"
+    ],
+    "weaknesses": [
+      "Limited community engagement",
+      "Documentation could be improved"
     ],
     "publish": true
   },
@@ -4236,6 +4321,40 @@
     "publish": true
   },
   {
+    "github_id": 1253713967,
+    "full_name": "Community-Access/quill",
+    "owner": "Community-Access",
+    "description": "Screen-reader-first writing, review, and document-intelligence environment for Windows with guided diagnostics and format workflows",
+    "stars": 20,
+    "forks": 3,
+    "language": "Python",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://github.com/Community-Access/support",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-05-30T01:36:12+07:00",
+    "updated_at": "2026-06-14T23:59:52+07:00",
+    "pushed_at": "2026-06-14T23:59:48+07:00",
+    "ai_score": 8,
+    "ai_notes": "Focused on screen-reader-first writing environment",
+    "readme_summary": "",
+    "category": "accessibility-tool",
+    "project_type": "app",
+    "novelty": 6,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Screen-reader-first approach",
+      "Guided diagnostics and format workflows"
+    ],
+    "weaknesses": [
+      "Limited platform support",
+      "Small community"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1180653673,
     "full_name": "agenticenv/agent-sdk-go",
     "owner": "agenticenv",
@@ -4288,6 +4407,62 @@
     "weaknesses": [
       "Limited community engagement",
       "Still a relatively new repository"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 903724897,
+    "full_name": "ProductOfAmerica/turbo-starter",
+    "owner": "ProductOfAmerica",
+    "description": "🚀 Kickstart Next.js 16 projects with Turborepo, Shadcn UI, Biome.js, and Docker. Monorepo magic awaits!",
+    "stars": 19,
+    "forks": 1,
+    "language": "TypeScript",
+    "topics": [
+      "biomejs",
+      "docker",
+      "docker-compose",
+      "monrepo",
+      "nextjs",
+      "nextjs16",
+      "nextjs16-boilerplate",
+      "nextjs16-starter",
+      "pnpm",
+      "pnpm-monorepo",
+      "pnpm-workspaces",
+      "shadcn",
+      "shadcn-ui",
+      "shadcnui",
+      "tailwind-css",
+      "tailwindcss",
+      "tailwindcss-v4",
+      "tailwindcss4",
+      "tailwindui",
+      "typescript"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://turbski.vercel.app",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-12-15T19:00:43+07:00",
+    "updated_at": "2026-06-14T23:59:53+07:00",
+    "pushed_at": "2026-06-14T23:59:57+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-structured Next.js 16 monorepo starter",
+    "readme_summary": "",
+    "category": "nextjs-boilerplate",
+    "project_type": "example",
+    "novelty": 6,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Combines popular tools like Turborepo and Shadcn UI",
+      "Includes Docker support for easy deployment",
+      "Uses TypeScript for maintainable code"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Small community due to low star count"
     ],
     "publish": true
   },
@@ -4424,6 +4599,86 @@
     "weaknesses": [
       "Limited documentation",
       "Small community"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 124798831,
+    "full_name": "ukinoki/Rufus",
+    "owner": "ukinoki",
+    "description": "Rufus est un logiciel open source publi sous licence GPLv3 de gestion d'activit en ophtalmologie et en orthoptie, conu pour s'adapter toutes les formes d'exercice : individuel, groupe, et travail multisite. Rufus est bti sur un modle client-serveur. Le code est compilable sous MacOSX et Linux. Les excutables sont tlchargeables sur la page Tlchargements du site.",
+    "stars": 16,
+    "forks": 6,
+    "language": "C++",
+    "topics": [
+      "appimage",
+      "linux",
+      "macos",
+      "mariadb",
+      "mysql",
+      "ophthalmology",
+      "qt5",
+      "qt6",
+      "ubuntu",
+      "windows"
+    ],
+    "license": "Other",
+    "default_branch": "RufusQt6",
+    "homepage": "https://www.rufusvision.org",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2018-03-12T03:57:51+07:00",
+    "updated_at": "2026-06-14T23:59:59+07:00",
+    "pushed_at": "2026-06-14T23:59:56+07:00",
+    "ai_score": 8,
+    "ai_notes": "Well-structured open-source medical application",
+    "readme_summary": "",
+    "category": "medical-software",
+    "project_type": "app",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "GPLv3 license",
+      "cross-platform compatibility",
+      "specific domain focus"
+    ],
+    "weaknesses": [
+      "limited community engagement",
+      "C++ may limit contributor base"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 811364068,
+    "full_name": "trixi-framework/TrixiAtmo.jl",
+    "owner": "trixi-framework",
+    "description": "Simulation package for atmospheric models based on Trixi.jl",
+    "stars": 15,
+    "forks": 5,
+    "language": "Julia",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://trixi-framework.github.io/TrixiAtmo.jl/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2024-06-06T20:02:24+07:00",
+    "updated_at": "2026-06-14T23:59:58+07:00",
+    "pushed_at": "2026-06-14T23:59:55+07:00",
+    "ai_score": 8,
+    "ai_notes": "Strong foundation in atmospheric modeling",
+    "readme_summary": "",
+    "category": "scientific-simulation",
+    "project_type": "library",
+    "novelty": 6,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Based on established Trixi.jl framework",
+      "Focused on specific domain (atmospheric models)"
+    ],
+    "weaknesses": [
+      "Limited community engagement (15 stars)",
+      "Lack of listed topics for discovery"
     ],
     "publish": true
   },
@@ -6648,6 +6903,40 @@
     "publish": true
   },
   {
+    "github_id": 1110410128,
+    "full_name": "tony-wang1990/laowang-sub-converter",
+    "owner": "tony-wang1990",
+    "description": "LaoWang Sub-converter - 一款开源的代理订阅转换工具，支持多协议解析和 10+ 主流客户端格式输出，提供 Docker 容器化部署和 Vercel 一键部署。",
+    "stars": 62,
+    "forks": 33,
+    "language": "JavaScript",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2025-12-05T13:38:37+07:00",
+    "updated_at": "2026-06-14T23:59:58+07:00",
+    "pushed_at": "2026-06-14T23:59:54+07:00",
+    "ai_score": 7,
+    "ai_notes": "Multi-protocol support and various output formats",
+    "readme_summary": "",
+    "category": "proxy-subscription",
+    "project_type": "tool",
+    "novelty": 6,
+    "maturity": 8,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Supports multiple protocols",
+      "Docker and Vercel deployment options"
+    ],
+    "weaknesses": [
+      "Limited community engagement",
+      "No listed topics for discovery"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1179883639,
     "full_name": "esphome/device-builder",
     "owner": "esphome",
@@ -7941,6 +8230,46 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 165555422,
+    "full_name": "VladimirKhil/SIOnline",
+    "owner": "VladimirKhil",
+    "description": "SIGame web client",
+    "stars": 78,
+    "forks": 19,
+    "language": "TypeScript",
+    "topics": [
+      "game-development",
+      "react",
+      "redux",
+      "typescript",
+      "webpack"
+    ],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2019-01-14T04:16:01+07:00",
+    "updated_at": "2026-06-14T23:59:59+07:00",
+    "pushed_at": "2026-06-14T23:59:55+07:00",
+    "ai_score": 6,
+    "ai_notes": "Well-structured TypeScript codebase",
+    "readme_summary": "",
+    "category": "game-development",
+    "project_type": "app",
+    "novelty": 4,
+    "maturity": 7,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Organized directory structure",
+      "Use of popular libraries like React and Redux"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Narrow focus on a specific game"
     ],
     "publish": true
   },
@@ -10812,6 +11141,51 @@
     "weaknesses": [
       "limited language usage",
       "small community"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 220410714,
+    "full_name": "airframesio/data",
+    "owner": "airframesio",
+    "description": "Centralization of source data for Airframes/Acars projects",
+    "stars": 30,
+    "forks": 10,
+    "language": "Ruby",
+    "topics": [
+      "acars",
+      "airframes",
+      "csv",
+      "data",
+      "database",
+      "json",
+      "sql",
+      "vdl",
+      "vdl2",
+      "xml"
+    ],
+    "license": "",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2019-11-08T14:27:06+07:00",
+    "updated_at": "2026-06-14T23:59:54+07:00",
+    "pushed_at": "2026-06-14T23:59:49+07:00",
+    "ai_score": 6,
+    "ai_notes": "Well-organized data centralization",
+    "readme_summary": "",
+    "category": "data-repository",
+    "project_type": "library",
+    "novelty": 2,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Clear topic definition",
+      "Multiple data formats supported"
+    ],
+    "weaknesses": [
+      "Limited scope",
+      "Small community"
     ],
     "publish": true
   },
@@ -13840,6 +14214,50 @@
     ],
     "weaknesses": [
       "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1149388681,
+    "full_name": "agentty-xyz/agentty",
+    "owner": "agentty-xyz",
+    "description": "Agentic Development Environment (ADE) in your terminal",
+    "stars": 13,
+    "forks": 0,
+    "language": "Rust",
+    "topics": [
+      "ade",
+      "agent",
+      "claude",
+      "cli",
+      "codex",
+      "gemini",
+      "ide",
+      "terminal",
+      "tui"
+    ],
+    "license": "Apache License 2.0",
+    "default_branch": "main",
+    "homepage": "https://agentty.xyz",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-02-04T10:53:57+07:00",
+    "updated_at": "2026-06-14T23:59:54+07:00",
+    "pushed_at": "2026-06-14T23:59:52+07:00",
+    "ai_score": 6,
+    "ai_notes": "Innovative terminal-based development environment",
+    "readme_summary": "",
+    "category": "development-tool",
+    "project_type": "tool",
+    "novelty": 8,
+    "maturity": 4,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Unique concept",
+      "Rust implementation"
+    ],
+    "weaknesses": [
+      "Limited documentation",
+      "Small community"
     ],
     "publish": true
   },
