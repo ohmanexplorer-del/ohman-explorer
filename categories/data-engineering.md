@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. realdatadriven/central-set-go
 
 - Link: https://github.com/realdatadriven/central-set-go
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: data-engineering
 - Type: app
 - Language: Go
+- Created: 2025-06-22
+- Age: 11 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
