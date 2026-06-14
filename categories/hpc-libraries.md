@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. ROCm/rocm-libraries
 
 - Link: https://github.com/ROCm/rocm-libraries
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: hpc-libraries
 - Type: library
 - Language: Assembly
+- Created: 2025-04-23
+- Age: 1 years 1 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 9.0/10
