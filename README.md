@@ -2,9 +2,9 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 15:04:26 UTC
+Last updated: 2026-06-14 15:38:33 UTC
 
-Total indexed projects: 427
+Total indexed projects: 437
 
 ## Categories
 
@@ -14,6 +14,7 @@ Total indexed projects: 427
 | [ai-agent](categories/ai-agent.md) | 1 |
 | [ai-agents](categories/ai-agents.md) | 2 |
 | [ai-automation](categories/ai-automation.md) | 1 |
+| [ai-coding-agents](categories/ai-coding-agents.md) | 1 |
 | [ai-dev-tools](categories/ai-dev-tools.md) | 1 |
 | [ai-engine](categories/ai-engine.md) | 1 |
 | [ai-gateway](categories/ai-gateway.md) | 1 |
@@ -71,6 +72,7 @@ Total indexed projects: 427
 | [database-tools](categories/database-tools.md) | 1 |
 | [date-time-utils](categories/date-time-utils.md) | 1 |
 | [deep-learning](categories/deep-learning.md) | 1 |
+| [desktop-service](categories/desktop-service.md) | 1 |
 | [dev-ops](categories/dev-ops.md) | 5 |
 | [dev-tool](categories/dev-tool.md) | 2 |
 | [dev-tools](categories/dev-tools.md) | 4 |
@@ -80,6 +82,7 @@ Total indexed projects: 427
 | [discussion-platforms](categories/discussion-platforms.md) | 1 |
 | [distributed-systems](categories/distributed-systems.md) | 1 |
 | [document-processing](categories/document-processing.md) | 1 |
+| [documentation-website](categories/documentation-website.md) | 1 |
 | [driver-build-tools](categories/driver-build-tools.md) | 1 |
 | [e-commerce-sdk](categories/e-commerce-sdk.md) | 1 |
 | [emulation-engine](categories/emulation-engine.md) | 1 |
@@ -87,6 +90,8 @@ Total indexed projects: 427
 | [fullstack-boilerplate](categories/fullstack-boilerplate.md) | 1 |
 | [game-engine](categories/game-engine.md) | 1 |
 | [game-modification](categories/game-modification.md) | 1 |
+| [gaming-client](categories/gaming-client.md) | 1 |
+| [github-tools](categories/github-tools.md) | 1 |
 | [go](categories/go.md) | 203 |
 | [go-framework](categories/go-framework.md) | 1 |
 | [gpu-framework](categories/gpu-framework.md) | 1 |
@@ -118,11 +123,14 @@ Total indexed projects: 427
 | [network-api](categories/network-api.md) | 1 |
 | [network-automation](categories/network-automation.md) | 2 |
 | [network-monitoring](categories/network-monitoring.md) | 2 |
+| [network-optimization](categories/network-optimization.md) | 1 |
 | [network-protocol](categories/network-protocol.md) | 1 |
-| [network-security](categories/network-security.md) | 4 |
+| [network-security](categories/network-security.md) | 5 |
 | [network-server](categories/network-server.md) | 1 |
 | [network-utility](categories/network-utility.md) | 3 |
+| [networking-config](categories/networking-config.md) | 1 |
 | [networking-tool](categories/networking-tool.md) | 3 |
+| [networking-tools](categories/networking-tools.md) | 1 |
 | [nlp-framework](categories/nlp-framework.md) | 1 |
 | [osx-development](categories/osx-development.md) | 1 |
 | [pdf-creation](categories/pdf-creation.md) | 1 |
@@ -145,6 +153,7 @@ Total indexed projects: 427
 | [streaming-api](categories/streaming-api.md) | 1 |
 | [telegram-bot](categories/telegram-bot.md) | 1 |
 | [terminal-agent](categories/terminal-agent.md) | 1 |
+| [terminal-app](categories/terminal-app.md) | 1 |
 | [terminal-multiplexer](categories/terminal-multiplexer.md) | 1 |
 | [testing-framework](categories/testing-framework.md) | 1 |
 | [testing-tool](categories/testing-tool.md) | 1 |
@@ -171,10 +180,16 @@ Total indexed projects: 427
 
 | Language | Projects |
 |---|---:|
-| Go | 402 |
-| TypeScript | 22 |
+| Go | 403 |
+| TypeScript | 23 |
+| Unknown | 3 |
 | C | 2 |
+| C++ | 1 |
+| HTML | 1 |
 | OpenSCAD | 1 |
+| Python | 1 |
+| SCSS | 1 |
+| Vue | 1 |
 
 ## Data
 
