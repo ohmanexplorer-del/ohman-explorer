@@ -79,7 +79,32 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Lack of documentation
 
-### 4. VladimirKhil/SIOnline
+### 4. modernuo/ModernUO
+
+- Link: https://github.com/modernuo/ModernUO
+- Title: modernuo/ModernUO
+- Description: Highly Performant & Scalable Ultima Online Server Emulator
+- Category: gaming
+- Type: emulator
+- Language: C#
+- Created: 2018-08-18
+- Age: 7 years 10 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 7.0/10
+- Stars: 334
+- Reason: The project is a well-maintained and scalable Ultima Online server emulator with clear purpose and English documentation.
+- Strengths:
+  - Highly performant and scalable
+  - Actively maintained
+- Weaknesses:
+  - Niche audience
+  - Limited to Ultima Online
+
+### 5. VladimirKhil/SIOnline
 
 - Link: https://github.com/VladimirKhil/SIOnline
 - Title: VladimirKhil/SIOnline
@@ -104,7 +129,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Narrow focus on a specific game
 
-### 5. beyond-all-reason/bar-lobby
+### 6. beyond-all-reason/bar-lobby
 
 - Link: https://github.com/beyond-all-reason/bar-lobby
 - Title: beyond-all-reason/bar-lobby
@@ -129,7 +154,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Niche use case
 
-### 6. mokiat/lacking
+### 7. mokiat/lacking
 
 - Link: https://github.com/mokiat/lacking
 - Title: mokiat/lacking
@@ -154,7 +179,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 7. Shade-of-Gr3y/Dream-World-Revival
+### 8. Shade-of-Gr3y/Dream-World-Revival
 
 - Link: https://github.com/Shade-of-Gr3y/Dream-World-Revival
 - Title: Shade-of-Gr3y/Dream-World-Revival
@@ -179,7 +204,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - limited language usage
   - small community
 
-### 8. vituha230/Neuro-Skyrim-Integration
+### 9. vituha230/Neuro-Skyrim-Integration
 
 - Link: https://github.com/vituha230/Neuro-Skyrim-Integration
 - Title: vituha230/Neuro-Skyrim-Integration
