@@ -86,3 +86,24 @@ Curated projects in this category.
   - Lack of documentation
   - Limited features
 
+### 5. ALIILAPRO/v2rayNG-Config
+
+- Link: https://github.com/ALIILAPRO/v2rayNG-Config
+- Title: ALIILAPRO/v2rayNG-Config
+- Description: Get new and fast config for bypassing net.
+- Category: network-security
+- Type: config
+- Language: HTML
+- Score: 6.0/10
+- Novelty: 2.0/10
+- Maturity: 8.0/10
+- Small repo potential: 6.0/10
+- Stars: 331
+- Reason: Limited scope but well-maintained config repository
+- Strengths:
+  - Well-organized config files
+  - Regular updates
+- Weaknesses:
+  - Limited documentation
+  - Narrow focus on v2rayNG
+
