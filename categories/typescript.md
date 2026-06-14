@@ -2,11 +2,11 @@
 
 Curated projects in this category.
 
-### 1. vegidio/open-photo-ai
+### 1. antonio-orionus/Arroxy
 
-- Link: https://github.com/vegidio/open-photo-ai
-- Title: vegidio/open-photo-ai
-- Description: An open source alternative to the popular photo AI editor.
+- Link: https://github.com/antonio-orionus/Arroxy
+- Title: antonio-orionus/Arroxy
+- Description: Free open-source YouTube and +2000 sites downloader GUI based on yt-dlp for Windows, macOS, and Linux. Download videos, Shorts, 4K, 1080p60, HDR, playlists, channels, and subtitles with no ads, tracking, cookies, or logi...
 - Category: typescript
 - Type: unknown
 - Language: TypeScript
@@ -14,7 +14,7 @@ Curated projects in this category.
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 6.0/10
-- Stars: 123
+- Stars: 214
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
