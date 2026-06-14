@@ -2,25 +2,25 @@
 
 Curated projects in this category.
 
-### 1. wham/kaja
+### 1. kaicontext/kai
 
-- Link: https://github.com/wham/kaja
-- Title: wham/kaja
-- Description: A code-based UI for exploring and calling gRPC and Twirp APIs.
+- Link: https://github.com/kaicontext/kai
+- Title: kaicontext/kai
+- Description: Kai is a semantic analysis engine that sits on top of Git. It captures meaningful changes, generates semantic diffs, and produces safe selective CI plans.
 - Category: developer-tools
 - Type: tool
 - Language: Go
-- Score: 7.0/10
-- Novelty: 8.0/10
-- Maturity: 3.0/10
-- Small repo potential: 9.0/10
-- Stars: 15
-- Reason: Offers a unique code-based UI approach to exploring and testing both gRPC and Twirp APIs, filling a highly specific niche for Go microservices developers.
+- Score: 8.0/10
+- Novelty: 9.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 18
+- Reason: Innovative semantic analysis engine
 - Strengths:
-  - Supports Twirp, which has significantly fewer tooling options compared to gRPC
-  - Code-based UI allows developers to version-control their API exploration scripts
-  - Lightweight and native to the Go ecosystem
+  - Unique approach to code analysis
+  - Integration with Git
+  - Generates semantic diffs
 - Weaknesses:
-  - Low community adoption and maturity
-  - Documentation is sparse, requiring users to dive into the code to understand full capabilities
+  - Limited community engagement
+  - Small number of stars
 
