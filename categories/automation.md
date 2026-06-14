@@ -79,3 +79,28 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Very early stage with limited community validation and stars
   - Highly niche focus primarily targeting WeChat users
 
+### 4. fbiego/auto-follow-unfollow
+
+- Link: https://github.com/fbiego/auto-follow-unfollow
+- Title: fbiego/auto-follow-unfollow
+- Description: Follow and unfollow users automatically
+- Category: automation
+- Type: tool
+- Language: PHP
+- Created: 2022-01-16
+- Age: 4 years 4 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 28
+- Reason: The project is a working tool with a clear purpose, but its score is barely above the threshold.
+- Strengths:
+  - Tightly scoped
+  - Clear purpose
+- Weaknesses:
+  - Low star count
+  - Limited novelty
+
