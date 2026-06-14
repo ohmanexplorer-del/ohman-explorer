@@ -109,7 +109,29 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 6. forfudan/MojoMiji
+### 6. SankaVollereii/Sankanime-Web-Stream-Anime
+
+- Link: https://github.com/SankaVollereii/Sankanime-Web-Stream-Anime
+- Title: SankaVollereii/Sankanime-Web-Stream-Anime
+- Description: Ad free anime streaming platform, muti subtittle and no ads
+- Category: uncategorized
+- Type: unknown
+- Created: 2025-10-13
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 35
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 7. forfudan/MojoMiji
 
 - Link: https://github.com/forfudan/MojoMiji
 - Title: forfudan/MojoMiji
@@ -132,7 +154,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 7. add-my-pet/DEBtool_M
+### 8. add-my-pet/DEBtool_M
 
 - Link: https://github.com/add-my-pet/DEBtool_M
 - Title: add-my-pet/DEBtool_M
@@ -155,7 +177,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 8. Dev-FelixOfc/Kazuma-Mr-Bot
+### 9. Dev-FelixOfc/Kazuma-Mr-Bot
 
 - Link: https://github.com/Dev-FelixOfc/Kazuma-Mr-Bot
 - Title: Dev-FelixOfc/Kazuma-Mr-Bot
@@ -178,7 +200,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 9. rdmurphy/actblue-ticker-tracker
+### 10. rdmurphy/actblue-ticker-tracker
 
 - Link: https://github.com/rdmurphy/actblue-ticker-tracker
 - Title: rdmurphy/actblue-ticker-tracker
@@ -201,7 +223,52 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 10. sergeii/swat4stats
+### 11. VPSLabCloud/VPSLab-Free-Proxy-List
+
+- Link: https://github.com/VPSLabCloud/VPSLab-Free-Proxy-List
+- Title: VPSLabCloud/VPSLab-Free-Proxy-List
+- Description: Free proxy list updated every 15 minutes | HTTP, HTTPS, SOCKS4, SOCKS5, elite & anonymous proxies. Powered by VPSLab.
+- Category: uncategorized
+- Type: unknown
+- Created: 2026-03-04
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 12. mflRevan/unity-control-protocol
+
+- Link: https://github.com/mflRevan/unity-control-protocol
+- Title: mflRevan/unity-control-protocol
+- Description: Rust-based Unity Control CLI + C# bridge layer. Exposes editor, debugging and lifecycle structured tool access outside of Unity. Highly recommended for heavy agentic development workflows.
+- Category: uncategorized
+- Type: unknown
+- Language: C#
+- Created: 2026-03-05
+- Age: 3 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 21
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 13. sergeii/swat4stats
 
 - Link: https://github.com/sergeii/swat4stats
 - Title: sergeii/swat4stats
@@ -224,7 +291,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 11. jobright-ai/2026-Engineering-New-Grad
+### 14. jobright-ai/2026-Engineering-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Engineering-New-Grad
 - Title: jobright-ai/2026-Engineering-New-Grad
@@ -246,7 +313,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 12. jobright-ai/2026-Business-Analyst-New-Grad
+### 15. jobright-ai/2026-Business-Analyst-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Business-Analyst-New-Grad
 - Title: jobright-ai/2026-Business-Analyst-New-Grad
@@ -268,7 +335,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 13. tabhub/rss-feeds
+### 16. tabhub/rss-feeds
 
 - Link: https://github.com/tabhub/rss-feeds
 - Title: tabhub/rss-feeds
@@ -291,7 +358,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 14. zcanann/SFA-Decomp
+### 17. eniklas/gamatrix
+
+- Link: https://github.com/eniklas/gamatrix
+- Title: eniklas/gamatrix
+- Description: Inspect GOG DBs and report the games in common between them
+- Category: uncategorized
+- Type: unknown
+- Language: Python
+- Created: 2020-10-31
+- Age: 5 years 7 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 18. zcanann/SFA-Decomp
 
 - Link: https://github.com/zcanann/SFA-Decomp
 - Title: zcanann/SFA-Decomp
@@ -314,7 +404,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 15. jobright-ai/2026-Account-New-Grad
+### 19. jobright-ai/2026-Account-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Account-New-Grad
 - Title: jobright-ai/2026-Account-New-Grad
@@ -336,7 +426,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 16. jwwelbor/AgentMap
+### 20. jwwelbor/AgentMap
 
 - Link: https://github.com/jwwelbor/AgentMap
 - Title: jwwelbor/AgentMap
@@ -359,7 +449,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 17. jobright-ai/2026-Software-Engineer-New-Grad
+### 21. jobright-ai/2026-Software-Engineer-New-Grad
 
 - Link: https://github.com/jobright-ai/2026-Software-Engineer-New-Grad
 - Title: jobright-ai/2026-Software-Engineer-New-Grad
@@ -381,7 +471,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 18. doldecomp/sms
+### 22. doldecomp/sms
 
 - Link: https://github.com/doldecomp/sms
 - Title: doldecomp/sms
@@ -404,7 +494,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 19. nextcloud/collectives
+### 23. nextcloud/collectives
 
 - Link: https://github.com/nextcloud/collectives
 - Title: nextcloud/collectives
@@ -427,7 +517,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 20. torvalds/1590A
+### 24. drshahizan/HPDP
+
+- Link: https://github.com/drshahizan/HPDP
+- Title: drshahizan/HPDP
+- Description: High performance data processing employs high performance computing (HPC) to process data, which is then translated into information and knowledge. The advent of high-performance computing and data analytics enabled real...
+- Category: uncategorized
+- Type: unknown
+- Language: Jupyter Notebook
+- Created: 2023-09-24
+- Age: 2 years 8 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 6.0/10
+- Stars: 153
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 25. torvalds/1590A
 
 - Link: https://github.com/torvalds/1590A
 - Title: torvalds/1590A
