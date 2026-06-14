@@ -104,3 +104,28 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Low community engagement
 
+### 5. mosandlt/Bosch-Smart-Home-Camera-Tool-HomeAssistant
+
+- Link: https://github.com/mosandlt/Bosch-Smart-Home-Camera-Tool-HomeAssistant
+- Title: mosandlt/Bosch-Smart-Home-Camera-Tool-HomeAssistant
+- Description: Bosch Smart Home Camera — Home Assistant custom integration (HACS)
+- Category: iot
+- Type: tool
+- Language: Python
+- Created: 2026-03-19
+- Age: 2 months
+- Last pushed: 2026-06-14
+- Assessment context: young repo; potential is meaningful but stability is still forming
+- Score: 5.8/10
+- Novelty: 6.0/10
+- Maturity: 5.0/10
+- Small repo potential: 8.0/10
+- Stars: 17
+- Reason: It provides a highly targeted, functional Home Assistant integration for Bosch Smart Home camera owners, serving an underserved hardware niche.
+- Strengths:
+  - Fills a gap in Home Assistant integrations for Bosch hardware
+  - Easy installation via HACS
+- Weaknesses:
+  - Extremely niche audience limited to owners of Bosch Smart Home cameras
+  - Low overall community engagement and star count
+
