@@ -5649,7 +5649,7 @@
     "created_at": "2026-02-04T03:01:19+07:00",
     "updated_at": "2026-06-14T08:38:35+07:00",
     "pushed_at": "2026-06-14T08:38:25+07:00",
-    "repo_age_days": 130,
+    "repo_age_days": 131,
     "repo_age_label": "4 months",
     "ai_score": 8,
     "ai_notes": "Innovative multi-agent approach to AI coding assistants",
@@ -9084,6 +9084,43 @@
     "publish": true
   },
   {
+    "github_id": 698692870,
+    "full_name": "fdciabdul/Vpngate-Scraper-API",
+    "owner": "fdciabdul",
+    "description": "fresh oVPN config from vpngate.net",
+    "stars": 84,
+    "forks": 38,
+    "language": "JavaScript",
+    "topics": [
+      "open-vpn",
+      "vpn"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "https://imtaqin.id",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2023-10-01T00:10:21+07:00",
+    "updated_at": "2026-06-15T02:59:58+07:00",
+    "pushed_at": "2026-06-15T02:59:53+07:00",
+    "repo_age_days": 988,
+    "repo_age_label": "2 years 8 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1147438527,
     "full_name": "liuran001/MusicBot-Go",
     "owner": "liuran001",
@@ -9206,7 +9243,7 @@
     "created_at": "2026-03-14T02:57:11+07:00",
     "updated_at": "2026-06-14T13:39:51+07:00",
     "pushed_at": "2026-06-14T13:39:49+07:00",
-    "repo_age_days": 92,
+    "repo_age_days": 93,
     "repo_age_label": "3 months",
     "ai_score": 6,
     "ai_notes": "Lack of documentation and topics",
@@ -10715,6 +10752,50 @@
     "publish": true
   },
   {
+    "github_id": 1253544907,
+    "full_name": "SHAJON-404/iptv",
+    "owner": "SHAJON-404",
+    "description": "A premium IPTV web player built with Next.js featuring 6500+ live TV channels, HLS streaming, custom playlist support, and a stunning Three.js animated UI.",
+    "stars": 48,
+    "forks": 28,
+    "language": "TypeScript",
+    "topics": [
+      "iptv",
+      "iptv-channels",
+      "iptv-m3u",
+      "iptv-player",
+      "iptv-playlist",
+      "m3u",
+      "m3u8",
+      "open-source",
+      "opensource"
+    ],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "main",
+    "homepage": "https://tv.shajon.dev",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-05-29T22:16:48+07:00",
+    "updated_at": "2026-06-15T02:59:50+07:00",
+    "pushed_at": "2026-06-15T02:59:46+07:00",
+    "repo_age_days": 16,
+    "repo_age_label": "16 days",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "developer-tools",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1150400337,
     "full_name": "lrhodin/corten-matrix",
     "owner": "lrhodin",
@@ -11018,6 +11099,61 @@
     "weaknesses": [
       "Limited community engagement",
       "No clear use cases"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1213578470,
+    "full_name": "CollieAi/llm-firewall",
+    "owner": "CollieAi",
+    "description": "AI Firewall \u0026 LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and adversarial attacks",
+    "stars": 43,
+    "forks": 1,
+    "language": "",
+    "topics": [
+      "adversarial-attacks",
+      "ai-firewall",
+      "ai-gateway",
+      "ai-safety",
+      "ai-security",
+      "chatgpt",
+      "content-moderation",
+      "cybersecurity",
+      "generative-ai",
+      "guardrails",
+      "hallucination-detection",
+      "llm",
+      "llm-observability",
+      "llm-security",
+      "machine-learning-security",
+      "openai",
+      "pii-detection",
+      "prompt-engineering",
+      "prompt-injection",
+      "responsible-ai"
+    ],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "https://collieai.io",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-04-17T21:28:54+07:00",
+    "updated_at": "2026-06-15T02:59:53+07:00",
+    "pushed_at": "2026-06-15T02:59:48+07:00",
+    "repo_age_days": 58,
+    "repo_age_label": "1 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
     ],
     "publish": true
   },
@@ -11869,6 +12005,40 @@
     "weaknesses": [
       "Limited to GitHub stars",
       "No additional project analysis"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1266689974,
+    "full_name": "Rodrig02005/EmuHub-APP",
+    "owner": "Rodrig02005",
+    "description": "EmuHub – A curated index of Turnip GPU drivers, Winlator mods, GameHub builds, and essential tools for running PC games on Android. Automatically fetches the latest A8xx (Gen8) driver ZIP from GitHub.",
+    "stars": 34,
+    "forks": 0,
+    "language": "Kotlin",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-06-12T04:32:28+07:00",
+    "updated_at": "2026-06-15T02:59:49+07:00",
+    "pushed_at": "2026-06-15T02:59:45+07:00",
+    "repo_age_days": 2,
+    "repo_age_label": "2 days",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
     ],
     "publish": true
   },
@@ -16063,6 +16233,44 @@
     "publish": true
   },
   {
+    "github_id": 1237548136,
+    "full_name": "aminalaee/vllm-doctor",
+    "owner": "aminalaee",
+    "description": "Diagnostic tool for vLLM inference servers",
+    "stars": 14,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "llm",
+      "llm-inference",
+      "vllm"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "https://aminalaee.github.io/vllm-doctor/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-05-13T16:31:39+07:00",
+    "updated_at": "2026-06-15T02:59:48+07:00",
+    "pushed_at": "2026-06-15T02:59:46+07:00",
+    "repo_age_days": 32,
+    "repo_age_label": "1 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1069655360,
     "full_name": "coalesce-labs/catalyst",
     "owner": "coalesce-labs",
@@ -16690,6 +16898,47 @@
     "ai_notes": "Selected from repository metadata.",
     "readme_summary": "",
     "category": "go",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 1164186526,
+    "full_name": "latedeployment/oci2bin",
+    "owner": "latedeployment",
+    "description": "Convert OCI images into polyglot ELF+tar executables that run without Docker",
+    "stars": 13,
+    "forks": 0,
+    "language": "C",
+    "topics": [
+      "containers",
+      "elf",
+      "kvm",
+      "oci-image",
+      "polyglot",
+      "tar"
+    ],
+    "license": "",
+    "default_branch": "main",
+    "homepage": "https://latedeployment.github.io/oci2bin/",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-02-23T02:08:06+07:00",
+    "updated_at": "2026-06-15T02:59:51+07:00",
+    "pushed_at": "2026-06-15T02:59:49+07:00",
+    "repo_age_days": 112,
+    "repo_age_label": "3 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
     "project_type": "unknown",
     "novelty": 5,
     "maturity": 6,
@@ -17708,6 +17957,45 @@
     "publish": true
   },
   {
+    "github_id": 1235046442,
+    "full_name": "robot-head/crabka",
+    "owner": "robot-head",
+    "description": "A Rust reimplementation of Apache Kafka. Apache 2.0, derivative work. Pre-alpha.",
+    "stars": 11,
+    "forks": 0,
+    "language": "Rust",
+    "topics": [
+      "kafka",
+      "message-broker",
+      "rust",
+      "streaming"
+    ],
+    "license": "Apache License 2.0",
+    "default_branch": "main",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2026-05-11T07:47:48+07:00",
+    "updated_at": "2026-06-15T02:59:56+07:00",
+    "pushed_at": "2026-06-15T02:59:53+07:00",
+    "repo_age_days": 34,
+    "repo_age_label": "1 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "developer-tools",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 1013900404,
     "full_name": "BagToad/BestPal",
     "owner": "BagToad",
@@ -17967,6 +18255,40 @@
     "ai_notes": "Selected from repository metadata.",
     "readme_summary": "",
     "category": "go",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 279555846,
+    "full_name": "andreiraduta11/bet-etf",
+    "owner": "andreiraduta11",
+    "description": "This repository consists of a transaction order calculator. Its purpose is to help investors better copy the BET index, ie. the behavior of the Romanian stock market.",
+    "stars": 10,
+    "forks": 5,
+    "language": "Python",
+    "topics": [],
+    "license": "MIT License",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2020-07-14T17:36:15+07:00",
+    "updated_at": "2026-06-15T02:59:52+07:00",
+    "pushed_at": "2026-06-15T02:59:48+07:00",
+    "repo_age_days": 2161,
+    "repo_age_label": "5 years 11 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
     "project_type": "unknown",
     "novelty": 5,
     "maturity": 6,
@@ -18349,6 +18671,40 @@
     "publish": true
   },
   {
+    "github_id": 67389440,
+    "full_name": "thwbecker/interact",
+    "owner": "thwbecker",
+    "description": "Elastic half space fault interaction and co-seismic slip inversion code using quad and triangle dislocations",
+    "stars": 10,
+    "forks": 4,
+    "language": "Forth",
+    "topics": [],
+    "license": "GNU General Public License v2.0",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2016-09-05T12:02:57+07:00",
+    "updated_at": "2026-06-15T02:59:58+07:00",
+    "pushed_at": "2026-06-15T02:59:54+07:00",
+    "repo_age_days": 3569,
+    "repo_age_label": "9 years 9 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 8,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
     "github_id": 297910056,
     "full_name": "tobinjo96/CPFcluster",
     "owner": "tobinjo96",
@@ -18662,7 +19018,7 @@
     "created_at": "2021-07-03T02:49:41+07:00",
     "updated_at": "2026-06-14T22:37:09+07:00",
     "pushed_at": "2026-06-14T22:37:05+07:00",
-    "repo_age_days": 1807,
+    "repo_age_days": 1808,
     "repo_age_label": "4 years 11 months",
     "ai_score": 6,
     "ai_notes": "Clear documentation focus",
@@ -19102,6 +19458,52 @@
     "ai_notes": "Selected from repository metadata.",
     "readme_summary": "",
     "category": "go",
+    "project_type": "unknown",
+    "novelty": 5,
+    "maturity": 6,
+    "small_repo_fit": 6,
+    "strengths": [
+      "Interesting repository metadata"
+    ],
+    "weaknesses": [
+      "Needs deeper review"
+    ],
+    "publish": true
+  },
+  {
+    "github_id": 212859024,
+    "full_name": "dibdot/DoH-IP-blocklists",
+    "owner": "dibdot",
+    "description": "This repo contains the domain names and the resolved IPv4/IPv6 addresses of public DoH server",
+    "stars": 346,
+    "forks": 50,
+    "language": "Shell",
+    "topics": [
+      "adblock",
+      "banip",
+      "blocklist",
+      "dns",
+      "dns-over-https",
+      "dns-server",
+      "doh",
+      "domain",
+      "ipv4",
+      "ipv6",
+      "openwrt"
+    ],
+    "license": "GNU General Public License v3.0",
+    "default_branch": "master",
+    "homepage": "",
+    "visited_at": "0001-01-01T07:07:12+07:07",
+    "created_at": "2019-10-04T23:32:40+07:00",
+    "updated_at": "2026-06-15T02:59:50+07:00",
+    "pushed_at": "2026-06-15T02:59:47+07:00",
+    "repo_age_days": 2445,
+    "repo_age_label": "6 years 8 months",
+    "ai_score": 6,
+    "ai_notes": "Selected from repository metadata.",
+    "readme_summary": "",
+    "category": "general",
     "project_type": "unknown",
     "novelty": 5,
     "maturity": 6,
