@@ -4,7 +4,31 @@ Curated projects in this category.
 
 Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
 
-### 1. Au1rxx/free-vpn-subscriptions
+### 1. ph00lt0/blocklist
+
+- Link: https://github.com/ph00lt0/blocklist
+- Title: ph00lt0/blocklist
+- Description: Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
+- Category: privacy
+- Type: tool
+- Language: Python
+- Created: 2021-12-06
+- Age: 4 years 6 months
+- Last pushed: 2026-06-14
+- Assessment context: older repo; long-term activity and recent maintenance matter more than age alone
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 8.0/10
+- Small repo potential: 9.0/10
+- Stars: 471
+- Reason: The project provides a useful collection of blocklists for various ad-blocking tools.
+- Strengths:
+  - Well-maintained
+  - Supports multiple ad-blocking tools
+- Weaknesses:
+  - Limited to ad-blocking use cases
+
+### 2. Au1rxx/free-vpn-subscriptions
 
 - Link: https://github.com/Au1rxx/free-vpn-subscriptions
 - Title: Au1rxx/free-vpn-subscriptions
@@ -30,7 +54,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited to specific VPN protocols
   - Dependence on external services
 
-### 2. TomasZmek/cpm
+### 3. TomasZmek/cpm
 
 - Link: https://github.com/TomasZmek/cpm
 - Title: TomasZmek/cpm
@@ -54,7 +78,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited topics and community engagement
 
-### 3. fyvri/fresh-proxy-list
+### 4. fyvri/fresh-proxy-list
 
 - Link: https://github.com/fyvri/fresh-proxy-list
 - Title: fyvri/fresh-proxy-list
@@ -80,7 +104,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Dependence on external proxy sources
 
-### 4. in4it/vpn-server
+### 5. in4it/vpn-server
 
 - Link: https://github.com/in4it/vpn-server
 - Title: in4it/vpn-server
@@ -106,7 +130,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - Lack of detailed documentation
 
-### 5. lm705/vair
+### 6. lm705/vair
 
 - Link: https://github.com/lm705/vair
 - Title: lm705/vair
@@ -132,7 +156,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small user base
 
-### 6. FreeFolksOn/abc-configs-free-vpn-proxy-list
+### 7. FreeFolksOn/abc-configs-free-vpn-proxy-list
 
 - Link: https://github.com/FreeFolksOn/abc-configs-free-vpn-proxy-list
 - Title: FreeFolksOn/abc-configs-free-vpn-proxy-list
@@ -157,7 +181,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited to specific protocols and clients
   - Dependence on Telegram for live feed
 
-### 7. kaleedtc/Privacium
+### 8. kaleedtc/Privacium
 
 - Link: https://github.com/kaleedtc/Privacium
 - Title: kaleedtc/Privacium
@@ -183,7 +207,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependence on Kotlin and Android
 
-### 8. tony-wang1990/laowang-sub-converter
+### 9. tony-wang1990/laowang-sub-converter
 
 - Link: https://github.com/tony-wang1990/laowang-sub-converter
 - Title: tony-wang1990/laowang-sub-converter
@@ -208,7 +232,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - No listed topics for discovery
 
-### 9. themiralay/Proxy-List-World
+### 10. themiralay/Proxy-List-World
 
 - Link: https://github.com/themiralay/Proxy-List-World
 - Title: themiralay/Proxy-List-World
@@ -232,7 +256,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Unclear implementation details
 
-### 10. miladtahanian/Config-Collector
+### 11. miladtahanian/Config-Collector
 
 - Link: https://github.com/miladtahanian/Config-Collector
 - Title: miladtahanian/Config-Collector
@@ -257,7 +281,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependence on Telegram channels
 
-### 11. Maskkost93/kizyak-vpn-4.0
+### 12. Maskkost93/kizyak-vpn-4.0
 
 - Link: https://github.com/Maskkost93/kizyak-vpn-4.0
 - Title: Maskkost93/kizyak-vpn-4.0
@@ -281,7 +305,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Dependence on external configs
 
-### 12. SIPC/H2O
+### 13. SIPC/H2O
 
 - Link: https://github.com/SIPC/H2O
 - Title: SIPC/H2O
@@ -308,7 +332,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Lacks extensive documentation and localization
   - Centralized management of proxy nodes introduces security and credential handling risks
 
-### 13. DarkKnightYHJ/AdGuardHomeList
+### 14. DarkKnightYHJ/AdGuardHomeList
 
 - Link: https://github.com/DarkKnightYHJ/AdGuardHomeList
 - Title: DarkKnightYHJ/AdGuardHomeList
@@ -330,7 +354,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Limited information and low star count
 
-### 14. thedoggybrad/easylist-mirror
+### 15. thedoggybrad/easylist-mirror
 
 - Link: https://github.com/thedoggybrad/easylist-mirror
 - Title: thedoggybrad/easylist-mirror
