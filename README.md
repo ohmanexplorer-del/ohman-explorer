@@ -2,57 +2,78 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 02:21:02 UTC
+Last updated: 2026-06-14 02:40:57 UTC
 
 ## Latest Findings
 
-### 1. sozercan/vekil
+### 1. agenticenv/agent-sdk-go
 
-- Link: https://github.com/sozercan/vekil
-- Title: sozercan/vekil
-- Description: 🧑‍💼 Reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs over GitHub Copilot, OpenAI Codex, Microsoft Foundry and compatible model servers
-- Category: ai-proxy
-- Type: tool
+- Link: https://github.com/agenticenv/agent-sdk-go
+- Title: agenticenv/agent-sdk-go
+- Description: AI agents in Go — Temporal for durable, crash-resilient execution or run in-process with zero setup. OpenAI, Anthropic, Gemini, tools, MCP, A2A, RAG, conversations, AG-UI, streaming, sub-agents & human-in-the-loop.
+- Category: ai-agents
+- Type: framework
 - Language: Go
 - Score: 8.0/10
 - Novelty: 7.0/10
 - Maturity: 6.0/10
-- Small repo potential: 9.0/10
-- Stars: 16
-- Reason: Exposes multiple AI APIs over a reverse proxy
+- Small repo potential: 8.0/10
+- Stars: 20
+- Reason: Well-structured AI agent framework in Go
 - Strengths:
-  - Supports multiple AI models
-  - Written in Go for performance
+  - Durable and crash-resilient execution
+  - Support for multiple AI models and tools
+  - In-process execution with zero setup
+- Weaknesses:
+  - Limited community engagement
+  - Still a relatively new repository
+
+### 2. llxisdsh/cc
+
+- Link: https://github.com/llxisdsh/cc
+- Title: llxisdsh/cc
+- Description: Concurrent Core for Go — a lightweight, high-performance toolkit designed for critical paths where latency and allocation matter.
+- Category: concurrent-programming
+- Type: library
+- Language: Go
+- Score: 8.0/10
+- Novelty: 6.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 11
+- Reason: High-performance concurrent core for critical paths
+- Strengths:
+  - Lightweight
+  - High-performance
+  - Lock-free design
 - Weaknesses:
   - Limited documentation
   - Small community
 
-### 2. tjhop/prometheus-mcp-server
+### 3. itmisx/deepx-code
 
-- Link: https://github.com/tjhop/prometheus-mcp-server
-- Title: tjhop/prometheus-mcp-server
-- Description: MCP server for LLMs to interact with Prometheus
-- Category: monitoring-tool
-- Type: tool
+- Link: https://github.com/itmisx/deepx-code
+- Title: itmisx/deepx-code
+- Description: deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择等功能，从根本上节省Token
+- Category: go
+- Type: unknown
 - Language: Go
 - Score: 6.0/10
-- Novelty: 4.0/10
+- Novelty: 5.0/10
 - Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 50
-- Reason: Clear purpose, but limited context
+- Small repo potential: 6.0/10
+- Stars: 177
+- Reason: Selected from repository metadata.
 - Strengths:
-  - Specific use case
-  - Go implementation
+  - Interesting repository metadata
 - Weaknesses:
-  - Lack of documentation
-  - Unclear scalability
+  - Needs deeper review
 
-### 3. dr-dobermann/gobpm
+### 4. designinlife/jetbrains
 
-- Link: https://github.com/dr-dobermann/gobpm
-- Title: dr-dobermann/gobpm
-- Description: BPMN v.2 compliant BPM engine on Go
+- Link: https://github.com/designinlife/jetbrains
+- Title: designinlife/jetbrains
+- Description: Check out the command line tool for JetBrains software version update links.
 - Category: go
 - Type: unknown
 - Language: Go
@@ -60,18 +81,18 @@ Last updated: 2026-06-14 02:21:02 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 49
+- Stars: 90
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 4. ommengman-prog/god-eye
+### 5. aws/eks-anywhere-build-tooling
 
-- Link: https://github.com/ommengman-prog/god-eye
-- Title: ommengman-prog/god-eye
-- Description: 🛡️ Detect and respond to security threats in real-time with God-Eye, an AI-driven tool designed for privacy and local deployment on multiple platforms.
+- Link: https://github.com/aws/eks-anywhere-build-tooling
+- Title: aws/eks-anywhere-build-tooling
+- Description: Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
 - Category: go
 - Type: unknown
 - Language: Go
@@ -79,18 +100,38 @@ Last updated: 2026-06-14 02:21:02 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 39
+- Stars: 63
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 5. BapiGso/gopanel
+### 6. railzen/nezha-zero
 
-- Link: https://github.com/BapiGso/gopanel
-- Title: BapiGso/gopanel
-- Description: a lite server manage panel
+- Link: https://github.com/railzen/nezha-zero
+- Title: railzen/nezha-zero
+- Description: Nezha V0 YYDS!
+- Category: ai-model
+- Type: library
+- Language: Go
+- Score: 6.0/10
+- Novelty: 8.0/10
+- Maturity: 4.0/10
+- Small repo potential: 8.0/10
+- Stars: 44
+- Reason: Lack of documentation
+- Strengths:
+  - Unique AI model implementation
+- Weaknesses:
+  - Limited community engagement
+  - No clear use cases
+
+### 7. mochow13/keen-code
+
+- Link: https://github.com/mochow13/keen-code
+- Title: mochow13/keen-code
+- Description: A context-aware and efficient CLI-based coding agent written in Go
 - Category: go
 - Type: unknown
 - Language: Go
@@ -98,18 +139,18 @@ Last updated: 2026-06-14 02:21:02 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 32
+- Stars: 33
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 6. sorafujitani/ccsession
+### 8. go-training/mcp-workshop
 
-- Link: https://github.com/sorafujitani/ccsession
-- Title: sorafujitani/ccsession
-- Description: pick any past Claude Code session via fzf, then resume it from the right cwd
+- Link: https://github.com/go-training/mcp-workshop
+- Title: go-training/mcp-workshop
+- Description: MCP workshop using Golang
 - Category: go
 - Type: unknown
 - Language: Go
@@ -117,56 +158,18 @@ Last updated: 2026-06-14 02:21:02 UTC
 - Novelty: 5.0/10
 - Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 29
+- Stars: 33
 - Reason: Selected from repository metadata.
 - Strengths:
   - Interesting repository metadata
 - Weaknesses:
   - Needs deeper review
 
-### 7. Mintimate/oh-my-rime-cli
+### 9. Correia-jpv/fucking-awesome-go
 
-- Link: https://github.com/Mintimate/oh-my-rime-cli
-- Title: Mintimate/oh-my-rime-cli
-- Description: oh-my-rime-cli 是一个用于 Rime 输入法更新和管理薄荷配置的命令行工具，支持多平台（Windows、macOS、Linux）🖥️，方便用户快速操作和定制 Rime 输入法环境✨
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 14
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 8. adanalife/tripbot
-
-- Link: https://github.com/adanalife/tripbot
-- Title: adanalife/tripbot
-- Description: An ongoing 24/7 slow-TV art project
-- Category: go
-- Type: unknown
-- Language: Go
-- Score: 6.0/10
-- Novelty: 5.0/10
-- Maturity: 6.0/10
-- Small repo potential: 8.0/10
-- Stars: 13
-- Reason: Selected from repository metadata.
-- Strengths:
-  - Interesting repository metadata
-- Weaknesses:
-  - Needs deeper review
-
-### 9. kleister/kleister-api
-
-- Link: https://github.com/kleister/kleister-api
-- Title: kleister/kleister-api
-- Description: Server to manage mod packs for Minecraft
+- Link: https://github.com/Correia-jpv/fucking-awesome-go
+- Title: Correia-jpv/fucking-awesome-go
+- Description: A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴
 - Category: go
 - Type: unknown
 - Language: Go
@@ -181,31 +184,31 @@ Last updated: 2026-06-14 02:21:02 UTC
 - Weaknesses:
   - Needs deeper review
 
-### 10. cxykevin/alkaid0
+### 10. d-velop/grafana-odata-datasource
 
-- Link: https://github.com/cxykevin/alkaid0
-- Title: cxykevin/alkaid0
-- Description: Alkaid0 Coding Agent
-- Category: ai-agent
-- Type: app
+- Link: https://github.com/d-velop/grafana-odata-datasource
+- Title: d-velop/grafana-odata-datasource
+- Description: This is a Grafana data source plugin that allows you to query and visualize data from OData V4 compatible data sources.
+- Category: go
+- Type: unknown
 - Language: Go
 - Score: 6.0/10
-- Novelty: 8.0/10
-- Maturity: 4.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
 - Small repo potential: 8.0/10
-- Stars: 11
-- Reason: Interesting AI coding agent concept
+- Stars: 10
+- Reason: Selected from repository metadata.
 - Strengths:
-  - Unique approach to coding assistance
+  - Interesting repository metadata
 - Weaknesses:
-  - Limited documentation and community
+  - Needs deeper review
 
 ## Categories
 
-- [ai-agent](categories/ai-agent.md)
-- [ai-proxy](categories/ai-proxy.md)
+- [ai-agents](categories/ai-agents.md)
+- [ai-model](categories/ai-model.md)
+- [concurrent-programming](categories/concurrent-programming.md)
 - [go](categories/go.md)
-- [monitoring-tool](categories/monitoring-tool.md)
 
 ## Data
 
