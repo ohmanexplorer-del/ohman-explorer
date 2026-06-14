@@ -2,6 +2,8 @@
 
 Curated projects in this category.
 
+Note: young repositories can show strong potential but still carry higher stability and maintenance risk.
+
 ### 1. workweave/router
 
 - Link: https://github.com/workweave/router
@@ -10,6 +12,10 @@ Curated projects in this category.
 - Category: ai-routing
 - Type: library
 - Language: Go
+- Created: 2026-04-27
+- Age: 1 months
+- Last pushed: 2026-06-13
+- Assessment context: young repo; potential is meaningful but stability is still forming
 - Score: 8.0/10
 - Novelty: 6.0/10
 - Maturity: 4.0/10
