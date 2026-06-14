@@ -2,15 +2,16 @@
 
 Autonomous GitHub project discovery and comparison index.
 
-Last updated: 2026-06-14 16:01:02 UTC
+Last updated: 2026-06-14 16:22:23 UTC
 
-Total indexed projects: 447
+Total indexed projects: 457
 
 ## Categories
 
 | Category | Projects |
 |---|---:|
 | [accessibility-tool](categories/accessibility-tool.md) | 1 |
+| [adblock-filterlists](categories/adblock-filterlists.md) | 1 |
 | [admin-backend](categories/admin-backend.md) | 1 |
 | [ai-agent](categories/ai-agent.md) | 1 |
 | [ai-agents](categories/ai-agents.md) | 2 |
@@ -27,7 +28,7 @@ Total indexed projects: 447
 | [ai-routing](categories/ai-routing.md) | 1 |
 | [ai-runtime](categories/ai-runtime.md) | 1 |
 | [ai-sandbox](categories/ai-sandbox.md) | 1 |
-| [ai-security](categories/ai-security.md) | 6 |
+| [ai-security](categories/ai-security.md) | 7 |
 | [ai-simulation](categories/ai-simulation.md) | 1 |
 | [ai-tooling](categories/ai-tooling.md) | 1 |
 | [ai-toolkit](categories/ai-toolkit.md) | 1 |
@@ -60,6 +61,7 @@ Total indexed projects: 447
 | [container-management](categories/container-management.md) | 1 |
 | [core-service](categories/core-service.md) | 1 |
 | [crypto-wallet](categories/crypto-wallet.md) | 1 |
+| [cybersecurity](categories/cybersecurity.md) | 1 |
 | [data-engineering](categories/data-engineering.md) | 1 |
 | [data-scraping](categories/data-scraping.md) | 1 |
 | [data-storage](categories/data-storage.md) | 1 |
@@ -110,6 +112,7 @@ Total indexed projects: 447
 | [installer-sdk](categories/installer-sdk.md) | 1 |
 | [iot-dashboard](categories/iot-dashboard.md) | 1 |
 | [iot-management](categories/iot-management.md) | 1 |
+| [iptv-streaming](categories/iptv-streaming.md) | 1 |
 | [issue-tracking](categories/issue-tracking.md) | 1 |
 | [k8s-security](categories/k8s-security.md) | 1 |
 | [kubernetes-observability](categories/kubernetes-observability.md) | 1 |
@@ -118,6 +121,7 @@ Total indexed projects: 447
 | [kubernetes-tools](categories/kubernetes-tools.md) | 2 |
 | [linux-security](categories/linux-security.md) | 1 |
 | [llm-security](categories/llm-security.md) | 1 |
+| [machine-learning](categories/machine-learning.md) | 1 |
 | [media-streaming](categories/media-streaming.md) | 1 |
 | [media-tools](categories/media-tools.md) | 1 |
 | [messaging-bridge](categories/messaging-bridge.md) | 1 |
@@ -138,15 +142,16 @@ Total indexed projects: 447
 | [networking-tool](categories/networking-tool.md) | 3 |
 | [networking-tools](categories/networking-tools.md) | 1 |
 | [nlp-framework](categories/nlp-framework.md) | 1 |
+| [obsidian-plugin](categories/obsidian-plugin.md) | 1 |
 | [osx-development](categories/osx-development.md) | 1 |
 | [pdf-creation](categories/pdf-creation.md) | 1 |
 | [privacy-tools](categories/privacy-tools.md) | 1 |
-| [productivity-tool](categories/productivity-tool.md) | 1 |
+| [productivity-tool](categories/productivity-tool.md) | 2 |
 | [programming-language](categories/programming-language.md) | 1 |
 | [programming-languages](categories/programming-languages.md) | 1 |
 | [project-management](categories/project-management.md) | 2 |
-| [proxy-configs](categories/proxy-configs.md) | 1 |
-| [proxy-management](categories/proxy-management.md) | 2 |
+| [proxy-configs](categories/proxy-configs.md) | 2 |
+| [proxy-management](categories/proxy-management.md) | 3 |
 | [push-notifications](categories/push-notifications.md) | 1 |
 | [radio-communication](categories/radio-communication.md) | 1 |
 | [realtime-comm](categories/realtime-comm.md) | 1 |
@@ -181,6 +186,7 @@ Total indexed projects: 447
 | [web-scraping](categories/web-scraping.md) | 1 |
 | [web-servers](categories/web-servers.md) | 1 |
 | [webassembly](categories/webassembly.md) | 1 |
+| [webgl-graphics](categories/webgl-graphics.md) | 1 |
 | [windows-security](categories/windows-security.md) | 1 |
 | [workflow-orchestration](categories/workflow-orchestration.md) | 1 |
 
@@ -189,15 +195,17 @@ Total indexed projects: 447
 | Language | Projects |
 |---|---:|
 | Go | 403 |
-| TypeScript | 23 |
-| Unknown | 5 |
-| Python | 4 |
+| TypeScript | 24 |
+| Unknown | 10 |
+| Python | 5 |
 | C | 2 |
 | C++ | 2 |
 | HTML | 2 |
+| Rust | 2 |
 | AutoHotkey | 1 |
 | Kotlin | 1 |
 | OpenSCAD | 1 |
+| PHP | 1 |
 | PowerShell | 1 |
 | SCSS | 1 |
 | Vue | 1 |
