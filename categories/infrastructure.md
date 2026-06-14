@@ -625,7 +625,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Type: tool
 - Language: Go
 - Created: 2026-05-21
-- Age: 23 days
+- Age: 24 days
 - Last pushed: 2026-06-13
 - Assessment context: very young repo; promising signals need extra validation
 - Score: 7.0/10
