@@ -24,7 +24,27 @@ Curated projects in this category.
   - Limited documentation
   - Dependence on external proxy sources
 
-### 2. SIPC/H2O
+### 2. themiralay/Proxy-List-World
+
+- Link: https://github.com/themiralay/Proxy-List-World
+- Title: themiralay/Proxy-List-World
+- Description: ICE Proxy list produces new proxies by collectively scanning the entire open source list in the world. Proxies are updated every 2 - 3 minutes. New Proxy sources will be added day by day. The list is always open source.
+- Category: proxy-management
+- Type: tool
+- Score: 6.0/10
+- Novelty: 4.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 159
+- Reason: Regularly updated proxy list
+- Strengths:
+  - Frequent updates
+  - Open source
+- Weaknesses:
+  - Limited documentation
+  - Unclear implementation details
+
+### 3. SIPC/H2O
 
 - Link: https://github.com/SIPC/H2O
 - Title: SIPC/H2O
