@@ -2,24 +2,24 @@
 
 Curated projects in this category.
 
-### 1. CowDogMoo/warpgate
+### 1. Clov614/SteamHostSync
 
-- Link: https://github.com/CowDogMoo/warpgate
-- Title: CowDogMoo/warpgate
-- Description: No description available.
+- Link: https://github.com/Clov614/SteamHostSync
+- Title: Clov614/SteamHostSync
+- Description: 自动同步hosts
 - Category: network-utility
 - Type: tool
 - Language: Go
 - Score: 6.0/10
-- Novelty: 4.0/10
-- Maturity: 3.0/10
+- Novelty: 2.0/10
+- Maturity: 4.0/10
 - Small repo potential: 8.0/10
-- Stars: 10
-- Reason: Lack of documentation and topics
+- Stars: 268
+- Reason: Simple yet effective hosts synchronization tool
 - Strengths:
-  - Written in Go
-  - Simple concept
+  - Automates hosts synchronization
+  - Written in Go for efficiency
 - Weaknesses:
-  - Limited visibility
-  - Unclear purpose
+  - Lack of detailed documentation
+  - Limited features
 
