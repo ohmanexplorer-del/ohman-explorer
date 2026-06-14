@@ -3532,7 +3532,30 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 151. jonascrevecoeur/terraform-provider-azuresql
+### 151. coalesce-labs/catalyst
+
+- Link: https://github.com/coalesce-labs/catalyst
+- Title: coalesce-labs/catalyst
+- Description: Token-efficient Claude Code workspace with parallel agents and persistent memory. Research → Plan → Implement → Validate workflow.
+- Category: developer-tools
+- Type: unknown
+- Language: TypeScript
+- Created: 2025-10-04
+- Age: 8 months
+- Last pushed: 2026-06-14
+- Assessment context: established enough for stronger comparison, but maintenance trend still matters
+- Score: 6.0/10
+- Novelty: 5.0/10
+- Maturity: 6.0/10
+- Small repo potential: 8.0/10
+- Stars: 14
+- Reason: Selected from repository metadata.
+- Strengths:
+  - Interesting repository metadata
+- Weaknesses:
+  - Needs deeper review
+
+### 152. jonascrevecoeur/terraform-provider-azuresql
 
 - Link: https://github.com/jonascrevecoeur/terraform-provider-azuresql
 - Title: jonascrevecoeur/terraform-provider-azuresql
@@ -3555,7 +3578,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 152. paperclipinc/paperclip-operator
+### 153. paperclipinc/paperclip-operator
 
 - Link: https://github.com/paperclipinc/paperclip-operator
 - Title: paperclipinc/paperclip-operator
@@ -3578,7 +3601,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 153. samzong/gmc
+### 154. samzong/gmc
 
 - Link: https://github.com/samzong/gmc
 - Title: samzong/gmc
@@ -3601,7 +3624,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 154. smallwat3r/github-antibot
+### 155. smallwat3r/github-antibot
 
 - Link: https://github.com/smallwat3r/github-antibot
 - Title: smallwat3r/github-antibot
@@ -3624,7 +3647,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 155. thedavidweng/monarchmoney-cli
+### 156. thedavidweng/monarchmoney-cli
 
 - Link: https://github.com/thedavidweng/monarchmoney-cli
 - Title: thedavidweng/monarchmoney-cli
@@ -3647,7 +3670,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 156. winebarrel/pistachio
+### 157. winebarrel/pistachio
 
 - Link: https://github.com/winebarrel/pistachio
 - Title: winebarrel/pistachio
@@ -3670,7 +3693,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 157. Zxilly/cjv
+### 158. Zxilly/cjv
 
 - Link: https://github.com/Zxilly/cjv
 - Title: Zxilly/cjv
@@ -3695,7 +3718,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited scope
   - Lack of topics or documentation
 
-### 158. adanalife/tripbot
+### 159. adanalife/tripbot
 
 - Link: https://github.com/adanalife/tripbot
 - Title: adanalife/tripbot
@@ -3718,7 +3741,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 159. agentty-xyz/agentty
+### 160. agentty-xyz/agentty
 
 - Link: https://github.com/agentty-xyz/agentty
 - Title: agentty-xyz/agentty
@@ -3743,7 +3766,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited documentation
   - Small community
 
-### 160. bugbounted/auto-commit
+### 161. bugbounted/auto-commit
 
 - Link: https://github.com/bugbounted/auto-commit
 - Title: bugbounted/auto-commit
@@ -3767,7 +3790,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited functionality
   - Not widely adopted
 
-### 161. gosagawa/atcoder
+### 162. gosagawa/atcoder
 
 - Link: https://github.com/gosagawa/atcoder
 - Title: gosagawa/atcoder
@@ -3790,7 +3813,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 162. sergeknystautas/schmux
+### 163. sergeknystautas/schmux
 
 - Link: https://github.com/sergeknystautas/schmux
 - Title: sergeknystautas/schmux
@@ -3813,7 +3836,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 163. signalridge/slipway
+### 164. signalridge/slipway
 
 - Link: https://github.com/signalridge/slipway
 - Title: signalridge/slipway
@@ -3836,7 +3859,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 164. y3owk1n/mimi
+### 165. y3owk1n/mimi
 
 - Link: https://github.com/y3owk1n/mimi
 - Title: y3owk1n/mimi
@@ -3859,7 +3882,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 165. Correia-jpv/fucking-awesome-go
+### 166. Correia-jpv/fucking-awesome-go
 
 - Link: https://github.com/Correia-jpv/fucking-awesome-go
 - Title: Correia-jpv/fucking-awesome-go
@@ -3882,7 +3905,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 166. aspect-build/aspect-gazelle
+### 167. aspect-build/aspect-gazelle
 
 - Link: https://github.com/aspect-build/aspect-gazelle
 - Title: aspect-build/aspect-gazelle
@@ -3907,7 +3930,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited topics
   - Low star count
 
-### 167. baekenough/second-brain
+### 168. baekenough/second-brain
 
 - Link: https://github.com/baekenough/second-brain
 - Title: baekenough/second-brain
@@ -3930,7 +3953,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 168. btelolabs/btelo-coding-release
+### 169. btelolabs/btelo-coding-release
 
 - Link: https://github.com/btelolabs/btelo-coding-release
 - Title: btelolabs/btelo-coding-release
@@ -3955,7 +3978,7 @@ Note: young repositories can show strong potential but still carry higher stabil
   - Limited community engagement
   - unclear purpose
 
-### 169. hyiger/filament-db
+### 170. hyiger/filament-db
 
 - Link: https://github.com/hyiger/filament-db
 - Title: hyiger/filament-db
@@ -3978,7 +4001,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 170. kleister/kleister-api
+### 171. kleister/kleister-api
 
 - Link: https://github.com/kleister/kleister-api
 - Title: kleister/kleister-api
@@ -4001,7 +4024,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 171. lgdd/lfr-cli
+### 172. lgdd/lfr-cli
 
 - Link: https://github.com/lgdd/lfr-cli
 - Title: lgdd/lfr-cli
@@ -4024,7 +4047,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 172. zlylong/EdgeRouteGW
+### 173. zlylong/EdgeRouteGW
 
 - Link: https://github.com/zlylong/EdgeRouteGW
 - Title: zlylong/EdgeRouteGW
@@ -4047,7 +4070,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 173. BlackbirdWorks/gopherstack
+### 174. BlackbirdWorks/gopherstack
 
 - Link: https://github.com/BlackbirdWorks/gopherstack
 - Title: BlackbirdWorks/gopherstack
@@ -4070,7 +4093,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 174. Viridian-Inc/cloudmock
+### 175. Viridian-Inc/cloudmock
 
 - Link: https://github.com/Viridian-Inc/cloudmock
 - Title: Viridian-Inc/cloudmock
@@ -4093,7 +4116,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 175. agent-guide/agent-gateway
+### 176. agent-guide/agent-gateway
 
 - Link: https://github.com/agent-guide/agent-gateway
 - Title: agent-guide/agent-gateway
@@ -4116,7 +4139,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 176. burakberkkeskin/crtforge
+### 177. burakberkkeskin/crtforge
 
 - Link: https://github.com/burakberkkeskin/crtforge
 - Title: burakberkkeskin/crtforge
@@ -4139,7 +4162,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 177. eja/wikilite
+### 178. eja/wikilite
 
 - Link: https://github.com/eja/wikilite
 - Title: eja/wikilite
@@ -4162,7 +4185,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 178. kagenti/kagenti-extensions
+### 179. kagenti/kagenti-extensions
 
 - Link: https://github.com/kagenti/kagenti-extensions
 - Title: kagenti/kagenti-extensions
@@ -4185,7 +4208,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 179. nabeken/go-smtp-source
+### 180. nabeken/go-smtp-source
 
 - Link: https://github.com/nabeken/go-smtp-source
 - Title: nabeken/go-smtp-source
@@ -4208,7 +4231,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 180. FastLM/SPI_VecDB
+### 181. FastLM/SPI_VecDB
 
 - Link: https://github.com/FastLM/SPI_VecDB
 - Title: FastLM/SPI_VecDB
@@ -4231,7 +4254,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 181. Sarakimz/go-secrets-scanner
+### 182. Sarakimz/go-secrets-scanner
 
 - Link: https://github.com/Sarakimz/go-secrets-scanner
 - Title: Sarakimz/go-secrets-scanner
@@ -4254,7 +4277,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 182. aerol-ai/microvm
+### 183. aerol-ai/microvm
 
 - Link: https://github.com/aerol-ai/microvm
 - Title: aerol-ai/microvm
@@ -4277,7 +4300,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 183. alanchenchen/suna
+### 184. alanchenchen/suna
 
 - Link: https://github.com/alanchenchen/suna
 - Title: alanchenchen/suna
@@ -4300,7 +4323,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 184. candelahq/candela
+### 185. candelahq/candela
 
 - Link: https://github.com/candelahq/candela
 - Title: candelahq/candela
@@ -4323,7 +4346,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 185. clm-cloud-solutions/kubebolt
+### 186. clm-cloud-solutions/kubebolt
 
 - Link: https://github.com/clm-cloud-solutions/kubebolt
 - Title: clm-cloud-solutions/kubebolt
@@ -4346,7 +4369,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 186. d-velop/grafana-odata-datasource
+### 187. d-velop/grafana-odata-datasource
 
 - Link: https://github.com/d-velop/grafana-odata-datasource
 - Title: d-velop/grafana-odata-datasource
@@ -4369,7 +4392,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 187. dcssoftware/bafoeg-manager
+### 188. dcssoftware/bafoeg-manager
 
 - Link: https://github.com/dcssoftware/bafoeg-manager
 - Title: dcssoftware/bafoeg-manager
@@ -4392,7 +4415,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 188. dwisiswant0/nuclei-confuser
+### 189. dwisiswant0/nuclei-confuser
 
 - Link: https://github.com/dwisiswant0/nuclei-confuser
 - Title: dwisiswant0/nuclei-confuser
@@ -4415,7 +4438,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 189. netrisai/terraform-provider-netris
+### 190. netrisai/terraform-provider-netris
 
 - Link: https://github.com/netrisai/terraform-provider-netris
 - Title: netrisai/terraform-provider-netris
@@ -4438,7 +4461,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 190. nite-coder/bifrost
+### 191. nite-coder/bifrost
 
 - Link: https://github.com/nite-coder/bifrost
 - Title: nite-coder/bifrost
@@ -4461,7 +4484,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 191. rhsev/mi.lan
+### 192. rhsev/mi.lan
 
 - Link: https://github.com/rhsev/mi.lan
 - Title: rhsev/mi.lan
@@ -4484,7 +4507,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 192. wacht-platform/frontend-api
+### 193. wacht-platform/frontend-api
 
 - Link: https://github.com/wacht-platform/frontend-api
 - Title: wacht-platform/frontend-api
@@ -4507,7 +4530,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 193. wippyai/runtime
+### 194. wippyai/runtime
 
 - Link: https://github.com/wippyai/runtime
 - Title: wippyai/runtime
@@ -4530,7 +4553,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 194. nooga/let-go
+### 195. nooga/let-go
 
 - Link: https://github.com/nooga/let-go
 - Title: nooga/let-go
@@ -4553,7 +4576,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 195. quic-go/webtransport-go
+### 196. quic-go/webtransport-go
 
 - Link: https://github.com/quic-go/webtransport-go
 - Title: quic-go/webtransport-go
@@ -4576,7 +4599,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 196. couchbase/sync_gateway
+### 197. couchbase/sync_gateway
 
 - Link: https://github.com/couchbase/sync_gateway
 - Title: couchbase/sync_gateway
@@ -4599,7 +4622,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 197. guigui-gui/guigui
+### 198. guigui-gui/guigui
 
 - Link: https://github.com/guigui-gui/guigui
 - Title: guigui-gui/guigui
@@ -4622,7 +4645,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 198. terraform-linters/tflint-ruleset-aws
+### 199. terraform-linters/tflint-ruleset-aws
 
 - Link: https://github.com/terraform-linters/tflint-ruleset-aws
 - Title: terraform-linters/tflint-ruleset-aws
@@ -4645,7 +4668,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 199. devops-works/binenv
+### 200. devops-works/binenv
 
 - Link: https://github.com/devops-works/binenv
 - Title: devops-works/binenv
@@ -4668,7 +4691,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 200. perber/leafwiki
+### 201. perber/leafwiki
 
 - Link: https://github.com/perber/leafwiki
 - Title: perber/leafwiki
@@ -4691,7 +4714,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 201. reaper47/recipya
+### 202. reaper47/recipya
 
 - Link: https://github.com/reaper47/recipya
 - Title: reaper47/recipya
@@ -4714,7 +4737,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 202. projectdiscovery/awesome-search-queries
+### 203. projectdiscovery/awesome-search-queries
 
 - Link: https://github.com/projectdiscovery/awesome-search-queries
 - Title: projectdiscovery/awesome-search-queries
@@ -4737,7 +4760,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 203. elvisun/newsjack
+### 204. elvisun/newsjack
 
 - Link: https://github.com/elvisun/newsjack
 - Title: elvisun/newsjack
@@ -4760,7 +4783,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 204. awalsh128/cache-apt-pkgs-action
+### 205. awalsh128/cache-apt-pkgs-action
 
 - Link: https://github.com/awalsh128/cache-apt-pkgs-action
 - Title: awalsh128/cache-apt-pkgs-action
@@ -4783,7 +4806,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 205. Mellanox/network-operator
+### 206. Mellanox/network-operator
 
 - Link: https://github.com/Mellanox/network-operator
 - Title: Mellanox/network-operator
@@ -4806,7 +4829,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 206. yumenaka/comigo
+### 207. yumenaka/comigo
 
 - Link: https://github.com/yumenaka/comigo
 - Title: yumenaka/comigo
@@ -4829,7 +4852,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 207. apache/skywalking-banyandb
+### 208. apache/skywalking-banyandb
 
 - Link: https://github.com/apache/skywalking-banyandb
 - Title: apache/skywalking-banyandb
@@ -4852,7 +4875,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 208. cloudbase/garm
+### 209. cloudbase/garm
 
 - Link: https://github.com/cloudbase/garm
 - Title: cloudbase/garm
@@ -4875,7 +4898,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 209. gfpcom/free-proxy-list
+### 210. gfpcom/free-proxy-list
 
 - Link: https://github.com/gfpcom/free-proxy-list
 - Title: gfpcom/free-proxy-list
@@ -4898,7 +4921,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 210. Azure/azure-workload-identity
+### 211. Azure/azure-workload-identity
 
 - Link: https://github.com/Azure/azure-workload-identity
 - Title: Azure/azure-workload-identity
@@ -4921,7 +4944,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 211. gofiber/storage
+### 212. gofiber/storage
 
 - Link: https://github.com/gofiber/storage
 - Title: gofiber/storage
@@ -4944,7 +4967,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 212. caidaoli/ccLoad
+### 213. caidaoli/ccLoad
 
 - Link: https://github.com/caidaoli/ccLoad
 - Title: caidaoli/ccLoad
@@ -4967,7 +4990,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 213. gofiber/template
+### 214. gofiber/template
 
 - Link: https://github.com/gofiber/template
 - Title: gofiber/template
@@ -4990,7 +5013,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 214. mvm-sh/mvm
+### 215. mvm-sh/mvm
 
 - Link: https://github.com/mvm-sh/mvm
 - Title: mvm-sh/mvm
@@ -5013,7 +5036,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 215. JetSetIlly/Gopher2600
+### 216. JetSetIlly/Gopher2600
 
 - Link: https://github.com/JetSetIlly/Gopher2600
 - Title: JetSetIlly/Gopher2600
@@ -5036,7 +5059,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 216. divVerent/aaaaxy
+### 217. divVerent/aaaaxy
 
 - Link: https://github.com/divVerent/aaaaxy
 - Title: divVerent/aaaaxy
@@ -5059,7 +5082,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 217. oneclickvirt/backtrace
+### 218. oneclickvirt/backtrace
 
 - Link: https://github.com/oneclickvirt/backtrace
 - Title: oneclickvirt/backtrace
@@ -5082,7 +5105,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 218. Mertcikla/tld
+### 219. Mertcikla/tld
 
 - Link: https://github.com/Mertcikla/tld
 - Title: Mertcikla/tld
@@ -5105,7 +5128,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 219. harryzcy/mailbox
+### 220. harryzcy/mailbox
 
 - Link: https://github.com/harryzcy/mailbox
 - Title: harryzcy/mailbox
@@ -5128,7 +5151,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 220. runxiyu/furgit
+### 221. runxiyu/furgit
 
 - Link: https://github.com/runxiyu/furgit
 - Title: runxiyu/furgit
@@ -5151,7 +5174,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 221. blacktop/go-macho
+### 222. blacktop/go-macho
 
 - Link: https://github.com/blacktop/go-macho
 - Title: blacktop/go-macho
@@ -5174,7 +5197,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 222. norunners/tue
+### 223. norunners/tue
 
 - Link: https://github.com/norunners/tue
 - Title: norunners/tue
@@ -5197,7 +5220,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 223. praetorian-inc/augustus
+### 224. praetorian-inc/augustus
 
 - Link: https://github.com/praetorian-inc/augustus
 - Title: praetorian-inc/augustus
@@ -5220,7 +5243,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 224. clawvisor/clawvisor
+### 225. clawvisor/clawvisor
 
 - Link: https://github.com/clawvisor/clawvisor
 - Title: clawvisor/clawvisor
@@ -5243,7 +5266,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 225. t-mart/mousehole
+### 226. t-mart/mousehole
 
 - Link: https://github.com/t-mart/mousehole
 - Title: t-mart/mousehole
@@ -5266,7 +5289,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 226. llm-d/llm-d-router
+### 227. llm-d/llm-d-router
 
 - Link: https://github.com/llm-d/llm-d-router
 - Title: llm-d/llm-d-router
@@ -5289,7 +5312,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 227. Katenary/katenary
+### 228. Katenary/katenary
 
 - Link: https://github.com/Katenary/katenary
 - Title: Katenary/katenary
@@ -5312,7 +5335,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 228. Mic92/ssh-to-age
+### 229. Mic92/ssh-to-age
 
 - Link: https://github.com/Mic92/ssh-to-age
 - Title: Mic92/ssh-to-age
@@ -5335,7 +5358,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 229. antonio-orionus/Arroxy
+### 230. antonio-orionus/Arroxy
 
 - Link: https://github.com/antonio-orionus/Arroxy
 - Title: antonio-orionus/Arroxy
@@ -5358,7 +5381,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 230. crossplane-contrib/provider-upjet-aws
+### 231. crossplane-contrib/provider-upjet-aws
 
 - Link: https://github.com/crossplane-contrib/provider-upjet-aws
 - Title: crossplane-contrib/provider-upjet-aws
@@ -5381,7 +5404,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 231. losisin/helm-values-schema-json
+### 232. losisin/helm-values-schema-json
 
 - Link: https://github.com/losisin/helm-values-schema-json
 - Title: losisin/helm-values-schema-json
@@ -5404,7 +5427,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 232. alessio/shellescape
+### 233. alessio/shellescape
 
 - Link: https://github.com/alessio/shellescape
 - Title: alessio/shellescape
@@ -5427,7 +5450,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 233. gosom/scrapemate
+### 234. gosom/scrapemate
 
 - Link: https://github.com/gosom/scrapemate
 - Title: gosom/scrapemate
@@ -5450,7 +5473,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 234. Delta-Kronecker/V2ray-Config
+### 235. Delta-Kronecker/V2ray-Config
 
 - Link: https://github.com/Delta-Kronecker/V2ray-Config
 - Title: Delta-Kronecker/V2ray-Config
@@ -5473,7 +5496,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 235. kubevirt/hyperconverged-cluster-operator
+### 236. kubevirt/hyperconverged-cluster-operator
 
 - Link: https://github.com/kubevirt/hyperconverged-cluster-operator
 - Title: kubevirt/hyperconverged-cluster-operator
@@ -5496,7 +5519,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 236. soybeanjs/soybean-ui
+### 237. soybeanjs/soybean-ui
 
 - Link: https://github.com/soybeanjs/soybean-ui
 - Title: soybeanjs/soybean-ui
@@ -5519,7 +5542,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 237. sakullla/nginx-reverse-emby
+### 238. sakullla/nginx-reverse-emby
 
 - Link: https://github.com/sakullla/nginx-reverse-emby
 - Title: sakullla/nginx-reverse-emby
@@ -5542,7 +5565,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 238. v9ai/ai-engineer-roadmap
+### 239. v9ai/ai-engineer-roadmap
 
 - Link: https://github.com/v9ai/ai-engineer-roadmap
 - Title: v9ai/ai-engineer-roadmap
@@ -5565,7 +5588,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 239. itmisx/deepx-code
+### 240. itmisx/deepx-code
 
 - Link: https://github.com/itmisx/deepx-code
 - Title: itmisx/deepx-code
@@ -5588,7 +5611,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 240. ozgurcd/gograph
+### 241. ozgurcd/gograph
 
 - Link: https://github.com/ozgurcd/gograph
 - Title: ozgurcd/gograph
@@ -5611,7 +5634,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 241. tanaikech/ggsrun
+### 242. tanaikech/ggsrun
 
 - Link: https://github.com/tanaikech/ggsrun
 - Title: tanaikech/ggsrun
@@ -5634,7 +5657,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 242. dougdonohoe/ddphotos
+### 243. dougdonohoe/ddphotos
 
 - Link: https://github.com/dougdonohoe/ddphotos
 - Title: dougdonohoe/ddphotos
@@ -5657,7 +5680,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 243. stryan/materia
+### 244. stryan/materia
 
 - Link: https://github.com/stryan/materia
 - Title: stryan/materia
@@ -5680,7 +5703,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 244. layer5io/getnighthawk
+### 245. layer5io/getnighthawk
 
 - Link: https://github.com/layer5io/getnighthawk
 - Title: layer5io/getnighthawk
@@ -5703,7 +5726,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 245. m-mizutani/zenv
+### 246. m-mizutani/zenv
 
 - Link: https://github.com/m-mizutani/zenv
 - Title: m-mizutani/zenv
@@ -5726,7 +5749,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 246. MengMengCode/CLICD
+### 247. MengMengCode/CLICD
 
 - Link: https://github.com/MengMengCode/CLICD
 - Title: MengMengCode/CLICD
@@ -5749,7 +5772,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 247. ethanhq/cc-fleet
+### 248. ethanhq/cc-fleet
 
 - Link: https://github.com/ethanhq/cc-fleet
 - Title: ethanhq/cc-fleet
@@ -5772,7 +5795,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 248. wroge/wgs84
+### 249. wroge/wgs84
 
 - Link: https://github.com/wroge/wgs84
 - Title: wroge/wgs84
@@ -5795,7 +5818,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 249. woming98/shine-ray-future
+### 250. woming98/shine-ray-future
 
 - Link: https://github.com/woming98/shine-ray-future
 - Title: woming98/shine-ray-future
@@ -5818,7 +5841,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 250. defilantech/LLMKube
+### 251. defilantech/LLMKube
 
 - Link: https://github.com/defilantech/LLMKube
 - Title: defilantech/LLMKube
@@ -5841,7 +5864,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 251. secmon-lab/warren
+### 252. secmon-lab/warren
 
 - Link: https://github.com/secmon-lab/warren
 - Title: secmon-lab/warren
@@ -5864,7 +5887,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 252. kubernetes-sigs/kernel-module-management
+### 253. kubernetes-sigs/kernel-module-management
 
 - Link: https://github.com/kubernetes-sigs/kernel-module-management
 - Title: kubernetes-sigs/kernel-module-management
@@ -5887,7 +5910,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 253. vegidio/open-photo-ai
+### 254. vegidio/open-photo-ai
 
 - Link: https://github.com/vegidio/open-photo-ai
 - Title: vegidio/open-photo-ai
@@ -5910,7 +5933,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 254. celer-pkg/celer
+### 255. celer-pkg/celer
 
 - Link: https://github.com/celer-pkg/celer
 - Title: celer-pkg/celer
@@ -5933,7 +5956,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 255. pkimetal/pkimetal
+### 256. pkimetal/pkimetal
 
 - Link: https://github.com/pkimetal/pkimetal
 - Title: pkimetal/pkimetal
@@ -5956,7 +5979,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 256. wsshow/feikong-teams
+### 257. wsshow/feikong-teams
 
 - Link: https://github.com/wsshow/feikong-teams
 - Title: wsshow/feikong-teams
@@ -5979,7 +6002,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 257. pulumi/pulumi-terraform
+### 258. pulumi/pulumi-terraform
 
 - Link: https://github.com/pulumi/pulumi-terraform
 - Title: pulumi/pulumi-terraform
@@ -6002,7 +6025,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 258. akiver/cs-demo-analyzer
+### 259. akiver/cs-demo-analyzer
 
 - Link: https://github.com/akiver/cs-demo-analyzer
 - Title: akiver/cs-demo-analyzer
@@ -6025,7 +6048,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 259. sheawinkler/ContextLattice
+### 260. sheawinkler/ContextLattice
 
 - Link: https://github.com/sheawinkler/ContextLattice
 - Title: sheawinkler/ContextLattice
@@ -6048,7 +6071,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 260. sarchlab/akita
+### 261. sarchlab/akita
 
 - Link: https://github.com/sarchlab/akita
 - Title: sarchlab/akita
@@ -6071,7 +6094,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 261. Insajin/autopus-adk
+### 262. Insajin/autopus-adk
 
 - Link: https://github.com/Insajin/autopus-adk
 - Title: Insajin/autopus-adk
@@ -6094,7 +6117,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 262. dharmab/skyeye
+### 263. dharmab/skyeye
 
 - Link: https://github.com/dharmab/skyeye
 - Title: dharmab/skyeye
@@ -6117,7 +6140,7 @@ Note: young repositories can show strong potential but still carry higher stabil
 - Weaknesses:
   - Needs deeper review
 
-### 263. Mellanox/doca-driver-build
+### 264. Mellanox/doca-driver-build
 
 - Link: https://github.com/Mellanox/doca-driver-build
 - Title: Mellanox/doca-driver-build
